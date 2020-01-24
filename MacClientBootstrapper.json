@@ -12,7 +12,7 @@
 	"FFlagMacBootstrapperInstallerKillOtherBootstrappers": true,
 	"FFlagMacBootstrapperMoreCountersAndLogs": true,
 	"FFlagMacBootstrapperUseNewVersionEndpoint": true,
-	"FFlagMacClientGetBaseUrlFromEmbeddedBootstrapper": true,
+	"FFlagMacClientGetBaseUrlFromEmbeddedBootstrapper": false,
 	"FFlagMacClientToFixBootstrapperInStudio": true,
 	"FFlagMacClientUseItselfAsCrashHandler": true,
 	"FFlagRemoveDepracatedGetProcessForPIDCalls": true,
