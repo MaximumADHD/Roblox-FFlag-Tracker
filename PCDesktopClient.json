@@ -658,6 +658,8 @@
 	"DFIntHttpCurlConnectionCacheSize": -1,
 	"DFIntHttpInfluxHundredthsPercentage": 200,
 	"DFIntHttpParallelLimit_RequestContentProvider": 0,
+	"DFIntHttpRbxApiMaxRetryBudgetPerMinute": 10,
+	"DFIntHttpRbxApiMaxRetryCount": 3,
 	"DFIntHttpSendStatsEveryXSeconds": 300,
 	"DFIntHttpsTextFilterPercentRollout": 100,
 	"DFIntICMPPingHundrethsPercentage": 0,

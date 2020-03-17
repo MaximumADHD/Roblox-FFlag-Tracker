@@ -652,6 +652,8 @@
 	"DFIntHttpConnMaxAge": 600000,
 	"DFIntHttpCurlConnectionCacheSize": -1,
 	"DFIntHttpInfluxHundredthsPercentage": 200,
+	"DFIntHttpRbxApiMaxRetryBudgetPerMinute": 10,
+	"DFIntHttpRbxApiMaxRetryCount": 3,
 	"DFIntHttpSendStatsEveryXSeconds": 300,
 	"DFIntHttpsTextFilterPercentRollout": 100,
 	"DFIntICMPPingHundrethsPercentage": 0,
