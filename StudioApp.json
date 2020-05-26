@@ -441,6 +441,7 @@
 	"DFFlagPlayerPolicyHttpRequestRetryEnabled": true,
 	"DFFlagPlayerPolicyNotSwallowingError": true,
 	"DFFlagPlayerPolicyReportHttpFailureOnEveryAttempt": true,
+	"DFFlagPlayerPolicyReportHttpFailureToInfluxOnEveryAttempt": true,
 	"DFFlagPlayerPolicyUseClientIpAddressFromSessionId": true,
 	"DFFlagPlayFabEmitMarketplaceEvents": false,
 	"DFFlagPlayFabEmitMarketplaceEvents2": true,
