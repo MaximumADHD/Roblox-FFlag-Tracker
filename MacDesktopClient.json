@@ -803,7 +803,7 @@
 	"DFIntDynamicReloaderFileFailureInfluxHundrethsPercentage": 10000,
 	"DFIntElevatedPhysicsFPSReportThresholdTenths": 585,
 	"DFIntEphemeralCounterInfluxReportingPriorityHundredthsPercent": 10000,
-	"DFIntEphemeralCounterInfluxReportingThrottleHundredthsPercent": 500,
+	"DFIntEphemeralCounterInfluxReportingThrottleHundredthsPercent": 2000,
 	"DFIntEphemeralStatsInfluxReportingPriorityHundredthsPercent": 10000,
 	"DFIntEphemeralStatsInfluxReportingThrottleHundredthsPercent": 50,
 	"DFIntESGamePerfMonitorDelayBeforeFirstReportInSeconds": 60,
