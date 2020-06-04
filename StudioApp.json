@@ -852,7 +852,7 @@
 	"DFIntHttpRbxApiMaxRetryCount": 3,
 	"DFIntHttpResponseDefaultTimeoutMillis": 120000,
 	"DFIntHttpSendStatsEveryXSeconds": 300,
-	"DFIntHttpServiceTransportFailureInfluxHundrethsPercentage": 1000,
+	"DFIntHttpServiceTransportFailureInfluxHundrethsPercentage": 10000,
 	"DFIntHttpsTextFilterPercentRollout": 100,
 	"DFIntICMPPingHundrethsPercentage": 0,
 	"DFIntInfluxReportLocalFilterStringPermyriad": 500,
