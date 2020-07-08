@@ -847,7 +847,7 @@
 	"DFIntClientReportLuaConnectionSignalsInfluxHundrethsPercentage": 10000,
 	"DFIntClientReportLuaTicketInfluxHundrethsPercentage": 10000,
 	"DFIntClientSendEventStringDataLimitBytes": 75000000,
-	"DFIntClientSendEventVariantCountLimit": 1500000,
+	"DFIntClientSendEventVariantCountLimit": 5000000,
 	"DFIntContentProviderAssetdeliveryRolloutPercentage": 100,
 	"DFIntCrashUploadHttpResponseDefaultTimeoutMillis": 80000,
 	"DFIntCrashUploadToBacktracePercentage": 10,
