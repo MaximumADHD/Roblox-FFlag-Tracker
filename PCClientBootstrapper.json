@@ -3,7 +3,6 @@
 	"DeprecatedOSXMinorVersion": 6,
 	"DFFlagRbxFormatMultiByteSizeFix": true,
 	"DFIntCrashUploadToBacktracePercentage": 100,
-	"DFStringCrashPadUploadToBacktraceToBacktraceBaseUrl": "https://upload.crashes.rbxinfra.com/post",
 	"DFStringHttpInfluxDatabase": "roblox_bootstrapper",
 	"ExeVersion": "0.450.0.411923",
 	"FFlagBootstrapperCountersUseHttps": true,
@@ -13,7 +12,6 @@
 	"FFlagEnableWebProtocolForUniversalApp": true,
 	"FFlagJoinTimeCounters": true,
 	"FFlagRobloxApplicationDeployedByChannel": true,
-	"FFlagUseSetForegroundWindowForPlayer": false,
 	"FFlagWinBootAppNamesUseFlavor": true,
 	"FFlagWinBootDeployFailuresAreFatal": true,
 	"FFlagWindowsBootstrapperAdditionalCdnDiagnostics": false,
@@ -49,13 +47,11 @@
 	"FIntWindowsBootstrapperStartTimeoutInfluxPermyriad": 1000,
 	"FIntWindowsBootstrapperUseNewVersionEndpoint2Permyriad": 10000,
 	"FIntWindowsBootstrapperUseNewVersionEndpointPermyriad": 10000,
-	"FIntXpVistaDeprecationLevel": 3,
 	"FStringGamesUrlPath": "/games/?referrer=roblox-player",
 	"FStringWindowsClientBoostrapperClientEarlyFlags": "",
 	"GoogleAnalyticsAccountPropertyID": "UA-43420590-16",
 	"InfluxHundredthsPercentage": 0,
 	"InfluxInstallHundredthsPercentage": 10000,
 	"ShowInstallSuccessPrompt": true,
-	"UseCdn": true,
-	"UseSetForegroundWindowForPlayer2": true
+	"UseCdn": true
 }
