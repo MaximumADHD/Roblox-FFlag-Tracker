@@ -1,10 +1,7 @@
 {
 	"DFFlagRbxFormatMultiByteSizeFix": true,
 	"DFStringHttpInfluxDatabase": "roblox_bootstrapper",
-	"FFlagBootstrapperCountersUseHttps": true,
-	"FFlagBootstrapperInputSizeFix": true,
 	"FFlagBootstrapperTryAsset": false,
-	"FFlagCommonBootstrapperCleanUpBuildGenericApiUrl2": true,
 	"FFlagMacBootstrapperAlwaysSaveUrlArguments": true,
 	"FFlagMacBootstrapperCanRunRecovery": true,
 	"FFlagMacBootstrapperCanUsePinnedVersion": true,
@@ -19,16 +16,11 @@
 	"FFlagRemoveDepracatedGetProcessForPIDCalls": true,
 	"FFlagRemoveDepracatedSetFrontProcessCalls": true,
 	"FFlagRobloxApplicationDeployedByChannel": true,
-	"FFlagWindowsBootstrapperAdditionalManifestData": true,
 	"FFlagWindowsBootstrapperCanRunRecovery": true,
-	"FFlagWindowsBootstrapperNonFatalVersionFailure": true,
-	"FFlagWindowsBootstrapperPassEnvPatch": true,
-	"FFlagWindowsBootstrapperXpUninstallFix": true,
 	"FIntBootstrapper64BitStudioPercentage": 5,
 	"FIntBootstrapperLaunchBehaviorABTest": 3,
 	"FIntInfluxReportExceptionPermyriad": 10000,
 	"FIntMacBootstrapperUseNewVersionEndpointPermyriad": 10000,
-	"FIntWindowsBootstrapperStartTimeoutInfluxPermyriad": 1000,
 	"InfluxInstallHundredthsPercentage": 1,
 	"UseCdn": true
 }
