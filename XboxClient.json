@@ -305,7 +305,7 @@
 	"DFFlagPackageFixSurfaceAppearanceHash": true,
 	"DFFlagParallelBroadPhaseWithoutTerrain": true,
 	"DFFlagParallelJointStepBroadphase2": true,
-	"DFFlagParallelPhysicsReceive": true,
+	"DFFlagParallelPhysicsReceive": false,
 	"DFFlagParameterizeHandlerNamedParameterEnabled": true,
 	"DFFlagPerformAssetDecryptionOnAnAsyncTask": true,
 	"DFFlagPGSWakeOtherAssemblyForJoints": true,
