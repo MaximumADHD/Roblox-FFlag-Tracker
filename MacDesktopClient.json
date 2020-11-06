@@ -1579,6 +1579,7 @@
 	"FFlagLuauCastTableToIndexerCorrectly": true,
 	"FFlagLuauCheckForCyclicDependencies": true,
 	"FFlagLuauCovariant": true,
+	"FFlagLuauDenyBinaryOperatorsOnUnknownTypes": true,
 	"FFlagLuauErrorIfNoReturnInFunctionBody": true,
 	"FFlagLuauFasterSub": true,
 	"FFlagLuauFixMissingGapsInUnions": true,
