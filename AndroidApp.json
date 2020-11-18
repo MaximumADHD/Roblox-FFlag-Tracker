@@ -1721,6 +1721,7 @@
 	"FFlagLuauErrorMissingOrMistypedField": true,
 	"FFlagLuauFasterSub": true,
 	"FFlagLuauFixMissingGapsInUnions": true,
+	"FFlagLuauFixReturnContextWhenCheckingArgTypes": true,
 	"FFlagLuauFixSelectCrash": true,
 	"FFlagLuauForbidRequiringNonModuleScripts": true,
 	"FFlagLuaUIBloxGamepadSupport2": false,
