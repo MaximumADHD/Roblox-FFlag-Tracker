@@ -1653,6 +1653,7 @@
 	"FFlagLuauErrorIfNoReturnInFunctionBody": true,
 	"FFlagLuauErrorMissingOrMistypedField": true,
 	"FFlagLuauFasterSub": true,
+	"FFlagLuauFixHeapUAF1": true,
 	"FFlagLuauFixMissingGapsInUnions": true,
 	"FFlagLuauFixReturnContextWhenCheckingArgTypes": true,
 	"FFlagLuauFixSelectCrash": true,
