@@ -1659,6 +1659,7 @@
 	"FFlagLuauErrorIfNoReturnInFunctionBody": true,
 	"FFlagLuauErrorMissingOrMistypedField": true,
 	"FFlagLuauFasterSub": true,
+	"FFlagLuauFixArgCheckFreeTypeLeak": true,
 	"FFlagLuauFixCyclicPacks": true,
 	"FFlagLuauFixCyclicQuantification": true,
 	"FFlagLuauFixHeapUAF1": true,
