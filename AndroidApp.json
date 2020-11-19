@@ -1736,6 +1736,7 @@
 	"FFlagLuauCopyRequiredTypeSurfaces2": true,
 	"FFlagLuauCovariant": true,
 	"FFlagLuauDenyBinaryOperatorsOnUnknownTypes": true,
+	"FFlagLuauDisableUnknownGlobalLintWhenTypeChecking": true,
 	"FFlagLuauErrorIfNoReturnInFunctionBody": true,
 	"FFlagLuauErrorMissingOrMistypedField": true,
 	"FFlagLuauFasterSub": true,
