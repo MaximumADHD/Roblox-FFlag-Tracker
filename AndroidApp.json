@@ -256,6 +256,7 @@
 	"DFFlagHttpCacheAsync": true,
 	"DFFlagHttpCacheMissingRedirects": true,
 	"DFFlagHttpCleanupRbxCurl": true,
+	"DFFlagHttpClientFixReqUrlRaceInLog": true,
 	"DFFlagHttpDynamicSuccessStatusCode": true,
 	"DFFlagHttpFixCookieParsing": true,
 	"DFFlagHttpMarkExternalRequests": true,
