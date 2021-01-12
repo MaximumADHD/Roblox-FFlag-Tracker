@@ -788,7 +788,7 @@
 	"DFIntHttpServiceTlsProbeInfluxHundrethsPercentage": 1000,
 	"DFIntHttpServiceTransportFailureInfluxHundrethsPercentage": 10000,
 	"DFIntICMPPingHundrethsPercentage": 0,
-	"DFIntInfluxOverUDPThreshold": 1000,
+	"DFIntInfluxOverUDPThreshold": 500,
 	"DFIntInfluxReportLocalFilterStringPermyriad": 500,
 	"DFIntInfluxReportRCCStatsHundredthsPercentage": 5000,
 	"DFIntJoinBlobInvalidateThresholdPercent": 80,
