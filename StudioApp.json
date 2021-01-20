@@ -1936,6 +1936,7 @@
 	"FFlagLuaTableClear": true,
 	"FFlagLuauAllowGlobalAssignAtModuleLevel": true,
 	"FFlagLuauAllowGlobalAssignEverywhere": true,
+	"FFlagLuauAllowGlobalFunctionRedeclarationInNonstrict": true,
 	"FFlagLuauAssertFalseAsError": true,
 	"FFlagLuauBetterBinaryOpInference": true,
 	"FFlagLuauBetterErrorMessages": true,
