@@ -2013,6 +2013,7 @@
 	"FFlagLuauFixCyclicQuantification": true,
 	"FFlagLuauFixHeapUAF1": true,
 	"FFlagLuauFixMissingGapsInUnions": true,
+	"FFlagLuauFixNotTypecheckingScopeWhenDupTypeDeclared": true,
 	"FFlagLuauFixReturnContextWhenCheckingArgTypes": true,
 	"FFlagLuauFixSelectCrash": true,
 	"FFlagLuauForbidRequiringNonModuleScripts": true,
