@@ -443,6 +443,7 @@
 	"DFFlagRakNetNoPopInaccurate": true,
 	"DFFlagRbxFormatMultiByteSizeFix": true,
 	"DFFlagRccAbandonOnSecondDm": true,
+	"DFFlagRccFixBatchJobShutdownRace": true,
 	"DFFlagRccFixDataModelCyclicLink": true,
 	"DFFlagRCCMonitoringCustomTimeouts": true,
 	"DFFlagRCCMonitoringInitializeCpuVariables": true,
