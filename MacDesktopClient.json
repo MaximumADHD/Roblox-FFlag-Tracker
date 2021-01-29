@@ -1957,6 +1957,7 @@
 	"FFlagLuauCheckForCyclicDependencies": true,
 	"FFlagLuauCheckStringFormatAsMethod": true,
 	"FFlagLuauCopyRequiredTypeSurfaces2": true,
+	"FFlagLuauCorrectIntersectionPropLookup": true,
 	"FFlagLuauCovariant": true,
 	"FFlagLuauDenyBinaryOperatorsOnUnknownTypes": true,
 	"FFlagLuauDisableUnknownGlobalLintWhenTypeChecking": true,
