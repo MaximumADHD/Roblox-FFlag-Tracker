@@ -2028,6 +2028,7 @@
 	"FFlagLuauFixMissingGapsInUnions": true,
 	"FFlagLuauFixNotTypecheckingScopeWhenDupTypeDeclared": true,
 	"FFlagLuauFixReturnContextWhenCheckingArgTypes": true,
+	"FFlagLuauFixReversedTypeMismatchWhenUnifyingClass": true,
 	"FFlagLuauFixSelectCrash": true,
 	"FFlagLuauForbidRequiringNonModuleScripts": true,
 	"FFlagLuaUIBloxGamepadSupport2": true,
