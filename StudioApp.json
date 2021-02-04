@@ -172,6 +172,7 @@
 	"DFFlagDontCallOnMovingAssemblyRoot": false,
 	"DFFlagDontClearForwardRefDuringPendingRemovals": true,
 	"DFFlagDontClearForwardRefMapOnGC": true,
+	"DFFlagDontDeregisterOnGC": true,
 	"DFFlagDontEnforceChildOrderAtJoin": false,
 	"DFFlagDontWalkOnReparent": false,
 	"DFFlagDontWhitelistUserInputConnectionCounts": true,
