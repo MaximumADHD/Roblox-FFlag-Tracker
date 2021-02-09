@@ -2017,6 +2017,7 @@
 	"FFlagLuauFixCyclicQuantification": true,
 	"FFlagLuauFixHeapUAF1": true,
 	"FFlagLuauFixMissingGapsInUnions": true,
+	"FFlagLuauFixMissingReturnAfterInfiniteLoop": true,
 	"FFlagLuauFixNotTypecheckingScopeWhenDupTypeDeclared": true,
 	"FFlagLuauFixReturnContextWhenCheckingArgTypes": true,
 	"FFlagLuauFixReversedTypeMismatchWhenUnifyingClass": true,
