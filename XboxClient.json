@@ -342,6 +342,7 @@
 	"DFFlagHttpNetworkType": false,
 	"DFFlagHttpRbxApiEnable17sApis": true,
 	"DFFlagHttpRbxApiServiceDontRetryOn429": true,
+	"DFFlagHttpRbxApiServiceEnableNativeRetryFor503": true,
 	"DFFlagHttpRbxApiServiceReportStatusToDiag": true,
 	"DFFlagHttpResponseErrorReporting": true,
 	"DFFlagHttpServiceBetterUserAgent": false,
