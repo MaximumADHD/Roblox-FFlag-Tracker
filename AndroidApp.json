@@ -318,6 +318,8 @@
 	"DFFlagFriendsV2BadAccessFix": true,
 	"DFFlagFRMAdjustVoxelizerBudgetWhileLoading": true,
 	"DFFlagFRMPauseThrottlingWhileLoading": true,
+	"DFFlagGameNetDontSendRedundantFrames": true,
+	"DFFlagGameNetOptimizeParallelPhysicsSend2": true,
 	"DFFlagGameNetTrackFrameTimestampsInPhysicsSender": true,
 	"DFFlagGameplayNetBetterRedundantFrameProtection": true,
 	"DFFlagGCNotAlwaysMemory": true,
