@@ -348,7 +348,7 @@
 	"DFFlagHttpCacheMissingRedirects": true,
 	"DFFlagHttpCleanupRbxCurl": true,
 	"DFFlagHttpClientFixReqUrlRaceInLog": true,
-	"DFFlagHttpClientOptimizeReqQueuing": true,
+	"DFFlagHttpClientOptimizeReqQueuing": false,
 	"DFFlagHttpClientUseAggregateStats": true,
 	"DFFlagHttpDynamicSuccessStatusCode": true,
 	"DFFlagHttpEnableTracing": true,
