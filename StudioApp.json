@@ -357,6 +357,7 @@
 	"DFFlagHttpCleanupRbxCurl": true,
 	"DFFlagHttpClientFixReqUrlRaceInLog": true,
 	"DFFlagHttpClientOptimizeReqQueuing": true,
+	"DFFlagHttpClientReportSpecificErrorsAfterRetry": true,
 	"DFFlagHttpClientUseAggregateStats": true,
 	"DFFlagHttpDynamicSuccessStatusCode": true,
 	"DFFlagHttpEnableTracing": true,
