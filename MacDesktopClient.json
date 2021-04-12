@@ -1021,6 +1021,7 @@
 	"DFIntHttpConnectDefaultTimeoutMillis": 60000,
 	"DFIntHttpConnMaxAge": 600000,
 	"DFIntHttpCurlConnectionCacheSize": -1,
+	"DFIntHttpCurlMaxConnectionsPerHost": 4,
 	"DFIntHttpInfluxHundredthsPercentage": 1,
 	"DFIntHttpInfluxHundredthsPercentage_PlaceFilter": "10000;5064251723",
 	"DFIntHttpRbxApiMaxRetryBudgetPerMinute": 10,
