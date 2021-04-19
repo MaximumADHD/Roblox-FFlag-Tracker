@@ -2426,6 +2426,7 @@
 	"FFlagLuauAllowGlobalAssignAtModuleLevel": true,
 	"FFlagLuauAllowGlobalAssignEverywhere": true,
 	"FFlagLuauAllowGlobalFunctionRedeclarationInNonstrict": true,
+	"FFlagLuauAllowStructuralEqualityOnEmptyTypePacks": true,
 	"FFlagLuauAssertFalseAsError": true,
 	"FFlagLuauBetterBinaryOpInference": true,
 	"FFlagLuauBetterErrorMessages": true,
