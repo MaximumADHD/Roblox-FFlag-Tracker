@@ -420,6 +420,7 @@
 	"DFFlagHttpRbxApiServiceDontRetryOn429": true,
 	"DFFlagHttpRbxApiServiceEnableNativeRetryFor503": true,
 	"DFFlagHttpRbxApiServiceReportStatusToDiag": true,
+	"DFFlagHttpRemoveMaxRetriesHardCap": true,
 	"DFFlagHttpReportRetriesToLua": true,
 	"DFFlagHttpResponseErrorReporting": true,
 	"DFFlagHttpRetryAndHttpClientMxDeadlockFix": true,
