@@ -9,6 +9,7 @@
 	"FFlagBootstrapperTryAsset": true,
 	"FFlagCheckReturnValueOfRegistryQuery": true,
 	"FFlagEnableCheckDirectXVersion": true,
+	"FFlagEnableCheckingOnDisabledChannels": true,
 	"FFlagMOBLUAPP2991": true,
 	"FFlagRobloxApplicationDeployedByChannel": true,
 	"FFlagUseSignalRCommonInUserNotificationClient": false,
@@ -20,6 +21,7 @@
 	"FIntBootstrapper64BitStudioPercentage": 100,
 	"FIntBootstrapperLaunchBehaviorABTest": 3,
 	"FIntInfluxReportExceptionPermyriad": 10000,
+	"FStringDisabledRobloxChannelList": "zqt",
 	"InfluxInstallHundredthsPercentage": 1,
 	"UseCdn": true
 }

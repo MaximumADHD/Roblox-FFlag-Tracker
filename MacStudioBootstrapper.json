@@ -8,6 +8,7 @@
 	"FFlagBootstrapperTryAsset": true,
 	"FFlagCheckReturnValueOfRegistryQuery": true,
 	"FFlagEnableCheckDirectXVersion": true,
+	"FFlagEnableCheckingOnDisabledChannels": true,
 	"FFlagMacBootstrapperCanRunRecovery": true,
 	"FFlagMacBootstrapperFixRelaunchClientFromDock": true,
 	"FFlagMacBootstrapperPreserveBaseUrlPort": true,
@@ -20,6 +21,7 @@
 	"FIntBootstrapper64BitStudioPercentage": 5,
 	"FIntBootstrapperLaunchBehaviorABTest": 3,
 	"FIntInfluxReportExceptionPermyriad": 10000,
+	"FStringDisabledRobloxChannelList": "zqt",
 	"InfluxInstallHundredthsPercentage": 1,
 	"UseCdn": true
 }
