@@ -1,5 +1,6 @@
 {
 	"DFFlagPlayerConfigurerRunLMSTest": true,
+	"DFFlagSimACPCapDynamicAssemblyExtentsForCollisionDetection": true,
 	"DFFlagVoiceChat": false,
 	"DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": 5,
 	"DFIntJoinTimeCounters_JoinInfluxHundredthsPercentage": 0,
@@ -39,6 +40,7 @@
 	"FFlagLuaAppAddFriendsTileUsePolicy": true,
 	"FFlagNoCacheForLocalContent": true,
 	"FFlagShouldFilterWebVCStateDelegateUpdateByPageDismissed": true,
+	"FFlagSimACPFixCollisionMaskBug2": true,
 	"FFlagStoreCookiesFromHeaderString": false,
 	"FFlagUseMidasReleaseMode": true,
 	"FFlagUseSeperateInGameAndAppCrashCounters": true,
