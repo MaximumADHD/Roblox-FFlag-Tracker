@@ -2904,6 +2904,7 @@
 	"FFlagLuauFixFindBindingInsideLocal": true,
 	"FFlagLuauFixForInEmptyOptionalDeref": true,
 	"FFlagLuauFixHeapUAF1": true,
+	"FFlagLuauFixInfiniteTypePackUnify": true,
 	"FFlagLuauFixMemoryCategoryStatsName": true,
 	"FFlagLuauFixMissingGapsInUnions": true,
 	"FFlagLuauFixMissingReturnAfterInfiniteLoop": true,
