@@ -981,6 +981,8 @@
 	"DFFlagUseCommonQueueForInstanceUpdates": false,
 	"DFFlagUseCommonQueueForInstanceUpdates3": true,
 	"DFFlagUseDistanceThinning": true,
+	"DFFlagUseGlobalIdBasedNewInstanceCoalescing": false,
+	"DFFlagUseGlobalIdBasedNewInstanceCoalescing_DataCenterFilter": "True;235",
 	"DFFlagUseHelperFrameAlloc": true,
 	"DFFlagUseHttpMaxRetryAfter": true,
 	"DFFlagUseHttpReportCallbacks": true,
