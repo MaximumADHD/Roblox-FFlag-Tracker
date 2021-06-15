@@ -785,6 +785,8 @@
 	"DFFlagSignalRStartFix": true,
 	"DFFlagSimACPBetterOnAssemblyStartedSimulating": true,
 	"DFFlagSimACPBPUseIndexedList": true,
+	"DFFlagSimACPCapDynamicAssemblyExtentsForCollisionDetection": false,
+	"DFFlagSimACPCapDynamicAssemblyExtentsForCollisionDetection_DataCenterFilter": "True;265",
 	"DFFlagSimACPClearTerrainContactsOnShutdown": true,
 	"DFFlagSimACPFixAnimatorManualSteppedOnShutdown": true,
 	"DFFlagSimACPFixImproperAnimatedAssemblyInvalidation": true,
