@@ -728,6 +728,8 @@
 	"DFFlagReportCSGMeshVersionOnce": true,
 	"DFFlagReportDataStoreErrorCases": true,
 	"DFFlagReportDeserializePacketsJobStats": true,
+	"DFFlagReportDestroyedInstanceUsageStatsClient2": false,
+	"DFFlagReportDestroyedInstanceUsageStatsClient2_DataCenterFilter": "True;235",
 	"DFFlagReportDeveloperEventIngestHttpError": true,
 	"DFFlagReportDeveloperEventIngestHttpErrorByInfluxDb": true,
 	"DFFlagReportGALightingTechnology": true,
