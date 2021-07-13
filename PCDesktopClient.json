@@ -3762,6 +3762,8 @@
 	"FFlagScreenshotUseTaskScheduler": false,
 	"FFlagScreenshotUseTaskScheduler2": true,
 	"FFlagScreenTimeConsecutiveFailureCounterFixEnabled": true,
+	"FFlagScreenTimeLogoutAfterConsecutiveHeartbeatFailure": true,
+	"FFlagScreenTimeStatReporterToInflux": true,
 	"FFlagScriptAssetCacheLookupByGuidAndPlaceId": true,
 	"FFlagScriptDebuggerDirectStateAccess": true,
 	"FFlagScriptDebuggerEvaluateProtectedString": true,
