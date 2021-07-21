@@ -471,6 +471,7 @@
 	"DFFlagHttpResponseErrorReporting": true,
 	"DFFlagHttpRetryAndHttpClientMxDeadlockFix": true,
 	"DFFlagHttpRetryDisableNativeRetry2": true,
+	"DFFlagHttpRetryRespectFalseParameter": true,
 	"DFFlagHttpServiceBetterUserAgent": false,
 	"DFFlagHttpServiceErrorEventLog": false,
 	"DFFlagHttpSupportRetryTimeout2": true,
