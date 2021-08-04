@@ -247,6 +247,8 @@
 	"DFFlagDoParallelInterpolationSetPV2": true,
 	"DFFlagDropUnwantedRaknetMsgs": true,
 	"DFFlagDynamicReloaderDoWork": true,
+	"DFFlagEarlyExitIfHang": false,
+	"DFFlagEarlyExitIfHang_DataCenterFilter": "True;235",
 	"DFFlagEconomyCreatorStatsApiWhitelist": true,
 	"DFFlagEmulateDeviceMemoryAccuracyFix": true,
 	"DFFlagEnable17sNotifications": true,
