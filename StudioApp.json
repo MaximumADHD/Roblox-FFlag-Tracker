@@ -24,6 +24,7 @@
 	"FFlagContentProviderReportBlockedRequests": true,
 	"FFlagDebuggerColorConfiguration": true,
 	"FFlagDeletePluginsDeactivateToolPlugins": true,
+	"FFlagDisplayErrorDetailsSecurityLevel": true,
 	"FFlagDoNotOpenClonedOriginalInEditMode": true,
 	"FFlagEnableAutomaticSizeBetaFeature": false,
 	"FFlagEnableSignalBehavior": true,
@@ -88,6 +89,8 @@
 	"FFlagStudioToolboxPluginPurchaseFlow": true,
 	"FFlagToolboxFixCreatorSearchResults": true,
 	"FFlagToolboxFixThemeIssues": true,
+	"FFlagToolboxLegacyFetchGroupModelsAndPackages": true,
+	"FFlagToolboxRemoveGroupInventory2": true,
 	"FFlagToolboxShowGroupCreations": true,
 	"FFlagUnjoinSelectionOnDelete": true,
 	"FFlagUnjoinSelectionOnSerialize": true,
@@ -102,5 +105,6 @@
 	"FStringDevForumRootUrl": "https://devforum.roblox.com/",
 	"FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5",
 	"FStringStudioAttributesUIBetaFeatureUrl": "https://devforum.roblox.com/t/new-studio-beta-attributes/984141",
-	"FStringStudioDefaultNewTemplatePlaceId": 95206881
+	"FStringStudioDefaultNewTemplatePlaceId": 95206881,
+	"FStringStudioPluginsBacktraceToken": "ed2201abda766ab082e3df4f9cd20852688c50b52c4ee60905f9d4fcb8438171"
 }
