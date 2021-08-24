@@ -601,6 +601,8 @@
 	"DFFlagMegaDeadCode": true,
 	"DFFlagMegafyDisconnectOnChildRemoved": true,
 	"DFFlagMegaPropertyChecks": true,
+	"DFFlagMegaPropertyPass": false,
+	"DFFlagMegaPropertyPass_DataCenterFilter": "True;213",
 	"DFFlagMegaReplicatorBatchedParallelCleanWithTimeOut": true,
 	"DFFlagMegaReplicatorDepthTraversalFirst2": true,
 	"DFFlagMegaReplicatorDisconnectSwapAndPop": false,
