@@ -1,7 +1,5 @@
 {
 	"DFFlagPlayerConfigurerRunLMSTest": true,
-	"DFFlagVoiceChat": false,
-	"DFFlagVoiceChat2": false,
 	"DFFlagVoiceChat3": false,
 	"DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": 5,
 	"DFIntSessionReporterUserQuitLoadTimeout": 60,
@@ -36,6 +34,7 @@
 	"FFlagLuaVerifiedSignupExperiment": true,
 	"FFlagShouldFilterWebVCStateDelegateUpdateByPageDismissed": true,
 	"FFlagUseMidasReleaseMode": true,
+	"FFlagUserMayChooseModelForFBXAnimImport": true,
 	"FFlagUseSeperateInGameAndAppCrashCounters": true,
 	"FIntAppsFlyerLaunchReporting": 100,
 	"FIntEnableAuth2SVLogin": 100,
