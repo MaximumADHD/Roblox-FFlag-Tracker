@@ -520,6 +520,8 @@
 	"DFFlagRemoteEarlyNope": true,
 	"DFFlagRemoteEventAbuseReportRateLimitEnabled": true,
 	"DFFlagRemoteReportFlushAndLeft": true,
+	"DFFlagRemotesQueueMemoryReporting": false,
+	"DFFlagRemotesQueueMemoryReporting_DataCenterFilter": "True;200",
 	"DFFlagRemoveBytecodeMac": true,
 	"DFFlagRemoveCalculateNextSpawnLocation": true,
 	"DFFlagRemoveOldLuaKey": true,
