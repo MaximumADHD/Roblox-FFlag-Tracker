@@ -6,13 +6,14 @@
 	"FFlagBootstrapperReportForceShutDownApp": true,
 	"FFlagBootstrapperSaveOptOutDUAR": true,
 	"FFlagEnableCheckingOnDisabledChannels": true,
+	"FFlagEnableNoClientUpdateArgument": false,
 	"FFlagMacBootstrapperPreserveBaseUrlPort": true,
 	"FFlagWindowsBootstrapperCanRunRecovery": true,
 	"FFlagWindowsLaunchTypeAnalytics": true,
 	"FIntBootstrapper64BitStudioPercentage": 5,
 	"FIntBootstrapperLaunchBehaviorABTest": 3,
 	"FIntInfluxReportExceptionPermyriad": 10000,
-	"FStringDisabledRobloxChannelList": "zqt,zfeatureltcg1,zpublic,zfeatureboost_removal_test_in_prod,znext,Zfeatureretchecksv2",
+	"FStringDisabledRobloxChannelList": "",
 	"InfluxInstallHundredthsPercentage": 1,
 	"UseCdn": true
 }
