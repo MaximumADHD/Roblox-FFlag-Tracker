@@ -122,6 +122,7 @@
 	"DFFlagDataStore2MigrationKillSwitch": false,
 	"DFFlagDataStoreAdditionalErrorCodes": true,
 	"DFFlagDataStoreAutoHttpRetry": false,
+	"DFFlagDataStoreDisableNativeHttpRetry": true,
 	"DFFlagDataStoreEnableKeyLogging": true,
 	"DFFlagDataStoreEnableKeyLoggingEventStreams": true,
 	"DFFlagDataStoreInitialThrottlingBudgetFix": true,
