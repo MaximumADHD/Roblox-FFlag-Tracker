@@ -189,6 +189,7 @@
 	"DFFlagDontNegotiateCapabilitiesClient": true,
 	"DFFlagDontWalkOnReparent": false,
 	"DFFlagDontWhitelistUserInputConnectionCounts": true,
+	"DFFlagDropPacketFromInvalidPort": true,
 	"DFFlagEarlyAuth": true,
 	"DFFlagEarlyExitIfHang": false,
 	"DFFlagEarlyExitIfHang_DataCenterFilter": "True;235;265",
