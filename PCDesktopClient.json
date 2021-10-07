@@ -315,6 +315,7 @@
 	"DFFlagGameNetFixHumanoidOnPlatformDestroyedOnServer": true,
 	"DFFlagGameNetFixParallelPhysicsReceiveMotorAnglesCrash": true,
 	"DFFlagGameNetOptimizeParallelPhysicsSend2": true,
+	"DFFlagGameNetPhysicsSenderDontSendUnsampledMetrics": true,
 	"DFFlagGameNetPhysicsSenderMechanismAndAssemblyStats": true,
 	"DFFlagGameNetRemoveTimeOffsetDueToPhysics": true,
 	"DFFlagGameNetReportPVSizeStats": true,
