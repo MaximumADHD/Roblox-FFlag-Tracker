@@ -1244,6 +1244,8 @@
 	"DFIntSendRakNetStatsInterval": 300,
 	"DFIntSendRakNetStatsThrottle": 2,
 	"DFIntServerBandwidthPlayerSampleRate": 20,
+	"DFIntServerFramesBetweenJoins": 1,
+	"DFIntServerMaxJoinsInBatch": 1,
 	"DFIntServerReportRakNetBandwidthTelemetryHundredthsPercentage": 100,
 	"DFIntSessionReportSuccessThrottleHundredthsPercent": 500,
 	"DFIntSetBinaryStringCSGDataHundredthsPercent": 500,
