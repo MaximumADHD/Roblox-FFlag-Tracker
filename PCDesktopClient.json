@@ -365,7 +365,7 @@
 	"DFFlagHttpRbxApiServiceDontRetryOn429": true,
 	"DFFlagHttpRbxApiServiceEnableNativeRetryFor429": true,
 	"DFFlagHttpRbxApiServiceEnableNativeRetryFor503": true,
-	"DFFlagHttpRbxApiServiceReportStatusToDiag": true,
+	"DFFlagHttpRbxApiServiceReportStatusToDiag": false,
 	"DFFlagHttpRemoveMaxRetriesHardCap": true,
 	"DFFlagHttpReportCdnProviderInflux": true,
 	"DFFlagHttpReportRetriesToLua": true,
