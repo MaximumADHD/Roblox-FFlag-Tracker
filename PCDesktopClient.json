@@ -314,6 +314,7 @@
 	"DFFlagForcePreauth2": true,
 	"DFFlagFriendsV2BadAccessFix": true,
 	"DFFlagGameNetAdditionalFrameTimestampChecksInPhysicsSender": false,
+	"DFFlagGameNetCheckCompressedOrientIdOnReceive": true,
 	"DFFlagGameNetCheckHumanoidStateOnReceive": true,
 	"DFFlagGameNetDisableVelocityLodWhenSendingAll": true,
 	"DFFlagGameNetDontSendPhysicsUpdatesForLocalOnlyParts": true,
