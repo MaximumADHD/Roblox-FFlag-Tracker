@@ -2867,7 +2867,7 @@
 	"FFlagLuauReportParseErrorsFirst": true,
 	"FFlagLuauRequireBoundsCheck": true,
 	"FFlagLuauRescanGrayAgain": true,
-	"FFlagLuauRescanGrayAgainForwardBarrier": false,
+	"FFlagLuauRescanGrayAgainForwardBarrier": true,
 	"FFlagLuauResolveIsAConstraint": true,
 	"FFlagLuauResolveModuleNameWithoutACurrentModule": true,
 	"FFlagLuauResolveTypeGuardConstraint": true,
