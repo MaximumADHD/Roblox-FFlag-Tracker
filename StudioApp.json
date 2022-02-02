@@ -1,5 +1,6 @@
 {
 	"DFFlagAddAssetCopyrightLog": true,
+	"DFFlagSaferMove": true,
 	"DFFlagUserHttpRequestsThrottle2": true,
 	"DFIntConnectionMTUSize": 1200,
 	"DFIntContentProviderReportBlockedRequestsRate": 500,
@@ -7,6 +8,8 @@
 	"DFIntHttpResponseDefaultTimeoutMillis": 120000,
 	"DFIntPacakgeServiceReportFailedRequestsRate": 10000,
 	"DFIntReportCloudEditJoinFailureReportPerMyriad": 10000,
+	"DFIntSafeMoveBaseIncrementMillis": 1200,
+	"DFIntSafeMoveGrowthFactorMillis": 0,
 	"DFIntStudioPercentScaleRepeatCount": 140,
 	"DFIntUserHttpRequestsPerMinuteLimitZ": 2000,
 	"DFLogNetworkDetailed": 6,
