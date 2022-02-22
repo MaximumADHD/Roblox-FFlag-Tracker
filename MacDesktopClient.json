@@ -8,5 +8,6 @@
 	"FFlagUserInputRefactor2": false,
 	"FLogSignalRNotification": 0,
 	"FStringFeature_AppBridgeRewrite": "475;100",
-	"FStringFeature_CookieProtocolEnabled": "496;100"
+	"FStringFeature_CookieProtocolEnabled": "496;100",
+	"FStringGameLaunchLinkURL": "(?:(?:https?://\\w+\\.roblox(?:labs)?\\.com/games/start\\?)|(?:roblox(?:mobile)?://))(?:(?:(?:(?:id=\\d+)|(?:placeid=\\d+)|(?:userID=\\d+)|(?:gameInstanceId=(?:\\w|\\-)+)|(?:linkCode=(?:\\w|\\-)+)|(?:accessCode=(?:\\w|\\-)+))&?)+)/?"
 }
