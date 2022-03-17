@@ -473,6 +473,7 @@
 	"DFFlagHttpReportRetriesToLua": true,
 	"DFFlagHttpResponseErrorReporting": true,
 	"DFFlagHttpRetryDisableNativeRetry2": true,
+	"DFFlagHttpRetryInWorkerThread": true,
 	"DFFlagHttpRetryLoggingImprovements": true,
 	"DFFlagHttpRetryOverridesUseStaticString": true,
 	"DFFlagHttpRetryRccPlaceFetch": true,
