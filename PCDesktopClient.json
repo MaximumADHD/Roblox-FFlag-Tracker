@@ -1912,6 +1912,7 @@
 	"DFIntNumberFramesSubmergedBeforeVSquaredViscocity_PlaceFilter": "0;1221071288;1107780422;1223560318",
 	"DFIntOAuth2MetadataHttpRequestTelemetryHundredthsPercent": 10000,
 	"DFIntOAuth2TokenHttpRequestTelemetryHundredthsPercent": 10000,
+	"DFIntOAuthAccessTokenRenewalMinDelaySec": 300,
 	"DFIntOAuthMaxExpiresInValueSeconds": 900,
 	"DFIntOldSslInfluxHundredthsPercentage": 10000,
 	"DFIntOnDisconnectHTTPTimeout": 500,
