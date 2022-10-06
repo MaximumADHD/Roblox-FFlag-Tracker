@@ -1,7 +1,7 @@
 {
 	"DFFlagRbxFormatMultiByteSizeFix": true,
-	"DFStringFlagRepoGitHashDynamicString": "bff3037bd2a51bd382eb22655256bc7f54dbb093",
-	"DFStringFlipTimeStampDynamicString": "10/06/2022 20:33:58",
+	"DFStringFlagRepoGitHashDynamicString": "e7aab10e37ee02b776fbd0b3a3047a3679885964",
+	"DFStringFlipTimeStampDynamicString": "10/06/2022 20:34:52",
 	"DFStringHttpInfluxDatabase": "roblox_bootstrapper",
 	"FFlagBootstrapperAutoOptIn": true,
 	"FFlagBootstrapperDeleteStudioLayoutSettingsAtUninstall": true,
@@ -11,6 +11,7 @@
 	"FFlagBootstrapperQuitOnDirectXExpiration": false,
 	"FFlagBootstrapperSaveOptOutDUAR": true,
 	"FFlagCacheChannelForCommandLineInstall": true,
+	"FFlagDisableLegacyChannelSelection": true,
 	"FFlagDisableMacBootstrapperEmbedding": true,
 	"FFlagEnableCheckingOnDisabledChannels": true,
 	"FFlagMacBootstrapperTryTerminateClientNormally": true,
@@ -31,8 +32,8 @@
 	"FIntInstallWebView2RuntimeTimeoutMs": 1200000,
 	"FIntMacBootstrapperWaitMillisecondsForClientTermination": 500,
 	"FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4",
-	"FStringFlagRepoGitHashFastString": "bff3037bd2a51bd382eb22655256bc7f54dbb093",
-	"FStringFlipTimeStampFastString": "10/06/2022 20:33:58",
+	"FStringFlagRepoGitHashFastString": "e7aab10e37ee02b776fbd0b3a3047a3679885964",
+	"FStringFlipTimeStampFastString": "10/06/2022 20:34:52",
 	"InfluxInstallHundredthsPercentage": 1,
 	"UseCdn": true
 }
