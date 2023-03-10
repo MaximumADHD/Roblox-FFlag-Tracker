@@ -1,12 +1,15 @@
 {
-	"DFStringFlagRepoGitHashDynamicString": "235dbba3fdf66f2192a3cd75e0cb3f22f76d653d",
-	"DFStringFlipTimeStampDynamicString": "03/10/2023 01:54:54",
+	"DFStringFlagRepoGitHashDynamicString": "a3c3e469a4cf0d5f12530f4bc04ed107f2aa3b73",
+	"DFStringFlipTimeStampDynamicString": "03/10/2023 17:02:38",
 	"DFStringHttpInfluxDatabase": "roblox_bootstrapper",
 	"FFlagBootstrapperAutoOptIn": true,
 	"FFlagBootstrapperQuitOnDirectXExpiration": false,
 	"FFlagBootstrapperSaveOptOutDUAR": true,
 	"FFlagDisableLegacyChannelSelection": true,
 	"FFlagDoNotUseInternetExplorerElevationPolicyRegistry": true,
+	"FFlagEnableCleanPreviousDownloadCacheFolder": true,
+	"FFlagEnableSeparateDownloadCacheFolder": true,
+	"FFlagFileDeletionPathLimitFix": true,
 	"FFlagFileDeployerPathLimitFix": true,
 	"FFlagMacBootstrapperUniqueDownloadDir": true,
 	"FFlagStudioExportSVGTextures": true,
@@ -22,8 +25,8 @@
 	"FIntInstallWebView2RuntimeTimeoutMs": 1200000,
 	"FIntMacBootstrapperWaitMillisecondsForClientTermination": 500,
 	"FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zqtcanary,Zfeatureupgrade-libyuv-bento4,ZfeatureLUATOOLS-121-rbxpMoonbeamReleaseTest",
-	"FStringFlagRepoGitHashFastString": "235dbba3fdf66f2192a3cd75e0cb3f22f76d653d",
-	"FStringFlipTimeStampFastString": "03/10/2023 01:54:54",
+	"FStringFlagRepoGitHashFastString": "a3c3e469a4cf0d5f12530f4bc04ed107f2aa3b73",
+	"FStringFlipTimeStampFastString": "03/10/2023 17:02:38",
 	"InfluxInstallHundredthsPercentage": 1,
 	"UseCdn": true
 }
