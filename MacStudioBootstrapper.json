@@ -1,6 +1,6 @@
 {
-	"DFStringFlagRepoGitHashDynamicString": "e6f73f1c46fd1d1a5225418aac30526d50c7a862",
-	"DFStringFlipTimeStampDynamicString": "04/10/2023 19:52:22",
+	"DFStringFlagRepoGitHashDynamicString": "e59849888ed29505d92ae88a5f75e4403043a0c4",
+	"DFStringFlipTimeStampDynamicString": "04/10/2023 19:58:32",
 	"DFStringHttpInfluxDatabase": "roblox_bootstrapper",
 	"FFlagBootstrapperAutoOptIn": true,
 	"FFlagBootstrapperQuitOnDirectXExpiration": false,
@@ -17,6 +17,7 @@
 	"FFlagStudioFixSameVersionChannelUpdateProblem": true,
 	"FFlagTrackMacWebLaunchFlow": true,
 	"FFlagTrackWinWebLaunchFlow": true,
+	"FFlagUseNewErrorDescriptionFunction": true,
 	"FFlagWindowsLaunchTypeAnalytics": true,
 	"FIntBootstrapper64BitStudioPercentage": 5,
 	"FIntBootstrapperInfluxReportHundredthPercentage": 100,
@@ -26,8 +27,8 @@
 	"FIntInstallWebView2RuntimeTimeoutMs": 1200000,
 	"FIntMacBootstrapperWaitMillisecondsForClientTermination": 500,
 	"FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zqtcanary,Zfeatureupgrade-libyuv-bento4,ZfeatureLUATOOLS-121-rbxpMoonbeamReleaseTest,Zfeaturewin64_client_deploy_test",
-	"FStringFlagRepoGitHashFastString": "e6f73f1c46fd1d1a5225418aac30526d50c7a862",
-	"FStringFlipTimeStampFastString": "04/10/2023 19:52:22",
+	"FStringFlagRepoGitHashFastString": "e59849888ed29505d92ae88a5f75e4403043a0c4",
+	"FStringFlipTimeStampFastString": "04/10/2023 19:58:32",
 	"InfluxInstallHundredthsPercentage": 1,
 	"UseCdn": true
 }
