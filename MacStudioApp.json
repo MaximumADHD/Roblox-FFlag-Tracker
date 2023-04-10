@@ -3,6 +3,7 @@
 	"DFFlagAnalyticsDeferredEventIngestReportUnsentEventsOnExit": true,
 	"DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": true,
 	"DFFlagGoogleAnalyticsUseEventIngest": true,
+	"DFFlagRemoveTDigstLogSpamming_Rollout": "True;60;2023-04-10T18:32:44",
 	"DFFlagReportControllerManagerUse": true,
 	"DFIntAnalyticsDeferredEventIngestMaxPostByteSize": 10000,
 	"DFIntAnalyticsDeferredEventIngestReportBatchFullHundredthsPercentage": 1000,
