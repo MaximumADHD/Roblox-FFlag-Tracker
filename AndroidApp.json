@@ -67,6 +67,7 @@
 	"EnableMarshallerAsync": false,
 	"EnableSessionCheckThroughUserAuthenticatedEndpoint": true,
 	"EventStreamBatchSize": 10,
+	"FFlagActorMessagingSupport2_Rollout": "True;60;2023-05-15T20:47:13",
 	"FFlagAppBridgeRewrite": false,
 	"FFlagEnableAmazonInGameUpsellV2": true,
 	"FFlagEnableCancelInputEvent": true,
