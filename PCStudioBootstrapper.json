@@ -1,8 +1,8 @@
 {
 	"DFFlagDeeplinkShouldPassToExistingClient": true,
 	"DFFlagEnableTelemetryAppNameOverride": true,
-	"DFStringFlagRepoGitHashDynamicString": "66be1bb3baaff24d9bdd59a8d82cac1cc23cb42d",
-	"DFStringFlipTimeStampDynamicString": "06/21/2023 16:39:13",
+	"DFStringFlagRepoGitHashDynamicString": "9f7db9a65078304c2658b4e0321b8bc9778ec88d",
+	"DFStringFlipTimeStampDynamicString": "06/21/2023 16:57:00",
 	"DFStringHttpInfluxDatabase": "roblox_bootstrapper",
 	"FFlagBootstrapperAutoOptIn": true,
 	"FFlagBootstrapperDeprecateWin32DesktopApps": true,
@@ -26,7 +26,6 @@
 	"FFlagMacOSInstallerUseStaticCdn": false,
 	"FFlagRemoveDeployBootstrapper": false,
 	"FFlagRemoveDeployBootstrapper2": true,
-	"FFlagRemoveSuccessDialogMacStudio": false,
 	"FFlagRobloxPlayerInstallWebView2Runtime": true,
 	"FFlagStudioExportSVGTextures": true,
 	"FFlagStudioFixSameVersionChannelUpdateProblem": true,
@@ -51,8 +50,8 @@
 	"FIntWin32DesktopAppsDeprecationLevel": 1,
 	"FIntWin32DesktopAppsDeprecationLevel2": 3,
 	"FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zqtcanary,Zfeatureupgrade-libyuv-bento4,ZfeatureLUATOOLS-121-rbxpMoonbeamReleaseTest,Zfeaturewin64_client_deploy_test,ZWinPlayer64,ZProjectQt5159,Zprojectupdate-webrtc-fetch-content,ZFeaturesignaldoublelink",
-	"FStringFlagRepoGitHashFastString": "66be1bb3baaff24d9bdd59a8d82cac1cc23cb42d",
-	"FStringFlipTimeStampFastString": "06/21/2023 16:39:13",
+	"FStringFlagRepoGitHashFastString": "9f7db9a65078304c2658b4e0321b8bc9778ec88d",
+	"FStringFlipTimeStampFastString": "06/21/2023 16:57:00",
 	"InfluxInstallHundredthsPercentage": 1,
 	"UseCdn": true
 }
