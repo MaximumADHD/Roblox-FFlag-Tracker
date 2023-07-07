@@ -1,4 +1,5 @@
 {
+	"DFFlagDebugSendTDigestDebugInfo": true,
 	"DFFlagHttpClientCookieProtocolMetrics": true,
 	"DFFlagPlayerConfigurerRunLMSTest": true,
 	"DFFlagPotentialFixToTDigestMutexCrash2": true,
@@ -14,6 +15,7 @@
 	"FFlagDestorySurfaceBeforeDestroyUGCDM": true,
 	"FFlagDestroyDMBeforeJoiningExperience": true,
 	"FFlagDoNotInitializeLuaAppIfAlreadyInitialized": true,
+	"FFlagEarlyCreateProfileTelemetry": true,
 	"FFlagEnableAppReceiptsOnValidate": true,
 	"FFlagEnableAppsFlyerFacebookBuying": false,
 	"FFlagEnableAppsFlyerV2": true,
