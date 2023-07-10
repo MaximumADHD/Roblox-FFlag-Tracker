@@ -1,8 +1,7 @@
 {
-	"DFFlagDebugSendTDigestDebugInfo": true,
+	"DFFlagDebugSendTDigestDebugInfo": false,
 	"DFFlagHttpClientCookieProtocolMetrics": true,
 	"DFFlagPlayerConfigurerRunLMSTest": true,
-	"DFFlagPotentialFixToTDigestMutexCrash2": true,
 	"DFFlagPredictedOOM": true,
 	"DFFlagPredictedOOMMessage": true,
 	"DFFlagSessionTelemetryPredictedOOMCounter": true,
@@ -57,7 +56,6 @@
 	"FFlagPhoneVerificationWebviewShouldBeFullscreen1": true,
 	"FFlagProfileQRCodePageSoothsayerAccessEnabled_v1": true,
 	"FFlagRealtimeEventDataManagerUseNewCountFetches": true,
-	"FFlagReportFpsAndGfxQualityPercentiles_PlaceFilter": "True;4924922222",
 	"FFlagShouldFilterWebVCStateDelegateUpdateByPageDismissed": true,
 	"FFlagShouldHandleWebviewJSCommandForDeepLinks": true,
 	"FFlagShouldTrackPNMetadataRetrievedAppState": true,
