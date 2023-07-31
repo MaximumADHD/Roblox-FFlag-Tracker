@@ -1,7 +1,7 @@
 {
 	"DFFlagDebugSendTDigestDebugInfo": false,
 	"DFFlagHttpClientCookieProtocolMetrics": true,
-	"DFFlagPerfTimerUseSTMap": true,
+	"DFFlagPerfTimerUseSTMap_Rollout": "True;60;2023-07-31T20:20:44",
 	"DFFlagPlayerConfigurerRunLMSTest": true,
 	"DFFlagPredictedOOM": true,
 	"DFFlagPredictedOOMMessage": true,
@@ -37,7 +37,6 @@
 	"FFlagEnableSyncAllCookiesFromEngine": true,
 	"FFlagEnableUserAuthenticatedRequest": true,
 	"FFlagEnableWebviewsInUGCExperience": true,
-	"FFlagExperienceLaunchFlowUseSTMap_Rollout": "True;60;2023-07-31T19:54:41",
 	"FFlagFixGameLinksWithWebViewOpen": true,
 	"FFlagFixPushNotificationLoggedCategoryV2": true,
 	"FFlagFixTextMismatchAndOverlap": true,
