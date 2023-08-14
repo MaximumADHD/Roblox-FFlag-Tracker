@@ -9,6 +9,8 @@
 	"DFIntAuthMetadataRequestTimeoutMs": 10000,
 	"DFIntConnectionMTUSize": 1200,
 	"DFIntContentProviderReportBlockedRequestsRate": 500,
+	"DFIntDSTelemetryGetV2Rollout": 100,
+	"DFIntDSTelemetrySetV2Rollout": 100,
 	"DFIntHttpResponseDefaultTimeoutMillis": 120000,
 	"DFIntOAuth2AuthorizeHttpRequestReportingHundredthsPercent": 10000,
 	"DFIntPacakgeServiceReportFailedRequestsRate": 10000,
