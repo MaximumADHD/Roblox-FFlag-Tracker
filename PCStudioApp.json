@@ -2,6 +2,7 @@
 	"DFFlagAnalyticsDeferredEventIngestEmptyQueueEveryInterval": true,
 	"DFFlagAnalyticsDeferredEventIngestReportUnsentEventsOnExit": true,
 	"DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": true,
+	"DFFlagEnableV2POCCounter_Rollout": "True;60;2023-08-21T18:59:17",
 	"DFFlagGoogleAnalyticsUseEventIngest": true,
 	"DFIntAnalyticsDeferredEventIngestMaxPostByteSize": 10000,
 	"DFIntAnalyticsDeferredEventIngestReportBatchFullHundredthsPercentage": 1000,
