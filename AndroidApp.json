@@ -108,7 +108,6 @@
 	"FFlagLuaIdentityGetSMSOTP": true,
 	"FFlagLuaIdentityProtocol": true,
 	"FFlagLuaUseIdentityProtocolForPhoneUpsell": true,
-	"FFlagLuauToStringPrettifyLocation_Rollout": "True;60;2023-08-24T16:45:29",
 	"FFlagLuaVerifiedSignupExperiment2": true,
 	"FFlagMovePrerender_PlaceFilter": "False;7117492592",
 	"FFlagNativePurchaseWithLocalPlayer": true,
@@ -148,7 +147,9 @@
 	"MinSupportedOSVersion": "5.0",
 	"PercentReportingByCountryCode": 100,
 	"QuerySKUOnPurchase": true,
+	"RefactorExperienceSession": true,
 	"SettingsValidIntervalInSecs": 864000,
+	"SingleSurfaceEnabledAndroid3": true,
 	"VisibleAgeStyleLuaApp": "More Only",
 	"VisibleAgeStyleNativeShell": "More Only"
 }
