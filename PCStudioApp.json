@@ -2,6 +2,8 @@
 	"DFFlagAnalyticsDeferredEventIngestEmptyQueueEveryInterval": true,
 	"DFFlagAnalyticsDeferredEventIngestReportUnsentEventsOnExit": true,
 	"DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": true,
+	"DFFlagEnableEmotePublish3": false,
+	"DFFlagEnableEmotePublish3_PlaceFilter": "True;14883099012",
 	"DFIntAnalyticsDeferredEventIngestMaxPostByteSize": 10000,
 	"DFIntAnalyticsDeferredEventIngestReportBatchFullHundredthsPercentage": 1000,
 	"DFIntAnalyticsDeferredEventIngestReportTooLargeErrorHundredthsPercentage": 1000,
