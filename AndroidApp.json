@@ -1,6 +1,5 @@
 {
 	"AndroidIAPList": "com.roblox.client.robux40,com.roblox.robloxmobile.premium80robux,com.roblox.robloxmobile.premium160robux,com.roblox.robloxmobile.premium240robux,com.roblox.robloxmobile.premium320robux,com.roblox.robloxmobile.premium400robux,com.roblox.robloxmobile.premium800robux,com.roblox.robloxmobile.premium1700robux,com.roblox.robloxmobile.premium4500robux,com.roblox.robloxmobile.premium10000robux,com.roblox.client.robux22500,com.roblox.robloxmobile.premium88subscribed,com.roblox.robloxmobile.premium175subscribed,com.roblox.robloxmobile.premium265subscribed,com.roblox.robloxmobile.premium350subscribed,com.roblox.robloxmobile.premium440subscribed2,com.roblox.robloxmobile.premium880subscribed,com.roblox.robloxmobile.premium1870subscribed,com.roblox.robloxmobile.premium4950subscribed,com.roblox.robloxmobile.premium11000subscribed,com.roblox.client.robux25000,com.roblox.client.robux22500",
-	"BillingClientRefactorV3": true,
 	"CatalogPromoAssetId": -1,
 	"CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
 	"CrashpadUploadToBacktraceAndroidPlayerToken_PlaceFilter": "30a794c06f5d61e51cf4b0b8103ef2cd7039c6b46bafce0cfba33518d5409010;6036870533",
@@ -77,7 +76,6 @@
 	"EnableSessionCheckThroughUserAuthenticatedEndpoint": true,
 	"EventStreamBatchSize": 10,
 	"FFlagAndroidPhoneAutofillShouldApplySanitizationRelease1": true,
-	"FFlagEnableAmazonInGameUpsellV2": true,
 	"FFlagEnableAndroidAutofillPhoneVerificationRelease1": true,
 	"FFlagEnableCancelInputEvent": true,
 	"FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": true,
@@ -144,7 +142,6 @@
 	"MinSupportedAPILevel": 21,
 	"MinSupportedOSVersion": "5.0",
 	"PercentReportingByCountryCode": 100,
-	"QuerySKUOnPurchase": true,
 	"RefactorExperienceSession": true,
 	"SettingsValidIntervalInSecs": 864000,
 	"SingleSurfaceEnabledAndroid3": true,
