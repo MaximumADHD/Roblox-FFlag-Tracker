@@ -2,7 +2,7 @@
 	"DFFlagAnalyticsDeferredEventIngestEmptyQueueEveryInterval": true,
 	"DFFlagAnalyticsDeferredEventIngestReportUnsentEventsOnExit": true,
 	"DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": true,
-	"DFFlagDestroyedModuleRequireWarning_Rollout": "True;30;2023-09-28T18:08:57",
+	"DFFlagDestroyedModuleRequireWarning": true,
 	"DFIntAnalyticsDeferredEventIngestMaxPostByteSize": 10000,
 	"DFIntAnalyticsDeferredEventIngestReportBatchFullHundredthsPercentage": 1000,
 	"DFIntAnalyticsDeferredEventIngestReportTooLargeErrorHundredthsPercentage": 1000,
