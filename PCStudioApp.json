@@ -1,4 +1,5 @@
 {
+	"DFFlagAddAppVersionIntoV2POCStat_Rollout": "True;30;2023-10-02T17:14:08",
 	"DFFlagAnalyticsDeferredEventIngestEmptyQueueEveryInterval": true,
 	"DFFlagAnalyticsDeferredEventIngestReportUnsentEventsOnExit": true,
 	"DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": true,
@@ -35,7 +36,6 @@
 	"FFlagDebugLuaAppValidateProps": true,
 	"FFlagDiffIncludeTags": true,
 	"FFlagDisableSkipFrameForBusyInTestMode": true,
-	"FFlagEnableChromeBackwardsSignalAPI": true,
 	"FFlagEnableInGameMenuChromeSignalAPI": true,
 	"FFlagEnableStudioServiceOpenBrowser": true,
 	"FFlagFixSandboxProdCookies": true,
