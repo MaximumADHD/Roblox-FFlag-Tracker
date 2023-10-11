@@ -75,7 +75,7 @@
 	"EnableSessionCheckThroughUserAuthenticatedEndpoint": true,
 	"EventStreamBatchSize": 10,
 	"FFlagAndroidPhoneAutofillShouldApplySanitizationRelease1": true,
-	"FFlagConvertCallbackModeToExcludedTunables_Rollout": "True;30;2023-10-11T22:11:50",
+	"FFlagConvertCallbackModeToExcludedTunables": true,
 	"FFlagEnableAndroidAutofillPhoneVerificationRelease1": true,
 	"FFlagEnableCancelInputEvent": true,
 	"FFlagEnableContactInvitesForNonPhoneVerifiedForAll_v2": true,
