@@ -2,6 +2,7 @@
 	"DFFlagAnalyticsDeferredEventIngestEmptyQueueEveryInterval": true,
 	"DFFlagAnalyticsDeferredEventIngestReportUnsentEventsOnExit": true,
 	"DFFlagAnalyticsDeferredEventIngestUseByteSizeBatching3": true,
+	"DFFlagEnableProfilingForDefaultAsyncFlush_Rollout": "True;30;2023-10-25T23:06:04",
 	"DFIntAnalyticsDeferredEventIngestMaxPostByteSize": 10000,
 	"DFIntAnalyticsDeferredEventIngestReportBatchFullHundredthsPercentage": 1000,
 	"DFIntAnalyticsDeferredEventIngestReportTooLargeErrorHundredthsPercentage": 1000,
