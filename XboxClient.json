@@ -2,6 +2,7 @@
 	"DFFlagFixMissingLocaleIdOnMacStartup": true,
 	"DFFlagHttpCacheCleanScheduleBasedOnBytes": true,
 	"DFFlagHttpCacheReportCleanReason": true,
+	"DFFlagRealtimeClientDeduplicateNotifications_Rollout": "True;60;2023-10-26T19:20:20",
 	"DFIntHttpCacheCleanCheckAfterKB": 1048576,
 	"DFIntHttpCacheCleanTriggerAvailableSpaceMiB": 1024,
 	"DFIntHttpCacheRetryCount": 5000,
