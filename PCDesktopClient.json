@@ -2755,11 +2755,11 @@
 	"DFStringDefaultAvatarDeathType_PlaceFilter": "Ragdoll;6838228664",
 	"DFStringDeveloperEventIngestEnd2EndLogUniveseIds": 1149251775,
 	"DFStringDynamicFastVariableReloaderTest4": "TestFriJan13",
-	"DFStringFlagRepoGitHashDynamicString": "63825eb3a200a65151a2498672cbbec29fa9842e",
+	"DFStringFlagRepoGitHashDynamicString": "d80d0c2366e79c486eedbab602567593bf08a49c",
 	"DFStringFlagRolloutTestDynamicString0": "Apri12",
 	"DFStringFlagRolloutTestDynamicString1": "Mar10Test",
 	"DFStringFlagRolloutTestDynamicString2": "Mar15Test",
-	"DFStringFlipTimeStampDynamicString": "11/16/2023 19:42:56",
+	"DFStringFlipTimeStampDynamicString": "11/16/2023 19:50:17",
 	"DFStringGamePerfMonitorPercentageCountryOverride": "CN,50,AU,50,NZ,50",
 	"DFStringHttpInfluxDatabase": "prod",
 	"DFStringHttpPointsReporterUrl": "https://client-telemetry.roblox.com",
@@ -8574,7 +8574,7 @@
 	"FFlagVideoCaptureFrameSkipper": true,
 	"FFlagVideoCaptureLightweightInput": true,
 	"FFlagVideoCaptureServiceGetActiveCameraState": true,
-	"FFlagVideoCaptureUseWeakThis_Rollout": "True;60;2023-11-16T18:41:36",
+	"FFlagVideoCaptureUseWeakThis": true,
 	"FFlagVideoDownloadFailMetrics": false,
 	"FFlagVideoErrorLogExcludeSuffix": true,
 	"FFlagVideoFixReplicationLogic": true,
@@ -9284,12 +9284,15 @@
 	"FStringCapturesEntrypointActivated": "CapturesEntrypointActivatedWindowsClient",
 	"FStringCapturesPageOpenedInGameMenu": "CapturesPageOpenedInGameMenuWindowsClient",
 	"FStringCapturesShareToastButtonActivated": "CapturesShareToastButtonActivatedWindowsClient",
-	"FStringCAPWelcomeMessageOverride": "Hi, Iâ€™m your Assistant. If you have questions about creating on Roblox, Iâ€™m here to help. Need ideas? 
-- Select part of a script in the Script Editor and ask me to \"Explain this code\" 
-- Select a part in the scene and ask me to \"Insert a script to propel this part when touched by the player\" 
-- Ask me to \"Generate a new rainbow pebble material\" 
+	"FStringCAPWelcomeMessageOverride": "Hi, Iâ€™m an experimental feature called Assistant. If you have questions about creating on Roblox, Iâ€™m here to help. Letâ€™s get started: 
+- Add a part to the scene. Select that part in the scene and ask me to \"Insert a script to propel this part when touched by the player\" 
+- With the part still selected, ask me to \"Generate a new rainbow pebble material\". Click on the texture you like to apply it to the part. You can adjust the settings to get the best look. 
+- Open the script we generated in Explorer by double clicking it. Highlight part of the script, right click on it and select \"Explain code\" to see what the code does 
+- Press Play to try out your experience! 
 
- I may not be able to help with everything, but Iâ€™m learning. The more context you give me, the better. Use the Thumbs Up or Thumbs Down buttons to give me feedback.",
+ That gives you an idea of the things I can do. I may not be able to help with everything, but Iâ€™m learning. 
+
+ Try some prompts. The more context you give me, the better. Use the Thumbs Up or Thumbs Down buttons to give me feedback.",
 	"FStringCatalogAdaptiveScrollingIXPLayer": "AvatarMarketplace.UI",
 	"FStringChatTranslationLayerName": "Matchmaking.Algorithm.UserId",
 	"FStringChromeBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-for-experience-controls-available-now/2567355",
@@ -9318,12 +9321,12 @@
 	"FStringFeature_AccessCookiesWithUrlEnabledSticky": "566;100",
 	"FStringFeature_AndroidRestartAfterProcDeathEnabled": "591;100",
 	"FStringFeature_CookieProtocolEnabled": "524;0",
-	"FStringFlagRepoGitHashFastString": "63825eb3a200a65151a2498672cbbec29fa9842e",
+	"FStringFlagRepoGitHashFastString": "d80d0c2366e79c486eedbab602567593bf08a49c",
 	"FStringFlagRolloutTestStaticString1": "TestMar31_bin_strategy",
 	"FStringFlagRolloutTestStaticString2": "XYZ",
 	"FStringFlagRolloutTestStaticString7": "April_11_test",
 	"FStringFlagRolloutTestStaticString9": "Apr12",
-	"FStringFlipTimeStampFastString": "11/16/2023 19:42:56",
+	"FStringFlipTimeStampFastString": "11/16/2023 19:50:17",
 	"FStringFriendsCarouselLoadedWithUsers": "FriendsCarouselLoadedWithUsersWindowsClient",
 	"FStringFriendsCarouselRequestFriendship": "FriendsCarouselRequestFriendshipEvents",
 	"FStringFriendsCarouselRevokeFriendRequest": "FriendsCarouselRevokeFriendRequestEvents",
