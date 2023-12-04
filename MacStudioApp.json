@@ -9,6 +9,7 @@
 	"DFIntAuthMetadataRequestTimeoutMs": 10000,
 	"DFIntConnectionMTUSize": 1200,
 	"DFIntContentProviderReportBlockedRequestsRate": 500,
+	"DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "500;30;2023-12-04T23:26:19",
 	"DFIntHttpResponseDefaultTimeoutMillis": 120000,
 	"DFIntOAuth2AuthorizeHttpRequestReportingHundredthsPercent": 10000,
 	"DFIntPacakgeServiceReportFailedRequestsRate": 10000,
