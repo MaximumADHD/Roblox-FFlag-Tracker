@@ -8,6 +8,7 @@
 	"DFFlagUnifiedCookieProtocolEnabled": true,
 	"DFIntCriticalThermalStatusThreshold": 3,
 	"DFIntDataModelPatchPollingIntervalMilliSeconds": 3600000,
+	"DFIntDataStoreRequestEventThrottleHundredthsPercentage_Rollout": "2000;30;2023-12-06T00:23:48",
 	"DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": 5,
 	"DFIntLaunchUGCExperienceWithExistingDMHundredthPercentage": 300,
 	"DFIntSessionReporterUserQuitLoadTimeout": 60,
