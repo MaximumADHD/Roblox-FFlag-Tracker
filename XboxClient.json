@@ -2,6 +2,8 @@
 	"DFFlagFixMissingLocaleIdOnMacStartup": true,
 	"DFFlagHttpCacheCleanScheduleBasedOnBytes": true,
 	"DFFlagHttpCacheReportCleanReason": true,
+	"DFFlagMSTTReportsStatsOnDump": true,
+	"DFFlagPerfDataOnHiveReportClientTimestamp": true,
 	"DFIntHangDetectionJobV2TimeoutMs": 0,
 	"DFIntHttpCacheCleanCheckAfterKB": 1048576,
 	"DFIntHttpCacheCleanTriggerAvailableSpaceMiB": 1024,
