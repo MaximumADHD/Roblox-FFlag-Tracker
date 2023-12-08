@@ -1,6 +1,9 @@
 {
 	"DFFlagFixMissingLocaleIdOnMacStartup": true,
+	"DFFlagHttpCacheCleanScheduleBasedOnBytes": true,
+	"DFFlagHttpCacheReportCleanReason": true,
 	"DFIntHangDetectionJobV2TimeoutMs": 0,
+	"DFIntHttpCacheCleanCheckAfterKB": 1048576,
 	"DFIntHttpCacheRetryCount": 5000,
 	"DFIntXboxCrashUploadsThrottleHundrethsPercent": 10000,
 	"DFLogHttpCache": 6,
@@ -57,6 +60,7 @@
 	"FFlagLegacyInputBindingsInControllerBar": true,
 	"FFlagLocalUserGameVoteCounterReducer": true,
 	"FFlagLuaAppEnable10ftSignUpView": true,
+	"FFlagLuaAppExperienceInfoPanel2": true,
 	"FFlagLuaAppLaunchConnectorFix2": true,
 	"FFlagLuaAppNavigationAnalytics": true,
 	"FFlagLuaAppSignUpPageRefactor": true,
