@@ -1,5 +1,5 @@
 {
-	"DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-18T20:21:39",
+	"DFFlagEnableAdSeenStatsReporting": true,
 	"DFFlagFixMissingLocaleIdOnMacStartup": true,
 	"DFFlagHangDetectionForceCrash": true,
 	"DFIntHangDetectionInferredTimeoutStartMs": 4000,
@@ -31,6 +31,7 @@
 	"FFlagEnableTenFootInterfaceCheckForLegacyChat": true,
 	"FFlagEnableTenftUiDetailsMoreDropupMenu": true,
 	"FFlagEnableUseShowTopBar4": false,
+	"FFlagEnableViewabilityTracking3_Rollout": "True;60;2024-03-18T21:54:00",
 	"FFlagEndOfScrollCursor": true,
 	"FFlagExpDetailsUseSelectionBumpers": true,
 	"FFlagExperienceDetailsPlayButtonAutoFocus10ft": true,
