@@ -1,6 +1,7 @@
 {
 	"DFFlagDebugSendTDigestDebugInfo": false,
 	"DFFlagDeprecationMessageRefinements": true,
+	"DFFlagEnableAdSeenStatsReporting_Rollout": "True;60;2024-03-18T20:21:39",
 	"DFFlagEnableGamepassPurchaseIxpRollout2_Rollout": "True;30;2024-03-18T19:43:41",
 	"DFFlagHttpClientCookieProtocolMetrics": true,
 	"DFFlagInferredCrashDebugFields": true,
@@ -31,8 +32,9 @@
 	"DFIntSessionReporterUserQuitLoadTimeout": 60,
 	"DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
 	"EnableWebPageGameDetail": true,
-	"FFlagAddExperienceLaunchFieldsToV2Stat_Rollout": "True;60;2024-03-18T18:46:31",
+	"FFlagAddExperienceLaunchFieldsToV2Stat": true,
 	"FFlagAdjustAudioLoaderThreadCount": true,
+	"FFlagAXItemCardRedesignIXPEnabled2": false,
 	"FFlagAXTileSizeIXPEnabled": false,
 	"FFlagDebugGraphicsCrashOnLeaks": false,
 	"FFlagDestorySurfaceBeforeDestroyUGCDM": true,
