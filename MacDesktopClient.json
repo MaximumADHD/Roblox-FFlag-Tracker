@@ -1,7 +1,6 @@
 {
 	"DFFlagCookieStoreEnabledMac": true,
 	"DFFlagDebugEnableOctreeNodeValidation": true,
-	"DFFlagEnableArbiterTimeTelemetry": true,
 	"DFFlagFixMissingLocaleIdOnMacStartup": true,
 	"DFFlagHttpClientCookieProtocolMetrics": true,
 	"DFFlagHttpClientCookieStoreMetrics": true,
@@ -37,6 +36,5 @@
 	"FStringFeature_AppBridgeRewrite": "475;100",
 	"FStringFeature_CookieStoreMacStickyEnabled": "564;100",
 	"FStringFeature_DisableOldCookieManagementSticky": "569;100",
-	"FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100",
-	"FStringSimulationPauseAndStepBetaFeatureUrl": "https://devforum.roblox.com/t/pausing-physics-in-studio/2923328"
+	"FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100"
 }
