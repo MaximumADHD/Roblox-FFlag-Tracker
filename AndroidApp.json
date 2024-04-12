@@ -62,6 +62,7 @@
 	"DFIntCrashUploadAttachmentKiloByteLimit": 100,
 	"DFIntCriticalThermalStatusThreshold": 4,
 	"DFIntDelayToFetchStartingQualityLevelAfterGameLoadMs": 5000,
+	"DFIntDelayToFetchStartingQualityLevelAfterGameLoadMs_Rollout": "25000;15;2024-04-12T16:23:46",
 	"DFIntHttpCacheReportSlowWritesHundredthPercentageSent": 1000,
 	"DFIntHttpCacheReportSlowWritesMinDuration": 10000,
 	"DFIntInterpolationDtLimitForLod_PlaceFilter": "12;4924922222",
