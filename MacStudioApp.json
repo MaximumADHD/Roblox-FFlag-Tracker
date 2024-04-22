@@ -23,7 +23,7 @@
 	"DFIntContentProviderReportBlockedRequestsRate": 500,
 	"DFIntGuiServicePropertyMetrics_ReportHundredthsPercent": 1,
 	"DFIntHttpResponseDefaultTimeoutMillis": 120000,
-	"DFIntLuauCodegenAggregateStatsEventHundredthsPercent": 1000,
+	"DFIntLuauCodegenAggregateStatsEventHundredthsPercent_Rollout": "10;60;2024-04-22T20:30:31",
 	"DFIntLuauNativeExecutionEventHundredthsPercent": 10000,
 	"DFIntOAuth2AuthorizeHttpRequestReportingHundredthsPercent": 10000,
 	"DFIntPacakgeServiceReportFailedRequestsRate": 10000,
