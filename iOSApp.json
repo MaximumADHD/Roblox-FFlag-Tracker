@@ -17,6 +17,7 @@
 	"DFIntEnableInternalMemoryUpdateFunctionsPercentage": 10000,
 	"DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": 5,
 	"DFIntHttpStatsDnsErrorInfluxReportsPerMillion": 10,
+	"DFIntHttpStatsDnsErrorInfluxReportsPerMillion_Rollout": "100;60;2024-05-08T16:55:30",
 	"DFIntHttpStatsErrorInfluxReportsPerMillion": 10,
 	"DFIntIosDeprecationDate": "1714374000000",
 	"DFIntIosDeprecationPhase": 3,
