@@ -1,6 +1,7 @@
 {
 	"DFFlagFixMissingLocaleIdOnMacStartup": true,
 	"DFFlagHangDetectionForceCrash": true,
+	"DFFlagLazilyAllocateNetworkCache_Rollout": "True;60;2024-05-13T18:42:08",
 	"DFFlagVoiceChatServiceInitJoinProfiling_Rollout": "True;60;2024-05-13T18:20:19",
 	"DFFlagVoicePublishConnectionStateTelemetryFix_Rollout": "True;60;2024-05-13T18:26:47",
 	"DFIntHangDetectionInferredTimeoutStartMs": 4000,
