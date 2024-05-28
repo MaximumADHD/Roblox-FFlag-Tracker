@@ -1,6 +1,8 @@
 {
 	"DFFlagFixMissingLocaleIdOnMacStartup": true,
 	"DFFlagHangDetectionForceCrash": true,
+	"DFFlagPacketErrorProgress_Rollout": "True;60;2024-05-28T22:53:06",
+	"DFFlagPacketErrorProgressServer_Rollout": "True;60;2024-05-28T22:53:06",
 	"DFIntHangDetectionInferredTimeoutStartMs": 4000,
 	"DFIntHangDetectionJobV2TimeoutMs": 600000000,
 	"DFIntHttpCacheRetryCount": 5000,
