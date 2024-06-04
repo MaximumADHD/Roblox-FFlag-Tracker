@@ -1,7 +1,6 @@
 {
 	"DFFlagCreatorBanStatusData_Rollout": "True;60;2024-06-04T22:01:45",
 	"DFFlagFixMissingLocaleIdOnMacStartup": true,
-	"DFFlagFixPercentSeenOnScreenStats_Rollout": "True;60;2024-06-04T20:59:01",
 	"DFFlagHangDetectionForceCrash": true,
 	"DFIntHangDetectionInferredTimeoutStartMs": 4000,
 	"DFIntHangDetectionJobV2TimeoutMs": 600000000,
@@ -98,7 +97,7 @@
 	"FFlagXboxSystemUtilDeviceName": true,
 	"FFlagXboxToggleKinectGpuReservation": true,
 	"FIntCheckValidSessionInterval": 30,
-	"FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent_Rollout": "500;60;2024-06-04T20:58:03",
+	"FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": 500,
 	"FIntLuaAppHomeFeedProfilePosition": 0,
 	"FIntXboxInferredCrashThrottleHundredthsPercent": 10000,
 	"FLogError_PlaceFilter": "0;3652625463",
