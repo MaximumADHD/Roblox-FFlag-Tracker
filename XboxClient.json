@@ -1,9 +1,12 @@
 {
 	"DFFlagFixMissingLocaleIdOnMacStartup": true,
 	"DFFlagHangDetectionForceCrash": true,
+	"DFFlagVoiceReliabilityTelemetryEventIngest_Rollout": "True;60;2024-06-17T17:25:41",
 	"DFIntHangDetectionInferredTimeoutStartMs": 4000,
 	"DFIntHangDetectionJobV2TimeoutMs": 600000000,
 	"DFIntHttpCacheRetryCount": 5000,
+	"DFIntVoicePublishReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T17:25:41",
+	"DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T17:25:41",
 	"DFIntXboxCrashUploadsThrottleHundrethsPercent": 10000,
 	"DFIntXboxGamepadUserInfoHundredthsPercentage_Rollout": "500;60;2024-06-17T16:34:19",
 	"DFLogHttpCache": 6,
