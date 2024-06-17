@@ -4,6 +4,7 @@
 	"DFIntVoicePublishReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T17:25:41",
 	"DFIntVoiceSubscribeReliabilityEventThrottleHundredthsPercent_Rollout": "10000;60;2024-06-17T17:25:41",
 	"FFlagAppChatMigrateIGMInvite_Rollout": "True;60;2024-06-17T18:40:49",
+	"FFlagLuaAppFixOtaUserIdCheck_Rollout": "True;30;2024-06-17T18:42:59",
 	"FFlagUpdateFmodVorbisDecoder": true,
 	"FFlagUWPCheckTTIBlockingDialog": true,
 	"FFlagUWPSkipNetworkCheck": true,
