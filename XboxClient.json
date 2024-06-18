@@ -1,6 +1,7 @@
 {
 	"DFFlagFixMissingLocaleIdOnMacStartup": true,
 	"DFFlagHangDetectionForceCrash": true,
+	"DFFlagVoiceChatInvalidateTurnAuthOnIceCandidateSerializationFailure_Rollout": "True;60;2024-06-18T19:33:11",
 	"DFIntHangDetectionInferredTimeoutStartMs": 4000,
 	"DFIntHangDetectionJobV2TimeoutMs": 600000000,
 	"DFIntHttpCacheRetryCount": 5000,
