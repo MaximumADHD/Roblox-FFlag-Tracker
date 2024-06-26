@@ -3,36 +3,36 @@
   "Value": {
     "LIVE": {
       "AndroidApp": true,
-      "iOSApp": false,
-      "MacDesktopClient": false,
-      "MacStudioApp": false,
-      "PCDesktopClient": false,
+      "iOSApp": true,
+      "MacDesktopClient": true,
+      "MacStudioApp": true,
+      "PCDesktopClient": true,
       "PCStudioApp": false,
-      "PlayStationClient": false,
+      "PlayStationClient": true,
       "UWPApp": false,
       "XboxClient": false
     },
     "zcanary": {
-      "AndroidApp": false,
-      "iOSApp": false,
+      "AndroidApp": true,
+      "iOSApp": true,
       "MacDesktopClient": true,
       "MacStudioApp": true,
-      "PCDesktopClient": false,
+      "PCDesktopClient": true,
       "PCStudioApp": true,
-      "PlayStationClient": false,
-      "UWPApp": false,
+      "PlayStationClient": true,
+      "UWPApp": true,
       "XboxClient": false
     },
     "zintegration": {
-      "AndroidApp": false,
-      "iOSApp": false,
-      "MacDesktopClient": false,
-      "MacStudioApp": false,
-      "PCDesktopClient": false,
-      "PCStudioApp": false,
-      "PlayStationClient": false,
-      "UWPApp": false,
-      "XboxClient": false
+      "AndroidApp": true,
+      "iOSApp": true,
+      "MacDesktopClient": true,
+      "MacStudioApp": true,
+      "PCDesktopClient": true,
+      "PCStudioApp": true,
+      "PlayStationClient": true,
+      "UWPApp": true,
+      "XboxClient": true
     }
   }
 }
