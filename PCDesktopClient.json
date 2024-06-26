@@ -3054,7 +3054,7 @@
   "DFIntLuauGcStepMul": 250,
   "DFIntLuauGcStepSizeKb": 4,
   "DFIntLuauNativeExecutionEventHundredthsPercent": 1000,
-  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": 1000,
+  "DFIntLuauRandomNewSeedLimitEventHundredthsPercent": 10000,
   "DFIntLuauRandomNewSeedLimitEventHundredthsPercent_Rollout": "10000;60;2024-06-26T18:26:26",
   "DFIntLuauRefinementTelemetryInfluxHundredthsPercentage": 0,
   "DFIntMacClientProtcolURLHandlingThrottleHundrethsPercent": 10000,
