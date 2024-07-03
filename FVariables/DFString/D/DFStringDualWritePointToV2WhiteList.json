@@ -1,8 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "iOSApp": "experience_launch_flow,clientcrash",
-    "MacDesktopClient": "experience_launch_flow,clientcrash",
-    "MacStudioApp": "experience_launch_flow,clientcrash"
+    "LIVE": {
+      "iOSApp": "experience_launch_flow,clientcrash",
+      "MacDesktopClient": "experience_launch_flow,clientcrash",
+      "MacStudioApp": "experience_launch_flow,clientcrash",
+      "PCDesktopClient": "GameServerInitializationError",
+      "PCStudioApp": "GameServerInitializationError",
+      "PlayStationClient": "GameServerInitializationError",
+      "UWPApp": "GameServerInitializationError",
+      "XboxClient": "GameServerInitializationError"
+    },
+    "zcanary": {
+      "AndroidApp": "GameServerInitializationError",
+      "iOSApp": "experience_launch_flow,clientcrash",
+      "MacDesktopClient": "experience_launch_flow,clientcrash",
+      "MacStudioApp": "experience_launch_flow,clientcrash",
+      "PCDesktopClient": "GameServerInitializationError",
+      "PCStudioApp": "GameServerInitializationError",
+      "PlayStationClient": "GameServerInitializationError",
+      "UWPApp": "GameServerInitializationError",
+      "XboxClient": "GameServerInitializationError"
+    },
+    "zintegration": {
+      "AndroidApp": "GameServerInitializationError",
+      "iOSApp": "experience_launch_flow,clientcrash",
+      "MacDesktopClient": "experience_launch_flow,clientcrash",
+      "MacStudioApp": "experience_launch_flow,clientcrash",
+      "PCDesktopClient": "GameServerInitializationError",
+      "PCStudioApp": "GameServerInitializationError",
+      "PlayStationClient": "GameServerInitializationError",
+      "UWPApp": "GameServerInitializationError",
+      "XboxClient": "GameServerInitializationError"
+    }
   }
 }
