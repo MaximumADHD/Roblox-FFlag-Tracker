@@ -1,6 +1,11 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zintegration": "GameServerInitializationError,GameServerInitializationSuccess;60;2024-07-10T20:18:02"
+    "AndroidApp": "GameServerInitializationError,GameServerInitializationSuccess;60;2024-07-10T20:18:02",
+    "PCDesktopClient": "GameServerInitializationError,GameServerInitializationSuccess;60;2024-07-10T20:18:02",
+    "PCStudioApp": "GameServerInitializationError,GameServerInitializationSuccess;60;2024-07-10T20:18:02",
+    "PlayStationClient": "GameServerInitializationError,GameServerInitializationSuccess;60;2024-07-10T20:18:02",
+    "UWPApp": "GameServerInitializationError,GameServerInitializationSuccess;60;2024-07-10T20:18:02",
+    "XboxClient": "GameServerInitializationError,GameServerInitializationSuccess;60;2024-07-10T20:18:02"
   }
 }
