@@ -1,14 +1,14 @@
 {
   "Type": "Platforms",
   "Value": {
-    "AndroidApp": "GameServerInitializationError",
+    "AndroidApp": "RCCInstanceTracking,GameServerShutdownEvent",
     "iOSApp": "experience_launch_flow,clientcrash",
     "MacDesktopClient": "experience_launch_flow,clientcrash",
     "MacStudioApp": "experience_launch_flow,clientcrash",
-    "PCDesktopClient": "GameServerInitializationError",
-    "PCStudioApp": "GameServerInitializationError",
-    "PlayStationClient": "GameServerInitializationError",
-    "UWPApp": "GameServerInitializationError",
-    "XboxClient": "GameServerInitializationError"
+    "PCDesktopClient": "RCCInstanceTracking,GameServerShutdownEvent",
+    "PCStudioApp": "RCCInstanceTracking,GameServerShutdownEvent",
+    "PlayStationClient": "RCCInstanceTracking,GameServerShutdownEvent",
+    "UWPApp": "RCCInstanceTracking,GameServerShutdownEvent",
+    "XboxClient": "RCCInstanceTracking,GameServerShutdownEvent"
   }
 }
