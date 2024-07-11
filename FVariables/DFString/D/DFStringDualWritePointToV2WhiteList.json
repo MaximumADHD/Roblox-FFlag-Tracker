@@ -1,42 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "RCCInstanceTracking,GameServerShutdownEvent",
-      "iOSApp": "experience_launch_flow,clientcrash",
-      "MacDesktopClient": "experience_launch_flow,clientcrash",
-      "MacStudioApp": "experience_launch_flow,clientcrash",
-      "PCDesktopClient": "RCCInstanceTracking,GameServerShutdownEvent",
-      "PCStudioApp": "RCCInstanceTracking,GameServerShutdownEvent",
-      "PlayStationClient": "RCCInstanceTracking,GameServerShutdownEvent",
-      "UWPApp": "RCCInstanceTracking,GameServerShutdownEvent",
-      "XboxClient": "RCCInstanceTracking,GameServerShutdownEvent"
-    },
-    "zcanary": {
-      "AndroidApp": "",
-      "iOSApp": "",
-      "MacClientBootstrapper": "",
-      "MacDesktopClient": "",
-      "MacStudioApp": "",
-      "MacStudioBootstrapper": "",
-      "PCClientBootstrapper": "",
-      "PCDesktopClient": "",
-      "PCStudioApp": "",
-      "PCStudioBootstrapper": "",
-      "PlayStationClient": "",
-      "UWPApp": "",
-      "XboxClient": ""
-    },
-    "zintegration": {
-      "AndroidApp": "RCCInstanceTracking,GameServerShutdownEvent",
-      "iOSApp": "experience_launch_flow,clientcrash",
-      "MacDesktopClient": "experience_launch_flow,clientcrash",
-      "MacStudioApp": "experience_launch_flow,clientcrash",
-      "PCDesktopClient": "RCCInstanceTracking,GameServerShutdownEvent",
-      "PCStudioApp": "RCCInstanceTracking,GameServerShutdownEvent",
-      "PlayStationClient": "RCCInstanceTracking,GameServerShutdownEvent",
-      "UWPApp": "RCCInstanceTracking,GameServerShutdownEvent",
-      "XboxClient": "RCCInstanceTracking,GameServerShutdownEvent"
-    }
+    "AndroidApp": "RCCInstanceTracking,GameServerShutdownEvent",
+    "iOSApp": "experience_launch_flow,clientcrash",
+    "MacDesktopClient": "experience_launch_flow,clientcrash",
+    "MacStudioApp": "experience_launch_flow,clientcrash",
+    "PCDesktopClient": "RCCInstanceTracking,GameServerShutdownEvent",
+    "PCStudioApp": "RCCInstanceTracking,GameServerShutdownEvent",
+    "PlayStationClient": "RCCInstanceTracking,GameServerShutdownEvent",
+    "UWPApp": "RCCInstanceTracking,GameServerShutdownEvent",
+    "XboxClient": "RCCInstanceTracking,GameServerShutdownEvent"
   }
 }
