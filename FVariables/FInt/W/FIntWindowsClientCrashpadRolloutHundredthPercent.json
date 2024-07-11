@@ -1,6 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "PCDesktopClient": 5000
+    "LIVE": 5000,
+    "zcanary": 10000,
+    "zintegration": 5000
   }
 }
