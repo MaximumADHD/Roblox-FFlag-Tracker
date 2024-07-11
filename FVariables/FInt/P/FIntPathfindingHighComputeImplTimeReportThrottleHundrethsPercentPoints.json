@@ -1,6 +1,10 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zintegration": 10000
+    "MacDesktopClient": 7000,
+    "MacStudioApp": 7000,
+    "PCDesktopClient": 7000,
+    "PCStudioApp": 7000,
+    "XboxClient": 7000
   }
 }
