@@ -1,18 +1,8 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "LIVE": {
-      "PCDesktopClient": 5000
-    },
-    "zcanary": {
-      "MacClientBootstrapper": 10000,
-      "MacStudioBootstrapper": 10000,
-      "PCClientBootstrapper": 10000,
-      "PCDesktopClient": 5000,
-      "PCStudioBootstrapper": 10000
-    },
-    "zintegration": {
-      "PCDesktopClient": 5000
-    }
+    "LIVE": 5000,
+    "zcanary": 10000,
+    "zintegration": 5000
   }
 }
