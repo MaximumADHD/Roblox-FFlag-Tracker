@@ -1,6 +1,7 @@
 {
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
+  "DFFlagReportAutoSelectGuiInvoked_Rollout": "true;60;2024-07-12T16:11:13",
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
   "DFIntHttpCacheRetryCount": 5000,
@@ -23,6 +24,7 @@
   "FFlagEnableAddFriendsPageSearchBar": true,
   "FFlagEnableBigGameIconInDetailsPage": true,
   "FFlagEnableCentralOverlayForUpsellPrompt": false,
+  "FFlagEnableFlagParseTiming_Rollout": "true;30;2024-07-12T16:15:29",
   "FFlagEnableMediaGalleryDesignTokens": true,
   "FFlagEnableMenuModernizationABTest4": true,
   "FFlagEnableTenftUiDetailsMoreDropupMenu": true,
