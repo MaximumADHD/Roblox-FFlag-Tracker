@@ -1,11 +1,36 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
-    "PCDesktopClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
-    "PCStudioApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
-    "PlayStationClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
-    "UWPApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
-    "XboxClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32"
+    "LIVE": {
+      "AndroidApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "iOSApp": "DummyStudioEventToCheckForEventDropDuringShutdown;30;2024-07-17T23:32:20",
+      "PCDesktopClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "PCStudioApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "PlayStationClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "UWPApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "XboxClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32"
+    },
+    "zcanary": {
+      "AndroidApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "iOSApp": "DummyStudioEventToCheckForEventDropDuringShutdown;30;2024-07-17T23:32:20",
+      "MacDesktopClient": "DummyStudioEventToCheckForEventDropDuringShutdown;30;2024-07-17T23:32:20",
+      "MacStudioApp": "DummyStudioEventToCheckForEventDropDuringShutdown;30;2024-07-17T23:32:20",
+      "PCDesktopClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "PCStudioApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "PlayStationClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "UWPApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "XboxClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32"
+    },
+    "zintegration": {
+      "AndroidApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "iOSApp": "DummyStudioEventToCheckForEventDropDuringShutdown;30;2024-07-17T23:32:20",
+      "MacDesktopClient": "DummyStudioEventToCheckForEventDropDuringShutdown;30;2024-07-17T23:32:20",
+      "MacStudioApp": "DummyStudioEventToCheckForEventDropDuringShutdown;30;2024-07-17T23:32:20",
+      "PCDesktopClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "PCStudioApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "PlayStationClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "UWPApp": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32",
+      "XboxClient": "DummyStudioEventToCheckForEventDropDuringShutdown;60;2024-07-17T22:24:32"
+    }
   }
 }
