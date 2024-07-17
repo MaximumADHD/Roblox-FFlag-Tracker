@@ -1,47 +1,17 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "iOSApp": false,
-      "MacClientBootstrapper": false,
-      "MacDesktopClient": false,
-      "MacStudioApp": false,
-      "MacStudioBootstrapper": false,
-      "PCClientBootstrapper": false,
-      "PCDesktopClient": false,
-      "PCStudioApp": false,
-      "PCStudioBootstrapper": true,
-      "PlayStationClient": false,
-      "UWPApp": false,
-      "XboxClient": false
-    },
-    "zcanary": {
-      "iOSApp": false,
-      "MacClientBootstrapper": false,
-      "MacDesktopClient": false,
-      "MacStudioApp": false,
-      "MacStudioBootstrapper": false,
-      "PCClientBootstrapper": false,
-      "PCDesktopClient": false,
-      "PCStudioApp": false,
-      "PCStudioBootstrapper": false,
-      "PlayStationClient": false,
-      "UWPApp": false,
-      "XboxClient": false
-    },
-    "zintegration": {
-      "iOSApp": false,
-      "MacClientBootstrapper": false,
-      "MacDesktopClient": false,
-      "MacStudioApp": false,
-      "MacStudioBootstrapper": false,
-      "PCClientBootstrapper": false,
-      "PCDesktopClient": false,
-      "PCStudioApp": false,
-      "PCStudioBootstrapper": false,
-      "PlayStationClient": false,
-      "UWPApp": false,
-      "XboxClient": false
-    }
+    "iOSApp": false,
+    "MacClientBootstrapper": false,
+    "MacDesktopClient": false,
+    "MacStudioApp": false,
+    "MacStudioBootstrapper": false,
+    "PCClientBootstrapper": false,
+    "PCDesktopClient": false,
+    "PCStudioApp": false,
+    "PCStudioBootstrapper": false,
+    "PlayStationClient": false,
+    "UWPApp": false,
+    "XboxClient": false
   }
 }
