@@ -1,20 +1,8 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "MacDesktopClient": "DummyStudioEventToCheckForEventDropDuringStartup",
-      "MacStudioApp": "\"\"",
-      "PCStudioApp": "\"\""
-    },
-    "zcanary": {
-      "MacDesktopClient": "\"\"",
-      "MacStudioApp": "\"\"",
-      "PCStudioApp": "\"\""
-    },
-    "zintegration": {
-      "MacDesktopClient": "\"\"",
-      "MacStudioApp": "\"\"",
-      "PCStudioApp": "\"\""
-    }
+    "MacDesktopClient": "\"\"",
+    "MacStudioApp": "\"\"",
+    "PCStudioApp": "\"\""
   }
 }
