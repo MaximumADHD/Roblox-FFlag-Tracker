@@ -1,14 +1,4 @@
 {
-  "Type": "Platforms",
-  "Value": {
-    "AndroidApp": "DummyStudioEventToCheckForEventDropDuringShutdown",
-    "iOSApp": "experience_launch_flow,clientcrash",
-    "MacDesktopClient": "experience_launch_flow,clientcrash",
-    "MacStudioApp": "experience_launch_flow,clientcrash",
-    "PCDesktopClient": "DummyStudioEventToCheckForEventDropDuringShutdown",
-    "PCStudioApp": "DummyStudioEventToCheckForEventDropDuringShutdown",
-    "PlayStationClient": "DummyStudioEventToCheckForEventDropDuringShutdown",
-    "UWPApp": "DummyStudioEventToCheckForEventDropDuringShutdown",
-    "XboxClient": "DummyStudioEventToCheckForEventDropDuringShutdown"
-  }
+  "Type": "Unified",
+  "Value": "DummyStudioEventToCheckForEventDropDuringShutdown"
 }
