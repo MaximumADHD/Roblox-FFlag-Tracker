@@ -1,7 +1,5 @@
 {
   "DFFlagAddPlaySessionIdToAutoSelectGuiInvoked": true,
-  "DFFlagCalculateStatsWhileVideoPlaying_Rollout": "true;60;2024-07-22T16:09:57",
-  "DFFlagCleanModuleStateMap_Rollout": "true;60;2024-07-22T16:09:46",
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
   "DFFlagHttpDetachCacheCleanThread": true,
@@ -100,6 +98,7 @@
   "FFlagUseCoreScriptsRootProviderForUpsellModal": true,
   "FFlagUseExperienceTileV3_v2": true,
   "FFlagUseExternalBrowserForAgeGuidelines10ft": true,
+  "FFlagVoiceChatStopFetchingAudioAfterTimeoutEnabled_Rollout": "true;60;2024-07-22T17:41:56",
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": 500,
   "FIntLuaAppHomeFeedProfilePosition": 0,
   "FIntSquareGameTileMinItemCount": 8,

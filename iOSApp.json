@@ -1,7 +1,5 @@
 {
   "DFFlagAddPlaySessionIdToAdRequestBody": true,
-  "DFFlagCalculateStatsWhileVideoPlaying_Rollout": "true;60;2024-07-22T16:09:57",
-  "DFFlagCleanModuleStateMap_Rollout": "true;60;2024-07-22T16:09:46",
   "DFFlagDebugSendTDigestDebugInfo": false,
   "DFFlagDeprecationMessageRefinements": true,
   "DFFlagEnableAdsApiClientV2Endpoint2": true,
@@ -210,6 +208,7 @@
   "FFlagUseSeperateInGameAndAppCrashCounters": true,
   "FFlagUseUpdatedVNGAgreementsWorkflow": true,
   "FFlagVideoMacDecoderUseBufferPool": true,
+  "FFlagVoiceChatStopFetchingAudioAfterTimeoutEnabled_Rollout": "true;60;2024-07-22T17:41:56",
   "FIntAppsFlyerLaunchReporting": 100,
   "FIntDataModelPatchEnableOTAPollingPercentage": 100,
   "FIntEnableAuth2SVLogin": 100,
