@@ -1,5 +1,6 @@
 {
   "DFFlagAddPlaySessionIdToAdRequestBody": true,
+  "DFFlagCalculateStatsWhileVideoPlaying_Rollout": "true;60;2024-07-22T16:09:57",
   "DFFlagCleanModuleStateMap_Rollout": "true;60;2024-07-22T16:09:46",
   "DFFlagDebugSendTDigestDebugInfo": false,
   "DFFlagDeprecationMessageRefinements": true,
@@ -107,6 +108,7 @@
   "FFlagEnableLuaAccountSwitchRelease2": true,
   "FFlagEnableLuaAppsAppflyerUIDReportingV2": false,
   "FFlagEnableLuaAppsAppflyerUIDReportingV3": true,
+  "FFlagEnableLuaAppsAppflyerUIDReportingV3_Rollout": "true;60;2024-07-22T16:11:46",
   "FFlagEnableLuaPhoneVerificationExperimentRelease1": true,
   "FFlagEnableLuoBuSignUpWithoutPasswordFlowV2": true,
   "FFlagEnableMigratedRoduxContactsPackage": true,
@@ -190,6 +192,7 @@
   "FFlagStartupDeprecationMessage": true,
   "FFlagSwitchPremiumUIToSubscriptionUI": true,
   "FFlagTrackDeeplinkLaunchFlow": true,
+  "FFlagTweenMoreMoves_Rollout": "true;30;2024-07-22T16:11:15",
   "FFlagUIBloxGetTextHeightOptionalMaxHeight": true,
   "FFlagUpdateCheckOnLogin2": true,
   "FFlagUpdateFmodVorbisDecoder": true,
