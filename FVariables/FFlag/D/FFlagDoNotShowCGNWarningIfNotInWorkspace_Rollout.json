@@ -1,6 +1,12 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zintegration": "true;60;2024-07-22T16:41:09"
+    "AndroidApp": "true;60;2024-07-22T16:41:09",
+    "iOSApp": "true;60;2024-07-22T16:41:09",
+    "MacDesktopClient": "true;60;2024-07-22T16:41:09",
+    "PCDesktopClient": "true;60;2024-07-22T16:41:09",
+    "PlayStationClient": "true;60;2024-07-22T16:41:09",
+    "UWPApp": "true;60;2024-07-22T16:41:09",
+    "XboxClient": "true;60;2024-07-22T16:41:09"
   }
 }
