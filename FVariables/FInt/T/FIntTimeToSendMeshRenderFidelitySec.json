@@ -1,7 +1,10 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zcanary": 300,
-    "zintegration": 300
+    "iOSApp": 300,
+    "MacDesktopClient": 300,
+    "MacStudioApp": 300,
+    "PCDesktopClient": 300,
+    "PCStudioApp": 300
   }
 }
