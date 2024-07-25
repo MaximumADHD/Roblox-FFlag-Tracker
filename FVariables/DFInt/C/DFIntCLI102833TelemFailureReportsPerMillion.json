@@ -1,9 +1,23 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacDesktopClient": 10000,
-    "MacStudioApp": 10000,
-    "PCDesktopClient": 10000,
-    "PCStudioApp": 10000
+    "LIVE": {
+      "MacDesktopClient": 10000,
+      "MacStudioApp": 10000,
+      "PCDesktopClient": 10000,
+      "PCStudioApp": 1000
+    },
+    "zcanary": {
+      "MacDesktopClient": 1000,
+      "MacStudioApp": 1000,
+      "PCDesktopClient": 1000,
+      "PCStudioApp": 1000
+    },
+    "zintegration": {
+      "MacDesktopClient": 1000,
+      "MacStudioApp": 1000,
+      "PCDesktopClient": 1000,
+      "PCStudioApp": 1000
+    }
   }
 }
