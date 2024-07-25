@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "\"\""
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "\"\"",
+    "iOSApp": "\"\"",
+    "MacDesktopClient": "\"\"",
+    "MacStudioApp": "\"\"",
+    "PCDesktopClient": "SessionTracking,experience_launch_flow",
+    "PCStudioApp": "SessionTracking,experience_launch_flow",
+    "PlayStationClient": "\"\"",
+    "UWPApp": "\"\"",
+    "XboxClient": "\"\""
+  }
 }
