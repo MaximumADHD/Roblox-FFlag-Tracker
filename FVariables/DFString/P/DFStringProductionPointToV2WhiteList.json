@@ -2,7 +2,7 @@
   "Type": "Platforms",
   "Value": {
     "MacDesktopClient": "\"\"",
-    "MacStudioApp": "DummyStudioEventToCheckForEventDropDuringStartup",
-    "PCStudioApp": "DummyStudioEventToCheckForEventDropDuringStartup"
+    "MacStudioApp": "DummyStudioEventToCheckForEventDropDuringStartup,DummyStudioEventToCheckForEventDropDuringShutdown",
+    "PCStudioApp": "DummyStudioEventToCheckForEventDropDuringStartup,DummyStudioEventToCheckForEventDropDuringShutdown"
   }
 }
