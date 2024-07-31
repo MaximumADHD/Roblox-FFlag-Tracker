@@ -1,4 +1,9 @@
 {
-  "Type": "Unified",
-  "Value": true
+  "Type": "Platforms",
+  "Value": {
+    "iOSApp": true,
+    "PlayStationClient": true,
+    "UWPApp": true,
+    "XboxClient": true
+  }
 }
