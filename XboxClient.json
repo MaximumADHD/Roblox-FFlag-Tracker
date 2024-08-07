@@ -1,6 +1,7 @@
 {
   "DFFlagAddPlaySessionIdToAutoSelectGuiInvoked": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
+  "DFFlagGraphicsQualityUsageTelemetry_Rollout": "true;60;2024-08-07T20:14:57",
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagReportAutoSelectGuiInvoked": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
@@ -24,6 +25,7 @@
   "FFlagEDPMediaAddLocalization10ft": true,
   "FFlagEnableAbuseReport10ft2": true,
   "FFlagEnableAddFriendsPageSearchBar": true,
+  "FFlagEnableAppNavABTest": true,
   "FFlagEnableBigGameIconInDetailsPage": true,
   "FFlagEnableCentralOverlayForUpsellPrompt": false,
   "FFlagEnableMediaGalleryDesignTokens": true,
@@ -43,6 +45,7 @@
   "FFlagFriendCarouselHas10ftPolicies": true,
   "FFlagFriendCarouselLocalShowRecommendationsLogic": true,
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": true,
+  "FFlagGamepadNavigationDialogABTest2": true,
   "FFlagGamesListBackgroundFix": true,
   "FFlagGameSortGridRowAnalyticsWithoutStore": true,
   "FFlagGridCarouselHeaderHeightFix": true,
