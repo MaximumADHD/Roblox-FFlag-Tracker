@@ -402,7 +402,7 @@
   "FFlagStudioFixCrashWhenAddingAccounts": true,
   "FFlagStudioFixFileNewWhenAddingAnAccount": true,
   "FFlagStudioFixInCorrectClientIdSessionId": true,
-  "FFlagStudioFixInstanceHandlerCrash_Rollout": "true;30;2024-08-07T21:05:25",
+  "FFlagStudioFixInstanceHandlerCrash": true,
   "FFlagStudioFixInstanceNullptr": true,
   "FFlagStudioFixInstanceSignalStackOverflow": true,
   "FFlagStudioFixMiscCrashesForOpenPlace": true,
