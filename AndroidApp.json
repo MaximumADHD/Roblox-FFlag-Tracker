@@ -210,7 +210,7 @@
   "FStringDisableNSVariantParam": "SoftwareVoiceProcessing",
   "FStringGraphicsGLGpuExcludeListHQShaders": "PowerVR.*;Vivante GC7000UL;Mali-T628;Mali-T624;Mali-T860;Adreno \\(TM\\) 304;Adreno \\(TM\\) 305;Adreno \\(TM\\) 306;Adreno \\(TM\\) 320;Adreno \\(TM\\) 330",
   "FStringGraphicsGLShlangExcludeListSuperHQShaders": "glsles3",
-  "FStringGraphicsVulkanVertexOutputsBufferLimitMiB_Rollout": "0x13B5:.+:.+=160;30;2024-08-27T22:43:01",
+  "FStringGraphicsVulkanVertexOutputsBufferLimitMiB": "0x13B5:.+:.+=160",
   "FStringMetricFlagsOverride": "{\"CrashUniqueId\": 1}",
   "FStringRenderIGGPUWhitelistAndroid": "PowerVR Rogue GE8322|PowerVR Rogue GE8100|Mali-G52|Mali-G52 MC2",
   "FStringRoactChatFetchedOlderConversationCounter": "RoactChatFetchedOlderConversationAndroid",
