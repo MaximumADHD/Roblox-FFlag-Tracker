@@ -1,5 +1,4 @@
 {
-  "DFFlagAllocateSpaceForMappedFileUsingFallocate": true,
   "DFFlagCheckEngineContextOnInstanceAccess": true,
   "DFFlagCookieStoreEnabledMac": true,
   "DFFlagDebugEnableOctreeNodeValidation": true,
@@ -26,7 +25,10 @@
   "FFlagIncreaseFileDescriptorLimit": true,
   "FFlagMacClientSupportIME9": true,
   "FFlagMacSeverCrashpadOnUpdate": true,
+  "FFlagMacSyncNSCookieStoreToWKCookieStore": true,
+  "FFlagMacSyncWKCookieStoreToNSCookieStoreV2": true,
   "FFlagMMapAudioStreams2": true,
+  "FFlagNewOptimizeNoCollisionPrimitiveInMidphase637": true,
   "FFlagProximityPromptFixCrashOnDelete2": true,
   "FFlagRemoveDeeplinkReceivedFromMacWrapper": true,
   "FFlagRenderEnableGlobalInstancingMetal": true,
