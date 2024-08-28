@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "\"\""
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "experience_launch_flow",
+    "iOSApp": "\"\"",
+    "MacDesktopClient": "\"\"",
+    "MacStudioApp": "\"\"",
+    "PCDesktopClient": "experience_launch_flow",
+    "PCStudioApp": "experience_launch_flow",
+    "PlayStationClient": "experience_launch_flow",
+    "UWPApp": "experience_launch_flow",
+    "XboxClient": "experience_launch_flow"
+  }
 }
