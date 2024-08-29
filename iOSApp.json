@@ -1,5 +1,6 @@
 {
   "DFFlagDeprecationMessageRefinements": true,
+  "DFFlagEnableAdsApiClientV2Endpoint2": true,
   "DFFlagEnableThirdPartyAdErrorEventReporting": true,
   "DFFlagEnableThirdPartyAdFullScreenCollapseEventReporting3": true,
   "DFFlagEnableThirdPartyAdPauseResumeEventReporting2": true,
@@ -152,7 +153,6 @@
   "FFlagReleaseFmodSoundLoadersOnFailure": true,
   "FFlagRenderEnableGlobalInstancingMetal": true,
   "FFlagRevertUIScaleForMaxSize": true,
-  "FFlagSceneHashMaps2_Rollout": "true;60;2024-08-29T18:35:06",
   "FFlagShouldEnableAuthBirthdayBarUpdates": true,
   "FFlagShouldEnableOtpSignup": true,
   "FFlagShouldFilterWebVCStateDelegateUpdateByPageDismissed": true,
