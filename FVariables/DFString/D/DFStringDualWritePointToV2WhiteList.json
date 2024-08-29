@@ -1,4 +1,38 @@
 {
-  "Type": "Unified",
-  "Value": "experience_launch_flow"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "app_launch_flow",
+      "iOSApp": "app_launch_flow",
+      "MacDesktopClient": "experience_launch_flow",
+      "MacStudioApp": "app_launch_flow",
+      "PCDesktopClient": "experience_launch_flow",
+      "PCStudioApp": "app_launch_flow",
+      "PlayStationClient": "experience_launch_flow",
+      "UWPApp": "experience_launch_flow",
+      "XboxClient": "experience_launch_flow"
+    },
+    "zcanary": {
+      "AndroidApp": "experience_launch_flow",
+      "iOSApp": "experience_launch_flow",
+      "MacDesktopClient": "app_launch_flow",
+      "MacStudioApp": "app_launch_flow",
+      "PCDesktopClient": "app_launch_flow",
+      "PCStudioApp": "app_launch_flow",
+      "PlayStationClient": "experience_launch_flow",
+      "UWPApp": "experience_launch_flow",
+      "XboxClient": "experience_launch_flow"
+    },
+    "zintegration": {
+      "AndroidApp": "app_launch_flow",
+      "iOSApp": "experience_launch_flow",
+      "MacDesktopClient": "app_launch_flow",
+      "MacStudioApp": "app_launch_flow",
+      "PCDesktopClient": "app_launch_flow",
+      "PCStudioApp": "app_launch_flow",
+      "PlayStationClient": "app_launch_flow",
+      "UWPApp": "app_launch_flow",
+      "XboxClient": "app_launch_flow"
+    }
+  }
 }
