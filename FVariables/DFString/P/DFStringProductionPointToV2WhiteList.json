@@ -1,14 +1,4 @@
 {
-  "Type": "Platforms",
-  "Value": {
-    "AndroidApp": "SessionTracking",
-    "iOSApp": "SessionTracking",
-    "MacDesktopClient": "SessionTracking",
-    "MacStudioApp": "SessionTracking,DummyStudioEventToCheckForEventDropDuringStartup,DummyStudioEventToCheckForEventDropDuringShutdown",
-    "PCDesktopClient": "SessionTracking",
-    "PCStudioApp": "SessionTracking,DummyStudioEventToCheckForEventDropDuringStartup,DummyStudioEventToCheckForEventDropDuringShutdown",
-    "PlayStationClient": "SessionTracking",
-    "UWPApp": "SessionTracking",
-    "XboxClient": "SessionTracking"
-  }
+  "Type": "Unified",
+  "Value": "SessionTracking"
 }
