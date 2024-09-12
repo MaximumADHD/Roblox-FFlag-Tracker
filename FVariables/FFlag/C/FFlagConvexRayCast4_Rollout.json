@@ -1,8 +1,11 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "true;60;2024-09-12T23:25:52",
-    "zcanary": "true;60;2024-09-12T23:25:52",
-    "zintegration": "true;60;2024-09-12T23:25:52"
+    "AndroidApp": "true;60;2024-09-12T23:25:52",
+    "iOSApp": "true;60;2024-09-12T23:25:52",
+    "PCDesktopClient": "true;60;2024-09-12T23:25:52",
+    "PlayStationClient": "true;60;2024-09-12T23:25:52",
+    "UWPApp": "true;60;2024-09-12T23:25:52",
+    "XboxClient": "true;60;2024-09-12T23:25:52"
   }
 }
