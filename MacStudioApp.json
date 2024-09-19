@@ -38,6 +38,7 @@
   "DFIntHttpParallelLimit_RequestHttpServiceStudioPlugins": 5,
   "DFIntHttpResponseDefaultTimeoutMillis": 120000,
   "DFIntMultiPartUploadMaxChunkSizeByte": 6291456,
+  "DFIntMultiPartUploadMaxChunkSizeByte_Rollout": "20971520;60;2024-09-19T23:42:17",
   "DFIntOAuth2AuthorizeHttpRequestReportingHundredthsPercent": 10000,
   "DFIntPacakgeServiceReportFailedRequestsRate": 10000,
   "DFIntReportCloudEditJoinFailureReportPerMyriad": 10000,
