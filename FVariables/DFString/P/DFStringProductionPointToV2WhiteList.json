@@ -1,38 +1,4 @@
 {
-  "Type": "ChannelsAndPlatforms",
-  "Value": {
-    "LIVE": {
-      "AndroidApp": "SessionTracking,RCCInstanceTracking",
-      "iOSApp": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "MacDesktopClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "MacStudioApp": "SessionTracking,RCCInstanceTracking",
-      "PCDesktopClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "PCStudioApp": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "PlayStationClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "UWPApp": "SessionTracking,RCCInstanceTracking",
-      "XboxClient": "SessionTracking,RCCInstanceTracking"
-    },
-    "zcanary": {
-      "AndroidApp": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "iOSApp": "SessionTracking,RCCInstanceTracking",
-      "MacDesktopClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "MacStudioApp": "SessionTracking,RCCInstanceTracking",
-      "PCDesktopClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "PCStudioApp": "SessionTracking,RCCInstanceTracking",
-      "PlayStationClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "UWPApp": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "XboxClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver"
-    },
-    "zintegration": {
-      "AndroidApp": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "iOSApp": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "MacDesktopClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "MacStudioApp": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "PCDesktopClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "PCStudioApp": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "PlayStationClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "UWPApp": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver",
-      "XboxClient": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver"
-    }
-  }
+  "Type": "Unified",
+  "Value": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver"
 }
