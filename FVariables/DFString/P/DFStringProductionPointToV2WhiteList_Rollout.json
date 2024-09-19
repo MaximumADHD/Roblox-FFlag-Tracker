@@ -1,4 +1,7 @@
 {
-  "Type": "Unified",
-  "Value": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver;30;2024-09-19T21:38:17"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver;30;2024-09-19T21:38:17",
+    "zcanary": "SessionTracking,RCCInstanceTracking,experience_launch_flow,AudioWiringApiUsage,AutoSelectGuiInvoked,ImmersiveAdRender,RakNetBandwidth,propertyUsageEvent,AdsApiClientResponse,TeleportInsightsFailedEventCounter,HttpClientInternalCall,Studio-Luau-NewSolver;30;2024-09-19T21:38:17"
+  }
 }
