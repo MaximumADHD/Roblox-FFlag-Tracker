@@ -1,6 +1,7 @@
 {
   "DFFlagAddPlaySessionIdToAutoSelectGuiInvoked": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
+  "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": true,
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagReportAutoSelectGuiInvoked": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
@@ -91,6 +92,7 @@
   "FIntSquareGameTileMinItemCount": 8,
   "FIntWideGameTileVerticalGap": 24,
   "FIntXboxInferredCrashThrottleHundredthsPercent": 10000,
+  "FIntXboxPrefetchAuthRetries": 1,
   "FLogXboxPlatformBase": "Debug",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
   "FStringXboxSaleAvatarPackageIds": ""
