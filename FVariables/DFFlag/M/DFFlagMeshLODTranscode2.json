@@ -1,13 +1,35 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacClientBootstrapper": true,
-    "MacDesktopClient": true,
-    "MacStudioApp": true,
-    "MacStudioBootstrapper": true,
-    "PCClientBootstrapper": true,
-    "PCDesktopClient": true,
-    "PCStudioApp": true,
-    "PCStudioBootstrapper": true
+    "LIVE": {
+      "MacClientBootstrapper": false,
+      "MacDesktopClient": false,
+      "MacStudioApp": false,
+      "MacStudioBootstrapper": false,
+      "PCClientBootstrapper": false,
+      "PCDesktopClient": false,
+      "PCStudioApp": false,
+      "PCStudioBootstrapper": true
+    },
+    "zcanary": {
+      "MacClientBootstrapper": false,
+      "MacDesktopClient": false,
+      "MacStudioApp": false,
+      "MacStudioBootstrapper": false,
+      "PCClientBootstrapper": false,
+      "PCDesktopClient": false,
+      "PCStudioApp": false,
+      "PCStudioBootstrapper": false
+    },
+    "zintegration": {
+      "MacClientBootstrapper": false,
+      "MacDesktopClient": false,
+      "MacStudioApp": false,
+      "MacStudioBootstrapper": false,
+      "PCClientBootstrapper": false,
+      "PCDesktopClient": false,
+      "PCStudioApp": false,
+      "PCStudioBootstrapper": false
+    }
   }
 }
