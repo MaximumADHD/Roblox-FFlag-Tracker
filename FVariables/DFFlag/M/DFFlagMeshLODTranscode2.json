@@ -2,12 +2,12 @@
   "Type": "Platforms",
   "Value": {
     "MacClientBootstrapper": false,
-    "MacDesktopClient": false,
-    "MacStudioApp": false,
+    "MacDesktopClient": true,
+    "MacStudioApp": true,
     "MacStudioBootstrapper": false,
     "PCClientBootstrapper": false,
-    "PCDesktopClient": false,
-    "PCStudioApp": false,
+    "PCDesktopClient": true,
+    "PCStudioApp": true,
     "PCStudioBootstrapper": false
   }
 }
