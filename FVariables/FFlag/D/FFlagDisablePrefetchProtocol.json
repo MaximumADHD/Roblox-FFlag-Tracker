@@ -1,7 +1,17 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "PlayStationClient": false,
-    "XboxClient": true
+    "LIVE": {
+      "PlayStationClient": false,
+      "XboxClient": true
+    },
+    "zcanary": {
+      "PlayStationClient": false,
+      "XboxClient": true
+    },
+    "zintegration": {
+      "PlayStationClient": false,
+      "XboxClient": false
+    }
   }
 }
