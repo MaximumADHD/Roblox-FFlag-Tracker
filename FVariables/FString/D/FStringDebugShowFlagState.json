@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "zcanary": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
-    "zintegration": "FFlagGraphicsFixMsaaInGuiScene"
+    "zcanary": {
+      "AndroidApp": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "iOSApp": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "MacClientBootstrapper": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "MacDesktopClient": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "MacStudioApp": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "MacStudioBootstrapper": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "PCClientBootstrapper": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "PCDesktopClient": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "PCStudioApp": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "PCStudioBootstrapper": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "PlayStationClient": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "UWPApp": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2",
+      "XboxClient": "FFlagStudioPreFetchJoinConfig2,FFlagStudioSpecificDMTasksWithSuspendOverride2"
+    },
+    "zintegration": {
+      "AndroidApp": "FFlagGraphicsFixMsaaInGuiScene",
+      "iOSApp": "FFlagGraphicsFixMsaaInGuiScene",
+      "MacClientBootstrapper": "DFFlagSystemUtilAndroidReturnCorrect64BitCPU",
+      "MacDesktopClient": "FFlagGraphicsFixMsaaInGuiScene",
+      "MacStudioApp": "DFFlagSystemUtilAndroidReturnCorrect64BitCPU",
+      "MacStudioBootstrapper": "DFFlagSystemUtilAndroidReturnCorrect64BitCPU",
+      "PCClientBootstrapper": "DFFlagSystemUtilAndroidReturnCorrect64BitCPU",
+      "PCDesktopClient": "FFlagGraphicsFixMsaaInGuiScene",
+      "PCStudioApp": "FFlagGraphicsFixMsaaInGuiScene",
+      "PCStudioBootstrapper": "DFFlagSystemUtilAndroidReturnCorrect64BitCPU",
+      "PlayStationClient": "FFlagGraphicsFixMsaaInGuiScene",
+      "UWPApp": "FFlagGraphicsFixMsaaInGuiScene",
+      "XboxClient": "FFlagGraphicsFixMsaaInGuiScene"
+    }
   }
 }
