@@ -1,14 +1,38 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacClientBootstrapper": 500,
-    "MacDesktopClient": 500,
-    "MacStudioApp": 500,
-    "MacStudioBootstrapper": 500,
-    "PCClientBootstrapper": 500,
-    "PCDesktopClient": 500,
-    "PCStudioApp": 500,
-    "PCStudioBootstrapper": 500,
-    "XboxClient": 500
+    "LIVE": {
+      "MacClientBootstrapper": 10000,
+      "MacDesktopClient": 10000,
+      "MacStudioApp": 10000,
+      "MacStudioBootstrapper": 500,
+      "PCClientBootstrapper": 10000,
+      "PCDesktopClient": 10000,
+      "PCStudioApp": 10000,
+      "PCStudioBootstrapper": 500,
+      "XboxClient": 10000
+    },
+    "zcanary": {
+      "MacClientBootstrapper": 10000,
+      "MacDesktopClient": 10000,
+      "MacStudioApp": 10000,
+      "MacStudioBootstrapper": 10000,
+      "PCClientBootstrapper": 10000,
+      "PCDesktopClient": 10000,
+      "PCStudioApp": 10000,
+      "PCStudioBootstrapper": 10000,
+      "XboxClient": 10000
+    },
+    "zintegration": {
+      "MacClientBootstrapper": 10000,
+      "MacDesktopClient": 10000,
+      "MacStudioApp": 10000,
+      "MacStudioBootstrapper": 10000,
+      "PCClientBootstrapper": 10000,
+      "PCDesktopClient": 10000,
+      "PCStudioApp": 10000,
+      "PCStudioBootstrapper": 10000,
+      "XboxClient": 10000
+    }
   }
 }
