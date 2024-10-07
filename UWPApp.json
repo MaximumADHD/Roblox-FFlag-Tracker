@@ -1,6 +1,8 @@
 {
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
+  "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagEnableSSABootstrapStandardization": true,
+  "FFlagUnifySessionTrackingReporting2_Rollout": "true;60;2024-10-07T23:10:40",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FFlagUWPSkipNetworkCheck": true,
