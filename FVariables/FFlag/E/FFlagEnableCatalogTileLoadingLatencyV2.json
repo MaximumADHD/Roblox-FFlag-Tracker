@@ -1,6 +1,7 @@
 {
   "Type": "Platforms",
   "Value": {
+    "AndroidApp": true,
     "iOSApp": true,
     "MacClientBootstrapper": true,
     "MacDesktopClient": true,
@@ -11,6 +12,7 @@
     "PCStudioApp": true,
     "PCStudioBootstrapper": true,
     "PlayStationClient": false,
+    "UWPApp": true,
     "XboxClient": false
   }
 }
