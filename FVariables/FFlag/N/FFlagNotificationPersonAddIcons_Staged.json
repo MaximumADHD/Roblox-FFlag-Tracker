@@ -1,6 +1,9 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zintegration": "true;SteadyState;5;30;Rollout;50;30;Promote;2024-10-08T18:50:46"
+    "MacStudioApp": "true;SteadyState;5;30;Rollout;50;30;Promote;2024-10-08T18:50:46",
+    "MacStudioBootstrapper": "true;SteadyState;5;30;Rollout;50;30;Promote;2024-10-08T18:50:46",
+    "PCStudioApp": "true;SteadyState;5;30;Rollout;50;30;Promote;2024-10-08T18:50:46",
+    "PCStudioBootstrapper": "true;SteadyState;5;30;Rollout;50;30;Promote;2024-10-08T18:50:46"
   }
 }
