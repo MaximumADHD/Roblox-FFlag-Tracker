@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "SessionTracking"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "SessionTracking",
+    "zcanary": "SessionTracking",
+    "zintegration": "SessionTracking"
+  }
 }

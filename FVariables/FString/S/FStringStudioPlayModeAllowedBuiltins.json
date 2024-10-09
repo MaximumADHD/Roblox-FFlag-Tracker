@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm,Tutorials.rbxm,AttenuationCurveEditor.rbxm,StreamingServiceDispatcherRegistry.rbxm,AudioEqualizerEditor.rbxm"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm,Tutorials.rbxm,AttenuationCurveEditor.rbxm,StreamingServiceDispatcherRegistry.rbxm,AudioEqualizerEditor.rbxm",
+    "zcanary": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm,Tutorials.rbxm,AttenuationCurveEditor.rbxm,StreamingServiceDispatcherRegistry.rbxm,AudioEqualizerEditor.rbxm",
+    "zintegration": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm,Tutorials.rbxm,AttenuationCurveEditor.rbxm,StreamingServiceDispatcherRegistry.rbxm,AudioEqualizerEditor.rbxm"
+  }
 }

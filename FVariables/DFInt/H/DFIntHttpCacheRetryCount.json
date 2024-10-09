@@ -1,7 +1,16 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "PlayStationClient": 2000,
-    "XboxClient": 5000
+    "LIVE": {
+      "PlayStationClient": 2000,
+      "XboxClient": 5000
+    },
+    "zcanary": {
+      "PlayStationClient": 2000
+    },
+    "zintegration": {
+      "PlayStationClient": 2000,
+      "XboxClient": 5000
+    }
   }
 }

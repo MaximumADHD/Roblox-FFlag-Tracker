@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "FriendsCarouselRequestFriendshipEvents"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "FriendsCarouselRequestFriendshipEvents",
+    "zcanary": "FriendsCarouselRequestFriendshipEvents",
+    "zintegration": "FriendsCarouselRequestFriendshipEvents"
+  }
 }

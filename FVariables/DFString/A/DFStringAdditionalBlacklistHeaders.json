@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "SOAPAction"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "SOAPAction",
+    "zcanary": "SOAPAction",
+    "zintegration": "SOAPAction"
+  }
 }

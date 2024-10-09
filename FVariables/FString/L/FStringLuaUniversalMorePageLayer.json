@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Universality.MorePage.Exposure"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Universality.MorePage.Exposure",
+    "zcanary": "Universality.MorePage.Exposure",
+    "zintegration": "Universality.MorePage.Exposure"
+  }
 }

@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6",
+    "zcanary": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6",
+    "zintegration": "503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6"
+  }
 }

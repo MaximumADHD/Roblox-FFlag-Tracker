@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Social.Friends"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Social.Friends",
+    "zcanary": "Social.Friends",
+    "zintegration": "Social.Friends"
+  }
 }

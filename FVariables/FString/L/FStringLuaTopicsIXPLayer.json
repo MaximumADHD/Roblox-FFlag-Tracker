@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AvatarMarketplace.GuidedFeatures"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AvatarMarketplace.GuidedFeatures",
+    "zcanary": "AvatarMarketplace.GuidedFeatures",
+    "zintegration": "AvatarMarketplace.GuidedFeatures"
+  }
 }

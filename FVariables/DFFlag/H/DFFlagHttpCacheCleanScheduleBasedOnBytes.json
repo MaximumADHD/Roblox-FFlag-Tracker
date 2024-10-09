@@ -1,9 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacDesktopClient": true,
-    "PCDesktopClient": true,
-    "PlayStationClient": true,
-    "XboxClient": true
+    "LIVE": true,
+    "zcanary": true,
+    "zintegration": true
   }
 }

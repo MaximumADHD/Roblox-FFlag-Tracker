@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Debug"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Debug",
+    "zcanary": "Debug",
+    "zintegration": "Debug"
+  }
 }

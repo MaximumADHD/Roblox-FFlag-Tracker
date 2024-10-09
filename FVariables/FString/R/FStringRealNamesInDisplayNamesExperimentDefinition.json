@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AllowRealNames"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AllowRealNames",
+    "zcanary": "AllowRealNames",
+    "zintegration": "AllowRealNames"
+  }
 }

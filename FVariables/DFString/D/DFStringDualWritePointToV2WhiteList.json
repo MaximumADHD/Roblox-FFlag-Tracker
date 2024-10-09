@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "ImmersiveAdRender"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "ImmersiveAdRender",
+    "zcanary": "ImmersiveAdRender",
+    "zintegration": "ImmersiveAdRender"
+  }
 }
