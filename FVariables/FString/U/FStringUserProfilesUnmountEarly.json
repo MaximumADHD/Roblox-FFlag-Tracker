@@ -1,28 +1,11 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "UserProfilesUnmountEarlyAndroid",
-      "iOSApp": "UserProfilesUnmountEarlyiOS",
-      "MacDesktopClient": "UserProfilesUnmountEarlyMacClient",
-      "PCDesktopClient": "UserProfilesUnmountEarlyWindowsClient",
-      "PlayStationClient": "UserProfilesUnmountEarlyPlayStation",
-      "XboxClient": "UserProfilesUnmountEarlyXBoxClient"
-    },
-    "zcanary": {
-      "AndroidApp": "UserProfilesUnmountEarlyAndroid",
-      "iOSApp": "UserProfilesUnmountEarlyiOS",
-      "MacDesktopClient": "UserProfilesUnmountEarlyMacClient",
-      "PCDesktopClient": "UserProfilesUnmountEarlyWindowsClient",
-      "PlayStationClient": "UserProfilesUnmountEarlyPlayStation"
-    },
-    "zintegration": {
-      "AndroidApp": "UserProfilesUnmountEarlyAndroid",
-      "iOSApp": "UserProfilesUnmountEarlyiOS",
-      "MacDesktopClient": "UserProfilesUnmountEarlyMacClient",
-      "PCDesktopClient": "UserProfilesUnmountEarlyWindowsClient",
-      "PlayStationClient": "UserProfilesUnmountEarlyPlayStation",
-      "XboxClient": "UserProfilesUnmountEarlyXBoxClient"
-    }
+    "AndroidApp": "UserProfilesUnmountEarlyAndroid",
+    "iOSApp": "UserProfilesUnmountEarlyiOS",
+    "MacDesktopClient": "UserProfilesUnmountEarlyMacClient",
+    "PCDesktopClient": "UserProfilesUnmountEarlyWindowsClient",
+    "PlayStationClient": "UserProfilesUnmountEarlyPlayStation",
+    "XboxClient": "UserProfilesUnmountEarlyXBoxClient"
   }
 }
