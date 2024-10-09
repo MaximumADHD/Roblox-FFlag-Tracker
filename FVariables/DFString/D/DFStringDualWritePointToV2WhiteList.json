@@ -1,38 +1,4 @@
 {
-  "Type": "ChannelsAndPlatforms",
-  "Value": {
-    "LIVE": {
-      "AndroidApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "iOSApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "MacDesktopClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "MacStudioApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "PCDesktopClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "PCStudioApp": "ImmersiveAdRender",
-      "PlayStationClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "UWPApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "XboxClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking"
-    },
-    "zcanary": {
-      "AndroidApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "iOSApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "MacDesktopClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "MacStudioApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "PCDesktopClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "PCStudioApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "PlayStationClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "UWPApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "XboxClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking"
-    },
-    "zintegration": {
-      "AndroidApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "iOSApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "MacDesktopClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "MacStudioApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "PCDesktopClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "PCStudioApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "PlayStationClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "UWPApp": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking",
-      "XboxClient": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking"
-    }
-  }
+  "Type": "Unified",
+  "Value": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking"
 }
