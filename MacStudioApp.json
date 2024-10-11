@@ -114,7 +114,7 @@
   "FFlagCAPConversationalAIModelUserContext": true,
   "FFlagCAPConversationalAISettingsFeatureActivity": true,
   "FFlagCAPDataSharingToEventIngest": true,
-  "FFlagCAPDetailedStreamingServiceErrorTelemetry_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-11T17:50:36",
+  "FFlagCAPDetailedStreamingServiceErrorTelemetry": true,
   "FFlagCAPDMContextInvalidUTF8": true,
   "FFlagCAPNewUserExperiment": true,
   "FFlagCatchHttpErrorCode": true,
