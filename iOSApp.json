@@ -8,6 +8,7 @@
   "DFFlagHttpAppSuspendedTelemetry": true,
   "DFFlagHttpBlockWhenAppSuspended": true,
   "DFFlagHttpClientCookieProtocolMetrics": true,
+  "DFFlagHttpClientCookieStoreMetrics_Rollout": "true;60;2024-10-16T16:40:05",
   "DFFlagHttpReportWhenAppSuspended": true,
   "DFFlagMemoryProfilingTopLevelUsageMutex": true,
   "DFFlagPerformanceControlEnableInference": true,
