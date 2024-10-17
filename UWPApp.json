@@ -3,6 +3,7 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagEnableSSABootstrapStandardization": true,
+  "FFlagLuaAppLoadOtaPackagesOnStart_Rollout": "true;60;2024-10-17T18:13:03",
   "FFlagMicroProfileGroupOverflowFix_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-17T17:44:54",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
