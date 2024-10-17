@@ -1,6 +1,7 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "PCDesktopClient": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-17T20:01:09"
+    "zcanary": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-17T20:01:09",
+    "zintegration": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-17T20:01:09"
   }
 }
