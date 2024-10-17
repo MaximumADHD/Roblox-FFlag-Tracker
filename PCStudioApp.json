@@ -12,7 +12,7 @@
   "DFFlagHttpServiceGenerateGuidLowercase": true,
   "DFFlagInvalidNumPropertyAssignWarning": true,
   "DFFlagIsFlacWavAudioUploadEnabled": true,
-  "DFFlagMultipartUploadSemaphore_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-17T17:59:49",
+  "DFFlagMultipartUploadSemaphore": true,
   "DFFlagPropertyRejectionCountTelemetry": true,
   "DFFlagRemoveBanKicks": true,
   "DFFlagSerializerBinaryRemoveStreamAllocs": true,
