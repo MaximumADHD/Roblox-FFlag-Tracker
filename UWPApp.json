@@ -1,6 +1,9 @@
 {
+  "DFFlagAssetRequestFixExpiredMetrics_Rollout": "true;60;2024-10-17T21:58:27",
+  "DFFlagCLI1171702_Rollout": "true;60;2024-10-17T21:58:27",
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
+  "FFlagAddSongbirdDebugLogging_Staged": "true;SteadyState;10;30;Revert;2024-10-17T21:58:29",
   "FFlagEnableSSABootstrapStandardization": true,
   "FFlagLuaAppSupportOtaPackagePatching2_Rollout": "true;60;2024-10-17T21:22:04",
   "FFlagPeekHoverStateFix_Staged": "true;SteadyState;10;30;Revert;2024-10-17T21:57:57",
