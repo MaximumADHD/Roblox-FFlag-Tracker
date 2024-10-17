@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "FriendsLandingMountingPageTimeAndroid",
-    "iOSApp": "FriendsLandingMountingPageTimeiOS",
-    "MacDesktopClient": "FriendsLandingMountingPageTimeClient",
-    "PCDesktopClient": "FriendsLandingMountingPageTimeClient"
+    "LIVE": {
+      "AndroidApp": "FriendsLandingMountingPageTimeAndroid",
+      "iOSApp": "FriendsLandingMountingPageTimeiOS",
+      "MacDesktopClient": "FriendsLandingMountingPageTimeClient",
+      "PCDesktopClient": "FriendsLandingMountingPageTimeClient"
+    },
+    "zcanary": {
+      "AndroidApp": "FriendsLandingMountingPageTimeAndroid",
+      "MacDesktopClient": "FriendsLandingMountingPageTimeClient",
+      "PCDesktopClient": "FriendsLandingMountingPageTimeClient"
+    },
+    "zintegration": {
+      "AndroidApp": "FriendsLandingMountingPageTimeAndroid",
+      "iOSApp": "FriendsLandingMountingPageTimeiOS",
+      "MacDesktopClient": "FriendsLandingMountingPageTimeClient",
+      "PCDesktopClient": "FriendsLandingMountingPageTimeClient"
+    }
   }
 }

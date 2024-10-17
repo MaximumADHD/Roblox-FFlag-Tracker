@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "scx1",
-    "iOSApp": "scx1",
-    "MacDesktopClient": "crhv1",
-    "MacStudioApp": "crhv1",
-    "PCDesktopClient": "crhv1",
-    "PCStudioApp": "crhv1",
-    "PlayStationClient": "scx1",
-    "UWPApp": "scx1",
-    "XboxClient": "scx1"
+    "LIVE": {
+      "AndroidApp": "scx1",
+      "iOSApp": "scx1",
+      "MacDesktopClient": "crhv1",
+      "MacStudioApp": "crhv1",
+      "PCDesktopClient": "crhv1",
+      "PCStudioApp": "crhv1",
+      "PlayStationClient": "scx1",
+      "UWPApp": "scx1",
+      "XboxClient": "scx1"
+    },
+    "zcanary": {
+      "AndroidApp": "scx1",
+      "MacDesktopClient": "crhv1",
+      "MacStudioApp": "crhv1",
+      "PCDesktopClient": "crhv1",
+      "PCStudioApp": "crhv1",
+      "PlayStationClient": "scx1",
+      "UWPApp": "scx1",
+      "XboxClient": "scx1"
+    },
+    "zintegration": {
+      "AndroidApp": "scx1",
+      "iOSApp": "scx1",
+      "MacDesktopClient": "crhv1",
+      "MacStudioApp": "crhv1",
+      "PCDesktopClient": "crhv1",
+      "PCStudioApp": "crhv1",
+      "PlayStationClient": "scx1",
+      "UWPApp": "scx1",
+      "XboxClient": "scx1"
+    }
   }
 }

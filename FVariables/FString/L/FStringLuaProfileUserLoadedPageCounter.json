@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "LuaProfileUserLoadedPageAndroid",
-    "iOSApp": "LuaProfileUserLoadedPageiOS",
-    "MacDesktopClient": "LuaProfileUserLoadedPageMacClient",
-    "PCDesktopClient": "LuaProfileUserLoadedPageWindowsClient"
+    "LIVE": {
+      "AndroidApp": "LuaProfileUserLoadedPageAndroid",
+      "iOSApp": "LuaProfileUserLoadedPageiOS",
+      "MacDesktopClient": "LuaProfileUserLoadedPageMacClient",
+      "PCDesktopClient": "LuaProfileUserLoadedPageWindowsClient"
+    },
+    "zcanary": {
+      "AndroidApp": "LuaProfileUserLoadedPageAndroid",
+      "MacDesktopClient": "LuaProfileUserLoadedPageMacClient",
+      "PCDesktopClient": "LuaProfileUserLoadedPageWindowsClient"
+    },
+    "zintegration": {
+      "AndroidApp": "LuaProfileUserLoadedPageAndroid",
+      "iOSApp": "LuaProfileUserLoadedPageiOS",
+      "MacDesktopClient": "LuaProfileUserLoadedPageMacClient",
+      "PCDesktopClient": "LuaProfileUserLoadedPageWindowsClient"
+    }
   }
 }

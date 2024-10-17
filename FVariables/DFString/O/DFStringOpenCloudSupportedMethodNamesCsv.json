@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "userNotification,ListInventoryItems,GetUniverse,GetPlace,GetGroup,ListGroupMemberships,GetOperation,GenerateUserThumbnail"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "userNotification,ListInventoryItems,GetUniverse,GetPlace,GetGroup,ListGroupMemberships,GetOperation,GenerateUserThumbnail",
+    "zcanary": "userNotification,ListInventoryItems,GetUniverse,GetPlace,GetGroup,ListGroupMemberships,GetOperation,GenerateUserThumbnail",
+    "zintegration": "userNotification,ListInventoryItems,GetUniverse,GetPlace,GetGroup,ListGroupMemberships,GetOperation,GenerateUserThumbnail"
+  }
 }

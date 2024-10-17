@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "ecsv2"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "ecsv2",
+    "zcanary": "ecsv2",
+    "zintegration": "ecsv2"
+  }
 }

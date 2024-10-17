@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "CustomizeNameModalOpenedAndroid",
-    "iOSApp": "CustomizeNameModalOpenediOS",
-    "MacDesktopClient": "CustomizeNameModalOpenedMacClient",
-    "PCDesktopClient": "CustomizeNameModalOpenedWindowsClient"
+    "LIVE": {
+      "AndroidApp": "CustomizeNameModalOpenedAndroid",
+      "iOSApp": "CustomizeNameModalOpenediOS",
+      "MacDesktopClient": "CustomizeNameModalOpenedMacClient",
+      "PCDesktopClient": "CustomizeNameModalOpenedWindowsClient"
+    },
+    "zcanary": {
+      "AndroidApp": "CustomizeNameModalOpenedAndroid",
+      "MacDesktopClient": "CustomizeNameModalOpenedMacClient",
+      "PCDesktopClient": "CustomizeNameModalOpenedWindowsClient"
+    },
+    "zintegration": {
+      "AndroidApp": "CustomizeNameModalOpenedAndroid",
+      "iOSApp": "CustomizeNameModalOpenediOS",
+      "MacDesktopClient": "CustomizeNameModalOpenedMacClient",
+      "PCDesktopClient": "CustomizeNameModalOpenedWindowsClient"
+    }
   }
 }

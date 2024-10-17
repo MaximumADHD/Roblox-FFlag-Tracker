@@ -1,7 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "AndroidApp": "Social.ContactImporter",
-    "iOSApp": "Social.ContactImporter"
+    "LIVE": "Social.ContactImporter",
+    "zcanary": "Social.ContactImporter",
+    "zintegration": "Social.ContactImporter"
   }
 }

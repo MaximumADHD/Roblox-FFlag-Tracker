@@ -1,7 +1,16 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "iOSApp": "573;0",
-    "MacDesktopClient": "569;100"
+    "LIVE": {
+      "iOSApp": "573;0",
+      "MacDesktopClient": "569;100"
+    },
+    "zcanary": {
+      "MacDesktopClient": "569;100"
+    },
+    "zintegration": {
+      "iOSApp": "573;0",
+      "MacDesktopClient": "569;100"
+    }
   }
 }

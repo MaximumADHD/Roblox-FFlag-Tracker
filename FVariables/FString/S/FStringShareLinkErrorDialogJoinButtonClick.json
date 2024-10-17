@@ -1,7 +1,16 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ShareLinkErrorDialogJoinButtonClickAndroid",
-    "iOSApp": "ShareLinkErrorDialogJoinButtonClickiOS"
+    "LIVE": {
+      "AndroidApp": "ShareLinkErrorDialogJoinButtonClickAndroid",
+      "iOSApp": "ShareLinkErrorDialogJoinButtonClickiOS"
+    },
+    "zcanary": {
+      "AndroidApp": "ShareLinkErrorDialogJoinButtonClickAndroid"
+    },
+    "zintegration": {
+      "AndroidApp": "ShareLinkErrorDialogJoinButtonClickAndroid",
+      "iOSApp": "ShareLinkErrorDialogJoinButtonClickiOS"
+    }
   }
 }

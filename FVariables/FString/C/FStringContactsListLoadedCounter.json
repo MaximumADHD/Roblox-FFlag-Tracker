@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ContactsListLoadedAndroid",
-    "iOSApp": "ContactsListLoadediOS",
-    "MacDesktopClient": "ContactsListLoadedMacClient",
-    "PCDesktopClient": "ContactsListLoadedWindowsClient"
+    "LIVE": {
+      "AndroidApp": "ContactsListLoadedAndroid",
+      "iOSApp": "ContactsListLoadediOS",
+      "MacDesktopClient": "ContactsListLoadedMacClient",
+      "PCDesktopClient": "ContactsListLoadedWindowsClient"
+    },
+    "zcanary": {
+      "AndroidApp": "ContactsListLoadedAndroid",
+      "MacDesktopClient": "ContactsListLoadedMacClient",
+      "PCDesktopClient": "ContactsListLoadedWindowsClient"
+    },
+    "zintegration": {
+      "AndroidApp": "ContactsListLoadedAndroid",
+      "iOSApp": "ContactsListLoadediOS",
+      "MacDesktopClient": "ContactsListLoadedMacClient",
+      "PCDesktopClient": "ContactsListLoadedWindowsClient"
+    }
   }
 }

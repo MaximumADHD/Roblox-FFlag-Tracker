@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ContactImportModalPageLoadAndroid",
-    "iOSApp": "ContactImportModalPageLoadiOS",
-    "MacDesktopClient": "ContactImportModalPageLoadMacClient",
-    "PCDesktopClient": "ContactImportModalPageLoadWindowsClient"
+    "LIVE": {
+      "AndroidApp": "ContactImportModalPageLoadAndroid",
+      "iOSApp": "ContactImportModalPageLoadiOS",
+      "MacDesktopClient": "ContactImportModalPageLoadMacClient",
+      "PCDesktopClient": "ContactImportModalPageLoadWindowsClient"
+    },
+    "zcanary": {
+      "AndroidApp": "ContactImportModalPageLoadAndroid",
+      "MacDesktopClient": "ContactImportModalPageLoadMacClient",
+      "PCDesktopClient": "ContactImportModalPageLoadWindowsClient"
+    },
+    "zintegration": {
+      "AndroidApp": "ContactImportModalPageLoadAndroid",
+      "iOSApp": "ContactImportModalPageLoadiOS",
+      "MacDesktopClient": "ContactImportModalPageLoadMacClient",
+      "PCDesktopClient": "ContactImportModalPageLoadWindowsClient"
+    }
   }
 }

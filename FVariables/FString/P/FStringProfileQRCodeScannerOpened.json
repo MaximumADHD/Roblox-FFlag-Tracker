@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ProfileQRCodeScannerOpenedAndroid",
-    "iOSApp": "ProfileQRCodeScannerOpenediOS",
-    "MacDesktopClient": "ProfileQRCodeScannerOpenedMacClient",
-    "PCDesktopClient": "ProfileQRCodeScannerOpenedWindowsClient"
+    "LIVE": {
+      "AndroidApp": "ProfileQRCodeScannerOpenedAndroid",
+      "iOSApp": "ProfileQRCodeScannerOpenediOS",
+      "MacDesktopClient": "ProfileQRCodeScannerOpenedMacClient",
+      "PCDesktopClient": "ProfileQRCodeScannerOpenedWindowsClient"
+    },
+    "zcanary": {
+      "AndroidApp": "ProfileQRCodeScannerOpenedAndroid",
+      "MacDesktopClient": "ProfileQRCodeScannerOpenedMacClient",
+      "PCDesktopClient": "ProfileQRCodeScannerOpenedWindowsClient"
+    },
+    "zintegration": {
+      "AndroidApp": "ProfileQRCodeScannerOpenedAndroid",
+      "iOSApp": "ProfileQRCodeScannerOpenediOS",
+      "MacDesktopClient": "ProfileQRCodeScannerOpenedMacClient",
+      "PCDesktopClient": "ProfileQRCodeScannerOpenedWindowsClient"
+    }
   }
 }

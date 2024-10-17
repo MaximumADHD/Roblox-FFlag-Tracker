@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Intel(R) HD Graphics 4000;Intel(R) HD Graphics"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Intel(R) HD Graphics 4000;Intel(R) HD Graphics",
+    "zcanary": "Intel(R) HD Graphics 4000;Intel(R) HD Graphics",
+    "zintegration": "Intel(R) HD Graphics 4000;Intel(R) HD Graphics"
+  }
 }

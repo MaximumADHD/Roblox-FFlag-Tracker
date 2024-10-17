@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ProfileQRPageFriendRequestBannerShownAndroid",
-    "iOSApp": "ProfileQRPageFriendRequestBannerShowniOS",
-    "MacDesktopClient": "ProfileQRPageFriendRequestBannerShownMacClient",
-    "PCDesktopClient": "ProfileQRPageFriendRequestBannerShownWindowsClient"
+    "LIVE": {
+      "AndroidApp": "ProfileQRPageFriendRequestBannerShownAndroid",
+      "iOSApp": "ProfileQRPageFriendRequestBannerShowniOS",
+      "MacDesktopClient": "ProfileQRPageFriendRequestBannerShownMacClient",
+      "PCDesktopClient": "ProfileQRPageFriendRequestBannerShownWindowsClient"
+    },
+    "zcanary": {
+      "AndroidApp": "ProfileQRPageFriendRequestBannerShownAndroid",
+      "MacDesktopClient": "ProfileQRPageFriendRequestBannerShownMacClient",
+      "PCDesktopClient": "ProfileQRPageFriendRequestBannerShownWindowsClient"
+    },
+    "zintegration": {
+      "AndroidApp": "ProfileQRPageFriendRequestBannerShownAndroid",
+      "iOSApp": "ProfileQRPageFriendRequestBannerShowniOS",
+      "MacDesktopClient": "ProfileQRPageFriendRequestBannerShownMacClient",
+      "PCDesktopClient": "ProfileQRPageFriendRequestBannerShownWindowsClient"
+    }
   }
 }

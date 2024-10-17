@@ -1,7 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "AndroidApp": "IosDeprecationBodyPhase2Fallback",
-    "iOSApp": "IosDeprecationBodyPhase2Fallback"
+    "LIVE": "IosDeprecationBodyPhase2Fallback",
+    "zcanary": "IosDeprecationBodyPhase2Fallback",
+    "zintegration": "IosDeprecationBodyPhase2Fallback"
   }
 }

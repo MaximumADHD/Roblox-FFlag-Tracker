@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Audio,Video"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Audio,Video",
+    "zcanary": "Audio,Video",
+    "zintegration": "Audio,Video"
+  }
 }

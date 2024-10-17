@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "UserSearchLoadingTimeNextPageDoneAndroid",
-    "iOSApp": "UserSearchLoadingTimeNextPageDoneiOS",
-    "MacDesktopClient": "UserSearchLoadingTimeNextPageDoneMac",
-    "PCDesktopClient": "UserSearchLoadingTimeNextPageDoneWindows"
+    "LIVE": {
+      "AndroidApp": "UserSearchLoadingTimeNextPageDoneAndroid",
+      "iOSApp": "UserSearchLoadingTimeNextPageDoneiOS",
+      "MacDesktopClient": "UserSearchLoadingTimeNextPageDoneMac",
+      "PCDesktopClient": "UserSearchLoadingTimeNextPageDoneWindows"
+    },
+    "zcanary": {
+      "AndroidApp": "UserSearchLoadingTimeNextPageDoneAndroid",
+      "MacDesktopClient": "UserSearchLoadingTimeNextPageDoneMac",
+      "PCDesktopClient": "UserSearchLoadingTimeNextPageDoneWindows"
+    },
+    "zintegration": {
+      "AndroidApp": "UserSearchLoadingTimeNextPageDoneAndroid",
+      "iOSApp": "UserSearchLoadingTimeNextPageDoneiOS",
+      "MacDesktopClient": "UserSearchLoadingTimeNextPageDoneMac",
+      "PCDesktopClient": "UserSearchLoadingTimeNextPageDoneWindows"
+    }
   }
 }

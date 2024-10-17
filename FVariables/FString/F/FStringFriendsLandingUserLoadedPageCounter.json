@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "FriendsLandingUserLoadedPageAndroid",
-    "iOSApp": "FriendsLandingUserLoadedPageiOS",
-    "MacDesktopClient": "FriendsLandingUserLoadedPageMacClient",
-    "PCDesktopClient": "FriendsLandingUserLoadedPageWindowsClient"
+    "LIVE": {
+      "AndroidApp": "FriendsLandingUserLoadedPageAndroid",
+      "iOSApp": "FriendsLandingUserLoadedPageiOS",
+      "MacDesktopClient": "FriendsLandingUserLoadedPageMacClient",
+      "PCDesktopClient": "FriendsLandingUserLoadedPageWindowsClient"
+    },
+    "zcanary": {
+      "AndroidApp": "FriendsLandingUserLoadedPageAndroid",
+      "MacDesktopClient": "FriendsLandingUserLoadedPageMacClient",
+      "PCDesktopClient": "FriendsLandingUserLoadedPageWindowsClient"
+    },
+    "zintegration": {
+      "AndroidApp": "FriendsLandingUserLoadedPageAndroid",
+      "iOSApp": "FriendsLandingUserLoadedPageiOS",
+      "MacDesktopClient": "FriendsLandingUserLoadedPageMacClient",
+      "PCDesktopClient": "FriendsLandingUserLoadedPageWindowsClient"
+    }
   }
 }

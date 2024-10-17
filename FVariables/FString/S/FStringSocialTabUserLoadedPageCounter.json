@@ -1,7 +1,16 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "SocialTabUserLoadedPageAndroid",
-    "iOSApp": "SocialTabUserLoadedPageiOS"
+    "LIVE": {
+      "AndroidApp": "SocialTabUserLoadedPageAndroid",
+      "iOSApp": "SocialTabUserLoadedPageiOS"
+    },
+    "zcanary": {
+      "AndroidApp": "SocialTabUserLoadedPageAndroid"
+    },
+    "zintegration": {
+      "AndroidApp": "SocialTabUserLoadedPageAndroid",
+      "iOSApp": "SocialTabUserLoadedPageiOS"
+    }
   }
 }

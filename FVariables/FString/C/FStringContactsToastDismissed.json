@@ -1,7 +1,16 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ContactsToastDismissed_Android",
-    "iOSApp": "ContactsToastDismissed_iOS"
+    "LIVE": {
+      "AndroidApp": "ContactsToastDismissed_Android",
+      "iOSApp": "ContactsToastDismissed_iOS"
+    },
+    "zcanary": {
+      "AndroidApp": "ContactsToastDismissed_Android"
+    },
+    "zintegration": {
+      "AndroidApp": "ContactsToastDismissed_Android",
+      "iOSApp": "ContactsToastDismissed_iOS"
+    }
   }
 }

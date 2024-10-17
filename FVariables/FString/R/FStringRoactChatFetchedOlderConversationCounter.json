@@ -1,7 +1,16 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "RoactChatFetchedOlderConversationAndroid",
-    "iOSApp": "RoactChatFetchedOlderConversationiOS"
+    "LIVE": {
+      "AndroidApp": "RoactChatFetchedOlderConversationAndroid",
+      "iOSApp": "RoactChatFetchedOlderConversationiOS"
+    },
+    "zcanary": {
+      "AndroidApp": "RoactChatFetchedOlderConversationAndroid"
+    },
+    "zintegration": {
+      "AndroidApp": "RoactChatFetchedOlderConversationAndroid",
+      "iOSApp": "RoactChatFetchedOlderConversationiOS"
+    }
   }
 }

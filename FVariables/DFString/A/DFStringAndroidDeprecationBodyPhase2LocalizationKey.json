@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AndroidDeprecationBodyPhase2Fallback"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AndroidDeprecationBodyPhase2Fallback",
+    "zcanary": "AndroidDeprecationBodyPhase2Fallback",
+    "zintegration": "AndroidDeprecationBodyPhase2Fallback"
+  }
 }

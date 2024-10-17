@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
-    "iOSApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Sound Cache, RenderingQuality, Streaming Distance",
-    "MacDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
-    "MacStudioApp": "None",
-    "PCDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
-    "PCStudioApp": "None",
-    "PlayStationClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
-    "UWPApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
-    "XboxClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache"
+    "LIVE": {
+      "AndroidApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "iOSApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Sound Cache, RenderingQuality, Streaming Distance",
+      "MacDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "MacStudioApp": "None",
+      "PCDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "PCStudioApp": "None",
+      "PlayStationClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "UWPApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "XboxClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache"
+    },
+    "zcanary": {
+      "AndroidApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "MacDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "MacStudioApp": "None",
+      "PCDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "PCStudioApp": "None",
+      "PlayStationClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "UWPApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "XboxClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache"
+    },
+    "zintegration": {
+      "AndroidApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "iOSApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Sound Cache, RenderingQuality, Streaming Distance",
+      "MacDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "MacStudioApp": "None",
+      "PCDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "PCStudioApp": "None",
+      "PlayStationClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "UWPApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache",
+      "XboxClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache"
+    }
   }
 }

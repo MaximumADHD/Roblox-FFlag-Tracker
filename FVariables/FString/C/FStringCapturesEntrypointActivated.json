@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "CapturesEntrypointActivatedAndroid",
-    "iOSApp": "CapturesEntrypointActivatediOS",
-    "MacDesktopClient": "CapturesEntrypointActivatedMacClient",
-    "PCDesktopClient": "CapturesEntrypointActivatedWindowsClient"
+    "LIVE": {
+      "AndroidApp": "CapturesEntrypointActivatedAndroid",
+      "iOSApp": "CapturesEntrypointActivatediOS",
+      "MacDesktopClient": "CapturesEntrypointActivatedMacClient",
+      "PCDesktopClient": "CapturesEntrypointActivatedWindowsClient"
+    },
+    "zcanary": {
+      "AndroidApp": "CapturesEntrypointActivatedAndroid",
+      "MacDesktopClient": "CapturesEntrypointActivatedMacClient",
+      "PCDesktopClient": "CapturesEntrypointActivatedWindowsClient"
+    },
+    "zintegration": {
+      "AndroidApp": "CapturesEntrypointActivatedAndroid",
+      "iOSApp": "CapturesEntrypointActivatediOS",
+      "MacDesktopClient": "CapturesEntrypointActivatedMacClient",
+      "PCDesktopClient": "CapturesEntrypointActivatedWindowsClient"
+    }
   }
 }

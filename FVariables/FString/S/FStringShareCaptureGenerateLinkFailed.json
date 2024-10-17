@@ -1,9 +1,22 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ShareCaptureGenerateLinkFailedAndroid",
-    "iOSApp": "ShareCaptureGenerateLinkFailediOS",
-    "MacDesktopClient": "ShareCaptureGenerateLinkFailedMacClient",
-    "PCDesktopClient": "ShareCaptureGenerateLinkFailedWindowsClient"
+    "LIVE": {
+      "AndroidApp": "ShareCaptureGenerateLinkFailedAndroid",
+      "iOSApp": "ShareCaptureGenerateLinkFailediOS",
+      "MacDesktopClient": "ShareCaptureGenerateLinkFailedMacClient",
+      "PCDesktopClient": "ShareCaptureGenerateLinkFailedWindowsClient"
+    },
+    "zcanary": {
+      "AndroidApp": "ShareCaptureGenerateLinkFailedAndroid",
+      "MacDesktopClient": "ShareCaptureGenerateLinkFailedMacClient",
+      "PCDesktopClient": "ShareCaptureGenerateLinkFailedWindowsClient"
+    },
+    "zintegration": {
+      "AndroidApp": "ShareCaptureGenerateLinkFailedAndroid",
+      "iOSApp": "ShareCaptureGenerateLinkFailediOS",
+      "MacDesktopClient": "ShareCaptureGenerateLinkFailedMacClient",
+      "PCDesktopClient": "ShareCaptureGenerateLinkFailedWindowsClient"
+    }
   }
 }

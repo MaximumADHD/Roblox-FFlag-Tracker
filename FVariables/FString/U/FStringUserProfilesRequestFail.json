@@ -1,11 +1,28 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "UserProfilesRequestFailAndroid",
-    "iOSApp": "UserProfilesRequestFailiOS",
-    "MacDesktopClient": "UserProfilesRequestFailMacClient",
-    "PCDesktopClient": "UserProfilesRequestFailWindowsClient",
-    "PlayStationClient": "UserProfilesRequestFailPlayStation",
-    "XboxClient": "UserProfilesRequestFailXBoxClient"
+    "LIVE": {
+      "AndroidApp": "UserProfilesRequestFailAndroid",
+      "iOSApp": "UserProfilesRequestFailiOS",
+      "MacDesktopClient": "UserProfilesRequestFailMacClient",
+      "PCDesktopClient": "UserProfilesRequestFailWindowsClient",
+      "PlayStationClient": "UserProfilesRequestFailPlayStation",
+      "XboxClient": "UserProfilesRequestFailXBoxClient"
+    },
+    "zcanary": {
+      "AndroidApp": "UserProfilesRequestFailAndroid",
+      "MacDesktopClient": "UserProfilesRequestFailMacClient",
+      "PCDesktopClient": "UserProfilesRequestFailWindowsClient",
+      "PlayStationClient": "UserProfilesRequestFailPlayStation",
+      "XboxClient": "UserProfilesRequestFailXBoxClient"
+    },
+    "zintegration": {
+      "AndroidApp": "UserProfilesRequestFailAndroid",
+      "iOSApp": "UserProfilesRequestFailiOS",
+      "MacDesktopClient": "UserProfilesRequestFailMacClient",
+      "PCDesktopClient": "UserProfilesRequestFailWindowsClient",
+      "PlayStationClient": "UserProfilesRequestFailPlayStation",
+      "XboxClient": "UserProfilesRequestFailXBoxClient"
+    }
   }
 }

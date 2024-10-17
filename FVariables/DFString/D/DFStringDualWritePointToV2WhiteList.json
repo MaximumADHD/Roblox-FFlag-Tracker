@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking,GameServerStartupTelemetry,GameServerShutdownEvent"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking,GameServerStartupTelemetry,GameServerShutdownEvent",
+    "zcanary": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking,GameServerStartupTelemetry,GameServerShutdownEvent",
+    "zintegration": "ImmersiveAdRender,app_launch_flow,RCCInstanceTracking,GameServerStartupTelemetry,GameServerShutdownEvent"
+  }
 }
