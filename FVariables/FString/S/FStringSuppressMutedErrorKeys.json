@@ -1,7 +1,10 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "AdjustAccessoryView",
-    "zintegration": "AdjustAccessoryView"
+    "iOSApp": "AdjustAccessoryView",
+    "MacDesktopClient": "AdjustAccessoryView",
+    "MacStudioApp": "AdjustAccessoryView",
+    "PCDesktopClient": "AdjustAccessoryView",
+    "PCStudioApp": "AdjustAccessoryView"
   }
 }

@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "CapturesShareToastButtonActivatedAndroid",
-      "iOSApp": "CapturesShareToastButtonActivatediOS",
-      "MacDesktopClient": "CapturesShareToastButtonActivatedMacClient",
-      "PCDesktopClient": "CapturesShareToastButtonActivatedWindowsClient"
-    },
-    "zcanary": {
-      "AndroidApp": "CapturesShareToastButtonActivatedAndroid",
-      "MacDesktopClient": "CapturesShareToastButtonActivatedMacClient",
-      "PCDesktopClient": "CapturesShareToastButtonActivatedWindowsClient"
-    },
-    "zintegration": {
-      "AndroidApp": "CapturesShareToastButtonActivatedAndroid",
-      "iOSApp": "CapturesShareToastButtonActivatediOS",
-      "MacDesktopClient": "CapturesShareToastButtonActivatedMacClient",
-      "PCDesktopClient": "CapturesShareToastButtonActivatedWindowsClient"
-    }
+    "AndroidApp": "CapturesShareToastButtonActivatedAndroid",
+    "iOSApp": "CapturesShareToastButtonActivatediOS",
+    "MacDesktopClient": "CapturesShareToastButtonActivatedMacClient",
+    "PCDesktopClient": "CapturesShareToastButtonActivatedWindowsClient"
   }
 }

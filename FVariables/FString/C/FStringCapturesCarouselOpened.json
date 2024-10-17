@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "CapturesCarouselOpenedAndroid",
-      "iOSApp": "CapturesCarouselOpenediOS",
-      "MacDesktopClient": "CapturesCarouselOpenedMacClient",
-      "PCDesktopClient": "CapturesCarouselOpenedWindowsClient"
-    },
-    "zcanary": {
-      "AndroidApp": "CapturesCarouselOpenedAndroid",
-      "MacDesktopClient": "CapturesCarouselOpenedMacClient",
-      "PCDesktopClient": "CapturesCarouselOpenedWindowsClient"
-    },
-    "zintegration": {
-      "AndroidApp": "CapturesCarouselOpenedAndroid",
-      "iOSApp": "CapturesCarouselOpenediOS",
-      "MacDesktopClient": "CapturesCarouselOpenedMacClient",
-      "PCDesktopClient": "CapturesCarouselOpenedWindowsClient"
-    }
+    "AndroidApp": "CapturesCarouselOpenedAndroid",
+    "iOSApp": "CapturesCarouselOpenediOS",
+    "MacDesktopClient": "CapturesCarouselOpenedMacClient",
+    "PCDesktopClient": "CapturesCarouselOpenedWindowsClient"
   }
 }

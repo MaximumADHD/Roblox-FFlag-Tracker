@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "eventstream.esp.creatoranalytics.StandardProgressionEvent",
-    "zcanary": "eventstream.esp.creatoranalytics.StandardProgressionEvent",
-    "zintegration": "eventstream.esp.creatoranalytics.StandardProgressionEvent"
-  }
+  "Type": "Unified",
+  "Value": "eventstream.esp.creatoranalytics.StandardProgressionEvent"
 }

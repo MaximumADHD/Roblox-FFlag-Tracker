@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "EditProfileOpenedAndroid",
-      "iOSApp": "EditProfileOpenediOS",
-      "MacDesktopClient": "EditProfileOpenedMacClient",
-      "PCDesktopClient": "EditProfileOpenedWindowsClient"
-    },
-    "zcanary": {
-      "AndroidApp": "EditProfileOpenedAndroid",
-      "MacDesktopClient": "EditProfileOpenedMacClient",
-      "PCDesktopClient": "EditProfileOpenedWindowsClient"
-    },
-    "zintegration": {
-      "AndroidApp": "EditProfileOpenedAndroid",
-      "iOSApp": "EditProfileOpenediOS",
-      "MacDesktopClient": "EditProfileOpenedMacClient",
-      "PCDesktopClient": "EditProfileOpenedWindowsClient"
-    }
+    "AndroidApp": "EditProfileOpenedAndroid",
+    "iOSApp": "EditProfileOpenediOS",
+    "MacDesktopClient": "EditProfileOpenedMacClient",
+    "PCDesktopClient": "EditProfileOpenedWindowsClient"
   }
 }

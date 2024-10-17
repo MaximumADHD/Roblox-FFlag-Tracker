@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "DiscoverabilityModalLoadAndroid",
-      "iOSApp": "DiscoverabilityModalLoadiOS",
-      "MacDesktopClient": "DiscoverabilityModalLoadMacClient",
-      "PCDesktopClient": "DiscoverabilityModalLoadWindowsClient"
-    },
-    "zcanary": {
-      "AndroidApp": "DiscoverabilityModalLoadAndroid",
-      "MacDesktopClient": "DiscoverabilityModalLoadMacClient",
-      "PCDesktopClient": "DiscoverabilityModalLoadWindowsClient"
-    },
-    "zintegration": {
-      "AndroidApp": "DiscoverabilityModalLoadAndroid",
-      "iOSApp": "DiscoverabilityModalLoadiOS",
-      "MacDesktopClient": "DiscoverabilityModalLoadMacClient",
-      "PCDesktopClient": "DiscoverabilityModalLoadWindowsClient"
-    }
+    "AndroidApp": "DiscoverabilityModalLoadAndroid",
+    "iOSApp": "DiscoverabilityModalLoadiOS",
+    "MacDesktopClient": "DiscoverabilityModalLoadMacClient",
+    "PCDesktopClient": "DiscoverabilityModalLoadWindowsClient"
   }
 }

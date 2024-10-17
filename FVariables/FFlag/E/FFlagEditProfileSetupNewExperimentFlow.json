@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": true,
-      "iOSApp": true,
-      "MacDesktopClient": false,
-      "PCDesktopClient": false
-    },
-    "zcanary": {
-      "AndroidApp": true,
-      "MacDesktopClient": false,
-      "PCDesktopClient": false
-    },
-    "zintegration": {
-      "AndroidApp": true,
-      "iOSApp": true,
-      "MacDesktopClient": false,
-      "PCDesktopClient": false
-    }
+    "AndroidApp": true,
+    "iOSApp": true,
+    "MacDesktopClient": false,
+    "PCDesktopClient": false
   }
 }

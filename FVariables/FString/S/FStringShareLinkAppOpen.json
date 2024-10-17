@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ShareLinkAppOpenAndroid",
-      "iOSApp": "ShareLinkAppOpeniOS",
-      "MacDesktopClient": "ShareLinkAppOpenMacClient",
-      "PCDesktopClient": "ShareLinkAppOpenWindowsClient"
-    },
-    "zcanary": {
-      "AndroidApp": "ShareLinkAppOpenAndroid",
-      "MacDesktopClient": "ShareLinkAppOpenMacClient",
-      "PCDesktopClient": "ShareLinkAppOpenWindowsClient"
-    },
-    "zintegration": {
-      "AndroidApp": "ShareLinkAppOpenAndroid",
-      "iOSApp": "ShareLinkAppOpeniOS",
-      "MacDesktopClient": "ShareLinkAppOpenMacClient",
-      "PCDesktopClient": "ShareLinkAppOpenWindowsClient"
-    }
+    "AndroidApp": "ShareLinkAppOpenAndroid",
+    "iOSApp": "ShareLinkAppOpeniOS",
+    "MacDesktopClient": "ShareLinkAppOpenMacClient",
+    "PCDesktopClient": "ShareLinkAppOpenWindowsClient"
   }
 }

@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "FFlagStudioFlushDeferredEventsBlock, FFlagFixMissingStudioStartupSummaryEvent, FFlagFixWinStudioMissingStartEvent",
-    "zcanary": "FFlagStudioFlushDeferredEventsBlock, FFlagFixMissingStudioStartupSummaryEvent, FFlagFixWinStudioMissingStartEvent",
-    "zintegration": "FFlagStudioFlushDeferredEventsBlock, FFlagFixMissingStudioStartupSummaryEvent, FFlagFixWinStudioMissingStartEvent"
-  }
+  "Type": "Unified",
+  "Value": "FFlagStudioFlushDeferredEventsBlock, FFlagFixMissingStudioStartupSummaryEvent, FFlagFixWinStudioMissingStartEvent"
 }

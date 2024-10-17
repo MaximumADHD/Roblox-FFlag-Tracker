@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ContactImportingTime_Android",
-      "iOSApp": "ContactImportingTime_iOS",
-      "MacDesktopClient": "ContactImportingTime_MacClient",
-      "PCDesktopClient": "ContactImportingTime_WindowsClient"
-    },
-    "zcanary": {
-      "AndroidApp": "ContactImportingTime_Android",
-      "MacDesktopClient": "ContactImportingTime_MacClient",
-      "PCDesktopClient": "ContactImportingTime_WindowsClient"
-    },
-    "zintegration": {
-      "AndroidApp": "ContactImportingTime_Android",
-      "iOSApp": "ContactImportingTime_iOS",
-      "MacDesktopClient": "ContactImportingTime_MacClient",
-      "PCDesktopClient": "ContactImportingTime_WindowsClient"
-    }
+    "AndroidApp": "ContactImportingTime_Android",
+    "iOSApp": "ContactImportingTime_iOS",
+    "MacDesktopClient": "ContactImportingTime_MacClient",
+    "PCDesktopClient": "ContactImportingTime_WindowsClient"
   }
 }

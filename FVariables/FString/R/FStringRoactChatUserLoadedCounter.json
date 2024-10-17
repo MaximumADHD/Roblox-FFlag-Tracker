@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "RoactChatUserLoadedAndroid",
-      "iOSApp": "RoactChatUserLoadediOS",
-      "MacDesktopClient": "RoactChatUserLoadedDUAR",
-      "PCDesktopClient": "RoactChatUserLoadedDUAR"
-    },
-    "zcanary": {
-      "AndroidApp": "RoactChatUserLoadedAndroid",
-      "MacDesktopClient": "RoactChatUserLoadedDUAR",
-      "PCDesktopClient": "RoactChatUserLoadedDUAR"
-    },
-    "zintegration": {
-      "AndroidApp": "RoactChatUserLoadedAndroid",
-      "iOSApp": "RoactChatUserLoadediOS",
-      "MacDesktopClient": "RoactChatUserLoadedDUAR",
-      "PCDesktopClient": "RoactChatUserLoadedDUAR"
-    }
+    "AndroidApp": "RoactChatUserLoadedAndroid",
+    "iOSApp": "RoactChatUserLoadediOS",
+    "MacDesktopClient": "RoactChatUserLoadedDUAR",
+    "PCDesktopClient": "RoactChatUserLoadedDUAR"
   }
 }

@@ -1,16 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ContactsToastButtonPressed_Android",
-      "iOSApp": "ContactsToastButtonPressed_iOS"
-    },
-    "zcanary": {
-      "AndroidApp": "ContactsToastButtonPressed_Android"
-    },
-    "zintegration": {
-      "AndroidApp": "ContactsToastButtonPressed_Android",
-      "iOSApp": "ContactsToastButtonPressed_iOS"
-    }
+    "AndroidApp": "ContactsToastButtonPressed_Android",
+    "iOSApp": "ContactsToastButtonPressed_iOS"
   }
 }

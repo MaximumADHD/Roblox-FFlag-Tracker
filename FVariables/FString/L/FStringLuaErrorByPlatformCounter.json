@@ -1,31 +1,12 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "LuaErrorPlatformAndroid",
-      "iOSApp": "LuaErrorPlatformIOS",
-      "MacDesktopClient": "LuaErrorPlatformOSX",
-      "PCDesktopClient": "LuaErrorPlatformWin32UA",
-      "PlayStationClient": "LuaErrorPlatformPlaystation",
-      "UWPApp": "LuaErrorPlatformUWP",
-      "XboxClient": "LuaErrorPlatformXbox"
-    },
-    "zcanary": {
-      "AndroidApp": "LuaErrorPlatformAndroid",
-      "MacDesktopClient": "LuaErrorPlatformOSX",
-      "PCDesktopClient": "LuaErrorPlatformWin32UA",
-      "PlayStationClient": "LuaErrorPlatformPlaystation",
-      "UWPApp": "LuaErrorPlatformUWP",
-      "XboxClient": "LuaErrorPlatformXbox"
-    },
-    "zintegration": {
-      "AndroidApp": "LuaErrorPlatformAndroid",
-      "iOSApp": "LuaErrorPlatformIOS",
-      "MacDesktopClient": "LuaErrorPlatformOSX",
-      "PCDesktopClient": "LuaErrorPlatformWin32UA",
-      "PlayStationClient": "LuaErrorPlatformPlaystation",
-      "UWPApp": "LuaErrorPlatformUWP",
-      "XboxClient": "LuaErrorPlatformXbox"
-    }
+    "AndroidApp": "LuaErrorPlatformAndroid",
+    "iOSApp": "LuaErrorPlatformIOS",
+    "MacDesktopClient": "LuaErrorPlatformOSX",
+    "PCDesktopClient": "LuaErrorPlatformWin32UA",
+    "PlayStationClient": "LuaErrorPlatformPlaystation",
+    "UWPApp": "LuaErrorPlatformUWP",
+    "XboxClient": "LuaErrorPlatformXbox"
   }
 }

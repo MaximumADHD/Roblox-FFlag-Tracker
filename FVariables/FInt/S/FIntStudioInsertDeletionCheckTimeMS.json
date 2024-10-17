@@ -1,8 +1,13 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": 30000,
-    "zcanary": 30000,
-    "zintegration": 30000
+    "AndroidApp": 30000,
+    "iOSApp": 30000,
+    "MacDesktopClient": 30000,
+    "MacStudioApp": 30000,
+    "PCDesktopClient": 30000,
+    "PCStudioApp": 30000,
+    "UWPApp": 30000,
+    "XboxClient": 30000
   }
 }

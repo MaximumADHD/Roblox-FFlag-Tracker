@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "CapturesPageOpenedInGameMenuAndroid",
-      "iOSApp": "CapturesPageOpenedInGameMenuiOS",
-      "MacDesktopClient": "CapturesPageOpenedInGameMenuMacClient",
-      "PCDesktopClient": "CapturesPageOpenedInGameMenuWindowsClient"
-    },
-    "zcanary": {
-      "AndroidApp": "CapturesPageOpenedInGameMenuAndroid",
-      "MacDesktopClient": "CapturesPageOpenedInGameMenuMacClient",
-      "PCDesktopClient": "CapturesPageOpenedInGameMenuWindowsClient"
-    },
-    "zintegration": {
-      "AndroidApp": "CapturesPageOpenedInGameMenuAndroid",
-      "iOSApp": "CapturesPageOpenedInGameMenuiOS",
-      "MacDesktopClient": "CapturesPageOpenedInGameMenuMacClient",
-      "PCDesktopClient": "CapturesPageOpenedInGameMenuWindowsClient"
-    }
+    "AndroidApp": "CapturesPageOpenedInGameMenuAndroid",
+    "iOSApp": "CapturesPageOpenedInGameMenuiOS",
+    "MacDesktopClient": "CapturesPageOpenedInGameMenuMacClient",
+    "PCDesktopClient": "CapturesPageOpenedInGameMenuWindowsClient"
   }
 }
