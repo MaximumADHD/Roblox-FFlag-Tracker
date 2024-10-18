@@ -1,7 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacStudioApp": "647;SteadyState;10;30;Rollout;100;30;Promote;2024-10-18T17:16:57",
-    "PCStudioApp": "647;SteadyState;10;30;Rollout;100;30;Promote;2024-10-18T17:16:57"
+    "LIVE": "647;SteadyState;10;30;Rollout;100;30;Promote;2024-10-18T17:16:57",
+    "zcanary": "647;SteadyState;10;30;Rollout;100;30;Promote;2024-10-18T17:16:57",
+    "zintegration": "647;SteadyState;10;30;Rollout;100;30;Promote;2024-10-18T17:16:57"
   }
 }
