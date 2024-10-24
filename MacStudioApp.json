@@ -51,6 +51,7 @@
   "DFIntHttpParallelLimit_RequestHttpServiceStudioPlugins": 5,
   "DFIntHttpResponseDefaultTimeoutMillis": 120000,
   "DFIntLuauTypeSolverRelease": 647,
+  "DFIntMultiPartUploadConcurrentRequestLimit_Staged": "2;SteadyState;10;30;Rollout;100;30;Promote;2024-10-24T21:16:24",
   "DFIntMultiPartUploadMaxChunkSizeByte": 10485760,
   "DFIntOAuth2AuthorizeHttpRequestReportingHundredthsPercent": 10000,
   "DFIntPacakgeServiceReportFailedRequestsRate": 10000,
