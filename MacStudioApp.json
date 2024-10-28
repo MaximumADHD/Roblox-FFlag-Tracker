@@ -55,6 +55,7 @@
   "DFIntMultiPartUploadMaxChunkSizeByte": 10485760,
   "DFIntOAuth2AuthorizeHttpRequestReportingHundredthsPercent": 10000,
   "DFIntPacakgeServiceReportFailedRequestsRate": 10000,
+  "DFIntRbxStorageErrorLogHundredthsPercent_Staged": "500;SteadyState;10;30;Rollout;100;30;Promote;2024-10-28T22:25:44",
   "DFIntReportCloudEditJoinFailureReportPerMyriad": 10000,
   "DFIntSimCloseVoxelBadMeshTelemetryHundredthsPercentage": 1000,
   "DFIntSimEditableMemoryBudgetHigh": 2147483647,
