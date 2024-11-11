@@ -47,7 +47,7 @@
   "DFFlagHttpDisableSslReleaseBuffers_DataCenterFilter": "true;265;370;295",
   "DFFlagHttpReportWhenAppSuspended": true,
   "DFFlagPerformanceControlAddMemoryPercentageTelemetry": true,
-  "DFFlagPerformanceControlAllowDisjointMemoryBufferSteps_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-11T18:15:47",
+  "DFFlagPerformanceControlAllowDisjointMemoryBufferSteps": true,
   "DFFlagPlayerConfigurerRunLMSTest": true,
   "DFFlagPredictedOOM": true,
   "DFFlagReportAppSuspended": false,
