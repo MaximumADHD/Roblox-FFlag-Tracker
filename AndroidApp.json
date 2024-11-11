@@ -46,7 +46,7 @@
   "DFFlagHttpCacheReportSlowWrites": true,
   "DFFlagHttpDisableSslReleaseBuffers_DataCenterFilter": "true;265;370;295",
   "DFFlagHttpReportWhenAppSuspended": true,
-  "DFFlagPerformanceControlAddMemoryPercentageTelemetry_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-11T17:45:25",
+  "DFFlagPerformanceControlAddMemoryPercentageTelemetry": true,
   "DFFlagPerformanceControlAllowDisjointMemoryBufferSteps_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-11T18:15:47",
   "DFFlagPlayerConfigurerRunLMSTest": true,
   "DFFlagPredictedOOM": true,
