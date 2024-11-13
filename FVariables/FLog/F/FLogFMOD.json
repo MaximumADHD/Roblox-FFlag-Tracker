@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "Error,6"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "Error,6",
+    "iOSApp": "Error,6",
+    "MacDesktopClient": "Verbose,6",
+    "MacStudioApp": "Error,6",
+    "PCDesktopClient": "Error,6",
+    "PCStudioApp": "Error,6",
+    "PlayStationClient": "Error,6",
+    "UWPApp": "Error,6",
+    "XboxClient": "Error,6"
+  }
 }
