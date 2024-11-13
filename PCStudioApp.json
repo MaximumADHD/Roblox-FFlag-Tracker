@@ -740,6 +740,7 @@
   "FFlagViewSelectorFixes": true,
   "FFlagWASDKeyIgnore": true,
   "FIntAssetsUploadUseMultiPartSizeThresholdBytes": 20971520,
+  "FIntAutoSaveAfterUserInputThresholdMs_Staged": "5000;SteadyState;10;30;Rollout;100;30;Promote;2024-11-13T21:47:41",
   "FIntAutoSaveTimeoutIntervalMs": 30000,
   "FIntCAP1209EventIngestThrottle": 10000,
   "FIntComponentCommandsTelemetryHundredthsPercent": 2500,
