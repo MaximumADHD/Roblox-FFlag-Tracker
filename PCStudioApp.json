@@ -752,7 +752,7 @@
   "FFlagWASDKeyIgnore": true,
   "FIntAssetsUploadUseMultiPartSizeThresholdBytes": 7340032,
   "FIntAutoSaveAfterUserInputThresholdMs": 5000,
-  "FIntAutoSaveFailSafeThresholdMs_Staged": "420000;SteadyState;10;30;Rollout;100;30;Promote;2024-11-13T22:59:27",
+  "FIntAutoSaveFailSafeThresholdMs": 420000,
   "FIntAutoSaveTimeoutIntervalMs": 30000,
   "FIntCAP1209EventIngestThrottle": 10000,
   "FIntComponentCommandsTelemetryHundredthsPercent": 2500,
