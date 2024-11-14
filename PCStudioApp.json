@@ -44,7 +44,7 @@
   "DFIntAnalyticsDeferredEventIngestMaxPostByteSize": 10000,
   "DFIntAnalyticsDeferredEventIngestReportBatchFullHundredthsPercentage": 1000,
   "DFIntAnalyticsDeferredEventIngestReportTooLargeErrorHundredthsPercentage": 1000,
-  "DFIntAutocompletePerformanceTelemetryThrottlePercent_Rollout": "1000;60;2024-11-14T18:42:19",
+  "DFIntAutocompletePerformanceTelemetryThrottlePercent": 1000,
   "DFIntConnectionMTUSize": 1200,
   "DFIntContentProviderReportBlockedRequestsRate": 500,
   "DFIntHttpParallelLimit_RequestHttpService": 8,
