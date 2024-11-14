@@ -48,7 +48,7 @@
   "DFIntAnalyticsDeferredEventIngestReportTooLargeErrorHundredthsPercentage": 1000,
   "DFIntAssetCacheErrorLogHundredthsPercent": 100,
   "DFIntAssetCacheInitHundredthsPercent": 100,
-  "DFIntAutocompletePerformanceTelemetryThrottlePercent": 2000,
+  "DFIntAutocompletePerformanceTelemetryThrottlePercent_Rollout": "1000;60;2024-11-14T18:42:19",
   "DFIntConnectionMTUSize": 1200,
   "DFIntContentProviderReportBlockedRequestsRate": 500,
   "DFIntHttpParallelLimit_RequestHttpService": 8,
