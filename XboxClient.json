@@ -1,6 +1,7 @@
 {
   "DFFlagAddPlaySessionIdToAutoSelectGuiInvoked": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
+  "DFFlagFlagRolloutTestDynamicBool1_Staged": "false;SteadyState;10;30;Rollout;100;30;Promote;2024-12-17T22:42:39",
   "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": true,
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagReportAutoSelectGuiInvoked": true,
@@ -39,6 +40,8 @@
   "FFlagFix10ftGlobalNavSelection": true,
   "FFlagFixGamepadDisconnectHighlight2": true,
   "FFlagFixTenFootUiExperienceGridPadding": true,
+  "FFlagFlagRolloutTestStaticBool18_Staged": "false;SteadyState;10;30;Rollout;100;30;Promote;2024-12-17T22:42:39",
+  "FFlagFlagRolloutTestStaticBool19_Staged": "false;SteadyState;10;30;Rollout;100;30;Promote;2024-12-17T22:42:39",
   "FFlagFriendCarouselGetCarouseListSorting": true,
   "FFlagFriendCarouselHas10ftPolicies": true,
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": true,
