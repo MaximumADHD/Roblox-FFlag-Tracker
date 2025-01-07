@@ -48,6 +48,7 @@
   "DFIntMultiPartUploadMaxChunkSizeByte": 7340032,
   "DFIntOAuth2AuthorizeHttpRequestReportingHundredthsPercent": 10000,
   "DFIntPacakgeServiceReportFailedRequestsRate": 10000,
+  "DFIntPropertyUsageEventThrottleHundredthsPercent_Staged": "500;SteadyState;10;30;Rollout;100;30;Promote;2025-01-07T23:21:28",
   "DFIntReportCloudEditJoinFailureReportPerMyriad": 10000,
   "DFIntRobloxTelemetryConnectionIndicatorSaveFailure": 10000,
   "DFIntRobloxTelemetryTeamCreateRecoveryFileFailure": 10000,
