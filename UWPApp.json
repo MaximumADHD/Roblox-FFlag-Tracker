@@ -4,6 +4,7 @@
   "DFIntNavigationBuildLayerRegionMinRegions_Staged": "4;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T23:01:01",
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
+  "FFlagAddAnalyticsForImprovedSearchStatsPerRequest_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T23:02:04",
   "FFlagEnableSSABootstrapStandardization": true,
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
