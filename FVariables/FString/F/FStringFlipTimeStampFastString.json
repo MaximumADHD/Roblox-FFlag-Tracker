@@ -1,4 +1,50 @@
 {
-  "Type": "Unified",
-  "Value": "01/09/2025 18:14:15"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "01/09/2025 18:18:03",
+      "iOSApp": "01/09/2025 18:18:03",
+      "MacClientBootstrapper": "01/09/2025 18:18:03",
+      "MacDesktopClient": "01/09/2025 18:18:03",
+      "MacStudioApp": "01/09/2025 18:20:02",
+      "MacStudioBootstrapper": "01/09/2025 18:18:03",
+      "PCClientBootstrapper": "01/09/2025 18:18:03",
+      "PCDesktopClient": "01/09/2025 18:18:03",
+      "PCStudioApp": "01/09/2025 18:18:03",
+      "PCStudioBootstrapper": "01/09/2025 18:18:03",
+      "PlayStationClient": "01/09/2025 18:18:03",
+      "UWPApp": "01/09/2025 18:18:03",
+      "XboxClient": "01/09/2025 18:18:03"
+    },
+    "zcanary": {
+      "AndroidApp": "01/09/2025 18:18:03",
+      "iOSApp": "01/09/2025 18:18:03",
+      "MacClientBootstrapper": "01/09/2025 18:18:03",
+      "MacDesktopClient": "01/09/2025 18:20:02",
+      "MacStudioApp": "01/09/2025 18:18:03",
+      "MacStudioBootstrapper": "01/09/2025 18:20:02",
+      "PCClientBootstrapper": "01/09/2025 18:20:02",
+      "PCDesktopClient": "01/09/2025 18:18:03",
+      "PCStudioApp": "01/09/2025 18:20:02",
+      "PCStudioBootstrapper": "01/09/2025 18:18:03",
+      "PlayStationClient": "01/09/2025 18:20:02",
+      "UWPApp": "01/09/2025 18:20:02",
+      "XboxClient": "01/09/2025 18:20:02"
+    },
+    "zintegration": {
+      "AndroidApp": "01/09/2025 18:20:02",
+      "iOSApp": "01/09/2025 18:18:03",
+      "MacClientBootstrapper": "01/09/2025 18:18:03",
+      "MacDesktopClient": "01/09/2025 18:18:03",
+      "MacStudioApp": "01/09/2025 18:18:03",
+      "MacStudioBootstrapper": "01/09/2025 18:18:03",
+      "PCClientBootstrapper": "01/09/2025 18:20:02",
+      "PCDesktopClient": "01/09/2025 18:20:02",
+      "PCStudioApp": "01/09/2025 18:20:02",
+      "PCStudioBootstrapper": "01/09/2025 18:20:02",
+      "PlayStationClient": "01/09/2025 18:20:02",
+      "UWPApp": "01/09/2025 18:18:03",
+      "XboxClient": "01/09/2025 18:20:02"
+    }
+  }
 }
