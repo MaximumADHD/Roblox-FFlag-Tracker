@@ -4,6 +4,8 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagEnableSSABootstrapStandardization": true,
+  "FFlagFixShowMusicFtuxTooltipWithoutConnect_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T18:19:22",
+  "FFlagNavigationFixInvalidPolyRef_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T17:18:39",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FFlagUWPSkipNetworkCheck": true,
