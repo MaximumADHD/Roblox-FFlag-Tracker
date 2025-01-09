@@ -7,7 +7,6 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagCevIdleTimeoutTelemetry_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T19:33:44",
-  "FFlagCEVLowMemoryWarningAnalytics_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T19:28:46",
   "FFlagEnableCrossExpVoiceEvents6_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T20:07:26",
   "FFlagEnableCrossExpVoiceVolumeIXPCheck_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T20:06:28",
   "FFlagEnablePartyVoiceCrossContextIdValidation_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T20:06:07",
@@ -21,7 +20,7 @@
   "FFlagSongbirdFixMobileReportAudioPopup_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T20:29:14",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
-  "FFlagUwpMarshalStoreErrors_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-09T19:29:22",
+  "FFlagUwpMarshalStoreErrors": true,
   "FFlagUWPSkipNetworkCheck": true,
   "FFlagUWPTTIStartupCheck": true,
   "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
