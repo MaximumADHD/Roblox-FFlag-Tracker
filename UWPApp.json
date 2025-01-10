@@ -5,6 +5,8 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagEnableSSABootstrapStandardization": true,
+  "FFlagIncludeMediaPickerPermissions": true,
+  "FFlagSQLiteDisableIntegrityCheck": true,
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FFlagUwpMarshalStoreErrors": true,
