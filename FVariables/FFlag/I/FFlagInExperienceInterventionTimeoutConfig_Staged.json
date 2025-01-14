@@ -1,6 +1,7 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zcanary": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-14T21:33:16"
+    "MacDesktopClient": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-14T21:33:16",
+    "MacStudioApp": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-14T21:33:16"
   }
 }
