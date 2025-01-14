@@ -436,6 +436,7 @@
   "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": true,
   "FFlagLuauCodegenScriptStatsNativeCodeSize": true,
   "FFlagLuauDontRefCountTypesInTypeFunctions": true,
+  "FFlagLuauGeneralizationRemoveRecursiveUpperBound_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-14T18:38:33",
   "FFlagLuauMoreThoroughCycleDetection": true,
   "FFlagLuauNativeCodegenBetaFeature": false,
   "FFlagLuauNewSolverVisitErrorExprLvalues": true,
