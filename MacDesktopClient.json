@@ -8,6 +8,7 @@
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHttpClientCookieProtocolMetrics": true,
   "DFFlagHttpClientCookieStoreMetrics": true,
+  "DFFlagOptimizePropertyGetSet_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-15T23:55:03",
   "DFFlagPath2DAnalyticsEnabled2_PlaceFilter": "true;17833603397",
   "DFFlagReportPath2DAnalyticsEnabled_Perf_PlaceFilter": "true;17833603397",
   "DFFlagTrackDPJProgress": true,
