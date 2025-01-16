@@ -1,5 +1,7 @@
 {
   "DFFlagAddPlaySessionIdToAutoSelectGuiInvoked": true,
+  "DFFlagEnableFullScreenWebview_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T21:48:33",
+  "DFFlagFixCommerceWebviewAutoDismiss_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T21:48:36",
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagFlagRolloutTestDynamicBool1": false,
   "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": true,
@@ -31,6 +33,7 @@
   "FFlagEnableAddFriendsPageSearchBar": false,
   "FFlagEnableBigGameIconInDetailsPage": true,
   "FFlagEnableCentralOverlayForUpsellPrompt": false,
+  "FFlagEnableCommerceWebviewDomaAsTitleOnDesktop2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T21:48:57",
   "FFlagEnableExperienceCoordinator6": true,
   "FFlagEnableExternalBrowserForVPCPrivacyPolicy": true,
   "FFlagEnableTenftUiDetailsMoreDropupMenu": true,
