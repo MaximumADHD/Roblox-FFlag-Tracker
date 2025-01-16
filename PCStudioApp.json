@@ -344,6 +344,7 @@
   "FFlagFixActivityHistoryJSONParseError2": true,
   "FFlagFixAssetAccessFlagging": true,
   "FFlagFixAudioTagTranslations": true,
+  "FFlagFixCancellableDialogManagerOnDialogShownCrash_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T18:20:09",
   "FFlagFixCancellableDialogResizing": true,
   "FFlagFixCancellableResultWaiterCrash": true,
   "FFlagFixCloseTestClientServerAssert": true,
