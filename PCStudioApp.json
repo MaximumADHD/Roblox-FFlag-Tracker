@@ -12,9 +12,9 @@
   "DFFlagEditableSkipPolicyCheckForStudioEditMode": true,
   "DFFlagEnableBindToCloseReasonAPI": true,
   "DFFlagEnableBindToCloseReasonAPI_PlaceFilter": "true;13887077177;14195623932;14195710068;12355337193;13771457545;14195703130;654732683;17536323620;1647610087;2822651599;2822652045;3396618760",
-  "DFFlagEnableLuaAdPlayer_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-23T02:55:07",
+  "DFFlagEnableLuaAdPlayer": true,
   "DFFlagEnableStudioPluginsParallelRequests": true,
-  "DFFlagEnableStudioTestRewardedAds_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-23T02:55:07",
+  "DFFlagEnableStudioTestRewardedAds": true,
   "DFFlagHttpServiceGenerateGuidLowercase": true,
   "DFFlagInvalidNumPropertyAssignWarning": true,
   "DFFlagMultipartUploadSemaphore": true,
@@ -36,7 +36,7 @@
   "DFFlagSimStepPhysicsImprovedSubStepping": true,
   "DFFlagSkipInternalScriptCodegenErrorMessage": true,
   "DFFlagStrictStringConvertWarning2": true,
-  "DFFlagVideoFrameSupportAdsVideo_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-23T02:55:07",
+  "DFFlagVideoFrameSupportAdsVideo": true,
   "DFIntAnalyticsDeferredEventIngestMaxPostByteSize": 10000,
   "DFIntAnalyticsDeferredEventIngestReportBatchFullHundredthsPercentage": 1000,
   "DFIntAnalyticsDeferredEventIngestReportTooLargeErrorHundredthsPercentage": 1000,
@@ -904,7 +904,7 @@
   "FStringCompatibilityLightingMigrationDevForumURL": "https://devforum.roblox.com/t/compatibility-lighting-becomes-retro-tone-mapping-sunset-migration/3128560",
   "FStringDragDetectorsBetaFeatureUrl": "https://devforum.roblox.com/t/dragdetectors-beta/2387249",
   "FStringDraggerImprovements2BetaFeatureUrl": "https://devforum.roblox.com/t/dragger-qol-improvements-beta/2661668",
-  "FStringEnableStudioTestingRewardedVideoAdsPlayerAllowList_Staged": "1202096104,184199275,2549475383,4908792642,5422546686;SteadyState;10;30;Rollout;100;30;Promote;2025-01-23T02:55:07",
+  "FStringEnableStudioTestingRewardedVideoAdsPlayerAllowList": "1202096104,184199275,2549475383,4908792642,5422546686",
   "FStringImportQueueBetaFeatureUrl": "https://devforum.roblox.com/t/beta-3d-importer-import-queue/3172286",
   "FStringNextGenStudioBetaFeatureUrl": "https://devforum.roblox.com/t/next-gen-studio-ui-preview-is-here-beta/3075390",
   "FStringPath2DBetaBetaFeatureUrl": "https://devforum.roblox.com/t/path2d-studio-beta/2868432",
@@ -917,5 +917,5 @@
   "FStringStudioDefaultNewTemplatePlaceId": 95206881,
   "FStringStudioPluginsBacktraceToken": "37f816e4fd552fe0e43209ded2937e0d8a9bfd1790b866891988b56bc6f9410c",
   "FStringStudioTaskRegistryLogPinpoint": "StartPageBridge/openLoadingPage",
-  "FStringStudioTestRewardedVideoAdAssetUrl_Staged": "rbxassetid://77013990375904;SteadyState;10;30;Rollout;100;30;Promote;2025-01-23T02:55:07"
+  "FStringStudioTestRewardedVideoAdAssetUrl": "rbxassetid://77013990375904"
 }
