@@ -467,7 +467,7 @@
   "FFlagLuauMoreThoroughCycleDetection": true,
   "FFlagLuauNativeCodegenBetaFeature": false,
   "FFlagLuauNewSolverVisitErrorExprLvalues": true,
-  "FFlagLuauOldSolverCreatesChildScopePointers_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T21:46:22",
+  "FFlagLuauOldSolverCreatesChildScopePointers": true,
   "FFlagLuauRemoveNotAnyHack": true,
   "FFlagLuauRetrySubtypingWithoutHiddenPack": true,
   "FFlagLuauSymbolEquality_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:22:54",
