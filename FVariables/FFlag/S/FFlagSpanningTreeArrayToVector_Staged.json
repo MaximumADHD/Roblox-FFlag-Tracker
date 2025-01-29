@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:27:00"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:27:00",
+    "iOSApp": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:27:00",
+    "MacDesktopClient": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:28:44",
+    "MacStudioApp": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:28:44",
+    "PCDesktopClient": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:27:00",
+    "PCStudioApp": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:28:44",
+    "PlayStationClient": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:27:00",
+    "UWPApp": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:27:00",
+    "XboxClient": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-29T22:27:00"
+  }
 }
