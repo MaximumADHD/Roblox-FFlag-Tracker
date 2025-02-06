@@ -909,6 +909,7 @@
   "FIntAutoSaveFailSafeThresholdMs": 420000,
   "FIntAutoSaveTimeoutIntervalMs": 30000,
   "FIntCAP1209EventIngestThrottle": 10000,
+  "FIntChatInterventionUIRateLimitWindowSec_Staged": "5;SteadyState;10;30;Rollout;100;30;Promote;2025-02-06T20:44:23",
   "FIntComponentCommandsTelemetryHundredthsPercent": 2500,
   "FIntEnableModerationControllerHundredthPercent": 10000,
   "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
