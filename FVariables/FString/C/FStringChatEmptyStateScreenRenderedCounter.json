@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ChatEmptyStateScreenRenderedAndroid",
-      "iOSApp": "ChatEmptyStateScreenRenderediOS",
-      "MacDesktopClient": "ChatEmptyStateScreenRenderedDUAR",
-      "MacStudioApp": "ChatEmptyStateScreenRenderedCommon",
-      "PCDesktopClient": "ChatEmptyStateScreenRenderedDUAR",
-      "PCStudioApp": "ChatEmptyStateScreenRenderedCommon",
-      "PlayStationClient": "ChatEmptyStateScreenRenderedCommon",
-      "UWPApp": "ChatEmptyStateScreenRenderedCommon",
-      "XboxClient": "ChatEmptyStateScreenRenderedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ChatEmptyStateScreenRenderedAndroid",
-      "iOSApp": "ChatEmptyStateScreenRenderediOS",
-      "MacDesktopClient": "ChatEmptyStateScreenRenderedDUAR",
-      "MacStudioApp": "ChatEmptyStateScreenRenderedCommon",
-      "PCDesktopClient": "ChatEmptyStateScreenRenderedDUAR",
-      "PCStudioApp": "ChatEmptyStateScreenRenderedCommon",
-      "PlayStationClient": "ChatEmptyStateScreenRenderedCommon",
-      "UWPApp": "ChatEmptyStateScreenRenderedCommon",
-      "XboxClient": "ChatEmptyStateScreenRenderedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ChatEmptyStateScreenRenderedAndroid",
-      "iOSApp": "ChatEmptyStateScreenRenderediOS",
-      "MacDesktopClient": "ChatEmptyStateScreenRenderedDUAR",
-      "MacStudioApp": "ChatEmptyStateScreenRenderedCommon",
-      "PCDesktopClient": "ChatEmptyStateScreenRenderedDUAR",
-      "PlayStationClient": "ChatEmptyStateScreenRenderedCommon",
-      "UWPApp": "ChatEmptyStateScreenRenderedCommon",
-      "XboxClient": "ChatEmptyStateScreenRenderedCommon"
-    }
+    "AndroidApp": "ChatEmptyStateScreenRenderedAndroid",
+    "iOSApp": "ChatEmptyStateScreenRenderediOS",
+    "MacDesktopClient": "ChatEmptyStateScreenRenderedDUAR",
+    "MacStudioApp": "ChatEmptyStateScreenRenderedCommon",
+    "PCDesktopClient": "ChatEmptyStateScreenRenderedDUAR",
+    "PCStudioApp": "ChatEmptyStateScreenRenderedCommon",
+    "PlayStationClient": "ChatEmptyStateScreenRenderedCommon",
+    "UWPApp": "ChatEmptyStateScreenRenderedCommon",
+    "XboxClient": "ChatEmptyStateScreenRenderedCommon"
   }
 }

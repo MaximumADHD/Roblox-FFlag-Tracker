@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "{\\\"memCurve\\\":[{\\\"maxsize\\\":3300,\\\"reserve\\\":0.0},{\\\"maxsize\\\":4400,\\\"reserve\\\":0.09},{\\\"maxsize\\\":6600,\\\"reserve\\\":0.0}]}",
-      "iOSApp": "{}",
-      "MacDesktopClient": "{}",
-      "MacStudioApp": "{}",
-      "PCDesktopClient": "{}",
-      "PCStudioApp": "{}",
-      "PlayStationClient": "{}",
-      "UWPApp": "{}",
-      "XboxClient": "{}"
-    },
-    "zcanary": {
-      "AndroidApp": "{\\\"memCurve\\\":[{\\\"maxsize\\\":3300,\\\"reserve\\\":0.0},{\\\"maxsize\\\":4400,\\\"reserve\\\":0.09},{\\\"maxsize\\\":6600,\\\"reserve\\\":0.0}]}",
-      "iOSApp": "{}",
-      "MacDesktopClient": "{}",
-      "MacStudioApp": "{}",
-      "PCDesktopClient": "{}",
-      "PCStudioApp": "{}",
-      "PlayStationClient": "{}",
-      "UWPApp": "{}",
-      "XboxClient": "{}"
-    },
-    "zintegration": {
-      "AndroidApp": "{\\\"memCurve\\\":[{\\\"maxsize\\\":3300,\\\"reserve\\\":0.0},{\\\"maxsize\\\":4400,\\\"reserve\\\":0.09},{\\\"maxsize\\\":6600,\\\"reserve\\\":0.0}]}",
-      "iOSApp": "{}",
-      "MacDesktopClient": "{}",
-      "MacStudioApp": "{}",
-      "PCDesktopClient": "{}",
-      "PlayStationClient": "{}",
-      "UWPApp": "{}",
-      "XboxClient": "{}"
-    }
+    "AndroidApp": "{\\\"memCurve\\\":[{\\\"maxsize\\\":3300,\\\"reserve\\\":0.0},{\\\"maxsize\\\":4400,\\\"reserve\\\":0.09},{\\\"maxsize\\\":6600,\\\"reserve\\\":0.0}]}",
+    "iOSApp": "{}",
+    "MacDesktopClient": "{}",
+    "MacStudioApp": "{}",
+    "PCDesktopClient": "{}",
+    "PCStudioApp": "{}",
+    "PlayStationClient": "{}",
+    "UWPApp": "{}",
+    "XboxClient": "{}"
   }
 }

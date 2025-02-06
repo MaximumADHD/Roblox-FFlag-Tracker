@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ConversationPvDialogRenderedAndroid",
-      "iOSApp": "ConversationPvDialogRenderediOS",
-      "MacDesktopClient": "ConversationPvDialogRenderedDUAR",
-      "MacStudioApp": "ConversationPvDialogRenderedCommon",
-      "PCDesktopClient": "ConversationPvDialogRenderedDUAR",
-      "PCStudioApp": "ConversationPvDialogRenderedCommon",
-      "PlayStationClient": "ConversationPvDialogRenderedCommon",
-      "UWPApp": "ConversationPvDialogRenderedCommon",
-      "XboxClient": "ConversationPvDialogRenderedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ConversationPvDialogRenderedAndroid",
-      "iOSApp": "ConversationPvDialogRenderediOS",
-      "MacDesktopClient": "ConversationPvDialogRenderedDUAR",
-      "MacStudioApp": "ConversationPvDialogRenderedCommon",
-      "PCDesktopClient": "ConversationPvDialogRenderedDUAR",
-      "PCStudioApp": "ConversationPvDialogRenderedCommon",
-      "PlayStationClient": "ConversationPvDialogRenderedCommon",
-      "UWPApp": "ConversationPvDialogRenderedCommon",
-      "XboxClient": "ConversationPvDialogRenderedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ConversationPvDialogRenderedAndroid",
-      "iOSApp": "ConversationPvDialogRenderediOS",
-      "MacDesktopClient": "ConversationPvDialogRenderedDUAR",
-      "MacStudioApp": "ConversationPvDialogRenderedCommon",
-      "PCDesktopClient": "ConversationPvDialogRenderedDUAR",
-      "PlayStationClient": "ConversationPvDialogRenderedCommon",
-      "UWPApp": "ConversationPvDialogRenderedCommon",
-      "XboxClient": "ConversationPvDialogRenderedCommon"
-    }
+    "AndroidApp": "ConversationPvDialogRenderedAndroid",
+    "iOSApp": "ConversationPvDialogRenderediOS",
+    "MacDesktopClient": "ConversationPvDialogRenderedDUAR",
+    "MacStudioApp": "ConversationPvDialogRenderedCommon",
+    "PCDesktopClient": "ConversationPvDialogRenderedDUAR",
+    "PCStudioApp": "ConversationPvDialogRenderedCommon",
+    "PlayStationClient": "ConversationPvDialogRenderedCommon",
+    "UWPApp": "ConversationPvDialogRenderedCommon",
+    "XboxClient": "ConversationPvDialogRenderedCommon"
   }
 }

@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ConversationInfoBtnClickedAndroid",
-      "iOSApp": "ConversationInfoBtnClickediOS",
-      "MacDesktopClient": "ConversationInfoBtnClickedDUAR",
-      "MacStudioApp": "ConversationInfoBtnClickedCommon",
-      "PCDesktopClient": "ConversationInfoBtnClickedDUAR",
-      "PCStudioApp": "ConversationInfoBtnClickedCommon",
-      "PlayStationClient": "ConversationInfoBtnClickedCommon",
-      "UWPApp": "ConversationInfoBtnClickedCommon",
-      "XboxClient": "ConversationInfoBtnClickedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ConversationInfoBtnClickedAndroid",
-      "iOSApp": "ConversationInfoBtnClickediOS",
-      "MacDesktopClient": "ConversationInfoBtnClickedDUAR",
-      "MacStudioApp": "ConversationInfoBtnClickedCommon",
-      "PCDesktopClient": "ConversationInfoBtnClickedDUAR",
-      "PCStudioApp": "ConversationInfoBtnClickedCommon",
-      "PlayStationClient": "ConversationInfoBtnClickedCommon",
-      "UWPApp": "ConversationInfoBtnClickedCommon",
-      "XboxClient": "ConversationInfoBtnClickedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ConversationInfoBtnClickedAndroid",
-      "iOSApp": "ConversationInfoBtnClickediOS",
-      "MacDesktopClient": "ConversationInfoBtnClickedDUAR",
-      "MacStudioApp": "ConversationInfoBtnClickedCommon",
-      "PCDesktopClient": "ConversationInfoBtnClickedDUAR",
-      "PlayStationClient": "ConversationInfoBtnClickedCommon",
-      "UWPApp": "ConversationInfoBtnClickedCommon",
-      "XboxClient": "ConversationInfoBtnClickedCommon"
-    }
+    "AndroidApp": "ConversationInfoBtnClickedAndroid",
+    "iOSApp": "ConversationInfoBtnClickediOS",
+    "MacDesktopClient": "ConversationInfoBtnClickedDUAR",
+    "MacStudioApp": "ConversationInfoBtnClickedCommon",
+    "PCDesktopClient": "ConversationInfoBtnClickedDUAR",
+    "PCStudioApp": "ConversationInfoBtnClickedCommon",
+    "PlayStationClient": "ConversationInfoBtnClickedCommon",
+    "UWPApp": "ConversationInfoBtnClickedCommon",
+    "XboxClient": "ConversationInfoBtnClickedCommon"
   }
 }

@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ChatDetailsCreateUnfilteredChatCellRenderedAndroid",
-      "iOSApp": "ChatDetailsCreateUnfilteredChatCellRenderediOS",
-      "MacDesktopClient": "ChatDetailsCreateUnfilteredChatCellRenderedDUAR",
-      "MacStudioApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "PCDesktopClient": "ChatDetailsCreateUnfilteredChatCellRenderedDUAR",
-      "PCStudioApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "PlayStationClient": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "UWPApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "XboxClient": "ChatDetailsCreateUnfilteredChatCellRenderedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ChatDetailsCreateUnfilteredChatCellRenderedAndroid",
-      "iOSApp": "ChatDetailsCreateUnfilteredChatCellRenderediOS",
-      "MacDesktopClient": "ChatDetailsCreateUnfilteredChatCellRenderedDUAR",
-      "MacStudioApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "PCDesktopClient": "ChatDetailsCreateUnfilteredChatCellRenderedDUAR",
-      "PCStudioApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "PlayStationClient": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "UWPApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "XboxClient": "ChatDetailsCreateUnfilteredChatCellRenderedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ChatDetailsCreateUnfilteredChatCellRenderedAndroid",
-      "iOSApp": "ChatDetailsCreateUnfilteredChatCellRenderediOS",
-      "MacDesktopClient": "ChatDetailsCreateUnfilteredChatCellRenderedDUAR",
-      "MacStudioApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "PCDesktopClient": "ChatDetailsCreateUnfilteredChatCellRenderedDUAR",
-      "PlayStationClient": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "UWPApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
-      "XboxClient": "ChatDetailsCreateUnfilteredChatCellRenderedCommon"
-    }
+    "AndroidApp": "ChatDetailsCreateUnfilteredChatCellRenderedAndroid",
+    "iOSApp": "ChatDetailsCreateUnfilteredChatCellRenderediOS",
+    "MacDesktopClient": "ChatDetailsCreateUnfilteredChatCellRenderedDUAR",
+    "MacStudioApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
+    "PCDesktopClient": "ChatDetailsCreateUnfilteredChatCellRenderedDUAR",
+    "PCStudioApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
+    "PlayStationClient": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
+    "UWPApp": "ChatDetailsCreateUnfilteredChatCellRenderedCommon",
+    "XboxClient": "ChatDetailsCreateUnfilteredChatCellRenderedCommon"
   }
 }

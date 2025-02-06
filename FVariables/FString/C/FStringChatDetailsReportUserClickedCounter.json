@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ChatDetailsReportUserClickedAndroid",
-      "iOSApp": "ChatDetailsReportUserClickediOS",
-      "MacDesktopClient": "ChatDetailsReportUserClickedDUAR",
-      "MacStudioApp": "ChatDetailsReportUserClickedCommon",
-      "PCDesktopClient": "ChatDetailsReportUserClickedDUAR",
-      "PCStudioApp": "ChatDetailsReportUserClickedCommon",
-      "PlayStationClient": "ChatDetailsReportUserClickedCommon",
-      "UWPApp": "ChatDetailsReportUserClickedCommon",
-      "XboxClient": "ChatDetailsReportUserClickedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ChatDetailsReportUserClickedAndroid",
-      "iOSApp": "ChatDetailsReportUserClickediOS",
-      "MacDesktopClient": "ChatDetailsReportUserClickedDUAR",
-      "MacStudioApp": "ChatDetailsReportUserClickedCommon",
-      "PCDesktopClient": "ChatDetailsReportUserClickedDUAR",
-      "PCStudioApp": "ChatDetailsReportUserClickedCommon",
-      "PlayStationClient": "ChatDetailsReportUserClickedCommon",
-      "UWPApp": "ChatDetailsReportUserClickedCommon",
-      "XboxClient": "ChatDetailsReportUserClickedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ChatDetailsReportUserClickedAndroid",
-      "iOSApp": "ChatDetailsReportUserClickediOS",
-      "MacDesktopClient": "ChatDetailsReportUserClickedDUAR",
-      "MacStudioApp": "ChatDetailsReportUserClickedCommon",
-      "PCDesktopClient": "ChatDetailsReportUserClickedDUAR",
-      "PlayStationClient": "ChatDetailsReportUserClickedCommon",
-      "UWPApp": "ChatDetailsReportUserClickedCommon",
-      "XboxClient": "ChatDetailsReportUserClickedCommon"
-    }
+    "AndroidApp": "ChatDetailsReportUserClickedAndroid",
+    "iOSApp": "ChatDetailsReportUserClickediOS",
+    "MacDesktopClient": "ChatDetailsReportUserClickedDUAR",
+    "MacStudioApp": "ChatDetailsReportUserClickedCommon",
+    "PCDesktopClient": "ChatDetailsReportUserClickedDUAR",
+    "PCStudioApp": "ChatDetailsReportUserClickedCommon",
+    "PlayStationClient": "ChatDetailsReportUserClickedCommon",
+    "UWPApp": "ChatDetailsReportUserClickedCommon",
+    "XboxClient": "ChatDetailsReportUserClickedCommon"
   }
 }

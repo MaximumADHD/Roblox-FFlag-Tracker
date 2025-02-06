@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ConversationPvDialogSucceededAndroid",
-      "iOSApp": "ConversationPvDialogSucceedediOS",
-      "MacDesktopClient": "ConversationPvDialogSucceededDUAR",
-      "MacStudioApp": "ConversationPvDialogSucceededCommon",
-      "PCDesktopClient": "ConversationPvDialogSucceededDUAR",
-      "PCStudioApp": "ConversationPvDialogSucceededCommon",
-      "PlayStationClient": "ConversationPvDialogSucceededCommon",
-      "UWPApp": "ConversationPvDialogSucceededCommon",
-      "XboxClient": "ConversationPvDialogSucceededCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ConversationPvDialogSucceededAndroid",
-      "iOSApp": "ConversationPvDialogSucceedediOS",
-      "MacDesktopClient": "ConversationPvDialogSucceededDUAR",
-      "MacStudioApp": "ConversationPvDialogSucceededCommon",
-      "PCDesktopClient": "ConversationPvDialogSucceededDUAR",
-      "PCStudioApp": "ConversationPvDialogSucceededCommon",
-      "PlayStationClient": "ConversationPvDialogSucceededCommon",
-      "UWPApp": "ConversationPvDialogSucceededCommon",
-      "XboxClient": "ConversationPvDialogSucceededCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ConversationPvDialogSucceededAndroid",
-      "iOSApp": "ConversationPvDialogSucceedediOS",
-      "MacDesktopClient": "ConversationPvDialogSucceededDUAR",
-      "MacStudioApp": "ConversationPvDialogSucceededCommon",
-      "PCDesktopClient": "ConversationPvDialogSucceededDUAR",
-      "PlayStationClient": "ConversationPvDialogSucceededCommon",
-      "UWPApp": "ConversationPvDialogSucceededCommon",
-      "XboxClient": "ConversationPvDialogSucceededCommon"
-    }
+    "AndroidApp": "ConversationPvDialogSucceededAndroid",
+    "iOSApp": "ConversationPvDialogSucceedediOS",
+    "MacDesktopClient": "ConversationPvDialogSucceededDUAR",
+    "MacStudioApp": "ConversationPvDialogSucceededCommon",
+    "PCDesktopClient": "ConversationPvDialogSucceededDUAR",
+    "PCStudioApp": "ConversationPvDialogSucceededCommon",
+    "PlayStationClient": "ConversationPvDialogSucceededCommon",
+    "UWPApp": "ConversationPvDialogSucceededCommon",
+    "XboxClient": "ConversationPvDialogSucceededCommon"
   }
 }

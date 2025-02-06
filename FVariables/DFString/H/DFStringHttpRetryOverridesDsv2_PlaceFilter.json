@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "429:GET:api.roblox.com:/marketplace/game-pass-product-info:none::|503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6;8357510970",
-    "zcanary": "429:GET:api.roblox.com:/marketplace/game-pass-product-info:none::|503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6;8357510970",
-    "zintegration": "429:GET:api.roblox.com:/marketplace/game-pass-product-info:none::|503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6;8357510970"
-  }
+  "Type": "Unified",
+  "Value": "429:GET:api.roblox.com:/marketplace/game-pass-product-info:none::|503:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6|429:POST:gamejoin.roblox.com:/v1/{join-endpoint}:linear:10:6;8357510970"
 }

@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ConversationUpgradeDialogActionClickedAndroid",
-      "iOSApp": "ConversationUpgradeDialogActionClickediOS",
-      "MacDesktopClient": "ConversationUpgradeDialogActionClickedDUAR",
-      "MacStudioApp": "ConversationUpgradeDialogActionClickedCommon",
-      "PCDesktopClient": "ConversationUpgradeDialogActionClickedDUAR",
-      "PCStudioApp": "ConversationUpgradeDialogActionClickedCommon",
-      "PlayStationClient": "ConversationUpgradeDialogActionClickedCommon",
-      "UWPApp": "ConversationUpgradeDialogActionClickedCommon",
-      "XboxClient": "ConversationUpgradeDialogActionClickedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ConversationUpgradeDialogActionClickedAndroid",
-      "iOSApp": "ConversationUpgradeDialogActionClickediOS",
-      "MacDesktopClient": "ConversationUpgradeDialogActionClickedDUAR",
-      "MacStudioApp": "ConversationUpgradeDialogActionClickedCommon",
-      "PCDesktopClient": "ConversationUpgradeDialogActionClickedDUAR",
-      "PCStudioApp": "ConversationUpgradeDialogActionClickedCommon",
-      "PlayStationClient": "ConversationUpgradeDialogActionClickedCommon",
-      "UWPApp": "ConversationUpgradeDialogActionClickedCommon",
-      "XboxClient": "ConversationUpgradeDialogActionClickedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ConversationUpgradeDialogActionClickedAndroid",
-      "iOSApp": "ConversationUpgradeDialogActionClickediOS",
-      "MacDesktopClient": "ConversationUpgradeDialogActionClickedDUAR",
-      "MacStudioApp": "ConversationUpgradeDialogActionClickedCommon",
-      "PCDesktopClient": "ConversationUpgradeDialogActionClickedDUAR",
-      "PlayStationClient": "ConversationUpgradeDialogActionClickedCommon",
-      "UWPApp": "ConversationUpgradeDialogActionClickedCommon",
-      "XboxClient": "ConversationUpgradeDialogActionClickedCommon"
-    }
+    "AndroidApp": "ConversationUpgradeDialogActionClickedAndroid",
+    "iOSApp": "ConversationUpgradeDialogActionClickediOS",
+    "MacDesktopClient": "ConversationUpgradeDialogActionClickedDUAR",
+    "MacStudioApp": "ConversationUpgradeDialogActionClickedCommon",
+    "PCDesktopClient": "ConversationUpgradeDialogActionClickedDUAR",
+    "PCStudioApp": "ConversationUpgradeDialogActionClickedCommon",
+    "PlayStationClient": "ConversationUpgradeDialogActionClickedCommon",
+    "UWPApp": "ConversationUpgradeDialogActionClickedCommon",
+    "XboxClient": "ConversationUpgradeDialogActionClickedCommon"
   }
 }

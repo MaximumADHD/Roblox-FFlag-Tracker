@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ConversationPvDialogActionClickedAndroid",
-      "iOSApp": "ConversationPvDialogActionClickediOS",
-      "MacDesktopClient": "ConversationPvDialogActionClickedDUAR",
-      "MacStudioApp": "ConversationPvDialogActionClickedCommon",
-      "PCDesktopClient": "ConversationPvDialogActionClickedDUAR",
-      "PCStudioApp": "ConversationPvDialogActionClickedCommon",
-      "PlayStationClient": "ConversationPvDialogActionClickedCommon",
-      "UWPApp": "ConversationPvDialogActionClickedCommon",
-      "XboxClient": "ConversationPvDialogActionClickedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ConversationPvDialogActionClickedAndroid",
-      "iOSApp": "ConversationPvDialogActionClickediOS",
-      "MacDesktopClient": "ConversationPvDialogActionClickedDUAR",
-      "MacStudioApp": "ConversationPvDialogActionClickedCommon",
-      "PCDesktopClient": "ConversationPvDialogActionClickedDUAR",
-      "PCStudioApp": "ConversationPvDialogActionClickedCommon",
-      "PlayStationClient": "ConversationPvDialogActionClickedCommon",
-      "UWPApp": "ConversationPvDialogActionClickedCommon",
-      "XboxClient": "ConversationPvDialogActionClickedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ConversationPvDialogActionClickedAndroid",
-      "iOSApp": "ConversationPvDialogActionClickediOS",
-      "MacDesktopClient": "ConversationPvDialogActionClickedDUAR",
-      "MacStudioApp": "ConversationPvDialogActionClickedCommon",
-      "PCDesktopClient": "ConversationPvDialogActionClickedDUAR",
-      "PlayStationClient": "ConversationPvDialogActionClickedCommon",
-      "UWPApp": "ConversationPvDialogActionClickedCommon",
-      "XboxClient": "ConversationPvDialogActionClickedCommon"
-    }
+    "AndroidApp": "ConversationPvDialogActionClickedAndroid",
+    "iOSApp": "ConversationPvDialogActionClickediOS",
+    "MacDesktopClient": "ConversationPvDialogActionClickedDUAR",
+    "MacStudioApp": "ConversationPvDialogActionClickedCommon",
+    "PCDesktopClient": "ConversationPvDialogActionClickedDUAR",
+    "PCStudioApp": "ConversationPvDialogActionClickedCommon",
+    "PlayStationClient": "ConversationPvDialogActionClickedCommon",
+    "UWPApp": "ConversationPvDialogActionClickedCommon",
+    "XboxClient": "ConversationPvDialogActionClickedCommon"
   }
 }

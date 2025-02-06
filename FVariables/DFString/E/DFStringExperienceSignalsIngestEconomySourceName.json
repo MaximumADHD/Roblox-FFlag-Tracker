@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "eventstream.esp.creatoranalytics.StandardEconomyEvent",
-    "zcanary": "eventstream.esp.creatoranalytics.StandardEconomyEvent",
-    "zintegration": "eventstream.esp.creatoranalytics.StandardEconomyEvent"
-  }
+  "Type": "Unified",
+  "Value": "eventstream.esp.creatoranalytics.StandardEconomyEvent"
 }

@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ConversationUpgradeBannerRenderedAndroid",
-      "iOSApp": "ConversationUpgradeBannerRenderediOS",
-      "MacDesktopClient": "ConversationUpgradeBannerRenderedDUAR",
-      "MacStudioApp": "ConversationUpgradeBannerRenderedCommon",
-      "PCDesktopClient": "ConversationUpgradeBannerRenderedDUAR",
-      "PCStudioApp": "ConversationUpgradeBannerRenderedCommon",
-      "PlayStationClient": "ConversationUpgradeBannerRenderedCommon",
-      "UWPApp": "ConversationUpgradeBannerRenderedCommon",
-      "XboxClient": "ConversationUpgradeBannerRenderedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ConversationUpgradeBannerRenderedAndroid",
-      "iOSApp": "ConversationUpgradeBannerRenderediOS",
-      "MacDesktopClient": "ConversationUpgradeBannerRenderedDUAR",
-      "MacStudioApp": "ConversationUpgradeBannerRenderedCommon",
-      "PCDesktopClient": "ConversationUpgradeBannerRenderedDUAR",
-      "PCStudioApp": "ConversationUpgradeBannerRenderedCommon",
-      "PlayStationClient": "ConversationUpgradeBannerRenderedCommon",
-      "UWPApp": "ConversationUpgradeBannerRenderedCommon",
-      "XboxClient": "ConversationUpgradeBannerRenderedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ConversationUpgradeBannerRenderedAndroid",
-      "iOSApp": "ConversationUpgradeBannerRenderediOS",
-      "MacDesktopClient": "ConversationUpgradeBannerRenderedDUAR",
-      "MacStudioApp": "ConversationUpgradeBannerRenderedCommon",
-      "PCDesktopClient": "ConversationUpgradeBannerRenderedDUAR",
-      "PlayStationClient": "ConversationUpgradeBannerRenderedCommon",
-      "UWPApp": "ConversationUpgradeBannerRenderedCommon",
-      "XboxClient": "ConversationUpgradeBannerRenderedCommon"
-    }
+    "AndroidApp": "ConversationUpgradeBannerRenderedAndroid",
+    "iOSApp": "ConversationUpgradeBannerRenderediOS",
+    "MacDesktopClient": "ConversationUpgradeBannerRenderedDUAR",
+    "MacStudioApp": "ConversationUpgradeBannerRenderedCommon",
+    "PCDesktopClient": "ConversationUpgradeBannerRenderedDUAR",
+    "PCStudioApp": "ConversationUpgradeBannerRenderedCommon",
+    "PlayStationClient": "ConversationUpgradeBannerRenderedCommon",
+    "UWPApp": "ConversationUpgradeBannerRenderedCommon",
+    "XboxClient": "ConversationUpgradeBannerRenderedCommon"
   }
 }

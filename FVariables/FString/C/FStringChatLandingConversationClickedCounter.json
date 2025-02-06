@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ChatLandingConversationClickedAndroid",
-      "iOSApp": "ChatLandingConversationClickediOS",
-      "MacDesktopClient": "ChatLandingConversationClickedDUAR",
-      "MacStudioApp": "ChatLandingConversationClickedCommon",
-      "PCDesktopClient": "ChatLandingConversationClickedDUAR",
-      "PCStudioApp": "ChatLandingConversationClickedCommon",
-      "PlayStationClient": "ChatLandingConversationClickedCommon",
-      "UWPApp": "ChatLandingConversationClickedCommon",
-      "XboxClient": "ChatLandingConversationClickedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ChatLandingConversationClickedAndroid",
-      "iOSApp": "ChatLandingConversationClickediOS",
-      "MacDesktopClient": "ChatLandingConversationClickedDUAR",
-      "MacStudioApp": "ChatLandingConversationClickedCommon",
-      "PCDesktopClient": "ChatLandingConversationClickedDUAR",
-      "PCStudioApp": "ChatLandingConversationClickedCommon",
-      "PlayStationClient": "ChatLandingConversationClickedCommon",
-      "UWPApp": "ChatLandingConversationClickedCommon",
-      "XboxClient": "ChatLandingConversationClickedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ChatLandingConversationClickedAndroid",
-      "iOSApp": "ChatLandingConversationClickediOS",
-      "MacDesktopClient": "ChatLandingConversationClickedDUAR",
-      "MacStudioApp": "ChatLandingConversationClickedCommon",
-      "PCDesktopClient": "ChatLandingConversationClickedDUAR",
-      "PlayStationClient": "ChatLandingConversationClickedCommon",
-      "UWPApp": "ChatLandingConversationClickedCommon",
-      "XboxClient": "ChatLandingConversationClickedCommon"
-    }
+    "AndroidApp": "ChatLandingConversationClickedAndroid",
+    "iOSApp": "ChatLandingConversationClickediOS",
+    "MacDesktopClient": "ChatLandingConversationClickedDUAR",
+    "MacStudioApp": "ChatLandingConversationClickedCommon",
+    "PCDesktopClient": "ChatLandingConversationClickedDUAR",
+    "PCStudioApp": "ChatLandingConversationClickedCommon",
+    "PlayStationClient": "ChatLandingConversationClickedCommon",
+    "UWPApp": "ChatLandingConversationClickedCommon",
+    "XboxClient": "ChatLandingConversationClickedCommon"
   }
 }

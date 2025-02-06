@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "",
-      "iOSApp": "Apple A7 GPU;Apple A8 GPU;Apple A11 GPU@*.*.*@12.*.*",
-      "MacDesktopClient": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
-      "MacStudioApp": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
-      "PCDesktopClient": "",
-      "PCStudioApp": "",
-      "PlayStationClient": "",
-      "UWPApp": "",
-      "XboxClient": ""
-    },
-    "zcanary": {
-      "AndroidApp": "",
-      "iOSApp": "Apple A7 GPU;Apple A8 GPU;Apple A11 GPU@*.*.*@12.*.*",
-      "MacDesktopClient": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
-      "MacStudioApp": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
-      "PCDesktopClient": "",
-      "PCStudioApp": "",
-      "PlayStationClient": "",
-      "UWPApp": "",
-      "XboxClient": ""
-    },
-    "zintegration": {
-      "AndroidApp": "",
-      "iOSApp": "Apple A7 GPU;Apple A8 GPU;Apple A11 GPU@*.*.*@12.*.*",
-      "MacDesktopClient": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
-      "MacStudioApp": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
-      "PCDesktopClient": "",
-      "PlayStationClient": "",
-      "UWPApp": "",
-      "XboxClient": ""
-    }
+    "AndroidApp": "",
+    "iOSApp": "Apple A7 GPU;Apple A8 GPU;Apple A11 GPU@*.*.*@12.*.*",
+    "MacDesktopClient": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
+    "MacStudioApp": "Intel HD Graphics 4000.*;Intel HD Graphics 5000.*;Intel Iris Graphics.*;Intel Iris Pro Graphics.*;Intel UHD Graphics 617.*;Intel.*@*.*.*@10.14.7",
+    "PCDesktopClient": "",
+    "PCStudioApp": "",
+    "PlayStationClient": "",
+    "UWPApp": "",
+    "XboxClient": ""
   }
 }

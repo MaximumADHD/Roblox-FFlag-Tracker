@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "SessionTracking,avatar_load_flow,experience_launch_flow,app_launch_flow,clientcrash,GameServerStartupTelemetry,GameServerShutdownEvent,QtWarningsAndErrors",
-    "zcanary": "SessionTracking,avatar_load_flow,experience_launch_flow,app_launch_flow,clientcrash,GameServerStartupTelemetry,GameServerShutdownEvent,QtWarningsAndErrors",
-    "zintegration": "SessionTracking,avatar_load_flow,experience_launch_flow,app_launch_flow,clientcrash,GameServerStartupTelemetry,GameServerShutdownEvent,QtWarningsAndErrors"
-  }
+  "Type": "Unified",
+  "Value": "SessionTracking,avatar_load_flow,experience_launch_flow,app_launch_flow,clientcrash,GameServerStartupTelemetry,GameServerShutdownEvent,QtWarningsAndErrors"
 }

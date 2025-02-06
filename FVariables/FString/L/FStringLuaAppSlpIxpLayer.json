@@ -1,8 +1,10 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "PlayerApp.HomePage.UX.WholePageRanking",
-    "zcanary": "PlayerApp.HomePage.UX.WholePageRanking",
-    "zintegration": "PlayerApp.HomePage.UX.WholePageRanking"
+    "iOSApp": "PlayerApp.HomePage.UX.WholePageRanking",
+    "MacDesktopClient": "PlayerApp.HomePage.UX.WholePageRanking",
+    "MacStudioApp": "PlayerApp.HomePage.UX.WholePageRanking",
+    "PCDesktopClient": "PlayerApp.HomePage.UX.WholePageRanking",
+    "PCStudioApp": "PlayerApp.HomePage.UX.WholePageRanking"
   }
 }

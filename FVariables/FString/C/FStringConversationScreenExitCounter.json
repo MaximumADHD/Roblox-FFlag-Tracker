@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ConversationScreenExitAndroid",
-      "iOSApp": "ConversationScreenExitiOS",
-      "MacDesktopClient": "ConversationScreenExitDUAR",
-      "MacStudioApp": "ConversationScreenExitCommon",
-      "PCDesktopClient": "ConversationScreenExitDUAR",
-      "PCStudioApp": "ConversationScreenExitCommon",
-      "PlayStationClient": "ConversationScreenExitCommon",
-      "UWPApp": "ConversationScreenExitCommon",
-      "XboxClient": "ConversationScreenExitCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ConversationScreenExitAndroid",
-      "iOSApp": "ConversationScreenExitiOS",
-      "MacDesktopClient": "ConversationScreenExitDUAR",
-      "MacStudioApp": "ConversationScreenExitCommon",
-      "PCDesktopClient": "ConversationScreenExitDUAR",
-      "PCStudioApp": "ConversationScreenExitCommon",
-      "PlayStationClient": "ConversationScreenExitCommon",
-      "UWPApp": "ConversationScreenExitCommon",
-      "XboxClient": "ConversationScreenExitCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ConversationScreenExitAndroid",
-      "iOSApp": "ConversationScreenExitiOS",
-      "MacDesktopClient": "ConversationScreenExitDUAR",
-      "MacStudioApp": "ConversationScreenExitCommon",
-      "PCDesktopClient": "ConversationScreenExitDUAR",
-      "PlayStationClient": "ConversationScreenExitCommon",
-      "UWPApp": "ConversationScreenExitCommon",
-      "XboxClient": "ConversationScreenExitCommon"
-    }
+    "AndroidApp": "ConversationScreenExitAndroid",
+    "iOSApp": "ConversationScreenExitiOS",
+    "MacDesktopClient": "ConversationScreenExitDUAR",
+    "MacStudioApp": "ConversationScreenExitCommon",
+    "PCDesktopClient": "ConversationScreenExitDUAR",
+    "PCStudioApp": "ConversationScreenExitCommon",
+    "PlayStationClient": "ConversationScreenExitCommon",
+    "UWPApp": "ConversationScreenExitCommon",
+    "XboxClient": "ConversationScreenExitCommon"
   }
 }

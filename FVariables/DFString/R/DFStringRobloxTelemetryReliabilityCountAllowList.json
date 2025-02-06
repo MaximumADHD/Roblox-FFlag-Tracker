@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "perfdata,PerformanceControl,SessionTracking",
-    "zcanary": "perfdata,PerformanceControl,SessionTracking",
-    "zintegration": "perfdata,PerformanceControl,SessionTracking"
-  }
+  "Type": "Unified",
+  "Value": "perfdata,PerformanceControl,SessionTracking"
 }

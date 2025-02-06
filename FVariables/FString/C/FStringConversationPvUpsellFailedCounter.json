@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ConversationPvUpsellFailedAndroid",
-      "iOSApp": "ConversationPvUpsellFailediOS",
-      "MacDesktopClient": "ConversationPvUpsellFailedDUAR",
-      "MacStudioApp": "ConversationPvUpsellFailedCommon",
-      "PCDesktopClient": "ConversationPvUpsellFailedDUAR",
-      "PCStudioApp": "ConversationPvUpsellFailedCommon",
-      "PlayStationClient": "ConversationPvUpsellFailedCommon",
-      "UWPApp": "ConversationPvUpsellFailedCommon",
-      "XboxClient": "ConversationPvUpsellFailedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ConversationPvUpsellFailedAndroid",
-      "iOSApp": "ConversationPvUpsellFailediOS",
-      "MacDesktopClient": "ConversationPvUpsellFailedDUAR",
-      "MacStudioApp": "ConversationPvUpsellFailedCommon",
-      "PCDesktopClient": "ConversationPvUpsellFailedDUAR",
-      "PCStudioApp": "ConversationPvUpsellFailedCommon",
-      "PlayStationClient": "ConversationPvUpsellFailedCommon",
-      "UWPApp": "ConversationPvUpsellFailedCommon",
-      "XboxClient": "ConversationPvUpsellFailedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ConversationPvUpsellFailedAndroid",
-      "iOSApp": "ConversationPvUpsellFailediOS",
-      "MacDesktopClient": "ConversationPvUpsellFailedDUAR",
-      "MacStudioApp": "ConversationPvUpsellFailedCommon",
-      "PCDesktopClient": "ConversationPvUpsellFailedDUAR",
-      "PlayStationClient": "ConversationPvUpsellFailedCommon",
-      "UWPApp": "ConversationPvUpsellFailedCommon",
-      "XboxClient": "ConversationPvUpsellFailedCommon"
-    }
+    "AndroidApp": "ConversationPvUpsellFailedAndroid",
+    "iOSApp": "ConversationPvUpsellFailediOS",
+    "MacDesktopClient": "ConversationPvUpsellFailedDUAR",
+    "MacStudioApp": "ConversationPvUpsellFailedCommon",
+    "PCDesktopClient": "ConversationPvUpsellFailedDUAR",
+    "PCStudioApp": "ConversationPvUpsellFailedCommon",
+    "PlayStationClient": "ConversationPvUpsellFailedCommon",
+    "UWPApp": "ConversationPvUpsellFailedCommon",
+    "XboxClient": "ConversationPvUpsellFailedCommon"
   }
 }

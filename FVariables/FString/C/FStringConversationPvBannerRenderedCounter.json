@@ -1,37 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ConversationPvBannerRenderedAndroid",
-      "iOSApp": "ConversationPvBannerRenderediOS",
-      "MacDesktopClient": "ConversationPvBannerRenderedDUAR",
-      "MacStudioApp": "ConversationPvBannerRenderedCommon",
-      "PCDesktopClient": "ConversationPvBannerRenderedDUAR",
-      "PCStudioApp": "ConversationPvBannerRenderedCommon",
-      "PlayStationClient": "ConversationPvBannerRenderedCommon",
-      "UWPApp": "ConversationPvBannerRenderedCommon",
-      "XboxClient": "ConversationPvBannerRenderedCommon"
-    },
-    "zcanary": {
-      "AndroidApp": "ConversationPvBannerRenderedAndroid",
-      "iOSApp": "ConversationPvBannerRenderediOS",
-      "MacDesktopClient": "ConversationPvBannerRenderedDUAR",
-      "MacStudioApp": "ConversationPvBannerRenderedCommon",
-      "PCDesktopClient": "ConversationPvBannerRenderedDUAR",
-      "PCStudioApp": "ConversationPvBannerRenderedCommon",
-      "PlayStationClient": "ConversationPvBannerRenderedCommon",
-      "UWPApp": "ConversationPvBannerRenderedCommon",
-      "XboxClient": "ConversationPvBannerRenderedCommon"
-    },
-    "zintegration": {
-      "AndroidApp": "ConversationPvBannerRenderedAndroid",
-      "iOSApp": "ConversationPvBannerRenderediOS",
-      "MacDesktopClient": "ConversationPvBannerRenderedDUAR",
-      "MacStudioApp": "ConversationPvBannerRenderedCommon",
-      "PCDesktopClient": "ConversationPvBannerRenderedDUAR",
-      "PlayStationClient": "ConversationPvBannerRenderedCommon",
-      "UWPApp": "ConversationPvBannerRenderedCommon",
-      "XboxClient": "ConversationPvBannerRenderedCommon"
-    }
+    "AndroidApp": "ConversationPvBannerRenderedAndroid",
+    "iOSApp": "ConversationPvBannerRenderediOS",
+    "MacDesktopClient": "ConversationPvBannerRenderedDUAR",
+    "MacStudioApp": "ConversationPvBannerRenderedCommon",
+    "PCDesktopClient": "ConversationPvBannerRenderedDUAR",
+    "PCStudioApp": "ConversationPvBannerRenderedCommon",
+    "PlayStationClient": "ConversationPvBannerRenderedCommon",
+    "UWPApp": "ConversationPvBannerRenderedCommon",
+    "XboxClient": "ConversationPvBannerRenderedCommon"
   }
 }

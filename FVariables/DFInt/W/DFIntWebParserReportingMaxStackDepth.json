@@ -1,8 +1,9 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": 256,
-    "zcanary": 256,
-    "zintegration": 256
+    "MacDesktopClient": 256,
+    "MacStudioApp": 256,
+    "PCDesktopClient": 256,
+    "PCStudioApp": 256
   }
 }
