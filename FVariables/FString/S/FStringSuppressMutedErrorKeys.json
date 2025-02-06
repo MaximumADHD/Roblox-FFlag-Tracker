@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "AdjustAccessoryView"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
+    "iOSApp": "AdjustAccessoryView",
+    "MacDesktopClient": "AdjustAccessoryView",
+    "MacStudioApp": "AdjustAccessoryView",
+    "PCDesktopClient": "AdjustAccessoryView",
+    "PCStudioApp": "AdjustAccessoryView",
+    "PlayStationClient": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
+    "UWPApp": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
+    "XboxClient": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter"
+  }
 }
