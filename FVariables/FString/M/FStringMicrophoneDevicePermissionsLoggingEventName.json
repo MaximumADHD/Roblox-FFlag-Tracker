@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "microphoneDevicePermissionPromptedV2"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "microphoneDevicePermissionPromptedV2",
+    "zcanary": "microphoneDevicePermissionPromptedV2",
+    "zintegration": "microphoneDevicePermissionPromptedV2"
+  }
 }

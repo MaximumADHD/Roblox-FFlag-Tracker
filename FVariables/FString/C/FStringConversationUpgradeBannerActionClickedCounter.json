@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationUpgradeBannerActionClickedAndroid",
-    "iOSApp": "ConversationUpgradeBannerActionClickediOS",
-    "MacDesktopClient": "ConversationUpgradeBannerActionClickedDUAR",
-    "MacStudioApp": "ConversationUpgradeBannerActionClickedCommon",
-    "PCDesktopClient": "ConversationUpgradeBannerActionClickedDUAR",
-    "PCStudioApp": "ConversationUpgradeBannerActionClickedCommon",
-    "PlayStationClient": "ConversationUpgradeBannerActionClickedCommon",
-    "UWPApp": "ConversationUpgradeBannerActionClickedCommon",
-    "XboxClient": "ConversationUpgradeBannerActionClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationUpgradeBannerActionClickedAndroid",
+      "iOSApp": "ConversationUpgradeBannerActionClickediOS",
+      "MacDesktopClient": "ConversationUpgradeBannerActionClickedDUAR",
+      "MacStudioApp": "ConversationUpgradeBannerActionClickedCommon",
+      "PCDesktopClient": "ConversationUpgradeBannerActionClickedDUAR",
+      "PCStudioApp": "ConversationUpgradeBannerActionClickedCommon",
+      "PlayStationClient": "ConversationUpgradeBannerActionClickedCommon",
+      "UWPApp": "ConversationUpgradeBannerActionClickedCommon",
+      "XboxClient": "ConversationUpgradeBannerActionClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationUpgradeBannerActionClickedAndroid",
+      "iOSApp": "ConversationUpgradeBannerActionClickediOS",
+      "MacDesktopClient": "ConversationUpgradeBannerActionClickedDUAR",
+      "MacStudioApp": "ConversationUpgradeBannerActionClickedCommon",
+      "PCDesktopClient": "ConversationUpgradeBannerActionClickedDUAR",
+      "PCStudioApp": "ConversationUpgradeBannerActionClickedCommon",
+      "PlayStationClient": "ConversationUpgradeBannerActionClickedCommon",
+      "UWPApp": "ConversationUpgradeBannerActionClickedCommon",
+      "XboxClient": "ConversationUpgradeBannerActionClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationUpgradeBannerActionClickedAndroid",
+      "iOSApp": "ConversationUpgradeBannerActionClickediOS",
+      "MacDesktopClient": "ConversationUpgradeBannerActionClickedDUAR",
+      "MacStudioApp": "ConversationUpgradeBannerActionClickedCommon",
+      "PCDesktopClient": "ConversationUpgradeBannerActionClickedDUAR",
+      "PlayStationClient": "ConversationUpgradeBannerActionClickedCommon",
+      "UWPApp": "ConversationUpgradeBannerActionClickedCommon",
+      "XboxClient": "ConversationUpgradeBannerActionClickedCommon"
+    }
   }
 }

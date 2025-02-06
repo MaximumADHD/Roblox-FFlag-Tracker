@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationPvBannerActionClickedAndroid",
-    "iOSApp": "ConversationPvBannerActionClickediOS",
-    "MacDesktopClient": "ConversationPvBannerActionClickedDUAR",
-    "MacStudioApp": "ConversationPvBannerActionClickedCommon",
-    "PCDesktopClient": "ConversationPvBannerActionClickedDUAR",
-    "PCStudioApp": "ConversationPvBannerActionClickedCommon",
-    "PlayStationClient": "ConversationPvBannerActionClickedCommon",
-    "UWPApp": "ConversationPvBannerActionClickedCommon",
-    "XboxClient": "ConversationPvBannerActionClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationPvBannerActionClickedAndroid",
+      "iOSApp": "ConversationPvBannerActionClickediOS",
+      "MacDesktopClient": "ConversationPvBannerActionClickedDUAR",
+      "MacStudioApp": "ConversationPvBannerActionClickedCommon",
+      "PCDesktopClient": "ConversationPvBannerActionClickedDUAR",
+      "PCStudioApp": "ConversationPvBannerActionClickedCommon",
+      "PlayStationClient": "ConversationPvBannerActionClickedCommon",
+      "UWPApp": "ConversationPvBannerActionClickedCommon",
+      "XboxClient": "ConversationPvBannerActionClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationPvBannerActionClickedAndroid",
+      "iOSApp": "ConversationPvBannerActionClickediOS",
+      "MacDesktopClient": "ConversationPvBannerActionClickedDUAR",
+      "MacStudioApp": "ConversationPvBannerActionClickedCommon",
+      "PCDesktopClient": "ConversationPvBannerActionClickedDUAR",
+      "PCStudioApp": "ConversationPvBannerActionClickedCommon",
+      "PlayStationClient": "ConversationPvBannerActionClickedCommon",
+      "UWPApp": "ConversationPvBannerActionClickedCommon",
+      "XboxClient": "ConversationPvBannerActionClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationPvBannerActionClickedAndroid",
+      "iOSApp": "ConversationPvBannerActionClickediOS",
+      "MacDesktopClient": "ConversationPvBannerActionClickedDUAR",
+      "MacStudioApp": "ConversationPvBannerActionClickedCommon",
+      "PCDesktopClient": "ConversationPvBannerActionClickedDUAR",
+      "PlayStationClient": "ConversationPvBannerActionClickedCommon",
+      "UWPApp": "ConversationPvBannerActionClickedCommon",
+      "XboxClient": "ConversationPvBannerActionClickedCommon"
+    }
   }
 }

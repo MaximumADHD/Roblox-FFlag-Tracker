@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatDetailsLeaveGroupDialogStayClickedAndroid",
-    "iOSApp": "ChatDetailsLeaveGroupDialogStayClickediOS",
-    "MacDesktopClient": "ChatDetailsLeaveGroupDialogStayClickedDUAR",
-    "MacStudioApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
-    "PCDesktopClient": "ChatDetailsLeaveGroupDialogStayClickedDUAR",
-    "PCStudioApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
-    "PlayStationClient": "ChatDetailsLeaveGroupDialogStayClickedCommon",
-    "UWPApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
-    "XboxClient": "ChatDetailsLeaveGroupDialogStayClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ChatDetailsLeaveGroupDialogStayClickedAndroid",
+      "iOSApp": "ChatDetailsLeaveGroupDialogStayClickediOS",
+      "MacDesktopClient": "ChatDetailsLeaveGroupDialogStayClickedDUAR",
+      "MacStudioApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "PCDesktopClient": "ChatDetailsLeaveGroupDialogStayClickedDUAR",
+      "PCStudioApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "PlayStationClient": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "UWPApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "XboxClient": "ChatDetailsLeaveGroupDialogStayClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatDetailsLeaveGroupDialogStayClickedAndroid",
+      "iOSApp": "ChatDetailsLeaveGroupDialogStayClickediOS",
+      "MacDesktopClient": "ChatDetailsLeaveGroupDialogStayClickedDUAR",
+      "MacStudioApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "PCDesktopClient": "ChatDetailsLeaveGroupDialogStayClickedDUAR",
+      "PCStudioApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "PlayStationClient": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "UWPApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "XboxClient": "ChatDetailsLeaveGroupDialogStayClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatDetailsLeaveGroupDialogStayClickedAndroid",
+      "iOSApp": "ChatDetailsLeaveGroupDialogStayClickediOS",
+      "MacDesktopClient": "ChatDetailsLeaveGroupDialogStayClickedDUAR",
+      "MacStudioApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "PCDesktopClient": "ChatDetailsLeaveGroupDialogStayClickedDUAR",
+      "PlayStationClient": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "UWPApp": "ChatDetailsLeaveGroupDialogStayClickedCommon",
+      "XboxClient": "ChatDetailsLeaveGroupDialogStayClickedCommon"
+    }
   }
 }

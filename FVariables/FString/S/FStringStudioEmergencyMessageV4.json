@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "",
-    "iOSApp": "",
-    "MacDesktopClient": "",
-    "MacStudioApp": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjU2LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
-    "PCDesktopClient": "",
-    "PCStudioApp": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjU2LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
-    "PlayStationClient": "",
-    "UWPApp": "",
-    "XboxClient": ""
+    "LIVE": {
+      "AndroidApp": "",
+      "iOSApp": "",
+      "MacDesktopClient": "",
+      "MacStudioApp": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjU2LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
+      "PCDesktopClient": "",
+      "PCStudioApp": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjU2LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
+      "PlayStationClient": "",
+      "UWPApp": "",
+      "XboxClient": ""
+    },
+    "zcanary": {
+      "AndroidApp": "",
+      "iOSApp": "",
+      "MacDesktopClient": "",
+      "MacStudioApp": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjU2LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
+      "PCDesktopClient": "",
+      "PCStudioApp": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjU2LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
+      "PlayStationClient": "",
+      "UWPApp": "",
+      "XboxClient": ""
+    },
+    "zintegration": {
+      "AndroidApp": "",
+      "iOSApp": "",
+      "MacDesktopClient": "",
+      "MacStudioApp": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjU2LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
+      "PCDesktopClient": "",
+      "PlayStationClient": "",
+      "UWPApp": "",
+      "XboxClient": ""
+    }
   }
 }

@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "EnableFmodUpgrade"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "EnableFmodUpgrade",
+    "zcanary": "EnableFmodUpgrade",
+    "zintegration": "EnableFmodUpgrade"
+  }
 }

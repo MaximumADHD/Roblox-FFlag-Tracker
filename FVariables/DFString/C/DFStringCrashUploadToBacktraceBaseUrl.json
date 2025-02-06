@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "https://upload.crashes.rbxinfra.com/post",
-    "iOSApp": "https://upload.crashes.rbxinfra.com/post",
-    "MacDesktopClient": "https://upload.crashes.rbxinfra.com/post",
-    "MacStudioApp": "https://upload.crashes.rbxinfra.com/post",
-    "PCDesktopClient": "https://upload.crashes.rbxinfra.com/post?format=minidump",
-    "PCStudioApp": "https://upload.crashes.rbxinfra.com/post?format=minidump",
-    "PlayStationClient": "https://upload.crashes.rbxinfra.com/post",
-    "UWPApp": "https://upload.crashes.rbxinfra.com/post",
-    "XboxClient": "https://upload.crashes.rbxinfra.com/post?format=minidump"
+    "LIVE": {
+      "AndroidApp": "https://upload.crashes.rbxinfra.com/post",
+      "iOSApp": "https://upload.crashes.rbxinfra.com/post",
+      "MacDesktopClient": "https://upload.crashes.rbxinfra.com/post",
+      "MacStudioApp": "https://upload.crashes.rbxinfra.com/post",
+      "PCDesktopClient": "https://upload.crashes.rbxinfra.com/post?format=minidump",
+      "PCStudioApp": "https://upload.crashes.rbxinfra.com/post?format=minidump",
+      "PlayStationClient": "https://upload.crashes.rbxinfra.com/post",
+      "UWPApp": "https://upload.crashes.rbxinfra.com/post",
+      "XboxClient": "https://upload.crashes.rbxinfra.com/post?format=minidump"
+    },
+    "zcanary": {
+      "AndroidApp": "https://upload.crashes.rbxinfra.com/post",
+      "iOSApp": "https://upload.crashes.rbxinfra.com/post",
+      "MacDesktopClient": "https://upload.crashes.rbxinfra.com/post",
+      "MacStudioApp": "https://upload.crashes.rbxinfra.com/post",
+      "PCDesktopClient": "https://upload.crashes.rbxinfra.com/post?format=minidump",
+      "PCStudioApp": "https://upload.crashes.rbxinfra.com/post?format=minidump",
+      "PlayStationClient": "https://upload.crashes.rbxinfra.com/post",
+      "UWPApp": "https://upload.crashes.rbxinfra.com/post",
+      "XboxClient": "https://upload.crashes.rbxinfra.com/post?format=minidump"
+    },
+    "zintegration": {
+      "AndroidApp": "https://upload.crashes.rbxinfra.com/post",
+      "iOSApp": "https://upload.crashes.rbxinfra.com/post",
+      "MacDesktopClient": "https://upload.crashes.rbxinfra.com/post",
+      "MacStudioApp": "https://upload.crashes.rbxinfra.com/post",
+      "PCDesktopClient": "https://upload.crashes.rbxinfra.com/post?format=minidump",
+      "PlayStationClient": "https://upload.crashes.rbxinfra.com/post",
+      "UWPApp": "https://upload.crashes.rbxinfra.com/post",
+      "XboxClient": "https://upload.crashes.rbxinfra.com/post?format=minidump"
+    }
   }
 }

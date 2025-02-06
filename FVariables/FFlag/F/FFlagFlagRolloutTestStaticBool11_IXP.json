@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;Portal.FFlagFlagRolloutTestStaticBool11;FFlagFlagRolloutTestStaticBool11;747574286;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;Portal.FFlagFlagRolloutTestStaticBool11;FFlagFlagRolloutTestStaticBool11;747574286;flagbank",
+    "zcanary": "1;Portal.FFlagFlagRolloutTestStaticBool11;FFlagFlagRolloutTestStaticBool11;747574286;flagbank",
+    "zintegration": "1;Portal.FFlagFlagRolloutTestStaticBool11;FFlagFlagRolloutTestStaticBool11;747574286;flagbank"
+  }
 }

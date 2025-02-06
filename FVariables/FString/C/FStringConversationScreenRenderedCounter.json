@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationScreenRenderedAndroid",
-    "iOSApp": "ConversationScreenRenderediOS",
-    "MacDesktopClient": "ConversationScreenRenderedDUAR",
-    "MacStudioApp": "ConversationScreenRenderedCommon",
-    "PCDesktopClient": "ConversationScreenRenderedDUAR",
-    "PCStudioApp": "ConversationScreenRenderedCommon",
-    "PlayStationClient": "ConversationScreenRenderedCommon",
-    "UWPApp": "ConversationScreenRenderedCommon",
-    "XboxClient": "ConversationScreenRenderedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationScreenRenderedAndroid",
+      "iOSApp": "ConversationScreenRenderediOS",
+      "MacDesktopClient": "ConversationScreenRenderedDUAR",
+      "MacStudioApp": "ConversationScreenRenderedCommon",
+      "PCDesktopClient": "ConversationScreenRenderedDUAR",
+      "PCStudioApp": "ConversationScreenRenderedCommon",
+      "PlayStationClient": "ConversationScreenRenderedCommon",
+      "UWPApp": "ConversationScreenRenderedCommon",
+      "XboxClient": "ConversationScreenRenderedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationScreenRenderedAndroid",
+      "iOSApp": "ConversationScreenRenderediOS",
+      "MacDesktopClient": "ConversationScreenRenderedDUAR",
+      "MacStudioApp": "ConversationScreenRenderedCommon",
+      "PCDesktopClient": "ConversationScreenRenderedDUAR",
+      "PCStudioApp": "ConversationScreenRenderedCommon",
+      "PlayStationClient": "ConversationScreenRenderedCommon",
+      "UWPApp": "ConversationScreenRenderedCommon",
+      "XboxClient": "ConversationScreenRenderedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationScreenRenderedAndroid",
+      "iOSApp": "ConversationScreenRenderediOS",
+      "MacDesktopClient": "ConversationScreenRenderedDUAR",
+      "MacStudioApp": "ConversationScreenRenderedCommon",
+      "PCDesktopClient": "ConversationScreenRenderedDUAR",
+      "PlayStationClient": "ConversationScreenRenderedCommon",
+      "UWPApp": "ConversationScreenRenderedCommon",
+      "XboxClient": "ConversationScreenRenderedCommon"
+    }
   }
 }

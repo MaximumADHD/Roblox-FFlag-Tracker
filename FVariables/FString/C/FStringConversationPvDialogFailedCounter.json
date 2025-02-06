@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationPvDialogFailedAndroid",
-    "iOSApp": "ConversationPvDialogFailediOS",
-    "MacDesktopClient": "ConversationPvDialogFailedDUAR",
-    "MacStudioApp": "ConversationPvDialogFailedCommon",
-    "PCDesktopClient": "ConversationPvDialogFailedDUAR",
-    "PCStudioApp": "ConversationPvDialogFailedCommon",
-    "PlayStationClient": "ConversationPvDialogFailedCommon",
-    "UWPApp": "ConversationPvDialogFailedCommon",
-    "XboxClient": "ConversationPvDialogFailedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationPvDialogFailedAndroid",
+      "iOSApp": "ConversationPvDialogFailediOS",
+      "MacDesktopClient": "ConversationPvDialogFailedDUAR",
+      "MacStudioApp": "ConversationPvDialogFailedCommon",
+      "PCDesktopClient": "ConversationPvDialogFailedDUAR",
+      "PCStudioApp": "ConversationPvDialogFailedCommon",
+      "PlayStationClient": "ConversationPvDialogFailedCommon",
+      "UWPApp": "ConversationPvDialogFailedCommon",
+      "XboxClient": "ConversationPvDialogFailedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationPvDialogFailedAndroid",
+      "iOSApp": "ConversationPvDialogFailediOS",
+      "MacDesktopClient": "ConversationPvDialogFailedDUAR",
+      "MacStudioApp": "ConversationPvDialogFailedCommon",
+      "PCDesktopClient": "ConversationPvDialogFailedDUAR",
+      "PCStudioApp": "ConversationPvDialogFailedCommon",
+      "PlayStationClient": "ConversationPvDialogFailedCommon",
+      "UWPApp": "ConversationPvDialogFailedCommon",
+      "XboxClient": "ConversationPvDialogFailedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationPvDialogFailedAndroid",
+      "iOSApp": "ConversationPvDialogFailediOS",
+      "MacDesktopClient": "ConversationPvDialogFailedDUAR",
+      "MacStudioApp": "ConversationPvDialogFailedCommon",
+      "PCDesktopClient": "ConversationPvDialogFailedDUAR",
+      "PlayStationClient": "ConversationPvDialogFailedCommon",
+      "UWPApp": "ConversationPvDialogFailedCommon",
+      "XboxClient": "ConversationPvDialogFailedCommon"
+    }
   }
 }

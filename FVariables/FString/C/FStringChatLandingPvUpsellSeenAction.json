@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "no_op"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "no_op",
+    "zcanary": "no_op",
+    "zintegration": "no_op"
+  }
 }

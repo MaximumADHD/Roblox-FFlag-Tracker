@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationLearnMoreDialogRenderedAndroid",
-    "iOSApp": "ConversationLearnMoreDialogRenderediOS",
-    "MacDesktopClient": "ConversationLearnMoreDialogRenderedDUAR",
-    "MacStudioApp": "ConversationLearnMoreDialogRenderedCommon",
-    "PCDesktopClient": "ConversationLearnMoreDialogRenderedDUAR",
-    "PCStudioApp": "ConversationLearnMoreDialogRenderedCommon",
-    "PlayStationClient": "ConversationLearnMoreDialogRenderedCommon",
-    "UWPApp": "ConversationLearnMoreDialogRenderedCommon",
-    "XboxClient": "ConversationLearnMoreDialogRenderedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationLearnMoreDialogRenderedAndroid",
+      "iOSApp": "ConversationLearnMoreDialogRenderediOS",
+      "MacDesktopClient": "ConversationLearnMoreDialogRenderedDUAR",
+      "MacStudioApp": "ConversationLearnMoreDialogRenderedCommon",
+      "PCDesktopClient": "ConversationLearnMoreDialogRenderedDUAR",
+      "PCStudioApp": "ConversationLearnMoreDialogRenderedCommon",
+      "PlayStationClient": "ConversationLearnMoreDialogRenderedCommon",
+      "UWPApp": "ConversationLearnMoreDialogRenderedCommon",
+      "XboxClient": "ConversationLearnMoreDialogRenderedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationLearnMoreDialogRenderedAndroid",
+      "iOSApp": "ConversationLearnMoreDialogRenderediOS",
+      "MacDesktopClient": "ConversationLearnMoreDialogRenderedDUAR",
+      "MacStudioApp": "ConversationLearnMoreDialogRenderedCommon",
+      "PCDesktopClient": "ConversationLearnMoreDialogRenderedDUAR",
+      "PCStudioApp": "ConversationLearnMoreDialogRenderedCommon",
+      "PlayStationClient": "ConversationLearnMoreDialogRenderedCommon",
+      "UWPApp": "ConversationLearnMoreDialogRenderedCommon",
+      "XboxClient": "ConversationLearnMoreDialogRenderedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationLearnMoreDialogRenderedAndroid",
+      "iOSApp": "ConversationLearnMoreDialogRenderediOS",
+      "MacDesktopClient": "ConversationLearnMoreDialogRenderedDUAR",
+      "MacStudioApp": "ConversationLearnMoreDialogRenderedCommon",
+      "PCDesktopClient": "ConversationLearnMoreDialogRenderedDUAR",
+      "PlayStationClient": "ConversationLearnMoreDialogRenderedCommon",
+      "UWPApp": "ConversationLearnMoreDialogRenderedCommon",
+      "XboxClient": "ConversationLearnMoreDialogRenderedCommon"
+    }
   }
 }

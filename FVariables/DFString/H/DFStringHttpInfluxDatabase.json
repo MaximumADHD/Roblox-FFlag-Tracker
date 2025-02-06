@@ -1,17 +1,46 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "prod",
-    "iOSApp": "prod",
-    "MacClientBootstrapper": "roblox_bootstrapper",
-    "MacDesktopClient": "prod",
-    "MacStudioApp": "prod",
-    "MacStudioBootstrapper": "roblox_bootstrapper",
-    "PCClientBootstrapper": "roblox_bootstrapper",
-    "PCDesktopClient": "prod",
-    "PCStudioApp": "prod",
-    "PCStudioBootstrapper": "roblox_bootstrapper",
-    "UWPApp": "prod",
-    "XboxClient": "prod"
+    "LIVE": {
+      "AndroidApp": "prod",
+      "iOSApp": "prod",
+      "MacClientBootstrapper": "roblox_bootstrapper",
+      "MacDesktopClient": "prod",
+      "MacStudioApp": "prod",
+      "MacStudioBootstrapper": "roblox_bootstrapper",
+      "PCClientBootstrapper": "roblox_bootstrapper",
+      "PCDesktopClient": "prod",
+      "PCStudioApp": "prod",
+      "PCStudioBootstrapper": "roblox_bootstrapper",
+      "UWPApp": "prod",
+      "XboxClient": "prod"
+    },
+    "zcanary": {
+      "AndroidApp": "prod",
+      "iOSApp": "prod",
+      "MacClientBootstrapper": "roblox_bootstrapper",
+      "MacDesktopClient": "prod",
+      "MacStudioApp": "prod",
+      "MacStudioBootstrapper": "roblox_bootstrapper",
+      "PCClientBootstrapper": "roblox_bootstrapper",
+      "PCDesktopClient": "prod",
+      "PCStudioApp": "prod",
+      "PCStudioBootstrapper": "roblox_bootstrapper",
+      "UWPApp": "prod",
+      "XboxClient": "prod"
+    },
+    "zintegration": {
+      "AndroidApp": "prod",
+      "iOSApp": "prod",
+      "MacClientBootstrapper": "roblox_bootstrapper",
+      "MacDesktopClient": "prod",
+      "MacStudioApp": "prod",
+      "MacStudioBootstrapper": "roblox_bootstrapper",
+      "PCClientBootstrapper": "roblox_bootstrapper",
+      "PCDesktopClient": "prod",
+      "PCStudioBootstrapper": "roblox_bootstrapper",
+      "UWPApp": "prod",
+      "XboxClient": "prod"
+    }
   }
 }

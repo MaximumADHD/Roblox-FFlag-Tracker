@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationPvUpsellContinueClickedAndroid",
-    "iOSApp": "ConversationPvUpsellContinueClickediOS",
-    "MacDesktopClient": "ConversationPvUpsellContinueClickedDUAR",
-    "MacStudioApp": "ConversationPvUpsellContinueClickedCommon",
-    "PCDesktopClient": "ConversationPvUpsellContinueClickedDUAR",
-    "PCStudioApp": "ConversationPvUpsellContinueClickedCommon",
-    "PlayStationClient": "ConversationPvUpsellContinueClickedCommon",
-    "UWPApp": "ConversationPvUpsellContinueClickedCommon",
-    "XboxClient": "ConversationPvUpsellContinueClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationPvUpsellContinueClickedAndroid",
+      "iOSApp": "ConversationPvUpsellContinueClickediOS",
+      "MacDesktopClient": "ConversationPvUpsellContinueClickedDUAR",
+      "MacStudioApp": "ConversationPvUpsellContinueClickedCommon",
+      "PCDesktopClient": "ConversationPvUpsellContinueClickedDUAR",
+      "PCStudioApp": "ConversationPvUpsellContinueClickedCommon",
+      "PlayStationClient": "ConversationPvUpsellContinueClickedCommon",
+      "UWPApp": "ConversationPvUpsellContinueClickedCommon",
+      "XboxClient": "ConversationPvUpsellContinueClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationPvUpsellContinueClickedAndroid",
+      "iOSApp": "ConversationPvUpsellContinueClickediOS",
+      "MacDesktopClient": "ConversationPvUpsellContinueClickedDUAR",
+      "MacStudioApp": "ConversationPvUpsellContinueClickedCommon",
+      "PCDesktopClient": "ConversationPvUpsellContinueClickedDUAR",
+      "PCStudioApp": "ConversationPvUpsellContinueClickedCommon",
+      "PlayStationClient": "ConversationPvUpsellContinueClickedCommon",
+      "UWPApp": "ConversationPvUpsellContinueClickedCommon",
+      "XboxClient": "ConversationPvUpsellContinueClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationPvUpsellContinueClickedAndroid",
+      "iOSApp": "ConversationPvUpsellContinueClickediOS",
+      "MacDesktopClient": "ConversationPvUpsellContinueClickedDUAR",
+      "MacStudioApp": "ConversationPvUpsellContinueClickedCommon",
+      "PCDesktopClient": "ConversationPvUpsellContinueClickedDUAR",
+      "PlayStationClient": "ConversationPvUpsellContinueClickedCommon",
+      "UWPApp": "ConversationPvUpsellContinueClickedCommon",
+      "XboxClient": "ConversationPvUpsellContinueClickedCommon"
+    }
   }
 }

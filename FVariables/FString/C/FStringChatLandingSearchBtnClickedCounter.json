@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatLandingSearchBtnClickedAndroid",
-    "iOSApp": "ChatLandingSearchBtnClickediOS",
-    "MacDesktopClient": "ChatLandingSearchBtnClickedDUAR",
-    "MacStudioApp": "ChatLandingSearchBtnClickedCommon",
-    "PCDesktopClient": "ChatLandingSearchBtnClickedDUAR",
-    "PCStudioApp": "ChatLandingSearchBtnClickedCommon",
-    "PlayStationClient": "ChatLandingSearchBtnClickedCommon",
-    "UWPApp": "ChatLandingSearchBtnClickedCommon",
-    "XboxClient": "ChatLandingSearchBtnClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ChatLandingSearchBtnClickedAndroid",
+      "iOSApp": "ChatLandingSearchBtnClickediOS",
+      "MacDesktopClient": "ChatLandingSearchBtnClickedDUAR",
+      "MacStudioApp": "ChatLandingSearchBtnClickedCommon",
+      "PCDesktopClient": "ChatLandingSearchBtnClickedDUAR",
+      "PCStudioApp": "ChatLandingSearchBtnClickedCommon",
+      "PlayStationClient": "ChatLandingSearchBtnClickedCommon",
+      "UWPApp": "ChatLandingSearchBtnClickedCommon",
+      "XboxClient": "ChatLandingSearchBtnClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatLandingSearchBtnClickedAndroid",
+      "iOSApp": "ChatLandingSearchBtnClickediOS",
+      "MacDesktopClient": "ChatLandingSearchBtnClickedDUAR",
+      "MacStudioApp": "ChatLandingSearchBtnClickedCommon",
+      "PCDesktopClient": "ChatLandingSearchBtnClickedDUAR",
+      "PCStudioApp": "ChatLandingSearchBtnClickedCommon",
+      "PlayStationClient": "ChatLandingSearchBtnClickedCommon",
+      "UWPApp": "ChatLandingSearchBtnClickedCommon",
+      "XboxClient": "ChatLandingSearchBtnClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatLandingSearchBtnClickedAndroid",
+      "iOSApp": "ChatLandingSearchBtnClickediOS",
+      "MacDesktopClient": "ChatLandingSearchBtnClickedDUAR",
+      "MacStudioApp": "ChatLandingSearchBtnClickedCommon",
+      "PCDesktopClient": "ChatLandingSearchBtnClickedDUAR",
+      "PlayStationClient": "ChatLandingSearchBtnClickedCommon",
+      "UWPApp": "ChatLandingSearchBtnClickedCommon",
+      "XboxClient": "ChatLandingSearchBtnClickedCommon"
+    }
   }
 }

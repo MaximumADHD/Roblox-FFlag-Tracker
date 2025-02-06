@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "Google atlas;Google eve;Google fizz;Google grunt;Google kalista;Google nami;Google nautilus;Google nocturne;Google rammus;Google soraka",
-    "iOSApp": "",
-    "MacDesktopClient": "",
-    "MacStudioApp": "",
-    "PCDesktopClient": "",
-    "PCStudioApp": "",
-    "PlayStationClient": "Google atlas;Google eve;Google fizz;Google grunt;Google kalista;Google nami;Google nautilus;Google nocturne;Google rammus;Google soraka",
-    "UWPApp": "",
-    "XboxClient": ""
+    "LIVE": {
+      "AndroidApp": "Google atlas;Google eve;Google fizz;Google grunt;Google kalista;Google nami;Google nautilus;Google nocturne;Google rammus;Google soraka",
+      "iOSApp": "",
+      "MacDesktopClient": "",
+      "MacStudioApp": "",
+      "PCDesktopClient": "",
+      "PCStudioApp": "",
+      "PlayStationClient": "Google atlas;Google eve;Google fizz;Google grunt;Google kalista;Google nami;Google nautilus;Google nocturne;Google rammus;Google soraka",
+      "UWPApp": "",
+      "XboxClient": ""
+    },
+    "zcanary": {
+      "AndroidApp": "Google atlas;Google eve;Google fizz;Google grunt;Google kalista;Google nami;Google nautilus;Google nocturne;Google rammus;Google soraka",
+      "iOSApp": "",
+      "MacDesktopClient": "",
+      "MacStudioApp": "",
+      "PCDesktopClient": "",
+      "PCStudioApp": "",
+      "PlayStationClient": "Google atlas;Google eve;Google fizz;Google grunt;Google kalista;Google nami;Google nautilus;Google nocturne;Google rammus;Google soraka",
+      "UWPApp": "",
+      "XboxClient": ""
+    },
+    "zintegration": {
+      "AndroidApp": "Google atlas;Google eve;Google fizz;Google grunt;Google kalista;Google nami;Google nautilus;Google nocturne;Google rammus;Google soraka",
+      "iOSApp": "",
+      "MacDesktopClient": "",
+      "MacStudioApp": "",
+      "PCDesktopClient": "",
+      "PlayStationClient": "Google atlas;Google eve;Google fizz;Google grunt;Google kalista;Google nami;Google nautilus;Google nocturne;Google rammus;Google soraka",
+      "UWPApp": "",
+      "XboxClient": ""
+    }
   }
 }

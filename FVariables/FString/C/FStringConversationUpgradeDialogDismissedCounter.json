@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationUpgradeDialogDismissedAndroid",
-    "iOSApp": "ConversationUpgradeDialogDismissediOS",
-    "MacDesktopClient": "ConversationUpgradeDialogDismissedDUAR",
-    "MacStudioApp": "ConversationUpgradeDialogDismissedCommon",
-    "PCDesktopClient": "ConversationUpgradeDialogDismissedDUAR",
-    "PCStudioApp": "ConversationUpgradeDialogDismissedCommon",
-    "PlayStationClient": "ConversationUpgradeDialogDismissedCommon",
-    "UWPApp": "ConversationUpgradeDialogDismissedCommon",
-    "XboxClient": "ConversationUpgradeDialogDismissedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationUpgradeDialogDismissedAndroid",
+      "iOSApp": "ConversationUpgradeDialogDismissediOS",
+      "MacDesktopClient": "ConversationUpgradeDialogDismissedDUAR",
+      "MacStudioApp": "ConversationUpgradeDialogDismissedCommon",
+      "PCDesktopClient": "ConversationUpgradeDialogDismissedDUAR",
+      "PCStudioApp": "ConversationUpgradeDialogDismissedCommon",
+      "PlayStationClient": "ConversationUpgradeDialogDismissedCommon",
+      "UWPApp": "ConversationUpgradeDialogDismissedCommon",
+      "XboxClient": "ConversationUpgradeDialogDismissedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationUpgradeDialogDismissedAndroid",
+      "iOSApp": "ConversationUpgradeDialogDismissediOS",
+      "MacDesktopClient": "ConversationUpgradeDialogDismissedDUAR",
+      "MacStudioApp": "ConversationUpgradeDialogDismissedCommon",
+      "PCDesktopClient": "ConversationUpgradeDialogDismissedDUAR",
+      "PCStudioApp": "ConversationUpgradeDialogDismissedCommon",
+      "PlayStationClient": "ConversationUpgradeDialogDismissedCommon",
+      "UWPApp": "ConversationUpgradeDialogDismissedCommon",
+      "XboxClient": "ConversationUpgradeDialogDismissedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationUpgradeDialogDismissedAndroid",
+      "iOSApp": "ConversationUpgradeDialogDismissediOS",
+      "MacDesktopClient": "ConversationUpgradeDialogDismissedDUAR",
+      "MacStudioApp": "ConversationUpgradeDialogDismissedCommon",
+      "PCDesktopClient": "ConversationUpgradeDialogDismissedDUAR",
+      "PlayStationClient": "ConversationUpgradeDialogDismissedCommon",
+      "UWPApp": "ConversationUpgradeDialogDismissedCommon",
+      "XboxClient": "ConversationUpgradeDialogDismissedCommon"
+    }
   }
 }

@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationMessageSentAndroid",
-    "iOSApp": "ConversationMessageSentiOS",
-    "MacDesktopClient": "ConversationMessageSentDUAR",
-    "MacStudioApp": "ConversationMessageSentCommon",
-    "PCDesktopClient": "ConversationMessageSentDUAR",
-    "PCStudioApp": "ConversationMessageSentCommon",
-    "PlayStationClient": "ConversationMessageSentCommon",
-    "UWPApp": "ConversationMessageSentCommon",
-    "XboxClient": "ConversationMessageSentCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationMessageSentAndroid",
+      "iOSApp": "ConversationMessageSentiOS",
+      "MacDesktopClient": "ConversationMessageSentDUAR",
+      "MacStudioApp": "ConversationMessageSentCommon",
+      "PCDesktopClient": "ConversationMessageSentDUAR",
+      "PCStudioApp": "ConversationMessageSentCommon",
+      "PlayStationClient": "ConversationMessageSentCommon",
+      "UWPApp": "ConversationMessageSentCommon",
+      "XboxClient": "ConversationMessageSentCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationMessageSentAndroid",
+      "iOSApp": "ConversationMessageSentiOS",
+      "MacDesktopClient": "ConversationMessageSentDUAR",
+      "MacStudioApp": "ConversationMessageSentCommon",
+      "PCDesktopClient": "ConversationMessageSentDUAR",
+      "PCStudioApp": "ConversationMessageSentCommon",
+      "PlayStationClient": "ConversationMessageSentCommon",
+      "UWPApp": "ConversationMessageSentCommon",
+      "XboxClient": "ConversationMessageSentCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationMessageSentAndroid",
+      "iOSApp": "ConversationMessageSentiOS",
+      "MacDesktopClient": "ConversationMessageSentDUAR",
+      "MacStudioApp": "ConversationMessageSentCommon",
+      "PCDesktopClient": "ConversationMessageSentDUAR",
+      "PlayStationClient": "ConversationMessageSentCommon",
+      "UWPApp": "ConversationMessageSentCommon",
+      "XboxClient": "ConversationMessageSentCommon"
+    }
   }
 }

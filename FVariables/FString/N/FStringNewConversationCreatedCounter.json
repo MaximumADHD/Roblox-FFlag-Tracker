@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "NewConversationCreatedAndroid",
-    "iOSApp": "NewConversationCreatediOS",
-    "MacDesktopClient": "NewConversationCreatedDUAR",
-    "MacStudioApp": "NewConversationCreatedCommon",
-    "PCDesktopClient": "NewConversationCreatedDUAR",
-    "PCStudioApp": "NewConversationCreatedCommon",
-    "PlayStationClient": "NewConversationCreatedCommon",
-    "UWPApp": "NewConversationCreatedCommon",
-    "XboxClient": "NewConversationCreatedCommon"
+    "LIVE": {
+      "AndroidApp": "NewConversationCreatedAndroid",
+      "iOSApp": "NewConversationCreatediOS",
+      "MacDesktopClient": "NewConversationCreatedDUAR",
+      "MacStudioApp": "NewConversationCreatedCommon",
+      "PCDesktopClient": "NewConversationCreatedDUAR",
+      "PCStudioApp": "NewConversationCreatedCommon",
+      "PlayStationClient": "NewConversationCreatedCommon",
+      "UWPApp": "NewConversationCreatedCommon",
+      "XboxClient": "NewConversationCreatedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "NewConversationCreatedAndroid",
+      "iOSApp": "NewConversationCreatediOS",
+      "MacDesktopClient": "NewConversationCreatedDUAR",
+      "MacStudioApp": "NewConversationCreatedCommon",
+      "PCDesktopClient": "NewConversationCreatedDUAR",
+      "PCStudioApp": "NewConversationCreatedCommon",
+      "PlayStationClient": "NewConversationCreatedCommon",
+      "UWPApp": "NewConversationCreatedCommon",
+      "XboxClient": "NewConversationCreatedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "NewConversationCreatedAndroid",
+      "iOSApp": "NewConversationCreatediOS",
+      "MacDesktopClient": "NewConversationCreatedDUAR",
+      "MacStudioApp": "NewConversationCreatedCommon",
+      "PCDesktopClient": "NewConversationCreatedDUAR",
+      "PlayStationClient": "NewConversationCreatedCommon",
+      "UWPApp": "NewConversationCreatedCommon",
+      "XboxClient": "NewConversationCreatedCommon"
+    }
   }
 }

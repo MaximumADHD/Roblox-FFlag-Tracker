@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatDetailsLeaveGroupBtnClickedAndroid",
-    "iOSApp": "ChatDetailsLeaveGroupBtnClickediOS",
-    "MacDesktopClient": "ChatDetailsLeaveGroupBtnClickedDUAR",
-    "MacStudioApp": "ChatDetailsLeaveGroupBtnClickedCommon",
-    "PCDesktopClient": "ChatDetailsLeaveGroupBtnClickedDUAR",
-    "PCStudioApp": "ChatDetailsLeaveGroupBtnClickedCommon",
-    "PlayStationClient": "ChatDetailsLeaveGroupBtnClickedCommon",
-    "UWPApp": "ChatDetailsLeaveGroupBtnClickedCommon",
-    "XboxClient": "ChatDetailsLeaveGroupBtnClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ChatDetailsLeaveGroupBtnClickedAndroid",
+      "iOSApp": "ChatDetailsLeaveGroupBtnClickediOS",
+      "MacDesktopClient": "ChatDetailsLeaveGroupBtnClickedDUAR",
+      "MacStudioApp": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "PCDesktopClient": "ChatDetailsLeaveGroupBtnClickedDUAR",
+      "PCStudioApp": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "PlayStationClient": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "UWPApp": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "XboxClient": "ChatDetailsLeaveGroupBtnClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatDetailsLeaveGroupBtnClickedAndroid",
+      "iOSApp": "ChatDetailsLeaveGroupBtnClickediOS",
+      "MacDesktopClient": "ChatDetailsLeaveGroupBtnClickedDUAR",
+      "MacStudioApp": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "PCDesktopClient": "ChatDetailsLeaveGroupBtnClickedDUAR",
+      "PCStudioApp": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "PlayStationClient": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "UWPApp": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "XboxClient": "ChatDetailsLeaveGroupBtnClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatDetailsLeaveGroupBtnClickedAndroid",
+      "iOSApp": "ChatDetailsLeaveGroupBtnClickediOS",
+      "MacDesktopClient": "ChatDetailsLeaveGroupBtnClickedDUAR",
+      "MacStudioApp": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "PCDesktopClient": "ChatDetailsLeaveGroupBtnClickedDUAR",
+      "PlayStationClient": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "UWPApp": "ChatDetailsLeaveGroupBtnClickedCommon",
+      "XboxClient": "ChatDetailsLeaveGroupBtnClickedCommon"
+    }
   }
 }

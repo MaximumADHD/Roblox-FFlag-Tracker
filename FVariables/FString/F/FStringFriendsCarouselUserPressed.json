@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "FriendsCarouselUserPressedEvents"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "FriendsCarouselUserPressedEvents",
+    "zcanary": "FriendsCarouselUserPressedEvents",
+    "zintegration": "FriendsCarouselUserPressedEvents"
+  }
 }

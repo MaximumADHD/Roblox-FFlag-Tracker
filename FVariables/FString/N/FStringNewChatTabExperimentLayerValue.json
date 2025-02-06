@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "ShowNewChatTab"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "ShowNewChatTab",
+    "zcanary": "ShowNewChatTab",
+    "zintegration": "ShowNewChatTab"
+  }
 }

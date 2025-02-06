@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationPvUpsellSucceededAndroid",
-    "iOSApp": "ConversationPvUpsellSucceedediOS",
-    "MacDesktopClient": "ConversationPvUpsellSucceededDUAR",
-    "MacStudioApp": "ConversationPvUpsellSucceededCommon",
-    "PCDesktopClient": "ConversationPvUpsellSucceededDUAR",
-    "PCStudioApp": "ConversationPvUpsellSucceededCommon",
-    "PlayStationClient": "ConversationPvUpsellSucceededCommon",
-    "UWPApp": "ConversationPvUpsellSucceededCommon",
-    "XboxClient": "ConversationPvUpsellSucceededCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationPvUpsellSucceededAndroid",
+      "iOSApp": "ConversationPvUpsellSucceedediOS",
+      "MacDesktopClient": "ConversationPvUpsellSucceededDUAR",
+      "MacStudioApp": "ConversationPvUpsellSucceededCommon",
+      "PCDesktopClient": "ConversationPvUpsellSucceededDUAR",
+      "PCStudioApp": "ConversationPvUpsellSucceededCommon",
+      "PlayStationClient": "ConversationPvUpsellSucceededCommon",
+      "UWPApp": "ConversationPvUpsellSucceededCommon",
+      "XboxClient": "ConversationPvUpsellSucceededCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationPvUpsellSucceededAndroid",
+      "iOSApp": "ConversationPvUpsellSucceedediOS",
+      "MacDesktopClient": "ConversationPvUpsellSucceededDUAR",
+      "MacStudioApp": "ConversationPvUpsellSucceededCommon",
+      "PCDesktopClient": "ConversationPvUpsellSucceededDUAR",
+      "PCStudioApp": "ConversationPvUpsellSucceededCommon",
+      "PlayStationClient": "ConversationPvUpsellSucceededCommon",
+      "UWPApp": "ConversationPvUpsellSucceededCommon",
+      "XboxClient": "ConversationPvUpsellSucceededCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationPvUpsellSucceededAndroid",
+      "iOSApp": "ConversationPvUpsellSucceedediOS",
+      "MacDesktopClient": "ConversationPvUpsellSucceededDUAR",
+      "MacStudioApp": "ConversationPvUpsellSucceededCommon",
+      "PCDesktopClient": "ConversationPvUpsellSucceededDUAR",
+      "PlayStationClient": "ConversationPvUpsellSucceededCommon",
+      "UWPApp": "ConversationPvUpsellSucceededCommon",
+      "XboxClient": "ConversationPvUpsellSucceededCommon"
+    }
   }
 }

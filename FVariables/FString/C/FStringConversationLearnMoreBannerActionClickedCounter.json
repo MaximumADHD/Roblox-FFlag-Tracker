@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationLearnMoreBannerActionClickedAndroid",
-    "iOSApp": "ConversationLearnMoreBannerActionClickediOS",
-    "MacDesktopClient": "ConversationLearnMoreBannerActionClickedDUAR",
-    "MacStudioApp": "ConversationLearnMoreBannerActionClickedCommon",
-    "PCDesktopClient": "ConversationLearnMoreBannerActionClickedDUAR",
-    "PCStudioApp": "ConversationLearnMoreBannerActionClickedCommon",
-    "PlayStationClient": "ConversationLearnMoreBannerActionClickedCommon",
-    "UWPApp": "ConversationLearnMoreBannerActionClickedCommon",
-    "XboxClient": "ConversationLearnMoreBannerActionClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationLearnMoreBannerActionClickedAndroid",
+      "iOSApp": "ConversationLearnMoreBannerActionClickediOS",
+      "MacDesktopClient": "ConversationLearnMoreBannerActionClickedDUAR",
+      "MacStudioApp": "ConversationLearnMoreBannerActionClickedCommon",
+      "PCDesktopClient": "ConversationLearnMoreBannerActionClickedDUAR",
+      "PCStudioApp": "ConversationLearnMoreBannerActionClickedCommon",
+      "PlayStationClient": "ConversationLearnMoreBannerActionClickedCommon",
+      "UWPApp": "ConversationLearnMoreBannerActionClickedCommon",
+      "XboxClient": "ConversationLearnMoreBannerActionClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationLearnMoreBannerActionClickedAndroid",
+      "iOSApp": "ConversationLearnMoreBannerActionClickediOS",
+      "MacDesktopClient": "ConversationLearnMoreBannerActionClickedDUAR",
+      "MacStudioApp": "ConversationLearnMoreBannerActionClickedCommon",
+      "PCDesktopClient": "ConversationLearnMoreBannerActionClickedDUAR",
+      "PCStudioApp": "ConversationLearnMoreBannerActionClickedCommon",
+      "PlayStationClient": "ConversationLearnMoreBannerActionClickedCommon",
+      "UWPApp": "ConversationLearnMoreBannerActionClickedCommon",
+      "XboxClient": "ConversationLearnMoreBannerActionClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationLearnMoreBannerActionClickedAndroid",
+      "iOSApp": "ConversationLearnMoreBannerActionClickediOS",
+      "MacDesktopClient": "ConversationLearnMoreBannerActionClickedDUAR",
+      "MacStudioApp": "ConversationLearnMoreBannerActionClickedCommon",
+      "PCDesktopClient": "ConversationLearnMoreBannerActionClickedDUAR",
+      "PlayStationClient": "ConversationLearnMoreBannerActionClickedCommon",
+      "UWPApp": "ConversationLearnMoreBannerActionClickedCommon",
+      "XboxClient": "ConversationLearnMoreBannerActionClickedCommon"
+    }
   }
 }

@@ -1,9 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacDesktopClient": 20000,
-    "MacStudioApp": 20000,
-    "PCDesktopClient": 20000,
-    "PCStudioApp": 20000
+    "LIVE": 20000,
+    "zcanary": 20000,
+    "zintegration": 20000
   }
 }

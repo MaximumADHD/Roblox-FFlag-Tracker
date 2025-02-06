@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "AndroidPresencePropagationDelay",
-    "iOSApp": "iOSPresencePropagationDelay",
-    "MacDesktopClient": "MacDUAPresencePropagationDelay",
-    "MacStudioApp": "PresencePropagationDelay",
-    "PCDesktopClient": "WindowsDUAPresencePropagationDelay",
-    "PCStudioApp": "PresencePropagationDelay",
-    "PlayStationClient": "PlayStationPresencePropagationDelay",
-    "UWPApp": "PresencePropagationDelay",
-    "XboxClient": "XboxPresencePropagationDelay"
+    "LIVE": {
+      "AndroidApp": "AndroidPresencePropagationDelay",
+      "iOSApp": "iOSPresencePropagationDelay",
+      "MacDesktopClient": "MacDUAPresencePropagationDelay",
+      "MacStudioApp": "PresencePropagationDelay",
+      "PCDesktopClient": "WindowsDUAPresencePropagationDelay",
+      "PCStudioApp": "PresencePropagationDelay",
+      "PlayStationClient": "PlayStationPresencePropagationDelay",
+      "UWPApp": "PresencePropagationDelay",
+      "XboxClient": "XboxPresencePropagationDelay"
+    },
+    "zcanary": {
+      "AndroidApp": "AndroidPresencePropagationDelay",
+      "iOSApp": "iOSPresencePropagationDelay",
+      "MacDesktopClient": "MacDUAPresencePropagationDelay",
+      "MacStudioApp": "PresencePropagationDelay",
+      "PCDesktopClient": "WindowsDUAPresencePropagationDelay",
+      "PCStudioApp": "PresencePropagationDelay",
+      "PlayStationClient": "PlayStationPresencePropagationDelay",
+      "UWPApp": "PresencePropagationDelay",
+      "XboxClient": "XboxPresencePropagationDelay"
+    },
+    "zintegration": {
+      "AndroidApp": "AndroidPresencePropagationDelay",
+      "iOSApp": "iOSPresencePropagationDelay",
+      "MacDesktopClient": "MacDUAPresencePropagationDelay",
+      "MacStudioApp": "PresencePropagationDelay",
+      "PCDesktopClient": "WindowsDUAPresencePropagationDelay",
+      "PlayStationClient": "PlayStationPresencePropagationDelay",
+      "UWPApp": "PresencePropagationDelay",
+      "XboxClient": "XboxPresencePropagationDelay"
+    }
   }
 }

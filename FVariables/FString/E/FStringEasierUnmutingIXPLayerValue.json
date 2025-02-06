@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "VoiceEasierUnmutingEnabled"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "VoiceEasierUnmutingEnabled",
+    "zcanary": "VoiceEasierUnmutingEnabled",
+    "zintegration": "VoiceEasierUnmutingEnabled"
+  }
 }

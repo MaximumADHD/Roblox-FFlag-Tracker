@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatDetailsRenderedAndroid",
-    "iOSApp": "ChatDetailsRenderediOS",
-    "MacDesktopClient": "ChatDetailsRenderedDUAR",
-    "MacStudioApp": "ChatDetailsRenderedCommon",
-    "PCDesktopClient": "ChatDetailsRenderedDUAR",
-    "PCStudioApp": "ChatDetailsRenderedCommon",
-    "PlayStationClient": "ChatDetailsRenderedCommon",
-    "UWPApp": "ChatDetailsRenderedCommon",
-    "XboxClient": "ChatDetailsRenderedCommon"
+    "LIVE": {
+      "AndroidApp": "ChatDetailsRenderedAndroid",
+      "iOSApp": "ChatDetailsRenderediOS",
+      "MacDesktopClient": "ChatDetailsRenderedDUAR",
+      "MacStudioApp": "ChatDetailsRenderedCommon",
+      "PCDesktopClient": "ChatDetailsRenderedDUAR",
+      "PCStudioApp": "ChatDetailsRenderedCommon",
+      "PlayStationClient": "ChatDetailsRenderedCommon",
+      "UWPApp": "ChatDetailsRenderedCommon",
+      "XboxClient": "ChatDetailsRenderedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatDetailsRenderedAndroid",
+      "iOSApp": "ChatDetailsRenderediOS",
+      "MacDesktopClient": "ChatDetailsRenderedDUAR",
+      "MacStudioApp": "ChatDetailsRenderedCommon",
+      "PCDesktopClient": "ChatDetailsRenderedDUAR",
+      "PCStudioApp": "ChatDetailsRenderedCommon",
+      "PlayStationClient": "ChatDetailsRenderedCommon",
+      "UWPApp": "ChatDetailsRenderedCommon",
+      "XboxClient": "ChatDetailsRenderedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatDetailsRenderedAndroid",
+      "iOSApp": "ChatDetailsRenderediOS",
+      "MacDesktopClient": "ChatDetailsRenderedDUAR",
+      "MacStudioApp": "ChatDetailsRenderedCommon",
+      "PCDesktopClient": "ChatDetailsRenderedDUAR",
+      "PlayStationClient": "ChatDetailsRenderedCommon",
+      "UWPApp": "ChatDetailsRenderedCommon",
+      "XboxClient": "ChatDetailsRenderedCommon"
+    }
   }
 }

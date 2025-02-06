@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationLearnMoreDialogDismissedAndroid",
-    "iOSApp": "ConversationLearnMoreDialogDismissediOS",
-    "MacDesktopClient": "ConversationLearnMoreDialogDismissedDUAR",
-    "MacStudioApp": "ConversationLearnMoreDialogDismissedCommon",
-    "PCDesktopClient": "ConversationLearnMoreDialogDismissedDUAR",
-    "PCStudioApp": "ConversationLearnMoreDialogDismissedCommon",
-    "PlayStationClient": "ConversationLearnMoreDialogDismissedCommon",
-    "UWPApp": "ConversationLearnMoreDialogDismissedCommon",
-    "XboxClient": "ConversationLearnMoreDialogDismissedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationLearnMoreDialogDismissedAndroid",
+      "iOSApp": "ConversationLearnMoreDialogDismissediOS",
+      "MacDesktopClient": "ConversationLearnMoreDialogDismissedDUAR",
+      "MacStudioApp": "ConversationLearnMoreDialogDismissedCommon",
+      "PCDesktopClient": "ConversationLearnMoreDialogDismissedDUAR",
+      "PCStudioApp": "ConversationLearnMoreDialogDismissedCommon",
+      "PlayStationClient": "ConversationLearnMoreDialogDismissedCommon",
+      "UWPApp": "ConversationLearnMoreDialogDismissedCommon",
+      "XboxClient": "ConversationLearnMoreDialogDismissedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationLearnMoreDialogDismissedAndroid",
+      "iOSApp": "ConversationLearnMoreDialogDismissediOS",
+      "MacDesktopClient": "ConversationLearnMoreDialogDismissedDUAR",
+      "MacStudioApp": "ConversationLearnMoreDialogDismissedCommon",
+      "PCDesktopClient": "ConversationLearnMoreDialogDismissedDUAR",
+      "PCStudioApp": "ConversationLearnMoreDialogDismissedCommon",
+      "PlayStationClient": "ConversationLearnMoreDialogDismissedCommon",
+      "UWPApp": "ConversationLearnMoreDialogDismissedCommon",
+      "XboxClient": "ConversationLearnMoreDialogDismissedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationLearnMoreDialogDismissedAndroid",
+      "iOSApp": "ConversationLearnMoreDialogDismissediOS",
+      "MacDesktopClient": "ConversationLearnMoreDialogDismissedDUAR",
+      "MacStudioApp": "ConversationLearnMoreDialogDismissedCommon",
+      "PCDesktopClient": "ConversationLearnMoreDialogDismissedDUAR",
+      "PlayStationClient": "ConversationLearnMoreDialogDismissedCommon",
+      "UWPApp": "ConversationLearnMoreDialogDismissedCommon",
+      "XboxClient": "ConversationLearnMoreDialogDismissedCommon"
+    }
   }
 }

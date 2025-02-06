@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationLearnMoreBannerRenderedAndroid",
-    "iOSApp": "ConversationLearnMoreBannerRenderediOS",
-    "MacDesktopClient": "ConversationLearnMoreBannerRenderedDUAR",
-    "MacStudioApp": "ConversationLearnMoreBannerRenderedCommon",
-    "PCDesktopClient": "ConversationLearnMoreBannerRenderedDUAR",
-    "PCStudioApp": "ConversationLearnMoreBannerRenderedCommon",
-    "PlayStationClient": "ConversationLearnMoreBannerRenderedCommon",
-    "UWPApp": "ConversationLearnMoreBannerRenderedCommon",
-    "XboxClient": "ConversationLearnMoreBannerRenderedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationLearnMoreBannerRenderedAndroid",
+      "iOSApp": "ConversationLearnMoreBannerRenderediOS",
+      "MacDesktopClient": "ConversationLearnMoreBannerRenderedDUAR",
+      "MacStudioApp": "ConversationLearnMoreBannerRenderedCommon",
+      "PCDesktopClient": "ConversationLearnMoreBannerRenderedDUAR",
+      "PCStudioApp": "ConversationLearnMoreBannerRenderedCommon",
+      "PlayStationClient": "ConversationLearnMoreBannerRenderedCommon",
+      "UWPApp": "ConversationLearnMoreBannerRenderedCommon",
+      "XboxClient": "ConversationLearnMoreBannerRenderedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationLearnMoreBannerRenderedAndroid",
+      "iOSApp": "ConversationLearnMoreBannerRenderediOS",
+      "MacDesktopClient": "ConversationLearnMoreBannerRenderedDUAR",
+      "MacStudioApp": "ConversationLearnMoreBannerRenderedCommon",
+      "PCDesktopClient": "ConversationLearnMoreBannerRenderedDUAR",
+      "PCStudioApp": "ConversationLearnMoreBannerRenderedCommon",
+      "PlayStationClient": "ConversationLearnMoreBannerRenderedCommon",
+      "UWPApp": "ConversationLearnMoreBannerRenderedCommon",
+      "XboxClient": "ConversationLearnMoreBannerRenderedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationLearnMoreBannerRenderedAndroid",
+      "iOSApp": "ConversationLearnMoreBannerRenderediOS",
+      "MacDesktopClient": "ConversationLearnMoreBannerRenderedDUAR",
+      "MacStudioApp": "ConversationLearnMoreBannerRenderedCommon",
+      "PCDesktopClient": "ConversationLearnMoreBannerRenderedDUAR",
+      "PlayStationClient": "ConversationLearnMoreBannerRenderedCommon",
+      "UWPApp": "ConversationLearnMoreBannerRenderedCommon",
+      "XboxClient": "ConversationLearnMoreBannerRenderedCommon"
+    }
   }
 }

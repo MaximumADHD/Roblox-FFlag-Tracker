@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": 60000
+  "Type": "Channels",
+  "Value": {
+    "LIVE": 60000,
+    "zcanary": 60000,
+    "zintegration": 60000
+  }
 }

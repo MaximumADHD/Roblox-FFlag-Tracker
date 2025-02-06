@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"lg electronics\",\"vivo\"]} ]} ]}"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"lg electronics\",\"vivo\"]} ]} ]}",
+    "zcanary": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"lg electronics\",\"vivo\"]} ]} ]}",
+    "zintegration": "{\"and\":[ {\"=\":[\"app_bitness()\",32]}, {\"not\":[ {\"is_any_of\":[\"manufacturer()\",\"samsung\",\"amazon\",\"lge\",\"lg\",\"lg electronics\",\"vivo\"]} ]} ]}"
+  }
 }

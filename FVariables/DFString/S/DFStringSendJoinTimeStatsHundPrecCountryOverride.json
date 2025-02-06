@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "CN,5000,US,100,AU,3000,KR,2000,NZ,3000"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "CN,5000,US,100,AU,3000,KR,2000,NZ,3000",
+    "zcanary": "CN,5000,US,100,AU,3000,KR,2000,NZ,3000",
+    "zintegration": "CN,5000,US,100,AU,3000,KR,2000,NZ,3000"
+  }
 }

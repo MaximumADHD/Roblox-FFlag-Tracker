@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
-    "iOSApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Sound Cache, RenderingQuality, Streaming Distance, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
-    "MacDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
-    "MacStudioApp": "None",
-    "PCDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
-    "PCStudioApp": "None",
-    "PlayStationClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
-    "UWPApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
-    "XboxClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure"
+    "LIVE": {
+      "AndroidApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "iOSApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Sound Cache, RenderingQuality, Streaming Distance, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "MacDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "MacStudioApp": "None",
+      "PCDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "PCStudioApp": "None",
+      "PlayStationClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "UWPApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "XboxClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure"
+    },
+    "zcanary": {
+      "AndroidApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "iOSApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Sound Cache, RenderingQuality, Streaming Distance, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "MacDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "MacStudioApp": "None",
+      "PCDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "PCStudioApp": "None",
+      "PlayStationClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "UWPApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "XboxClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure"
+    },
+    "zintegration": {
+      "AndroidApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "iOSApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Sound Cache, RenderingQuality, Streaming Distance, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "MacDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "MacStudioApp": "None",
+      "PCDesktopClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, DualSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "PlayStationClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "UWPApp": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure",
+      "XboxClient": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure"
+    }
   }
 }

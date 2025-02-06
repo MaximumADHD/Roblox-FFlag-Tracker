@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "/games/(%d+).*"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "/games/(%d+).*",
+    "zcanary": "/games/(%d+).*",
+    "zintegration": "/games/(%d+).*"
+  }
 }

@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationIneligibleModalLeftGroupAndroid",
-    "iOSApp": "ConversationIneligibleModalLeftGroupiOS",
-    "MacDesktopClient": "ConversationIneligibleModalLeftGroupDUAR",
-    "MacStudioApp": "ConversationIneligibleModalLeftGroupCommon",
-    "PCDesktopClient": "ConversationIneligibleModalLeftGroupDUAR",
-    "PCStudioApp": "ConversationIneligibleModalLeftGroupCommon",
-    "PlayStationClient": "ConversationIneligibleModalLeftGroupCommon",
-    "UWPApp": "ConversationIneligibleModalLeftGroupCommon",
-    "XboxClient": "ConversationIneligibleModalLeftGroupCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationIneligibleModalLeftGroupAndroid",
+      "iOSApp": "ConversationIneligibleModalLeftGroupiOS",
+      "MacDesktopClient": "ConversationIneligibleModalLeftGroupDUAR",
+      "MacStudioApp": "ConversationIneligibleModalLeftGroupCommon",
+      "PCDesktopClient": "ConversationIneligibleModalLeftGroupDUAR",
+      "PCStudioApp": "ConversationIneligibleModalLeftGroupCommon",
+      "PlayStationClient": "ConversationIneligibleModalLeftGroupCommon",
+      "UWPApp": "ConversationIneligibleModalLeftGroupCommon",
+      "XboxClient": "ConversationIneligibleModalLeftGroupCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationIneligibleModalLeftGroupAndroid",
+      "iOSApp": "ConversationIneligibleModalLeftGroupiOS",
+      "MacDesktopClient": "ConversationIneligibleModalLeftGroupDUAR",
+      "MacStudioApp": "ConversationIneligibleModalLeftGroupCommon",
+      "PCDesktopClient": "ConversationIneligibleModalLeftGroupDUAR",
+      "PCStudioApp": "ConversationIneligibleModalLeftGroupCommon",
+      "PlayStationClient": "ConversationIneligibleModalLeftGroupCommon",
+      "UWPApp": "ConversationIneligibleModalLeftGroupCommon",
+      "XboxClient": "ConversationIneligibleModalLeftGroupCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationIneligibleModalLeftGroupAndroid",
+      "iOSApp": "ConversationIneligibleModalLeftGroupiOS",
+      "MacDesktopClient": "ConversationIneligibleModalLeftGroupDUAR",
+      "MacStudioApp": "ConversationIneligibleModalLeftGroupCommon",
+      "PCDesktopClient": "ConversationIneligibleModalLeftGroupDUAR",
+      "PlayStationClient": "ConversationIneligibleModalLeftGroupCommon",
+      "UWPApp": "ConversationIneligibleModalLeftGroupCommon",
+      "XboxClient": "ConversationIneligibleModalLeftGroupCommon"
+    }
   }
 }

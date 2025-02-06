@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatLandingNotifBtnClickedAndroid",
-    "iOSApp": "ChatLandingNotifBtnClickediOS",
-    "MacDesktopClient": "ChatLandingNotifBtnClickedDUAR",
-    "MacStudioApp": "ChatLandingNotifBtnClickedCommon",
-    "PCDesktopClient": "ChatLandingNotifBtnClickedDUAR",
-    "PCStudioApp": "ChatLandingNotifBtnClickedCommon",
-    "PlayStationClient": "ChatLandingNotifBtnClickedCommon",
-    "UWPApp": "ChatLandingNotifBtnClickedCommon",
-    "XboxClient": "ChatLandingNotifBtnClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ChatLandingNotifBtnClickedAndroid",
+      "iOSApp": "ChatLandingNotifBtnClickediOS",
+      "MacDesktopClient": "ChatLandingNotifBtnClickedDUAR",
+      "MacStudioApp": "ChatLandingNotifBtnClickedCommon",
+      "PCDesktopClient": "ChatLandingNotifBtnClickedDUAR",
+      "PCStudioApp": "ChatLandingNotifBtnClickedCommon",
+      "PlayStationClient": "ChatLandingNotifBtnClickedCommon",
+      "UWPApp": "ChatLandingNotifBtnClickedCommon",
+      "XboxClient": "ChatLandingNotifBtnClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatLandingNotifBtnClickedAndroid",
+      "iOSApp": "ChatLandingNotifBtnClickediOS",
+      "MacDesktopClient": "ChatLandingNotifBtnClickedDUAR",
+      "MacStudioApp": "ChatLandingNotifBtnClickedCommon",
+      "PCDesktopClient": "ChatLandingNotifBtnClickedDUAR",
+      "PCStudioApp": "ChatLandingNotifBtnClickedCommon",
+      "PlayStationClient": "ChatLandingNotifBtnClickedCommon",
+      "UWPApp": "ChatLandingNotifBtnClickedCommon",
+      "XboxClient": "ChatLandingNotifBtnClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatLandingNotifBtnClickedAndroid",
+      "iOSApp": "ChatLandingNotifBtnClickediOS",
+      "MacDesktopClient": "ChatLandingNotifBtnClickedDUAR",
+      "MacStudioApp": "ChatLandingNotifBtnClickedCommon",
+      "PCDesktopClient": "ChatLandingNotifBtnClickedDUAR",
+      "PlayStationClient": "ChatLandingNotifBtnClickedCommon",
+      "UWPApp": "ChatLandingNotifBtnClickedCommon",
+      "XboxClient": "ChatLandingNotifBtnClickedCommon"
+    }
   }
 }

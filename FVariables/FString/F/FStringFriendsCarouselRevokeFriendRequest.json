@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "FriendsCarouselRevokeFriendRequestEvents"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "FriendsCarouselRevokeFriendRequestEvents",
+    "zcanary": "FriendsCarouselRevokeFriendRequestEvents",
+    "zintegration": "FriendsCarouselRevokeFriendRequestEvents"
+  }
 }

@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatLandingPvUpsellSucceededAndroid",
-    "iOSApp": "ChatLandingPvUpsellSucceedediOS",
-    "MacDesktopClient": "ChatLandingPvUpsellSucceededDUAR",
-    "MacStudioApp": "ChatLandingPvUpsellSucceededCommon",
-    "PCDesktopClient": "ChatLandingPvUpsellSucceededDUAR",
-    "PCStudioApp": "ChatLandingPvUpsellSucceededCommon",
-    "PlayStationClient": "ChatLandingPvUpsellSucceededCommon",
-    "UWPApp": "ChatLandingPvUpsellSucceededCommon",
-    "XboxClient": "ChatLandingPvUpsellSucceededCommon"
+    "LIVE": {
+      "AndroidApp": "ChatLandingPvUpsellSucceededAndroid",
+      "iOSApp": "ChatLandingPvUpsellSucceedediOS",
+      "MacDesktopClient": "ChatLandingPvUpsellSucceededDUAR",
+      "MacStudioApp": "ChatLandingPvUpsellSucceededCommon",
+      "PCDesktopClient": "ChatLandingPvUpsellSucceededDUAR",
+      "PCStudioApp": "ChatLandingPvUpsellSucceededCommon",
+      "PlayStationClient": "ChatLandingPvUpsellSucceededCommon",
+      "UWPApp": "ChatLandingPvUpsellSucceededCommon",
+      "XboxClient": "ChatLandingPvUpsellSucceededCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatLandingPvUpsellSucceededAndroid",
+      "iOSApp": "ChatLandingPvUpsellSucceedediOS",
+      "MacDesktopClient": "ChatLandingPvUpsellSucceededDUAR",
+      "MacStudioApp": "ChatLandingPvUpsellSucceededCommon",
+      "PCDesktopClient": "ChatLandingPvUpsellSucceededDUAR",
+      "PCStudioApp": "ChatLandingPvUpsellSucceededCommon",
+      "PlayStationClient": "ChatLandingPvUpsellSucceededCommon",
+      "UWPApp": "ChatLandingPvUpsellSucceededCommon",
+      "XboxClient": "ChatLandingPvUpsellSucceededCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatLandingPvUpsellSucceededAndroid",
+      "iOSApp": "ChatLandingPvUpsellSucceedediOS",
+      "MacDesktopClient": "ChatLandingPvUpsellSucceededDUAR",
+      "MacStudioApp": "ChatLandingPvUpsellSucceededCommon",
+      "PCDesktopClient": "ChatLandingPvUpsellSucceededDUAR",
+      "PlayStationClient": "ChatLandingPvUpsellSucceededCommon",
+      "UWPApp": "ChatLandingPvUpsellSucceededCommon",
+      "XboxClient": "ChatLandingPvUpsellSucceededCommon"
+    }
   }
 }

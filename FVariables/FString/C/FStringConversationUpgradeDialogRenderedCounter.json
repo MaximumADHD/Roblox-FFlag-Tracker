@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationUpgradeDialogRenderedAndroid",
-    "iOSApp": "ConversationUpgradeDialogRenderediOS",
-    "MacDesktopClient": "ConversationUpgradeDialogRenderedDUAR",
-    "MacStudioApp": "ConversationUpgradeDialogRenderedCommon",
-    "PCDesktopClient": "ConversationUpgradeDialogRenderedDUAR",
-    "PCStudioApp": "ConversationUpgradeDialogRenderedCommon",
-    "PlayStationClient": "ConversationUpgradeDialogRenderedCommon",
-    "UWPApp": "ConversationUpgradeDialogRenderedCommon",
-    "XboxClient": "ConversationUpgradeDialogRenderedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationUpgradeDialogRenderedAndroid",
+      "iOSApp": "ConversationUpgradeDialogRenderediOS",
+      "MacDesktopClient": "ConversationUpgradeDialogRenderedDUAR",
+      "MacStudioApp": "ConversationUpgradeDialogRenderedCommon",
+      "PCDesktopClient": "ConversationUpgradeDialogRenderedDUAR",
+      "PCStudioApp": "ConversationUpgradeDialogRenderedCommon",
+      "PlayStationClient": "ConversationUpgradeDialogRenderedCommon",
+      "UWPApp": "ConversationUpgradeDialogRenderedCommon",
+      "XboxClient": "ConversationUpgradeDialogRenderedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationUpgradeDialogRenderedAndroid",
+      "iOSApp": "ConversationUpgradeDialogRenderediOS",
+      "MacDesktopClient": "ConversationUpgradeDialogRenderedDUAR",
+      "MacStudioApp": "ConversationUpgradeDialogRenderedCommon",
+      "PCDesktopClient": "ConversationUpgradeDialogRenderedDUAR",
+      "PCStudioApp": "ConversationUpgradeDialogRenderedCommon",
+      "PlayStationClient": "ConversationUpgradeDialogRenderedCommon",
+      "UWPApp": "ConversationUpgradeDialogRenderedCommon",
+      "XboxClient": "ConversationUpgradeDialogRenderedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationUpgradeDialogRenderedAndroid",
+      "iOSApp": "ConversationUpgradeDialogRenderediOS",
+      "MacDesktopClient": "ConversationUpgradeDialogRenderedDUAR",
+      "MacStudioApp": "ConversationUpgradeDialogRenderedCommon",
+      "PCDesktopClient": "ConversationUpgradeDialogRenderedDUAR",
+      "PlayStationClient": "ConversationUpgradeDialogRenderedCommon",
+      "UWPApp": "ConversationUpgradeDialogRenderedCommon",
+      "XboxClient": "ConversationUpgradeDialogRenderedCommon"
+    }
   }
 }

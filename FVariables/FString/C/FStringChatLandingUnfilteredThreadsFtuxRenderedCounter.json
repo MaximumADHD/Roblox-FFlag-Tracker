@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatLandingUnfilteredThreadsFtuxRenderedAndroid",
-    "iOSApp": "ChatLandingUnfilteredThreadsFtuxRenderediOS",
-    "MacDesktopClient": "ChatLandingUnfilteredThreadsFtuxRenderedDUAR",
-    "MacStudioApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
-    "PCDesktopClient": "ChatLandingUnfilteredThreadsFtuxRenderedDUAR",
-    "PCStudioApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
-    "PlayStationClient": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
-    "UWPApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
-    "XboxClient": "ChatLandingUnfilteredThreadsFtuxRenderedCommon"
+    "LIVE": {
+      "AndroidApp": "ChatLandingUnfilteredThreadsFtuxRenderedAndroid",
+      "iOSApp": "ChatLandingUnfilteredThreadsFtuxRenderediOS",
+      "MacDesktopClient": "ChatLandingUnfilteredThreadsFtuxRenderedDUAR",
+      "MacStudioApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "PCDesktopClient": "ChatLandingUnfilteredThreadsFtuxRenderedDUAR",
+      "PCStudioApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "PlayStationClient": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "UWPApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "XboxClient": "ChatLandingUnfilteredThreadsFtuxRenderedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatLandingUnfilteredThreadsFtuxRenderedAndroid",
+      "iOSApp": "ChatLandingUnfilteredThreadsFtuxRenderediOS",
+      "MacDesktopClient": "ChatLandingUnfilteredThreadsFtuxRenderedDUAR",
+      "MacStudioApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "PCDesktopClient": "ChatLandingUnfilteredThreadsFtuxRenderedDUAR",
+      "PCStudioApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "PlayStationClient": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "UWPApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "XboxClient": "ChatLandingUnfilteredThreadsFtuxRenderedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatLandingUnfilteredThreadsFtuxRenderedAndroid",
+      "iOSApp": "ChatLandingUnfilteredThreadsFtuxRenderediOS",
+      "MacDesktopClient": "ChatLandingUnfilteredThreadsFtuxRenderedDUAR",
+      "MacStudioApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "PCDesktopClient": "ChatLandingUnfilteredThreadsFtuxRenderedDUAR",
+      "PlayStationClient": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "UWPApp": "ChatLandingUnfilteredThreadsFtuxRenderedCommon",
+      "XboxClient": "ChatLandingUnfilteredThreadsFtuxRenderedCommon"
+    }
   }
 }

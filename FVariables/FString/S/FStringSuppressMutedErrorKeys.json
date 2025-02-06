@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AdjustAccessoryView"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AdjustAccessoryView",
+    "zcanary": "AdjustAccessoryView",
+    "zintegration": "AdjustAccessoryView"
+  }
 }

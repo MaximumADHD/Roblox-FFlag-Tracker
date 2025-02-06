@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationSendBtnClickedAndroid",
-    "iOSApp": "ConversationSendBtnClickediOS",
-    "MacDesktopClient": "ConversationSendBtnClickedDUAR",
-    "MacStudioApp": "ConversationSendBtnClickedCommon",
-    "PCDesktopClient": "ConversationSendBtnClickedDUAR",
-    "PCStudioApp": "ConversationSendBtnClickedCommon",
-    "PlayStationClient": "ConversationSendBtnClickedCommon",
-    "UWPApp": "ConversationSendBtnClickedCommon",
-    "XboxClient": "ConversationSendBtnClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationSendBtnClickedAndroid",
+      "iOSApp": "ConversationSendBtnClickediOS",
+      "MacDesktopClient": "ConversationSendBtnClickedDUAR",
+      "MacStudioApp": "ConversationSendBtnClickedCommon",
+      "PCDesktopClient": "ConversationSendBtnClickedDUAR",
+      "PCStudioApp": "ConversationSendBtnClickedCommon",
+      "PlayStationClient": "ConversationSendBtnClickedCommon",
+      "UWPApp": "ConversationSendBtnClickedCommon",
+      "XboxClient": "ConversationSendBtnClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationSendBtnClickedAndroid",
+      "iOSApp": "ConversationSendBtnClickediOS",
+      "MacDesktopClient": "ConversationSendBtnClickedDUAR",
+      "MacStudioApp": "ConversationSendBtnClickedCommon",
+      "PCDesktopClient": "ConversationSendBtnClickedDUAR",
+      "PCStudioApp": "ConversationSendBtnClickedCommon",
+      "PlayStationClient": "ConversationSendBtnClickedCommon",
+      "UWPApp": "ConversationSendBtnClickedCommon",
+      "XboxClient": "ConversationSendBtnClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationSendBtnClickedAndroid",
+      "iOSApp": "ConversationSendBtnClickediOS",
+      "MacDesktopClient": "ConversationSendBtnClickedDUAR",
+      "MacStudioApp": "ConversationSendBtnClickedCommon",
+      "PCDesktopClient": "ConversationSendBtnClickedDUAR",
+      "PlayStationClient": "ConversationSendBtnClickedCommon",
+      "UWPApp": "ConversationSendBtnClickedCommon",
+      "XboxClient": "ConversationSendBtnClickedCommon"
+    }
   }
 }

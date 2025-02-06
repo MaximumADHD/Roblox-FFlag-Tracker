@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationIneligibleModalLearnMoreClickedAndroid",
-    "iOSApp": "ConversationIneligibleModalLearnMoreClickediOS",
-    "MacDesktopClient": "ConversationIneligibleModalLearnMoreClickedDUAR",
-    "MacStudioApp": "ConversationIneligibleModalLearnMoreClickedCommon",
-    "PCDesktopClient": "ConversationIneligibleModalLearnMoreClickedDUAR",
-    "PCStudioApp": "ConversationIneligibleModalLearnMoreClickedCommon",
-    "PlayStationClient": "ConversationIneligibleModalLearnMoreClickedCommon",
-    "UWPApp": "ConversationIneligibleModalLearnMoreClickedCommon",
-    "XboxClient": "ConversationIneligibleModalLearnMoreClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationIneligibleModalLearnMoreClickedAndroid",
+      "iOSApp": "ConversationIneligibleModalLearnMoreClickediOS",
+      "MacDesktopClient": "ConversationIneligibleModalLearnMoreClickedDUAR",
+      "MacStudioApp": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "PCDesktopClient": "ConversationIneligibleModalLearnMoreClickedDUAR",
+      "PCStudioApp": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "PlayStationClient": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "UWPApp": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "XboxClient": "ConversationIneligibleModalLearnMoreClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationIneligibleModalLearnMoreClickedAndroid",
+      "iOSApp": "ConversationIneligibleModalLearnMoreClickediOS",
+      "MacDesktopClient": "ConversationIneligibleModalLearnMoreClickedDUAR",
+      "MacStudioApp": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "PCDesktopClient": "ConversationIneligibleModalLearnMoreClickedDUAR",
+      "PCStudioApp": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "PlayStationClient": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "UWPApp": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "XboxClient": "ConversationIneligibleModalLearnMoreClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationIneligibleModalLearnMoreClickedAndroid",
+      "iOSApp": "ConversationIneligibleModalLearnMoreClickediOS",
+      "MacDesktopClient": "ConversationIneligibleModalLearnMoreClickedDUAR",
+      "MacStudioApp": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "PCDesktopClient": "ConversationIneligibleModalLearnMoreClickedDUAR",
+      "PlayStationClient": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "UWPApp": "ConversationIneligibleModalLearnMoreClickedCommon",
+      "XboxClient": "ConversationIneligibleModalLearnMoreClickedCommon"
+    }
   }
 }

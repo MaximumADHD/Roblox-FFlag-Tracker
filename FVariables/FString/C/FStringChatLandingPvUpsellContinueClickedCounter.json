@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatLandingPvUpsellContinueClickedAndroid",
-    "iOSApp": "ChatLandingPvUpsellContinueClickediOS",
-    "MacDesktopClient": "ChatLandingPvUpsellContinueClickedDUAR",
-    "MacStudioApp": "ChatLandingPvUpsellContinueClickedCommon",
-    "PCDesktopClient": "ChatLandingPvUpsellContinueClickedDUAR",
-    "PCStudioApp": "ChatLandingPvUpsellContinueClickedCommon",
-    "PlayStationClient": "ChatLandingPvUpsellContinueClickedCommon",
-    "UWPApp": "ChatLandingPvUpsellContinueClickedCommon",
-    "XboxClient": "ChatLandingPvUpsellContinueClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ChatLandingPvUpsellContinueClickedAndroid",
+      "iOSApp": "ChatLandingPvUpsellContinueClickediOS",
+      "MacDesktopClient": "ChatLandingPvUpsellContinueClickedDUAR",
+      "MacStudioApp": "ChatLandingPvUpsellContinueClickedCommon",
+      "PCDesktopClient": "ChatLandingPvUpsellContinueClickedDUAR",
+      "PCStudioApp": "ChatLandingPvUpsellContinueClickedCommon",
+      "PlayStationClient": "ChatLandingPvUpsellContinueClickedCommon",
+      "UWPApp": "ChatLandingPvUpsellContinueClickedCommon",
+      "XboxClient": "ChatLandingPvUpsellContinueClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatLandingPvUpsellContinueClickedAndroid",
+      "iOSApp": "ChatLandingPvUpsellContinueClickediOS",
+      "MacDesktopClient": "ChatLandingPvUpsellContinueClickedDUAR",
+      "MacStudioApp": "ChatLandingPvUpsellContinueClickedCommon",
+      "PCDesktopClient": "ChatLandingPvUpsellContinueClickedDUAR",
+      "PCStudioApp": "ChatLandingPvUpsellContinueClickedCommon",
+      "PlayStationClient": "ChatLandingPvUpsellContinueClickedCommon",
+      "UWPApp": "ChatLandingPvUpsellContinueClickedCommon",
+      "XboxClient": "ChatLandingPvUpsellContinueClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatLandingPvUpsellContinueClickedAndroid",
+      "iOSApp": "ChatLandingPvUpsellContinueClickediOS",
+      "MacDesktopClient": "ChatLandingPvUpsellContinueClickedDUAR",
+      "MacStudioApp": "ChatLandingPvUpsellContinueClickedCommon",
+      "PCDesktopClient": "ChatLandingPvUpsellContinueClickedDUAR",
+      "PlayStationClient": "ChatLandingPvUpsellContinueClickedCommon",
+      "UWPApp": "ChatLandingPvUpsellContinueClickedCommon",
+      "XboxClient": "ChatLandingPvUpsellContinueClickedCommon"
+    }
   }
 }

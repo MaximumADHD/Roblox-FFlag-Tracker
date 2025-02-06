@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "InExperience.Localization"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "InExperience.Localization",
+    "zcanary": "InExperience.Localization",
+    "zintegration": "InExperience.Localization"
+  }
 }

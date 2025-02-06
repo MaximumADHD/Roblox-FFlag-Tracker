@@ -1,9 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacStudioApp": true,
-    "MacStudioBootstrapper": true,
-    "PCStudioApp": true,
-    "PCStudioBootstrapper": true
+    "LIVE": true,
+    "zcanary": true,
+    "zintegration": true
   }
 }

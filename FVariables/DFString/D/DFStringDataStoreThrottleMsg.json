@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "DataStore request was added to queue. If request queue fills, further requests will be dropped. Try sending fewer requests."
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "DataStore request was added to queue. If request queue fills, further requests will be dropped. Try sending fewer requests.",
+    "zcanary": "DataStore request was added to queue. If request queue fills, further requests will be dropped. Try sending fewer requests.",
+    "zintegration": "DataStore request was added to queue. If request queue fills, further requests will be dropped. Try sending fewer requests."
+  }
 }

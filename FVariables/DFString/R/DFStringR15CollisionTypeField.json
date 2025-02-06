@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "universeAvatarCollisionType"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "universeAvatarCollisionType",
+    "zcanary": "universeAvatarCollisionType",
+    "zintegration": "universeAvatarCollisionType"
+  }
 }

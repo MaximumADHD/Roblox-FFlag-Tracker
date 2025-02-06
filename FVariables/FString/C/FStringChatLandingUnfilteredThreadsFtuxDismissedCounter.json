@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatLandingUnfilteredThreadsFtuxDismissedAndroid",
-    "iOSApp": "ChatLandingUnfilteredThreadsFtuxDismissediOS",
-    "MacDesktopClient": "ChatLandingUnfilteredThreadsFtuxDismissedDUAR",
-    "MacStudioApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
-    "PCDesktopClient": "ChatLandingUnfilteredThreadsFtuxDismissedDUAR",
-    "PCStudioApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
-    "PlayStationClient": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
-    "UWPApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
-    "XboxClient": "ChatLandingUnfilteredThreadsFtuxDismissedCommon"
+    "LIVE": {
+      "AndroidApp": "ChatLandingUnfilteredThreadsFtuxDismissedAndroid",
+      "iOSApp": "ChatLandingUnfilteredThreadsFtuxDismissediOS",
+      "MacDesktopClient": "ChatLandingUnfilteredThreadsFtuxDismissedDUAR",
+      "MacStudioApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "PCDesktopClient": "ChatLandingUnfilteredThreadsFtuxDismissedDUAR",
+      "PCStudioApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "PlayStationClient": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "UWPApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "XboxClient": "ChatLandingUnfilteredThreadsFtuxDismissedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatLandingUnfilteredThreadsFtuxDismissedAndroid",
+      "iOSApp": "ChatLandingUnfilteredThreadsFtuxDismissediOS",
+      "MacDesktopClient": "ChatLandingUnfilteredThreadsFtuxDismissedDUAR",
+      "MacStudioApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "PCDesktopClient": "ChatLandingUnfilteredThreadsFtuxDismissedDUAR",
+      "PCStudioApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "PlayStationClient": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "UWPApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "XboxClient": "ChatLandingUnfilteredThreadsFtuxDismissedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatLandingUnfilteredThreadsFtuxDismissedAndroid",
+      "iOSApp": "ChatLandingUnfilteredThreadsFtuxDismissediOS",
+      "MacDesktopClient": "ChatLandingUnfilteredThreadsFtuxDismissedDUAR",
+      "MacStudioApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "PCDesktopClient": "ChatLandingUnfilteredThreadsFtuxDismissedDUAR",
+      "PlayStationClient": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "UWPApp": "ChatLandingUnfilteredThreadsFtuxDismissedCommon",
+      "XboxClient": "ChatLandingUnfilteredThreadsFtuxDismissedCommon"
+    }
   }
 }

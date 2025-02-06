@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationIneligibleModalRenderedAndroid",
-    "iOSApp": "ConversationIneligibleModalRenderediOS",
-    "MacDesktopClient": "ConversationIneligibleModalRenderedDUAR",
-    "MacStudioApp": "ConversationIneligibleModalRenderedCommon",
-    "PCDesktopClient": "ConversationIneligibleModalRenderedDUAR",
-    "PCStudioApp": "ConversationIneligibleModalRenderedCommon",
-    "PlayStationClient": "ConversationIneligibleModalRenderedCommon",
-    "UWPApp": "ConversationIneligibleModalRenderedCommon",
-    "XboxClient": "ConversationIneligibleModalRenderedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationIneligibleModalRenderedAndroid",
+      "iOSApp": "ConversationIneligibleModalRenderediOS",
+      "MacDesktopClient": "ConversationIneligibleModalRenderedDUAR",
+      "MacStudioApp": "ConversationIneligibleModalRenderedCommon",
+      "PCDesktopClient": "ConversationIneligibleModalRenderedDUAR",
+      "PCStudioApp": "ConversationIneligibleModalRenderedCommon",
+      "PlayStationClient": "ConversationIneligibleModalRenderedCommon",
+      "UWPApp": "ConversationIneligibleModalRenderedCommon",
+      "XboxClient": "ConversationIneligibleModalRenderedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationIneligibleModalRenderedAndroid",
+      "iOSApp": "ConversationIneligibleModalRenderediOS",
+      "MacDesktopClient": "ConversationIneligibleModalRenderedDUAR",
+      "MacStudioApp": "ConversationIneligibleModalRenderedCommon",
+      "PCDesktopClient": "ConversationIneligibleModalRenderedDUAR",
+      "PCStudioApp": "ConversationIneligibleModalRenderedCommon",
+      "PlayStationClient": "ConversationIneligibleModalRenderedCommon",
+      "UWPApp": "ConversationIneligibleModalRenderedCommon",
+      "XboxClient": "ConversationIneligibleModalRenderedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationIneligibleModalRenderedAndroid",
+      "iOSApp": "ConversationIneligibleModalRenderediOS",
+      "MacDesktopClient": "ConversationIneligibleModalRenderedDUAR",
+      "MacStudioApp": "ConversationIneligibleModalRenderedCommon",
+      "PCDesktopClient": "ConversationIneligibleModalRenderedDUAR",
+      "PlayStationClient": "ConversationIneligibleModalRenderedCommon",
+      "UWPApp": "ConversationIneligibleModalRenderedCommon",
+      "XboxClient": "ConversationIneligibleModalRenderedCommon"
+    }
   }
 }

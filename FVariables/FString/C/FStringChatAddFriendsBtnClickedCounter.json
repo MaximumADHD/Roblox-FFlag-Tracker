@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatAddFriendsBtnClickedAndroid",
-    "iOSApp": "ChatAddFriendsBtnClickediOS",
-    "MacDesktopClient": "ChatAddFriendsBtnClickedDUAR",
-    "MacStudioApp": "ChatAddFriendsBtnClickedCommon",
-    "PCDesktopClient": "ChatAddFriendsBtnClickedDUAR",
-    "PCStudioApp": "ChatAddFriendsBtnClickedCommon",
-    "PlayStationClient": "ChatAddFriendsBtnClickedCommon",
-    "UWPApp": "ChatAddFriendsBtnClickedCommon",
-    "XboxClient": "ChatAddFriendsBtnClickedCommon"
+    "LIVE": {
+      "AndroidApp": "ChatAddFriendsBtnClickedAndroid",
+      "iOSApp": "ChatAddFriendsBtnClickediOS",
+      "MacDesktopClient": "ChatAddFriendsBtnClickedDUAR",
+      "MacStudioApp": "ChatAddFriendsBtnClickedCommon",
+      "PCDesktopClient": "ChatAddFriendsBtnClickedDUAR",
+      "PCStudioApp": "ChatAddFriendsBtnClickedCommon",
+      "PlayStationClient": "ChatAddFriendsBtnClickedCommon",
+      "UWPApp": "ChatAddFriendsBtnClickedCommon",
+      "XboxClient": "ChatAddFriendsBtnClickedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatAddFriendsBtnClickedAndroid",
+      "iOSApp": "ChatAddFriendsBtnClickediOS",
+      "MacDesktopClient": "ChatAddFriendsBtnClickedDUAR",
+      "MacStudioApp": "ChatAddFriendsBtnClickedCommon",
+      "PCDesktopClient": "ChatAddFriendsBtnClickedDUAR",
+      "PCStudioApp": "ChatAddFriendsBtnClickedCommon",
+      "PlayStationClient": "ChatAddFriendsBtnClickedCommon",
+      "UWPApp": "ChatAddFriendsBtnClickedCommon",
+      "XboxClient": "ChatAddFriendsBtnClickedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatAddFriendsBtnClickedAndroid",
+      "iOSApp": "ChatAddFriendsBtnClickediOS",
+      "MacDesktopClient": "ChatAddFriendsBtnClickedDUAR",
+      "MacStudioApp": "ChatAddFriendsBtnClickedCommon",
+      "PCDesktopClient": "ChatAddFriendsBtnClickedDUAR",
+      "PlayStationClient": "ChatAddFriendsBtnClickedCommon",
+      "UWPApp": "ChatAddFriendsBtnClickedCommon",
+      "XboxClient": "ChatAddFriendsBtnClickedCommon"
+    }
   }
 }

@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationPvDialogDismissedAndroid",
-    "iOSApp": "ConversationPvDialogDismissediOS",
-    "MacDesktopClient": "ConversationPvDialogDismissedDUAR",
-    "MacStudioApp": "ConversationPvDialogDismissedCommon",
-    "PCDesktopClient": "ConversationPvDialogDismissedDUAR",
-    "PCStudioApp": "ConversationPvDialogDismissedCommon",
-    "PlayStationClient": "ConversationPvDialogDismissedCommon",
-    "UWPApp": "ConversationPvDialogDismissedCommon",
-    "XboxClient": "ConversationPvDialogDismissedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationPvDialogDismissedAndroid",
+      "iOSApp": "ConversationPvDialogDismissediOS",
+      "MacDesktopClient": "ConversationPvDialogDismissedDUAR",
+      "MacStudioApp": "ConversationPvDialogDismissedCommon",
+      "PCDesktopClient": "ConversationPvDialogDismissedDUAR",
+      "PCStudioApp": "ConversationPvDialogDismissedCommon",
+      "PlayStationClient": "ConversationPvDialogDismissedCommon",
+      "UWPApp": "ConversationPvDialogDismissedCommon",
+      "XboxClient": "ConversationPvDialogDismissedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationPvDialogDismissedAndroid",
+      "iOSApp": "ConversationPvDialogDismissediOS",
+      "MacDesktopClient": "ConversationPvDialogDismissedDUAR",
+      "MacStudioApp": "ConversationPvDialogDismissedCommon",
+      "PCDesktopClient": "ConversationPvDialogDismissedDUAR",
+      "PCStudioApp": "ConversationPvDialogDismissedCommon",
+      "PlayStationClient": "ConversationPvDialogDismissedCommon",
+      "UWPApp": "ConversationPvDialogDismissedCommon",
+      "XboxClient": "ConversationPvDialogDismissedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationPvDialogDismissedAndroid",
+      "iOSApp": "ConversationPvDialogDismissediOS",
+      "MacDesktopClient": "ConversationPvDialogDismissedDUAR",
+      "MacStudioApp": "ConversationPvDialogDismissedCommon",
+      "PCDesktopClient": "ConversationPvDialogDismissedDUAR",
+      "PlayStationClient": "ConversationPvDialogDismissedCommon",
+      "UWPApp": "ConversationPvDialogDismissedCommon",
+      "XboxClient": "ConversationPvDialogDismissedCommon"
+    }
   }
 }

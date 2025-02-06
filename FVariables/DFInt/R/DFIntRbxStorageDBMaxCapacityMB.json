@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": 1024,
-    "iOSApp": 1024,
-    "MacDesktopClient": 2048,
-    "MacStudioApp": 2048,
-    "PCDesktopClient": 2048,
-    "PCStudioApp": 2048,
-    "PlayStationClient": 900,
-    "UWPApp": 1024,
-    "XboxClient": 1024
+    "LIVE": {
+      "AndroidApp": 1024,
+      "iOSApp": 1024,
+      "MacDesktopClient": 2048,
+      "MacStudioApp": 2048,
+      "PCDesktopClient": 2048,
+      "PCStudioApp": 2048,
+      "PlayStationClient": 900,
+      "UWPApp": 1024,
+      "XboxClient": 1024
+    },
+    "zcanary": {
+      "AndroidApp": 1024,
+      "iOSApp": 1024,
+      "MacDesktopClient": 2048,
+      "MacStudioApp": 2048,
+      "PCDesktopClient": 2048,
+      "PCStudioApp": 2048,
+      "PlayStationClient": 900,
+      "UWPApp": 1024,
+      "XboxClient": 1024
+    },
+    "zintegration": {
+      "AndroidApp": 1024,
+      "iOSApp": 1024,
+      "MacDesktopClient": 2048,
+      "MacStudioApp": 2048,
+      "PCDesktopClient": 2048,
+      "PlayStationClient": 900,
+      "UWPApp": 1024,
+      "XboxClient": 1024
+    }
   }
 }

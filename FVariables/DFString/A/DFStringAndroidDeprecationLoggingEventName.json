@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Android22Deprecation_Phase"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Android22Deprecation_Phase",
+    "zcanary": "Android22Deprecation_Phase",
+    "zintegration": "Android22Deprecation_Phase"
+  }
 }

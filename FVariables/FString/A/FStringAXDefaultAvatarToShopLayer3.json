@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AvatarMarketplace.ShoppingCart"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AvatarMarketplace.ShoppingCart",
+    "zcanary": "AvatarMarketplace.ShoppingCart",
+    "zintegration": "AvatarMarketplace.ShoppingCart"
+  }
 }

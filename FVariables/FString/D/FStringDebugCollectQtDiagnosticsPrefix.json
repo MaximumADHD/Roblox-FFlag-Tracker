@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "QObject::connect"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "QObject::connect",
+    "zcanary": "QObject::connect",
+    "zintegration": "QObject::connect"
+  }
 }

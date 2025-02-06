@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AvatarChat.CameraPerfToast"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AvatarChat.CameraPerfToast",
+    "zcanary": "AvatarChat.CameraPerfToast",
+    "zintegration": "AvatarChat.CameraPerfToast"
+  }
 }

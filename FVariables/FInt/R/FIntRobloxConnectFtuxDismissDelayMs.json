@@ -1,11 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "AndroidApp": 8500,
-    "iOSApp": 8500,
-    "MacDesktopClient": 8500,
-    "MacStudioApp": 8500,
-    "PCDesktopClient": 8500,
-    "PCStudioApp": 8500
+    "LIVE": 8500,
+    "zcanary": 8500,
+    "zintegration": 8500
   }
 }

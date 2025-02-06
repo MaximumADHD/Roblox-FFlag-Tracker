@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ChatLandingScreenRenderedAndroid",
-    "iOSApp": "ChatLandingScreenRenderediOS",
-    "MacDesktopClient": "ChatLandingScreenRenderedDUAR",
-    "MacStudioApp": "ChatLandingScreenRenderedCommon",
-    "PCDesktopClient": "ChatLandingScreenRenderedDUAR",
-    "PCStudioApp": "ChatLandingScreenRenderedCommon",
-    "PlayStationClient": "ChatLandingScreenRenderedCommon",
-    "UWPApp": "ChatLandingScreenRenderedCommon",
-    "XboxClient": "ChatLandingScreenRenderedCommon"
+    "LIVE": {
+      "AndroidApp": "ChatLandingScreenRenderedAndroid",
+      "iOSApp": "ChatLandingScreenRenderediOS",
+      "MacDesktopClient": "ChatLandingScreenRenderedDUAR",
+      "MacStudioApp": "ChatLandingScreenRenderedCommon",
+      "PCDesktopClient": "ChatLandingScreenRenderedDUAR",
+      "PCStudioApp": "ChatLandingScreenRenderedCommon",
+      "PlayStationClient": "ChatLandingScreenRenderedCommon",
+      "UWPApp": "ChatLandingScreenRenderedCommon",
+      "XboxClient": "ChatLandingScreenRenderedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ChatLandingScreenRenderedAndroid",
+      "iOSApp": "ChatLandingScreenRenderediOS",
+      "MacDesktopClient": "ChatLandingScreenRenderedDUAR",
+      "MacStudioApp": "ChatLandingScreenRenderedCommon",
+      "PCDesktopClient": "ChatLandingScreenRenderedDUAR",
+      "PCStudioApp": "ChatLandingScreenRenderedCommon",
+      "PlayStationClient": "ChatLandingScreenRenderedCommon",
+      "UWPApp": "ChatLandingScreenRenderedCommon",
+      "XboxClient": "ChatLandingScreenRenderedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ChatLandingScreenRenderedAndroid",
+      "iOSApp": "ChatLandingScreenRenderediOS",
+      "MacDesktopClient": "ChatLandingScreenRenderedDUAR",
+      "MacStudioApp": "ChatLandingScreenRenderedCommon",
+      "PCDesktopClient": "ChatLandingScreenRenderedDUAR",
+      "PlayStationClient": "ChatLandingScreenRenderedCommon",
+      "UWPApp": "ChatLandingScreenRenderedCommon",
+      "XboxClient": "ChatLandingScreenRenderedCommon"
+    }
   }
 }

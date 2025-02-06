@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "ConversationPvUpsellRenderedAndroid",
-    "iOSApp": "ConversationPvUpsellRenderediOS",
-    "MacDesktopClient": "ConversationPvUpsellRenderedDUAR",
-    "MacStudioApp": "ConversationPvUpsellRenderedCommon",
-    "PCDesktopClient": "ConversationPvUpsellRenderedDUAR",
-    "PCStudioApp": "ConversationPvUpsellRenderedCommon",
-    "PlayStationClient": "ConversationPvUpsellRenderedCommon",
-    "UWPApp": "ConversationPvUpsellRenderedCommon",
-    "XboxClient": "ConversationPvUpsellRenderedCommon"
+    "LIVE": {
+      "AndroidApp": "ConversationPvUpsellRenderedAndroid",
+      "iOSApp": "ConversationPvUpsellRenderediOS",
+      "MacDesktopClient": "ConversationPvUpsellRenderedDUAR",
+      "MacStudioApp": "ConversationPvUpsellRenderedCommon",
+      "PCDesktopClient": "ConversationPvUpsellRenderedDUAR",
+      "PCStudioApp": "ConversationPvUpsellRenderedCommon",
+      "PlayStationClient": "ConversationPvUpsellRenderedCommon",
+      "UWPApp": "ConversationPvUpsellRenderedCommon",
+      "XboxClient": "ConversationPvUpsellRenderedCommon"
+    },
+    "zcanary": {
+      "AndroidApp": "ConversationPvUpsellRenderedAndroid",
+      "iOSApp": "ConversationPvUpsellRenderediOS",
+      "MacDesktopClient": "ConversationPvUpsellRenderedDUAR",
+      "MacStudioApp": "ConversationPvUpsellRenderedCommon",
+      "PCDesktopClient": "ConversationPvUpsellRenderedDUAR",
+      "PCStudioApp": "ConversationPvUpsellRenderedCommon",
+      "PlayStationClient": "ConversationPvUpsellRenderedCommon",
+      "UWPApp": "ConversationPvUpsellRenderedCommon",
+      "XboxClient": "ConversationPvUpsellRenderedCommon"
+    },
+    "zintegration": {
+      "AndroidApp": "ConversationPvUpsellRenderedAndroid",
+      "iOSApp": "ConversationPvUpsellRenderediOS",
+      "MacDesktopClient": "ConversationPvUpsellRenderedDUAR",
+      "MacStudioApp": "ConversationPvUpsellRenderedCommon",
+      "PCDesktopClient": "ConversationPvUpsellRenderedDUAR",
+      "PlayStationClient": "ConversationPvUpsellRenderedCommon",
+      "UWPApp": "ConversationPvUpsellRenderedCommon",
+      "XboxClient": "ConversationPvUpsellRenderedCommon"
+    }
   }
 }
