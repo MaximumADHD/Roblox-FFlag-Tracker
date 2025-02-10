@@ -1,9 +1,6 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacDesktopClient": "500;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T17:55:01",
-    "MacStudioApp": "500;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T17:55:01",
-    "PCDesktopClient": "500;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T17:55:01",
-    "PCStudioApp": "500;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T17:55:01"
+    "zcanary": "500;SteadyState;10;30;Rollout;100;30;Promote;2025-02-10T17:55:01"
   }
 }
