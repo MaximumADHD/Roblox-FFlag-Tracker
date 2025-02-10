@@ -1,38 +1,4 @@
 {
-  "Type": "ChannelsAndPlatforms",
-  "Value": {
-    "LIVE": {
-      "AndroidApp": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "iOSApp": "AdjustAccessoryView",
-      "MacDesktopClient": "AdjustAccessoryView",
-      "MacStudioApp": "AdjustAccessoryView",
-      "PCDesktopClient": "AdjustAccessoryView",
-      "PCStudioApp": "AdjustAccessoryView",
-      "PlayStationClient": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "UWPApp": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "XboxClient": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter"
-    },
-    "zcanary": {
-      "AndroidApp": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "iOSApp": "AdjustAccessoryView",
-      "MacDesktopClient": "AdjustAccessoryView",
-      "MacStudioApp": "AdjustAccessoryView",
-      "PCDesktopClient": "AdjustAccessoryView",
-      "PCStudioApp": "AdjustAccessoryView",
-      "PlayStationClient": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "UWPApp": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "XboxClient": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter"
-    },
-    "zintegration": {
-      "AndroidApp": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "iOSApp": "AdjustAccessoryView",
-      "MacDesktopClient": "AdjustAccessoryView",
-      "MacStudioApp": "AdjustAccessoryView",
-      "PCDesktopClient": "AdjustAccessoryView",
-      "PCStudioApp": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "PlayStationClient": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "UWPApp": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "XboxClient": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter"
-    }
-  }
+  "Type": "Unified",
+  "Value": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter"
 }
