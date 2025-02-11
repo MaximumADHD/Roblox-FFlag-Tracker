@@ -1,14 +1,4 @@
 {
-  "Type": "Platforms",
-  "Value": {
-    "AndroidApp": 6,
-    "iOSApp": 6,
-    "MacDesktopClient": "Verbose,6",
-    "MacStudioApp": "Verbose,6",
-    "PCDesktopClient": "Verbose,6",
-    "PCStudioApp": "Verbose,6",
-    "PlayStationClient": 6,
-    "UWPApp": 6,
-    "XboxClient": 6
-  }
+  "Type": "Unified",
+  "Value": "Verbose,6"
 }
