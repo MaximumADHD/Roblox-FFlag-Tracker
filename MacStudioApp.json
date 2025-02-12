@@ -478,6 +478,7 @@
   "FFlagLuauCodegen": true,
   "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": true,
   "FFlagLuauCodegenScriptStatsNativeCodeSize": true,
+  "FFlagLuauDontInPlaceMutateTableType_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-12T17:40:58",
   "FFlagLuauDontRefCountTypesInTypeFunctions": true,
   "FFlagLuauGeneralizationRemoveRecursiveUpperBound": true,
   "FFlagLuauMoreThoroughCycleDetection": true,
