@@ -1,5 +1,6 @@
 {
   "DFFlagAddPlaySessionIdToGmaRequestBody": true,
+  "DFFlagAvatarClothingAndDecalTelemetry3_Staged": "true;SteadyState;10;30;Revert;2025-02-12T19:46:03",
   "DFFlagDeprecationMessageRefinements": true,
   "DFFlagEnableThirdPartyAdErrorEventReporting": true,
   "DFFlagEnableThirdPartyAdFullScreenCollapseEventReporting3": true,
@@ -23,6 +24,7 @@
   "DFFlagPredictedOOMMessage": true,
   "DFFlagReportFirstThirdPartyErrorOnly": true,
   "DFFlagReportInferenceResultToPerfdata2": true,
+  "DFFlagReportMissedSchemaPropVecSize_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-12T19:20:12",
   "DFFlagResetAdInEnableGmaVideoAdsMemoryCheck": true,
   "DFFlagSendDurationNeededForReward": true,
   "DFFlagSendOrientationToPlayersGui": true,
