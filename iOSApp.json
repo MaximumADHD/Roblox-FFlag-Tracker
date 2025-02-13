@@ -1,6 +1,7 @@
 {
   "DFFlagAddPlaySessionIdToGmaRequestBody": true,
   "DFFlagDeprecationMessageRefinements": true,
+  "DFFlagEnableRewardedAdsSessionTrackingFields_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-13T18:48:28",
   "DFFlagEnableThirdPartyAdErrorEventReporting": true,
   "DFFlagEnableThirdPartyAdFullScreenCollapseEventReporting3": true,
   "DFFlagEnableThirdPartyAdPauseResumeEventReporting2": true,
@@ -180,7 +181,6 @@
   "FFlagScreenshotsAddSubmissionCooldownToast": true,
   "FFlagSearchSourceEventAnalytics": false,
   "FFlagSendWebViewUserAgentEnabledIOS": true,
-  "FFlagSetupSongbirdWindowExperimentFeb2025_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-13T18:46:58",
   "FFlagShouldEnableAuthBirthdayBarUpdates": true,
   "FFlagShouldEnableOtpSignup": true,
   "FFlagShouldFilterWebVCStateDelegateUpdateByPageDismissed": true,
