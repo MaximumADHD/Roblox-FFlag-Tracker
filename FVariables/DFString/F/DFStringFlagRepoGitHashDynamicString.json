@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
-    "zintegration": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee"
+    "LIVE": {
+      "AndroidApp": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "iOSApp": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "MacClientBootstrapper": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "MacDesktopClient": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "MacStudioApp": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "MacStudioBootstrapper": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "PCClientBootstrapper": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "PCDesktopClient": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "PCStudioApp": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "PCStudioBootstrapper": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "PlayStationClient": "6cc86c9ab5af7c4e1e90cfd756d58762628f0640",
+      "UWPApp": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "XboxClient": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee"
+    },
+    "zintegration": {
+      "AndroidApp": "6cc86c9ab5af7c4e1e90cfd756d58762628f0640",
+      "iOSApp": "6cc86c9ab5af7c4e1e90cfd756d58762628f0640",
+      "MacClientBootstrapper": "6cc86c9ab5af7c4e1e90cfd756d58762628f0640",
+      "MacDesktopClient": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "MacStudioApp": "6cc86c9ab5af7c4e1e90cfd756d58762628f0640",
+      "MacStudioBootstrapper": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "PCClientBootstrapper": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "PCDesktopClient": "6cc86c9ab5af7c4e1e90cfd756d58762628f0640",
+      "PCStudioApp": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee",
+      "PCStudioBootstrapper": "6cc86c9ab5af7c4e1e90cfd756d58762628f0640",
+      "PlayStationClient": "6cc86c9ab5af7c4e1e90cfd756d58762628f0640",
+      "UWPApp": "6cc86c9ab5af7c4e1e90cfd756d58762628f0640",
+      "XboxClient": "a3987b2cfc941dd6bf4c5210f9c8420f903c8dee"
+    }
   }
 }
