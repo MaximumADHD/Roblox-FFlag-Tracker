@@ -481,7 +481,7 @@
   "FFlagLuauAllowNilAssignmentToIndexer": true,
   "FFlagLuauAlwaysFillInFunctionCallDiscriminantTypes": true,
   "FFlagLuauAutocompleteUseLimits": true,
-  "FFlagLuauBetterReverseDependencyTracking_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-13T18:25:19",
+  "FFlagLuauBetterReverseDependencyTracking": true,
   "FFlagLuauCodegen": true,
   "FFlagLuauCodegenAggregateStatsCompilationErrorDetails": true,
   "FFlagLuauCodegenScriptStatsNativeCodeSize": true,
