@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "c6987889fab4da858c1918b646714efe0347362a",
-    "zintegration": "c6987889fab4da858c1918b646714efe0347362a"
+    "LIVE": {
+      "AndroidApp": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "iOSApp": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "MacClientBootstrapper": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "MacDesktopClient": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "MacStudioApp": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "MacStudioBootstrapper": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "PCClientBootstrapper": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "PCDesktopClient": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "PCStudioApp": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "PCStudioBootstrapper": "c6987889fab4da858c1918b646714efe0347362a",
+      "PlayStationClient": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "UWPApp": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "XboxClient": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3"
+    },
+    "zintegration": {
+      "AndroidApp": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "iOSApp": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "MacClientBootstrapper": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "MacDesktopClient": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "MacStudioApp": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "MacStudioBootstrapper": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "PCClientBootstrapper": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "PCDesktopClient": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "PCStudioApp": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "PCStudioBootstrapper": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "PlayStationClient": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "UWPApp": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3",
+      "XboxClient": "cb73b956ef1cf75b28bae7dbb5a6274722fccdc3"
+    }
   }
 }
