@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "561b59ce8e204620d4219926dca167c0f37f0c3e",
-    "zintegration": "561b59ce8e204620d4219926dca167c0f37f0c3e"
+    "LIVE": {
+      "AndroidApp": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "iOSApp": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "MacClientBootstrapper": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "MacDesktopClient": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "MacStudioApp": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "MacStudioBootstrapper": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "PCClientBootstrapper": "d93d9b84dc588406fcad19ec2d820f2e40f23d76",
+      "PCDesktopClient": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "PCStudioApp": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "PCStudioBootstrapper": "d93d9b84dc588406fcad19ec2d820f2e40f23d76",
+      "PlayStationClient": "d93d9b84dc588406fcad19ec2d820f2e40f23d76",
+      "UWPApp": "d93d9b84dc588406fcad19ec2d820f2e40f23d76",
+      "XboxClient": "f59f5f6afe63e94933a3070b488bbab2c03eb84a"
+    },
+    "zintegration": {
+      "AndroidApp": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "iOSApp": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "MacClientBootstrapper": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "MacDesktopClient": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "MacStudioApp": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "MacStudioBootstrapper": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "PCClientBootstrapper": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "PCDesktopClient": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "PCStudioApp": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "PCStudioBootstrapper": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "PlayStationClient": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "UWPApp": "f59f5f6afe63e94933a3070b488bbab2c03eb84a",
+      "XboxClient": "f59f5f6afe63e94933a3070b488bbab2c03eb84a"
+    }
   }
 }
