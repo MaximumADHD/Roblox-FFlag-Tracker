@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "405321e38df8cac9700ecdf8d7232d86eb866096",
-    "zintegration": "405321e38df8cac9700ecdf8d7232d86eb866096"
+    "LIVE": {
+      "AndroidApp": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "iOSApp": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "MacClientBootstrapper": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "MacDesktopClient": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "MacStudioApp": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "MacStudioBootstrapper": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "PCClientBootstrapper": "405321e38df8cac9700ecdf8d7232d86eb866096",
+      "PCDesktopClient": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "PCStudioApp": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "PCStudioBootstrapper": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "PlayStationClient": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "UWPApp": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "XboxClient": "a537feaa3312337c5187575fc525bcf9ed4f90e6"
+    },
+    "zintegration": {
+      "AndroidApp": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "iOSApp": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "MacClientBootstrapper": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "MacDesktopClient": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "MacStudioApp": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "MacStudioBootstrapper": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "PCClientBootstrapper": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "PCDesktopClient": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "PCStudioApp": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "PCStudioBootstrapper": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "PlayStationClient": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "UWPApp": "a537feaa3312337c5187575fc525bcf9ed4f90e6",
+      "XboxClient": "a537feaa3312337c5187575fc525bcf9ed4f90e6"
+    }
   }
 }
