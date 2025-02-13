@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
-    "zintegration": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b"
+    "LIVE": {
+      "AndroidApp": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "iOSApp": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "MacClientBootstrapper": "8e67cf14e2c4a039226359327902d0eb13acd506",
+      "MacDesktopClient": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "MacStudioApp": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "MacStudioBootstrapper": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "PCClientBootstrapper": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "PCDesktopClient": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "PCStudioApp": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "PCStudioBootstrapper": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "PlayStationClient": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "UWPApp": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "XboxClient": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b"
+    },
+    "zintegration": {
+      "AndroidApp": "8e67cf14e2c4a039226359327902d0eb13acd506",
+      "iOSApp": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "MacClientBootstrapper": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "MacDesktopClient": "8e67cf14e2c4a039226359327902d0eb13acd506",
+      "MacStudioApp": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "MacStudioBootstrapper": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "PCClientBootstrapper": "8e67cf14e2c4a039226359327902d0eb13acd506",
+      "PCDesktopClient": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "PCStudioApp": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "PCStudioBootstrapper": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "PlayStationClient": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "UWPApp": "b6c10666dc92d8d10cc58ccd61b0cac951d1ea4b",
+      "XboxClient": "8e67cf14e2c4a039226359327902d0eb13acd506"
+    }
   }
 }
