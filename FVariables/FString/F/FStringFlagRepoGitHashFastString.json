@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "0accde39183ebc90eb1039ab1b8d2bef9d900440",
-    "zintegration": "0accde39183ebc90eb1039ab1b8d2bef9d900440"
+    "LIVE": {
+      "AndroidApp": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "iOSApp": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "MacClientBootstrapper": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "MacDesktopClient": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "MacStudioApp": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "MacStudioBootstrapper": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "PCClientBootstrapper": "d91ecfa0b98ffe0909bde28f06c565aa42651e3e",
+      "PCDesktopClient": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "PCStudioApp": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "PCStudioBootstrapper": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "PlayStationClient": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "UWPApp": "d91ecfa0b98ffe0909bde28f06c565aa42651e3e",
+      "XboxClient": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b"
+    },
+    "zintegration": {
+      "AndroidApp": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "iOSApp": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "MacClientBootstrapper": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "MacDesktopClient": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "MacStudioApp": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "MacStudioBootstrapper": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "PCClientBootstrapper": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "PCDesktopClient": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "PCStudioApp": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "PCStudioBootstrapper": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "PlayStationClient": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "UWPApp": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b",
+      "XboxClient": "d85ab8d970c4e007aa2fa493776361fbc72b6a4b"
+    }
   }
 }
