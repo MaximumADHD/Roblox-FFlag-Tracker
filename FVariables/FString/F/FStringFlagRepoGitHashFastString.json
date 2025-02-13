@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "e2ed270ab33d7895ee5c8df6bf1a07d3c2ec6f13",
-    "zintegration": "e2ed270ab33d7895ee5c8df6bf1a07d3c2ec6f13"
+    "LIVE": {
+      "AndroidApp": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "iOSApp": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "MacClientBootstrapper": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "MacDesktopClient": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "MacStudioApp": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "MacStudioBootstrapper": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "PCClientBootstrapper": "99d00ebf6d3cd3c62127f76e82ade6fe7ce6f1be",
+      "PCDesktopClient": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "PCStudioApp": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "PCStudioBootstrapper": "99d00ebf6d3cd3c62127f76e82ade6fe7ce6f1be",
+      "PlayStationClient": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "UWPApp": "99d00ebf6d3cd3c62127f76e82ade6fe7ce6f1be",
+      "XboxClient": "b9a457839c0f95e2d8d676de900e6cb3e577feb6"
+    },
+    "zintegration": {
+      "AndroidApp": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "iOSApp": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "MacClientBootstrapper": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "MacDesktopClient": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "MacStudioApp": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "MacStudioBootstrapper": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "PCClientBootstrapper": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "PCDesktopClient": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "PCStudioApp": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "PCStudioBootstrapper": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "PlayStationClient": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "UWPApp": "b9a457839c0f95e2d8d676de900e6cb3e577feb6",
+      "XboxClient": "b9a457839c0f95e2d8d676de900e6cb3e577feb6"
+    }
   }
 }
