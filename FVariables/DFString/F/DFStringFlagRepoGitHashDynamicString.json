@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "00c751e4c8941633ed0c7559189b37d2fdba3bce",
-    "zintegration": "00c751e4c8941633ed0c7559189b37d2fdba3bce"
+    "LIVE": {
+      "AndroidApp": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "iOSApp": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "MacClientBootstrapper": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "MacDesktopClient": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "MacStudioApp": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "MacStudioBootstrapper": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "PCClientBootstrapper": "00c751e4c8941633ed0c7559189b37d2fdba3bce",
+      "PCDesktopClient": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "PCStudioApp": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "PCStudioBootstrapper": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "PlayStationClient": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "UWPApp": "00c751e4c8941633ed0c7559189b37d2fdba3bce",
+      "XboxClient": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1"
+    },
+    "zintegration": {
+      "AndroidApp": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "iOSApp": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "MacClientBootstrapper": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "MacDesktopClient": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "MacStudioApp": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "MacStudioBootstrapper": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "PCClientBootstrapper": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "PCDesktopClient": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "PCStudioApp": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "PCStudioBootstrapper": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "PlayStationClient": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "UWPApp": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1",
+      "XboxClient": "fab9cf1043cc7af2e4e0d995a29323a5dca048f1"
+    }
   }
 }
