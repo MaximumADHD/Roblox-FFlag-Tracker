@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
-    "zintegration": "5663a235fa35ba19e6d7c1929c2d5f047505040d"
+    "LIVE": {
+      "AndroidApp": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "iOSApp": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "MacClientBootstrapper": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "MacDesktopClient": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "MacStudioApp": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "MacStudioBootstrapper": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "PCClientBootstrapper": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "PCDesktopClient": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "PCStudioApp": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "PCStudioBootstrapper": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "PlayStationClient": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "UWPApp": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "XboxClient": "5663a235fa35ba19e6d7c1929c2d5f047505040d"
+    },
+    "zintegration": {
+      "AndroidApp": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "iOSApp": "5663a235fa35ba19e6d7c1929c2d5f047505040d",
+      "MacClientBootstrapper": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "MacDesktopClient": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "MacStudioApp": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "MacStudioBootstrapper": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "PCClientBootstrapper": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "PCDesktopClient": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "PCStudioApp": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "PCStudioBootstrapper": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "PlayStationClient": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "UWPApp": "000d1e3500cd4efd1a30fa59cda2d4e378c93053",
+      "XboxClient": "5663a235fa35ba19e6d7c1929c2d5f047505040d"
+    }
   }
 }
