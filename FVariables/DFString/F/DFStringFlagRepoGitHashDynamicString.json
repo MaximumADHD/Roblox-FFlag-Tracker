@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
-    "zintegration": "2a34cc8a3bcdb067fc172b15afb633446a90bba2"
+    "LIVE": {
+      "AndroidApp": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "iOSApp": "300ebe51071ab609876814cbdca8bf990410f144",
+      "MacClientBootstrapper": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "MacDesktopClient": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "MacStudioApp": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "MacStudioBootstrapper": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "PCClientBootstrapper": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "PCDesktopClient": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "PCStudioApp": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "PCStudioBootstrapper": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "PlayStationClient": "300ebe51071ab609876814cbdca8bf990410f144",
+      "UWPApp": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "XboxClient": "300ebe51071ab609876814cbdca8bf990410f144"
+    },
+    "zintegration": {
+      "AndroidApp": "300ebe51071ab609876814cbdca8bf990410f144",
+      "iOSApp": "300ebe51071ab609876814cbdca8bf990410f144",
+      "MacClientBootstrapper": "300ebe51071ab609876814cbdca8bf990410f144",
+      "MacDesktopClient": "300ebe51071ab609876814cbdca8bf990410f144",
+      "MacStudioApp": "300ebe51071ab609876814cbdca8bf990410f144",
+      "MacStudioBootstrapper": "300ebe51071ab609876814cbdca8bf990410f144",
+      "PCClientBootstrapper": "300ebe51071ab609876814cbdca8bf990410f144",
+      "PCDesktopClient": "300ebe51071ab609876814cbdca8bf990410f144",
+      "PCStudioApp": "300ebe51071ab609876814cbdca8bf990410f144",
+      "PCStudioBootstrapper": "300ebe51071ab609876814cbdca8bf990410f144",
+      "PlayStationClient": "300ebe51071ab609876814cbdca8bf990410f144",
+      "UWPApp": "2a34cc8a3bcdb067fc172b15afb633446a90bba2",
+      "XboxClient": "300ebe51071ab609876814cbdca8bf990410f144"
+    }
   }
 }
