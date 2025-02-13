@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "42a6e373b1fd420bf4dec0f3a0f747fd8d46c7b8",
-    "zintegration": "42a6e373b1fd420bf4dec0f3a0f747fd8d46c7b8"
+    "LIVE": {
+      "AndroidApp": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "iOSApp": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "MacClientBootstrapper": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "MacDesktopClient": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "MacStudioApp": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "MacStudioBootstrapper": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "PCClientBootstrapper": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "PCDesktopClient": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "PCStudioApp": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "PCStudioBootstrapper": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "PlayStationClient": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "UWPApp": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "XboxClient": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a"
+    },
+    "zintegration": {
+      "AndroidApp": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "iOSApp": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "MacClientBootstrapper": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "MacDesktopClient": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "MacStudioApp": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "MacStudioBootstrapper": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "PCClientBootstrapper": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "PCDesktopClient": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "PCStudioApp": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "PCStudioBootstrapper": "2f1fac4f89eacaa5293f01cd587f166410f87882",
+      "PlayStationClient": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "UWPApp": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a",
+      "XboxClient": "3dc3cc6f237b9459a0fc8065d17c0f5b2679761a"
+    }
   }
 }
