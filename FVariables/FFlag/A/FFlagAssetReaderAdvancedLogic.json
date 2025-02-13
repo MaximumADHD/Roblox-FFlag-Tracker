@@ -1,14 +1,27 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": true,
-    "iOSApp": false,
-    "MacDesktopClient": true,
-    "MacStudioApp": true,
-    "PCDesktopClient": true,
-    "PCStudioApp": true,
-    "PlayStationClient": true,
-    "UWPApp": true,
-    "XboxClient": true
+    "LIVE": {
+      "AndroidApp": true,
+      "iOSApp": false,
+      "MacDesktopClient": true,
+      "MacStudioApp": true,
+      "PCDesktopClient": true,
+      "PCStudioApp": true,
+      "PlayStationClient": true,
+      "UWPApp": true,
+      "XboxClient": true
+    },
+    "zintegration": {
+      "AndroidApp": true,
+      "iOSApp": false,
+      "MacDesktopClient": true,
+      "MacStudioApp": true,
+      "PCDesktopClient": true,
+      "PCStudioApp": true,
+      "PlayStationClient": true,
+      "UWPApp": true,
+      "XboxClient": true
+    }
   }
 }
