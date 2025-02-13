@@ -1,35 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "iOSApp": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "MacClientBootstrapper": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "MacDesktopClient": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "MacStudioApp": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "MacStudioBootstrapper": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "PCClientBootstrapper": "738a434377aefb1b1ff6cfd4db42ad916b56806e",
-      "PCDesktopClient": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "PCStudioApp": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "PCStudioBootstrapper": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "PlayStationClient": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "UWPApp": "738a434377aefb1b1ff6cfd4db42ad916b56806e",
-      "XboxClient": "1f696abbeed5e6be327b2a834c3925c723d77997"
-    },
-    "zintegration": {
-      "AndroidApp": "8a4e78946c064e21671d1fa2bb550391f1d281eb",
-      "iOSApp": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "MacClientBootstrapper": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "MacDesktopClient": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "MacStudioApp": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "MacStudioBootstrapper": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "PCClientBootstrapper": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "PCDesktopClient": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "PCStudioApp": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "PCStudioBootstrapper": "8a4e78946c064e21671d1fa2bb550391f1d281eb",
-      "PlayStationClient": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "UWPApp": "1f696abbeed5e6be327b2a834c3925c723d77997",
-      "XboxClient": "1f696abbeed5e6be327b2a834c3925c723d77997"
-    }
+    "LIVE": "8a4e78946c064e21671d1fa2bb550391f1d281eb",
+    "zintegration": "8a4e78946c064e21671d1fa2bb550391f1d281eb"
   }
 }
