@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "4d0373dfc3d701b0ef870670e606ad6815642e86",
-    "zintegration": "4d0373dfc3d701b0ef870670e606ad6815642e86"
+    "LIVE": {
+      "AndroidApp": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "iOSApp": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "MacClientBootstrapper": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "MacDesktopClient": "5be8deec40291a603ab18dc65eb53f6ac061d699",
+      "MacStudioApp": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "MacStudioBootstrapper": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "PCClientBootstrapper": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "PCDesktopClient": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "PCStudioApp": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "PCStudioBootstrapper": "5be8deec40291a603ab18dc65eb53f6ac061d699",
+      "PlayStationClient": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "UWPApp": "5be8deec40291a603ab18dc65eb53f6ac061d699",
+      "XboxClient": "3d5a1d2fe341a1daef18cef3e701658a784b3fad"
+    },
+    "zintegration": {
+      "AndroidApp": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "iOSApp": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "MacClientBootstrapper": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "MacDesktopClient": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "MacStudioApp": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "MacStudioBootstrapper": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "PCClientBootstrapper": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "PCDesktopClient": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "PCStudioApp": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "PCStudioBootstrapper": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "PlayStationClient": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "UWPApp": "3d5a1d2fe341a1daef18cef3e701658a784b3fad",
+      "XboxClient": "3d5a1d2fe341a1daef18cef3e701658a784b3fad"
+    }
   }
 }
