@@ -1,7 +1,27 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "HasSeenMusicTooltipFTUX_Jan23_2025",
-    "zintegration": "HasSeenMusicTooltipFTUX_Jan23_2025"
+    "LIVE": {
+      "AndroidApp": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "iOSApp": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "MacDesktopClient": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "MacStudioApp": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "PCDesktopClient": "HasSeenMusicTooltipFTUX_Jan23_2025",
+      "PCStudioApp": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "PlayStationClient": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "UWPApp": "HasSeenMusicTooltipFTUX_Jan23_2025",
+      "XboxClient": "HasSeenMusicTooltipFTUX_Feb13_2025"
+    },
+    "zintegration": {
+      "AndroidApp": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "iOSApp": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "MacDesktopClient": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "MacStudioApp": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "PCDesktopClient": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "PCStudioApp": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "PlayStationClient": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "UWPApp": "HasSeenMusicTooltipFTUX_Feb13_2025",
+      "XboxClient": "HasSeenMusicTooltipFTUX_Feb13_2025"
+    }
   }
 }

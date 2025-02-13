@@ -1,5 +1,5 @@
 {
-  "DFFlagBroadphaseSupportMidphaseOpt_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-13T18:48:39",
+  "DFFlagBroadphaseSupportMidphaseOpt": true,
   "DFFlagCheckEngineContextOnInstanceAccess": true,
   "DFFlagCookieStoreEnabledMac": true,
   "DFFlagDebugEnableOctreeNodeValidation": true,
@@ -55,6 +55,7 @@
   "FFlagRemoveDeeplinkReceivedFromMacWrapper": true,
   "FFlagRenderEnableGlobalInstancingMetal": true,
   "FFlagSetManagerSmallRefactor": true,
+  "FFlagSetupSongbirdWindowExperimentFeb2025": true,
   "FFlagSimEditableMemoryDestructorLockFix": true,
   "FFlagUnifiedCookieProtocolEnabledSticky": true,
   "FFlagUseExitInUpdateTermination": false,
