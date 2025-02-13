@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "38e33ac431c255dc5e5b41a8c03cc8edb2e09376",
-    "zintegration": "38e33ac431c255dc5e5b41a8c03cc8edb2e09376"
+    "LIVE": {
+      "AndroidApp": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "iOSApp": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "MacClientBootstrapper": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "MacDesktopClient": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "MacStudioApp": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "MacStudioBootstrapper": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "PCClientBootstrapper": "38e33ac431c255dc5e5b41a8c03cc8edb2e09376",
+      "PCDesktopClient": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "PCStudioApp": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "PCStudioBootstrapper": "38e33ac431c255dc5e5b41a8c03cc8edb2e09376",
+      "PlayStationClient": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "UWPApp": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "XboxClient": "c2246981fddd5036bf96d4b5f4699ee04bd540bb"
+    },
+    "zintegration": {
+      "AndroidApp": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "iOSApp": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "MacClientBootstrapper": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "MacDesktopClient": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "MacStudioApp": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "MacStudioBootstrapper": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "PCClientBootstrapper": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "PCDesktopClient": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "PCStudioApp": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "PCStudioBootstrapper": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "PlayStationClient": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "UWPApp": "c2246981fddd5036bf96d4b5f4699ee04bd540bb",
+      "XboxClient": "c2246981fddd5036bf96d4b5f4699ee04bd540bb"
+    }
   }
 }
