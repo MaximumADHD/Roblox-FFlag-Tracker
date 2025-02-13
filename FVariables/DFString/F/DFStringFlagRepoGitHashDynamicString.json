@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "70d2bc4201c1bd76bf3f1d5c4433341a8e69c16b",
-    "zintegration": "70d2bc4201c1bd76bf3f1d5c4433341a8e69c16b"
+    "LIVE": {
+      "AndroidApp": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "iOSApp": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "MacClientBootstrapper": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "MacDesktopClient": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "MacStudioApp": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "MacStudioBootstrapper": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "PCClientBootstrapper": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "PCDesktopClient": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "PCStudioApp": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "PCStudioBootstrapper": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "PlayStationClient": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "UWPApp": "2695c5f9419c3b53d48c0c33d2a2862a2fd7b7e8",
+      "XboxClient": "bbcc1d9923b0cc1919f52affc697a99eb3b25895"
+    },
+    "zintegration": {
+      "AndroidApp": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "iOSApp": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "MacClientBootstrapper": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "MacDesktopClient": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "MacStudioApp": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "MacStudioBootstrapper": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "PCClientBootstrapper": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "PCDesktopClient": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "PCStudioApp": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "PCStudioBootstrapper": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "PlayStationClient": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "UWPApp": "bbcc1d9923b0cc1919f52affc697a99eb3b25895",
+      "XboxClient": "bbcc1d9923b0cc1919f52affc697a99eb3b25895"
+    }
   }
 }
