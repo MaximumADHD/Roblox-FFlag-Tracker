@@ -641,7 +641,7 @@
   "FFlagStudioAddUIThreadRunTimeCheck": true,
   "FFlagStudioAsynComponentDeactiveMessageReceiverFirst": true,
   "FFlagStudioAudioPermissionFix": true,
-  "FFlagStudioAvatarAutoSetupCancellationTelemetry_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-14T18:43:03",
+  "FFlagStudioAvatarAutoSetupCancellationTelemetry": true,
   "FFlagStudioBindStandaloneDataModelRenderEarly": true,
   "FFlagStudioBreakPluginLoaderUserDependency": true,
   "FFlagStudioBusyContext": true,
