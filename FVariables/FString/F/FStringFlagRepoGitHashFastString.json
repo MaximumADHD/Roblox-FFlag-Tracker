@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
-    "zintegration": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca"
+    "LIVE": {
+      "AndroidApp": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "iOSApp": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "MacClientBootstrapper": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "MacDesktopClient": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "MacStudioApp": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "MacStudioBootstrapper": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "PCClientBootstrapper": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "PCDesktopClient": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "PCStudioApp": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "PCStudioBootstrapper": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "PlayStationClient": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "UWPApp": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "XboxClient": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca"
+    },
+    "zintegration": {
+      "AndroidApp": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "iOSApp": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "MacClientBootstrapper": "6837dc6bdfe45cdc96e0755b3b1c232b3167c53f",
+      "MacDesktopClient": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "MacStudioApp": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "MacStudioBootstrapper": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "PCClientBootstrapper": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "PCDesktopClient": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "PCStudioApp": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "PCStudioBootstrapper": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "PlayStationClient": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "UWPApp": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca",
+      "XboxClient": "b33265ed88c8ea2ab6edafbe759ec3ba65de43ca"
+    }
   }
 }
