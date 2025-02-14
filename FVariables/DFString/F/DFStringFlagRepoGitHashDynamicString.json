@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "1b1e88596c08faf7187fd5853fffbcc5ab7b6e38",
-    "zintegration": "1b1e88596c08faf7187fd5853fffbcc5ab7b6e38"
+    "LIVE": {
+      "AndroidApp": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "iOSApp": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "MacClientBootstrapper": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "MacDesktopClient": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "MacStudioApp": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "MacStudioBootstrapper": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "PCClientBootstrapper": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "PCDesktopClient": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "PCStudioApp": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "PCStudioBootstrapper": "1b1e88596c08faf7187fd5853fffbcc5ab7b6e38",
+      "PlayStationClient": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "UWPApp": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "XboxClient": "c834cd71fa26623c92dbb238745fbbe45ba56598"
+    },
+    "zintegration": {
+      "AndroidApp": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "iOSApp": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "MacClientBootstrapper": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "MacDesktopClient": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "MacStudioApp": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "MacStudioBootstrapper": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "PCClientBootstrapper": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "PCDesktopClient": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "PCStudioApp": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "PCStudioBootstrapper": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "PlayStationClient": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "UWPApp": "c834cd71fa26623c92dbb238745fbbe45ba56598",
+      "XboxClient": "c834cd71fa26623c92dbb238745fbbe45ba56598"
+    }
   }
 }
