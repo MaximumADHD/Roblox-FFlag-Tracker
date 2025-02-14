@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "fb6f6d8a3e9362935146cc7e4fe0acd4d3a5d9d4",
-    "zintegration": "fb6f6d8a3e9362935146cc7e4fe0acd4d3a5d9d4"
+    "LIVE": {
+      "AndroidApp": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "iOSApp": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "MacClientBootstrapper": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "MacDesktopClient": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "MacStudioApp": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "MacStudioBootstrapper": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "PCClientBootstrapper": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "PCDesktopClient": "ca0324edd31471315cf818a01d258f1c0d9d21f8",
+      "PCStudioApp": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "PCStudioBootstrapper": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "PlayStationClient": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "UWPApp": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "XboxClient": "70e1d157173066e77c9c439dcd0e1f0761943bd3"
+    },
+    "zintegration": {
+      "AndroidApp": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "iOSApp": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "MacClientBootstrapper": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "MacDesktopClient": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "MacStudioApp": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "MacStudioBootstrapper": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "PCClientBootstrapper": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "PCDesktopClient": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "PCStudioApp": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "PCStudioBootstrapper": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "PlayStationClient": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "UWPApp": "70e1d157173066e77c9c439dcd0e1f0761943bd3",
+      "XboxClient": "70e1d157173066e77c9c439dcd0e1f0761943bd3"
+    }
   }
 }
