@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "af5bbc815f9cd5b1a5c866f58cc9f41b6f5994b1",
-    "zintegration": "af5bbc815f9cd5b1a5c866f58cc9f41b6f5994b1"
+    "LIVE": {
+      "AndroidApp": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "iOSApp": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "MacClientBootstrapper": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "MacDesktopClient": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "MacStudioApp": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "MacStudioBootstrapper": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "PCClientBootstrapper": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "PCDesktopClient": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "PCStudioApp": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "PCStudioBootstrapper": "af5bbc815f9cd5b1a5c866f58cc9f41b6f5994b1",
+      "PlayStationClient": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "UWPApp": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "XboxClient": "928a391e69fa8d670d3b661864e216917d02a1ac"
+    },
+    "zintegration": {
+      "AndroidApp": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "iOSApp": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "MacClientBootstrapper": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "MacDesktopClient": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "MacStudioApp": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "MacStudioBootstrapper": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "PCClientBootstrapper": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "PCDesktopClient": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "PCStudioApp": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "PCStudioBootstrapper": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "PlayStationClient": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "UWPApp": "928a391e69fa8d670d3b661864e216917d02a1ac",
+      "XboxClient": "928a391e69fa8d670d3b661864e216917d02a1ac"
+    }
   }
 }
