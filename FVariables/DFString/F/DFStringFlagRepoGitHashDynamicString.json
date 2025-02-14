@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "97c65f424ffeaa5e0f62701210a2f64b054cc231",
-    "zintegration": "97c65f424ffeaa5e0f62701210a2f64b054cc231"
+    "LIVE": {
+      "AndroidApp": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "iOSApp": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "MacClientBootstrapper": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "MacDesktopClient": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "MacStudioApp": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "MacStudioBootstrapper": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "PCClientBootstrapper": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "PCDesktopClient": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "PCStudioApp": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "PCStudioBootstrapper": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "PlayStationClient": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "UWPApp": "97c65f424ffeaa5e0f62701210a2f64b054cc231",
+      "XboxClient": "9a824d82265751b1ead3ad77a92d5447c2916192"
+    },
+    "zintegration": {
+      "AndroidApp": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "iOSApp": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "MacClientBootstrapper": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "MacDesktopClient": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "MacStudioApp": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "MacStudioBootstrapper": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "PCClientBootstrapper": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "PCDesktopClient": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "PCStudioApp": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "PCStudioBootstrapper": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "PlayStationClient": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "UWPApp": "9a824d82265751b1ead3ad77a92d5447c2916192",
+      "XboxClient": "9a824d82265751b1ead3ad77a92d5447c2916192"
+    }
   }
 }
