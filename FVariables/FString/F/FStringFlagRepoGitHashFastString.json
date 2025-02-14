@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "15be1d09b73c747abec8540d43712de8699999ca",
-    "zintegration": "15be1d09b73c747abec8540d43712de8699999ca"
+    "LIVE": {
+      "AndroidApp": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "iOSApp": "c4d036cb69463570efdb0904d6fb8a2804405281",
+      "MacClientBootstrapper": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "MacDesktopClient": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "MacStudioApp": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "MacStudioBootstrapper": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "PCClientBootstrapper": "c4d036cb69463570efdb0904d6fb8a2804405281",
+      "PCDesktopClient": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "PCStudioApp": "c4d036cb69463570efdb0904d6fb8a2804405281",
+      "PCStudioBootstrapper": "c4d036cb69463570efdb0904d6fb8a2804405281",
+      "PlayStationClient": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "UWPApp": "15be1d09b73c747abec8540d43712de8699999ca",
+      "XboxClient": "82b122164c8fc1c957f1580713d70ff78c1d4cbb"
+    },
+    "zintegration": {
+      "AndroidApp": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "iOSApp": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "MacClientBootstrapper": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "MacDesktopClient": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "MacStudioApp": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "MacStudioBootstrapper": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "PCClientBootstrapper": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "PCDesktopClient": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "PCStudioApp": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "PCStudioBootstrapper": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "PlayStationClient": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "UWPApp": "82b122164c8fc1c957f1580713d70ff78c1d4cbb",
+      "XboxClient": "82b122164c8fc1c957f1580713d70ff78c1d4cbb"
+    }
   }
 }
