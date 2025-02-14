@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "e2d6440c5f6118b7f40170c667177439575abe80",
-    "zintegration": "e2d6440c5f6118b7f40170c667177439575abe80"
+    "LIVE": {
+      "AndroidApp": "377e2b13a616ba52207584de426b0270879d4782",
+      "iOSApp": "377e2b13a616ba52207584de426b0270879d4782",
+      "MacClientBootstrapper": "377e2b13a616ba52207584de426b0270879d4782",
+      "MacDesktopClient": "377e2b13a616ba52207584de426b0270879d4782",
+      "MacStudioApp": "377e2b13a616ba52207584de426b0270879d4782",
+      "MacStudioBootstrapper": "377e2b13a616ba52207584de426b0270879d4782",
+      "PCClientBootstrapper": "e2d6440c5f6118b7f40170c667177439575abe80",
+      "PCDesktopClient": "377e2b13a616ba52207584de426b0270879d4782",
+      "PCStudioApp": "377e2b13a616ba52207584de426b0270879d4782",
+      "PCStudioBootstrapper": "377e2b13a616ba52207584de426b0270879d4782",
+      "PlayStationClient": "377e2b13a616ba52207584de426b0270879d4782",
+      "UWPApp": "e2d6440c5f6118b7f40170c667177439575abe80",
+      "XboxClient": "377e2b13a616ba52207584de426b0270879d4782"
+    },
+    "zintegration": {
+      "AndroidApp": "377e2b13a616ba52207584de426b0270879d4782",
+      "iOSApp": "377e2b13a616ba52207584de426b0270879d4782",
+      "MacClientBootstrapper": "377e2b13a616ba52207584de426b0270879d4782",
+      "MacDesktopClient": "377e2b13a616ba52207584de426b0270879d4782",
+      "MacStudioApp": "377e2b13a616ba52207584de426b0270879d4782",
+      "MacStudioBootstrapper": "377e2b13a616ba52207584de426b0270879d4782",
+      "PCClientBootstrapper": "377e2b13a616ba52207584de426b0270879d4782",
+      "PCDesktopClient": "377e2b13a616ba52207584de426b0270879d4782",
+      "PCStudioApp": "377e2b13a616ba52207584de426b0270879d4782",
+      "PCStudioBootstrapper": "377e2b13a616ba52207584de426b0270879d4782",
+      "PlayStationClient": "377e2b13a616ba52207584de426b0270879d4782",
+      "UWPApp": "377e2b13a616ba52207584de426b0270879d4782",
+      "XboxClient": "377e2b13a616ba52207584de426b0270879d4782"
+    }
   }
 }
