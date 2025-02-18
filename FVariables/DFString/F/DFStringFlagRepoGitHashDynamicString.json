@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "7f88888f6a3ff61f346dd3e3efb03d178b098b1f",
-    "zintegration": "7f88888f6a3ff61f346dd3e3efb03d178b098b1f"
+    "LIVE": {
+      "AndroidApp": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "iOSApp": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "MacClientBootstrapper": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "MacDesktopClient": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "MacStudioApp": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "MacStudioBootstrapper": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "PCClientBootstrapper": "30bae7824202f971136dd23edb015d073044162b",
+      "PCDesktopClient": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "PCStudioApp": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "PCStudioBootstrapper": "30bae7824202f971136dd23edb015d073044162b",
+      "PlayStationClient": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "UWPApp": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "XboxClient": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081"
+    },
+    "zintegration": {
+      "AndroidApp": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "iOSApp": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "MacClientBootstrapper": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "MacDesktopClient": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "MacStudioApp": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "MacStudioBootstrapper": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "PCClientBootstrapper": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "PCDesktopClient": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "PCStudioApp": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "PCStudioBootstrapper": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "PlayStationClient": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "UWPApp": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081",
+      "XboxClient": "2ca0aa9a1d9152eab47cb5cd00cc782e3eaa3081"
+    }
   }
 }
