@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "61bc20a09a7df87736467b2b53d2074564c4b532",
-    "zintegration": "61bc20a09a7df87736467b2b53d2074564c4b532"
+    "LIVE": {
+      "AndroidApp": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "iOSApp": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "MacClientBootstrapper": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "MacDesktopClient": "61bc20a09a7df87736467b2b53d2074564c4b532",
+      "MacStudioApp": "61bc20a09a7df87736467b2b53d2074564c4b532",
+      "MacStudioBootstrapper": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "PCClientBootstrapper": "61bc20a09a7df87736467b2b53d2074564c4b532",
+      "PCDesktopClient": "61bc20a09a7df87736467b2b53d2074564c4b532",
+      "PCStudioApp": "61bc20a09a7df87736467b2b53d2074564c4b532",
+      "PCStudioBootstrapper": "61bc20a09a7df87736467b2b53d2074564c4b532",
+      "PlayStationClient": "61bc20a09a7df87736467b2b53d2074564c4b532",
+      "UWPApp": "61bc20a09a7df87736467b2b53d2074564c4b532",
+      "XboxClient": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f"
+    },
+    "zintegration": {
+      "AndroidApp": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "iOSApp": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "MacClientBootstrapper": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "MacDesktopClient": "61bc20a09a7df87736467b2b53d2074564c4b532",
+      "MacStudioApp": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "MacStudioBootstrapper": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "PCClientBootstrapper": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "PCDesktopClient": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "PCStudioApp": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "PCStudioBootstrapper": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "PlayStationClient": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "UWPApp": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f",
+      "XboxClient": "eee82df6241fa7ae995de5406cc1bbfd69d76a4f"
+    }
   }
 }
