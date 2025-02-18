@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
-    "zintegration": "bd3183032b0080e37064f3da01bc49aa6ff88ac6"
+    "LIVE": {
+      "AndroidApp": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "iOSApp": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "MacClientBootstrapper": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "MacDesktopClient": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "MacStudioApp": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "MacStudioBootstrapper": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "PCClientBootstrapper": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "PCDesktopClient": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "PCStudioApp": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "PCStudioBootstrapper": "f51ae9e31e1221ce5fbc1d8dd6c6198adfb7932b",
+      "PlayStationClient": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "UWPApp": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "XboxClient": "a097e0ae5a393b1c61979099152b8d255bccab73"
+    },
+    "zintegration": {
+      "AndroidApp": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "iOSApp": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "MacClientBootstrapper": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "MacDesktopClient": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "MacStudioApp": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "MacStudioBootstrapper": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "PCClientBootstrapper": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "PCDesktopClient": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "PCStudioApp": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "PCStudioBootstrapper": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "PlayStationClient": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "UWPApp": "a097e0ae5a393b1c61979099152b8d255bccab73",
+      "XboxClient": "a097e0ae5a393b1c61979099152b8d255bccab73"
+    }
   }
 }
