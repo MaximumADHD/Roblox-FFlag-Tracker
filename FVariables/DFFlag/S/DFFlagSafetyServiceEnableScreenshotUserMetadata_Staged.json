@@ -1,7 +1,15 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:35:32",
-    "zintegration": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:35:32"
+    "LIVE": {
+      "iOSApp": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:54:31",
+      "MacDesktopClient": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:35:32",
+      "MacStudioApp": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:35:32"
+    },
+    "zintegration": {
+      "iOSApp": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:54:31",
+      "MacDesktopClient": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:35:32",
+      "MacStudioApp": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:35:32"
+    }
   }
 }
