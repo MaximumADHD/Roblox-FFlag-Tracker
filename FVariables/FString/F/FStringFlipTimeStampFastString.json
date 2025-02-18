@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "02/18/2025 18:19:37",
-    "zintegration": "02/18/2025 18:19:37"
+    "LIVE": {
+      "AndroidApp": "02/18/2025 18:23:01",
+      "iOSApp": "02/18/2025 18:23:01",
+      "MacClientBootstrapper": "02/18/2025 18:23:01",
+      "MacDesktopClient": "02/18/2025 18:23:01",
+      "MacStudioApp": "02/18/2025 18:23:01",
+      "MacStudioBootstrapper": "02/18/2025 18:23:01",
+      "PCClientBootstrapper": "02/18/2025 18:23:01",
+      "PCDesktopClient": "02/18/2025 18:21:43",
+      "PCStudioApp": "02/18/2025 18:23:01",
+      "PCStudioBootstrapper": "02/18/2025 18:21:43",
+      "PlayStationClient": "02/18/2025 18:23:01",
+      "UWPApp": "02/18/2025 18:21:43",
+      "XboxClient": "02/18/2025 18:23:01"
+    },
+    "zintegration": {
+      "AndroidApp": "02/18/2025 18:23:01",
+      "iOSApp": "02/18/2025 18:23:01",
+      "MacClientBootstrapper": "02/18/2025 18:23:01",
+      "MacDesktopClient": "02/18/2025 18:23:01",
+      "MacStudioApp": "02/18/2025 18:23:01",
+      "MacStudioBootstrapper": "02/18/2025 18:23:23",
+      "PCClientBootstrapper": "02/18/2025 18:23:01",
+      "PCDesktopClient": "02/18/2025 18:23:01",
+      "PCStudioApp": "02/18/2025 18:23:01",
+      "PCStudioBootstrapper": "02/18/2025 18:23:01",
+      "PlayStationClient": "02/18/2025 18:23:01",
+      "UWPApp": "02/18/2025 18:23:23",
+      "XboxClient": "02/18/2025 18:23:01"
+    }
   }
 }

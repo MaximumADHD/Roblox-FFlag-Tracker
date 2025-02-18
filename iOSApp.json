@@ -1,6 +1,7 @@
 {
   "DFFlagAddPlaySessionIdToGmaRequestBody": true,
   "DFFlagDeprecationMessageRefinements": true,
+  "DFFlagEnableCheckCurrentlyPlayingVideoAds_Staged": "true;SteadyState;10;30;Revert;2025-02-18T18:21:07",
   "DFFlagEnableRewardedAdsSessionTrackingFields": true,
   "DFFlagEnableThirdPartyAdErrorEventReporting": true,
   "DFFlagEnableThirdPartyAdFullScreenCollapseEventReporting3": true,
@@ -28,6 +29,7 @@
   "DFFlagSafetyServiceEnableScreenshotUserMetadata_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T17:54:31",
   "DFFlagSendDurationNeededForReward": true,
   "DFFlagSendOrientationToPlayersGui": true,
+  "DFFlagSimEditableSessionEventMeshInitFix_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-18T18:20:28",
   "DFFlagUnifiedCookieProtocolEnabled": true,
   "DFIntCriticalThermalStatusThreshold": 3,
   "DFIntDataModelPatchPollingIntervalMilliSeconds": 3600000,
