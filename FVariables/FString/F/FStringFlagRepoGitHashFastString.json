@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
-    "zintegration": "fd1e42380343b94e6dc62f57b7e031dc13a66f85"
+    "LIVE": {
+      "AndroidApp": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "iOSApp": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "MacClientBootstrapper": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "MacDesktopClient": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "MacStudioApp": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "MacStudioBootstrapper": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "PCClientBootstrapper": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "PCDesktopClient": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "PCStudioApp": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "PCStudioBootstrapper": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "PlayStationClient": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "UWPApp": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "XboxClient": "fd1e42380343b94e6dc62f57b7e031dc13a66f85"
+    },
+    "zintegration": {
+      "AndroidApp": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "iOSApp": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "MacClientBootstrapper": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "MacDesktopClient": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "MacStudioApp": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "MacStudioBootstrapper": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "PCClientBootstrapper": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "PCDesktopClient": "fd1e42380343b94e6dc62f57b7e031dc13a66f85",
+      "PCStudioApp": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "PCStudioBootstrapper": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "PlayStationClient": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "UWPApp": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202",
+      "XboxClient": "cd477afe3ecfcb8c4c7a34a09a42e52da7004202"
+    }
   }
 }
