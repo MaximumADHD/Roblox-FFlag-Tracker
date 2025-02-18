@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "28fa975d9a53625bef3199a716e537efab99b562",
-    "zintegration": "28fa975d9a53625bef3199a716e537efab99b562"
+    "LIVE": {
+      "AndroidApp": "28fa975d9a53625bef3199a716e537efab99b562",
+      "iOSApp": "e8a2de0baf53ef53f46078f97014ed5c8f3e903d",
+      "MacClientBootstrapper": "28fa975d9a53625bef3199a716e537efab99b562",
+      "MacDesktopClient": "28fa975d9a53625bef3199a716e537efab99b562",
+      "MacStudioApp": "e8a2de0baf53ef53f46078f97014ed5c8f3e903d",
+      "MacStudioBootstrapper": "e8a2de0baf53ef53f46078f97014ed5c8f3e903d",
+      "PCClientBootstrapper": "28fa975d9a53625bef3199a716e537efab99b562",
+      "PCDesktopClient": "28fa975d9a53625bef3199a716e537efab99b562",
+      "PCStudioApp": "28fa975d9a53625bef3199a716e537efab99b562",
+      "PCStudioBootstrapper": "28fa975d9a53625bef3199a716e537efab99b562",
+      "PlayStationClient": "e8a2de0baf53ef53f46078f97014ed5c8f3e903d",
+      "UWPApp": "28fa975d9a53625bef3199a716e537efab99b562",
+      "XboxClient": "28fa975d9a53625bef3199a716e537efab99b562"
+    },
+    "zintegration": {
+      "AndroidApp": "28fa975d9a53625bef3199a716e537efab99b562",
+      "iOSApp": "28fa975d9a53625bef3199a716e537efab99b562",
+      "MacClientBootstrapper": "e8a2de0baf53ef53f46078f97014ed5c8f3e903d",
+      "MacDesktopClient": "28fa975d9a53625bef3199a716e537efab99b562",
+      "MacStudioApp": "28fa975d9a53625bef3199a716e537efab99b562",
+      "MacStudioBootstrapper": "e8a2de0baf53ef53f46078f97014ed5c8f3e903d",
+      "PCClientBootstrapper": "e8a2de0baf53ef53f46078f97014ed5c8f3e903d",
+      "PCDesktopClient": "e8a2de0baf53ef53f46078f97014ed5c8f3e903d",
+      "PCStudioApp": "28fa975d9a53625bef3199a716e537efab99b562",
+      "PCStudioBootstrapper": "28fa975d9a53625bef3199a716e537efab99b562",
+      "PlayStationClient": "e8a2de0baf53ef53f46078f97014ed5c8f3e903d",
+      "UWPApp": "e8a2de0baf53ef53f46078f97014ed5c8f3e903d",
+      "XboxClient": "28fa975d9a53625bef3199a716e537efab99b562"
+    }
   }
 }
