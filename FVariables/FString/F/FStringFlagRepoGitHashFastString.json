@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "c9e1f5391f3a1ed43e9e14f361b5b3bed1949fcc",
-    "zintegration": "c9e1f5391f3a1ed43e9e14f361b5b3bed1949fcc"
+    "LIVE": {
+      "AndroidApp": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "iOSApp": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "MacClientBootstrapper": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "MacDesktopClient": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "MacStudioApp": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "MacStudioBootstrapper": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "PCClientBootstrapper": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "PCDesktopClient": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "PCStudioApp": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "PCStudioBootstrapper": "db8c539147ff7beab9bf3ce24aeca0b097d4c832",
+      "PlayStationClient": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "UWPApp": "db8c539147ff7beab9bf3ce24aeca0b097d4c832",
+      "XboxClient": "bd3183032b0080e37064f3da01bc49aa6ff88ac6"
+    },
+    "zintegration": {
+      "AndroidApp": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "iOSApp": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "MacClientBootstrapper": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "MacDesktopClient": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "MacStudioApp": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "MacStudioBootstrapper": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "PCClientBootstrapper": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "PCDesktopClient": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "PCStudioApp": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "PCStudioBootstrapper": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "PlayStationClient": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "UWPApp": "bd3183032b0080e37064f3da01bc49aa6ff88ac6",
+      "XboxClient": "bd3183032b0080e37064f3da01bc49aa6ff88ac6"
+    }
   }
 }
