@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "d6428cc5829ff1515219dda2952e3858ffaef005",
-    "zintegration": "d6428cc5829ff1515219dda2952e3858ffaef005"
+    "LIVE": {
+      "AndroidApp": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "iOSApp": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "MacClientBootstrapper": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "MacDesktopClient": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "MacStudioApp": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "MacStudioBootstrapper": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "PCClientBootstrapper": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "PCDesktopClient": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "PCStudioApp": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "PCStudioBootstrapper": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "PlayStationClient": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "UWPApp": "d6428cc5829ff1515219dda2952e3858ffaef005",
+      "XboxClient": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db"
+    },
+    "zintegration": {
+      "AndroidApp": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "iOSApp": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "MacClientBootstrapper": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "MacDesktopClient": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "MacStudioApp": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "MacStudioBootstrapper": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "PCClientBootstrapper": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "PCDesktopClient": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "PCStudioApp": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "PCStudioBootstrapper": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "PlayStationClient": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "UWPApp": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db",
+      "XboxClient": "513d03ab37772e6b6274b8bb8e9d1b34bd7c95db"
+    }
   }
 }
