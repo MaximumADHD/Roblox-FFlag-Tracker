@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "dc378883b9629f50bbdb100b137d321904ec6cd0",
-    "zintegration": "dc378883b9629f50bbdb100b137d321904ec6cd0"
+    "LIVE": {
+      "AndroidApp": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "iOSApp": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "MacClientBootstrapper": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "MacDesktopClient": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "MacStudioApp": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "MacStudioBootstrapper": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "PCClientBootstrapper": "dc378883b9629f50bbdb100b137d321904ec6cd0",
+      "PCDesktopClient": "dc378883b9629f50bbdb100b137d321904ec6cd0",
+      "PCStudioApp": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "PCStudioBootstrapper": "dc378883b9629f50bbdb100b137d321904ec6cd0",
+      "PlayStationClient": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "UWPApp": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "XboxClient": "a2196fa5b01c8d6230359d35bdba8600b56117ce"
+    },
+    "zintegration": {
+      "AndroidApp": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "iOSApp": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "MacClientBootstrapper": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "MacDesktopClient": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "MacStudioApp": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "MacStudioBootstrapper": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "PCClientBootstrapper": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "PCDesktopClient": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "PCStudioApp": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "PCStudioBootstrapper": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "PlayStationClient": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "UWPApp": "a2196fa5b01c8d6230359d35bdba8600b56117ce",
+      "XboxClient": "a2196fa5b01c8d6230359d35bdba8600b56117ce"
+    }
   }
 }
