@@ -1,35 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "iOSApp": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "MacClientBootstrapper": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "MacDesktopClient": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "MacStudioApp": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "MacStudioBootstrapper": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "PCClientBootstrapper": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "PCDesktopClient": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "PCStudioApp": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "PCStudioBootstrapper": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "PlayStationClient": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "UWPApp": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "XboxClient": "94bf417476e74d0df78e2de637b47143fb8b43ca"
-    },
-    "zintegration": {
-      "AndroidApp": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "iOSApp": "bf11da4673ecc9bc18bce00dc274d7ce069b9ef3",
-      "MacClientBootstrapper": "bf11da4673ecc9bc18bce00dc274d7ce069b9ef3",
-      "MacDesktopClient": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "MacStudioApp": "bf11da4673ecc9bc18bce00dc274d7ce069b9ef3",
-      "MacStudioBootstrapper": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "PCClientBootstrapper": "bf11da4673ecc9bc18bce00dc274d7ce069b9ef3",
-      "PCDesktopClient": "bf11da4673ecc9bc18bce00dc274d7ce069b9ef3",
-      "PCStudioApp": "bf11da4673ecc9bc18bce00dc274d7ce069b9ef3",
-      "PCStudioBootstrapper": "bf11da4673ecc9bc18bce00dc274d7ce069b9ef3",
-      "PlayStationClient": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "UWPApp": "94bf417476e74d0df78e2de637b47143fb8b43ca",
-      "XboxClient": "94bf417476e74d0df78e2de637b47143fb8b43ca"
-    }
+    "LIVE": "bf11da4673ecc9bc18bce00dc274d7ce069b9ef3",
+    "zintegration": "bf11da4673ecc9bc18bce00dc274d7ce069b9ef3"
   }
 }
