@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "2188c62fc5b79d7c01996bc2bae1089e21b48a27",
-    "zintegration": "2188c62fc5b79d7c01996bc2bae1089e21b48a27"
+    "LIVE": {
+      "AndroidApp": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "iOSApp": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "MacClientBootstrapper": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "MacDesktopClient": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "MacStudioApp": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "MacStudioBootstrapper": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "PCClientBootstrapper": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "PCDesktopClient": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "PCStudioApp": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "PCStudioBootstrapper": "eebfed80bb2e74ba9df564e2e6a0845fe71de529",
+      "PlayStationClient": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "UWPApp": "eebfed80bb2e74ba9df564e2e6a0845fe71de529",
+      "XboxClient": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7"
+    },
+    "zintegration": {
+      "AndroidApp": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "iOSApp": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "MacClientBootstrapper": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "MacDesktopClient": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "MacStudioApp": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "MacStudioBootstrapper": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "PCClientBootstrapper": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "PCDesktopClient": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "PCStudioApp": "45f1d3ccc47deeea2e1d154e9a08a8fc7afd6bc7",
+      "PCStudioBootstrapper": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "PlayStationClient": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "UWPApp": "b67101a6fc9b26149a6ffd4f2a302503e8994dac",
+      "XboxClient": "b67101a6fc9b26149a6ffd4f2a302503e8994dac"
+    }
   }
 }
