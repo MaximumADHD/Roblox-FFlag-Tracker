@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "00387133b7764c28ac3e05dd8304428cb7515698",
-    "zintegration": "00387133b7764c28ac3e05dd8304428cb7515698"
+    "LIVE": {
+      "AndroidApp": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "iOSApp": "d2f60b07fda4e90f9a21de657fd1ce3e1d167954",
+      "MacClientBootstrapper": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "MacDesktopClient": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "MacStudioApp": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "MacStudioBootstrapper": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "PCClientBootstrapper": "d2f60b07fda4e90f9a21de657fd1ce3e1d167954",
+      "PCDesktopClient": "00387133b7764c28ac3e05dd8304428cb7515698",
+      "PCStudioApp": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "PCStudioBootstrapper": "d2f60b07fda4e90f9a21de657fd1ce3e1d167954",
+      "PlayStationClient": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "UWPApp": "d2f60b07fda4e90f9a21de657fd1ce3e1d167954",
+      "XboxClient": "d2f60b07fda4e90f9a21de657fd1ce3e1d167954"
+    },
+    "zintegration": {
+      "AndroidApp": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "iOSApp": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "MacClientBootstrapper": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "MacDesktopClient": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "MacStudioApp": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "MacStudioBootstrapper": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "PCClientBootstrapper": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "PCDesktopClient": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "PCStudioApp": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "PCStudioBootstrapper": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "PlayStationClient": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "UWPApp": "5256a37600d6ac3b7515877bdfe14084764736de",
+      "XboxClient": "5256a37600d6ac3b7515877bdfe14084764736de"
+    }
   }
 }
