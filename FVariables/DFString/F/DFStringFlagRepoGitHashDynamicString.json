@@ -1,35 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "iOSApp": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "MacClientBootstrapper": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "MacDesktopClient": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "MacStudioApp": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "MacStudioBootstrapper": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "PCClientBootstrapper": "eab879797fa80bc9cbc6297688043f81f48b6e73",
-      "PCDesktopClient": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "PCStudioApp": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "PCStudioBootstrapper": "08bf0e2c9b867a2abab23a60d4bf05aea694e43b",
-      "PlayStationClient": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "UWPApp": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "XboxClient": "883e8ba8b3eb38260a1d0960fb96783596df092f"
-    },
-    "zintegration": {
-      "AndroidApp": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "iOSApp": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "MacClientBootstrapper": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "MacDesktopClient": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "MacStudioApp": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "MacStudioBootstrapper": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "PCClientBootstrapper": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "PCDesktopClient": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "PCStudioApp": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "PCStudioBootstrapper": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "PlayStationClient": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "UWPApp": "883e8ba8b3eb38260a1d0960fb96783596df092f",
-      "XboxClient": "883e8ba8b3eb38260a1d0960fb96783596df092f"
-    }
+    "LIVE": "883e8ba8b3eb38260a1d0960fb96783596df092f",
+    "zintegration": "883e8ba8b3eb38260a1d0960fb96783596df092f"
   }
 }
