@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "3f2d388d88f3a2d9f88b464b9e46525e02db0467",
-    "zintegration": "3f2d388d88f3a2d9f88b464b9e46525e02db0467"
+    "LIVE": {
+      "AndroidApp": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "iOSApp": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "MacClientBootstrapper": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "MacDesktopClient": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "MacStudioApp": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "MacStudioBootstrapper": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "PCClientBootstrapper": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "PCDesktopClient": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "PCStudioApp": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "PCStudioBootstrapper": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "PlayStationClient": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "UWPApp": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "XboxClient": "de69ac8894c554f09f307ed741b0bdadedfbc55c"
+    },
+    "zintegration": {
+      "AndroidApp": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "iOSApp": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "MacClientBootstrapper": "1886eeed4fb8b2a4fe42261e129b303e88f0759f",
+      "MacDesktopClient": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "MacStudioApp": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "MacStudioBootstrapper": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "PCClientBootstrapper": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "PCDesktopClient": "de69ac8894c554f09f307ed741b0bdadedfbc55c",
+      "PCStudioApp": "1886eeed4fb8b2a4fe42261e129b303e88f0759f",
+      "PCStudioBootstrapper": "1886eeed4fb8b2a4fe42261e129b303e88f0759f",
+      "PlayStationClient": "1886eeed4fb8b2a4fe42261e129b303e88f0759f",
+      "UWPApp": "1886eeed4fb8b2a4fe42261e129b303e88f0759f",
+      "XboxClient": "de69ac8894c554f09f307ed741b0bdadedfbc55c"
+    }
   }
 }
