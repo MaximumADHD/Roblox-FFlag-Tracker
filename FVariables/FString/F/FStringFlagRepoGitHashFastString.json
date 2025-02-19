@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "25c0c8cf846e9314e8928562962306b6df646f35",
-    "zintegration": "25c0c8cf846e9314e8928562962306b6df646f35"
+    "LIVE": {
+      "AndroidApp": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "iOSApp": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "MacClientBootstrapper": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "MacDesktopClient": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "MacStudioApp": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "MacStudioBootstrapper": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "PCClientBootstrapper": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "PCDesktopClient": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "PCStudioApp": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "PCStudioBootstrapper": "25c0c8cf846e9314e8928562962306b6df646f35",
+      "PlayStationClient": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "UWPApp": "25c0c8cf846e9314e8928562962306b6df646f35",
+      "XboxClient": "a48a3b50645f0b38b4f542947eac49e44345c441"
+    },
+    "zintegration": {
+      "AndroidApp": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "iOSApp": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "MacClientBootstrapper": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "MacDesktopClient": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "MacStudioApp": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "MacStudioBootstrapper": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "PCClientBootstrapper": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "PCDesktopClient": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "PCStudioApp": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "PCStudioBootstrapper": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "PlayStationClient": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "UWPApp": "a48a3b50645f0b38b4f542947eac49e44345c441",
+      "XboxClient": "a48a3b50645f0b38b4f542947eac49e44345c441"
+    }
   }
 }
