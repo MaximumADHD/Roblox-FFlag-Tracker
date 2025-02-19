@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "1f201bd3805a3b593148ab7e3fbbe4f2e6011426",
-    "zintegration": "1f201bd3805a3b593148ab7e3fbbe4f2e6011426"
+    "LIVE": {
+      "AndroidApp": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "iOSApp": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "MacClientBootstrapper": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "MacDesktopClient": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "MacStudioApp": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "MacStudioBootstrapper": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "PCClientBootstrapper": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "PCDesktopClient": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "PCStudioApp": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "PCStudioBootstrapper": "4847cbc5e9b488e9a7fe57edbae684717cc46047",
+      "PlayStationClient": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "UWPApp": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "XboxClient": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a"
+    },
+    "zintegration": {
+      "AndroidApp": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "iOSApp": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "MacClientBootstrapper": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "MacDesktopClient": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "MacStudioApp": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "MacStudioBootstrapper": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "PCClientBootstrapper": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "PCDesktopClient": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "PCStudioApp": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "PCStudioBootstrapper": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "PlayStationClient": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "UWPApp": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a",
+      "XboxClient": "77c3d8dfea20891de1c0f0c648db5f9cb00d026a"
+    }
   }
 }
