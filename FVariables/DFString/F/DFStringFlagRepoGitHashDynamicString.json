@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
-    "zintegration": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca"
+    "LIVE": {
+      "AndroidApp": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "iOSApp": "a2dd1f2ccba60d03b70cd2c4298b68fb868a993d",
+      "MacClientBootstrapper": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "MacDesktopClient": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "MacStudioApp": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "MacStudioBootstrapper": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "PCClientBootstrapper": "a2dd1f2ccba60d03b70cd2c4298b68fb868a993d",
+      "PCDesktopClient": "a2dd1f2ccba60d03b70cd2c4298b68fb868a993d",
+      "PCStudioApp": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "PCStudioBootstrapper": "a2dd1f2ccba60d03b70cd2c4298b68fb868a993d",
+      "PlayStationClient": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "UWPApp": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "XboxClient": "a2dd1f2ccba60d03b70cd2c4298b68fb868a993d"
+    },
+    "zintegration": {
+      "AndroidApp": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "iOSApp": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "MacClientBootstrapper": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "MacDesktopClient": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "MacStudioApp": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "MacStudioBootstrapper": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "PCClientBootstrapper": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "PCDesktopClient": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "PCStudioApp": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "PCStudioBootstrapper": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "PlayStationClient": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "UWPApp": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f",
+      "XboxClient": "fc82d00e8523e1d4d9e67d3eeb6128ec8bfb615f"
+    }
   }
 }
