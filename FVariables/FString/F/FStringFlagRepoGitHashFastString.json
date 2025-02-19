@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "304fc02e24c888c7b775ef74215cde65410d1c00",
-    "zintegration": "304fc02e24c888c7b775ef74215cde65410d1c00"
+    "LIVE": {
+      "AndroidApp": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "iOSApp": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "MacClientBootstrapper": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "MacDesktopClient": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "MacStudioApp": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "MacStudioBootstrapper": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "PCClientBootstrapper": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "PCDesktopClient": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "PCStudioApp": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "PCStudioBootstrapper": "92da948c7127c76ca107f63fbefb632fffbd9eb4",
+      "PlayStationClient": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "UWPApp": "92da948c7127c76ca107f63fbefb632fffbd9eb4",
+      "XboxClient": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9"
+    },
+    "zintegration": {
+      "AndroidApp": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "iOSApp": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "MacClientBootstrapper": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "MacDesktopClient": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "MacStudioApp": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "MacStudioBootstrapper": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "PCClientBootstrapper": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "PCDesktopClient": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "PCStudioApp": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "PCStudioBootstrapper": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "PlayStationClient": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "UWPApp": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9",
+      "XboxClient": "8d58c2d4ba7b468abc9fa7de5b35aba9ea5924d9"
+    }
   }
 }
