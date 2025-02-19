@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "9bb9e626ac117e4d653b903a9834ae77c6aa7002",
-    "zintegration": "9bb9e626ac117e4d653b903a9834ae77c6aa7002"
+    "LIVE": {
+      "AndroidApp": "8e2d9dc0ddb4e4f94a1deca214fc646c98fe0053",
+      "iOSApp": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "MacClientBootstrapper": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "MacDesktopClient": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "MacStudioApp": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "MacStudioBootstrapper": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "PCClientBootstrapper": "8e2d9dc0ddb4e4f94a1deca214fc646c98fe0053",
+      "PCDesktopClient": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "PCStudioApp": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "PCStudioBootstrapper": "8e2d9dc0ddb4e4f94a1deca214fc646c98fe0053",
+      "PlayStationClient": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "UWPApp": "8e2d9dc0ddb4e4f94a1deca214fc646c98fe0053",
+      "XboxClient": "640e5b48c34b8402cd152297cc591a6a12364e7a"
+    },
+    "zintegration": {
+      "AndroidApp": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "iOSApp": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "MacClientBootstrapper": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "MacDesktopClient": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "MacStudioApp": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "MacStudioBootstrapper": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "PCClientBootstrapper": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "PCDesktopClient": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "PCStudioApp": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "PCStudioBootstrapper": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "PlayStationClient": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "UWPApp": "640e5b48c34b8402cd152297cc591a6a12364e7a",
+      "XboxClient": "640e5b48c34b8402cd152297cc591a6a12364e7a"
+    }
   }
 }
