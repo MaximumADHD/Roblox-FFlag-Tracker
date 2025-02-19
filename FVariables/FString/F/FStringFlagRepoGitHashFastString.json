@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "5256a37600d6ac3b7515877bdfe14084764736de",
-    "zintegration": "5256a37600d6ac3b7515877bdfe14084764736de"
+    "LIVE": {
+      "AndroidApp": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "iOSApp": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "MacClientBootstrapper": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "MacDesktopClient": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "MacStudioApp": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "MacStudioBootstrapper": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "PCClientBootstrapper": "09faef789b47b714a641ad915cda692607f2e1dd",
+      "PCDesktopClient": "09faef789b47b714a641ad915cda692607f2e1dd",
+      "PCStudioApp": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "PCStudioBootstrapper": "09faef789b47b714a641ad915cda692607f2e1dd",
+      "PlayStationClient": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "UWPApp": "09faef789b47b714a641ad915cda692607f2e1dd",
+      "XboxClient": "4399939b1c4e9c631c5ef0956b73003c683f94a0"
+    },
+    "zintegration": {
+      "AndroidApp": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "iOSApp": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "MacClientBootstrapper": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "MacDesktopClient": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "MacStudioApp": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "MacStudioBootstrapper": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "PCClientBootstrapper": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "PCDesktopClient": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "PCStudioApp": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "PCStudioBootstrapper": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "PlayStationClient": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "UWPApp": "4399939b1c4e9c631c5ef0956b73003c683f94a0",
+      "XboxClient": "4399939b1c4e9c631c5ef0956b73003c683f94a0"
+    }
   }
 }
