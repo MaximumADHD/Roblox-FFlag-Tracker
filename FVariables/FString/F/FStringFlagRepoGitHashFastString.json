@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "7544b14817fc97b4a66a0f3e2a6833d4e0031a47",
-    "zintegration": "7544b14817fc97b4a66a0f3e2a6833d4e0031a47"
+    "LIVE": {
+      "AndroidApp": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "iOSApp": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "MacClientBootstrapper": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "MacDesktopClient": "7544b14817fc97b4a66a0f3e2a6833d4e0031a47",
+      "MacStudioApp": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "MacStudioBootstrapper": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "PCClientBootstrapper": "7544b14817fc97b4a66a0f3e2a6833d4e0031a47",
+      "PCDesktopClient": "7544b14817fc97b4a66a0f3e2a6833d4e0031a47",
+      "PCStudioApp": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "PCStudioBootstrapper": "7544b14817fc97b4a66a0f3e2a6833d4e0031a47",
+      "PlayStationClient": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "UWPApp": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "XboxClient": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0"
+    },
+    "zintegration": {
+      "AndroidApp": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "iOSApp": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "MacClientBootstrapper": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "MacDesktopClient": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "MacStudioApp": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "MacStudioBootstrapper": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "PCClientBootstrapper": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "PCDesktopClient": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "PCStudioApp": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "PCStudioBootstrapper": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "PlayStationClient": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "UWPApp": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0",
+      "XboxClient": "cd2a5fe19d6fe9789c0e2b6b9926bbd70c3155d0"
+    }
   }
 }
