@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "4fd0449caa9211f85fb350ca41dc18f157f65c1e",
-    "zintegration": "4fd0449caa9211f85fb350ca41dc18f157f65c1e"
+    "LIVE": {
+      "AndroidApp": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "iOSApp": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "MacClientBootstrapper": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "MacDesktopClient": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "MacStudioApp": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "MacStudioBootstrapper": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "PCClientBootstrapper": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "PCDesktopClient": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "PCStudioApp": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "PCStudioBootstrapper": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "PlayStationClient": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "UWPApp": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "XboxClient": "7b337d7b737388f4c9d1050bde261be373273c4a"
+    },
+    "zintegration": {
+      "AndroidApp": "31274cccf3e89fd0712d2140b85718a654d8a928",
+      "iOSApp": "31274cccf3e89fd0712d2140b85718a654d8a928",
+      "MacClientBootstrapper": "31274cccf3e89fd0712d2140b85718a654d8a928",
+      "MacDesktopClient": "31274cccf3e89fd0712d2140b85718a654d8a928",
+      "MacStudioApp": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "MacStudioBootstrapper": "31274cccf3e89fd0712d2140b85718a654d8a928",
+      "PCClientBootstrapper": "31274cccf3e89fd0712d2140b85718a654d8a928",
+      "PCDesktopClient": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "PCStudioApp": "31274cccf3e89fd0712d2140b85718a654d8a928",
+      "PCStudioBootstrapper": "7b337d7b737388f4c9d1050bde261be373273c4a",
+      "PlayStationClient": "31274cccf3e89fd0712d2140b85718a654d8a928",
+      "UWPApp": "31274cccf3e89fd0712d2140b85718a654d8a928",
+      "XboxClient": "7b337d7b737388f4c9d1050bde261be373273c4a"
+    }
   }
 }
