@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb",
-    "zintegration": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb"
+    "LIVE": {
+      "AndroidApp": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "iOSApp": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "MacClientBootstrapper": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb",
+      "MacDesktopClient": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "MacStudioApp": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb",
+      "MacStudioBootstrapper": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb",
+      "PCClientBootstrapper": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb",
+      "PCDesktopClient": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "PCStudioApp": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "PCStudioBootstrapper": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb",
+      "PlayStationClient": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb",
+      "UWPApp": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb",
+      "XboxClient": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb"
+    },
+    "zintegration": {
+      "AndroidApp": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "iOSApp": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "MacClientBootstrapper": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "MacDesktopClient": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "MacStudioApp": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "MacStudioBootstrapper": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "PCClientBootstrapper": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "PCDesktopClient": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "PCStudioApp": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "PCStudioBootstrapper": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "PlayStationClient": "6ba6dcbf5eea6e34b84e12f2c50dda00d34d73bb",
+      "UWPApp": "0224784468b49aa3346c62cadfcd0c8433cd51f5",
+      "XboxClient": "0224784468b49aa3346c62cadfcd0c8433cd51f5"
+    }
   }
 }
