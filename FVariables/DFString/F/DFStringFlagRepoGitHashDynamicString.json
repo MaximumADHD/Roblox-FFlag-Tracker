@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
-    "zintegration": "29ec95207a528cef8ce5f9db9ee38037eaf91960"
+    "LIVE": {
+      "AndroidApp": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "iOSApp": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "MacClientBootstrapper": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "MacDesktopClient": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "MacStudioApp": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "MacStudioBootstrapper": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "PCClientBootstrapper": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "PCDesktopClient": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "PCStudioApp": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "PCStudioBootstrapper": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "PlayStationClient": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "UWPApp": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "XboxClient": "29ec95207a528cef8ce5f9db9ee38037eaf91960"
+    },
+    "zintegration": {
+      "AndroidApp": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "iOSApp": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "MacClientBootstrapper": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "MacDesktopClient": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "MacStudioApp": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "MacStudioBootstrapper": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "PCClientBootstrapper": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "PCDesktopClient": "29ec95207a528cef8ce5f9db9ee38037eaf91960",
+      "PCStudioApp": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "PCStudioBootstrapper": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "PlayStationClient": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "UWPApp": "1eb63a0c5e87a24fc11d89019dd18016565f40ee",
+      "XboxClient": "1eb63a0c5e87a24fc11d89019dd18016565f40ee"
+    }
   }
 }
