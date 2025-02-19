@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "76d240cc343939a5b1f6493fb95d5ff0f18a5a83",
-    "zintegration": "76d240cc343939a5b1f6493fb95d5ff0f18a5a83"
+    "LIVE": {
+      "AndroidApp": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "iOSApp": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "MacClientBootstrapper": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "MacDesktopClient": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "MacStudioApp": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "MacStudioBootstrapper": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "PCClientBootstrapper": "76d240cc343939a5b1f6493fb95d5ff0f18a5a83",
+      "PCDesktopClient": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "PCStudioApp": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "PCStudioBootstrapper": "76d240cc343939a5b1f6493fb95d5ff0f18a5a83",
+      "PlayStationClient": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "UWPApp": "76d240cc343939a5b1f6493fb95d5ff0f18a5a83",
+      "XboxClient": "a8040ef97e509bf14af5bfdcbeec6930d75934ad"
+    },
+    "zintegration": {
+      "AndroidApp": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "iOSApp": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "MacClientBootstrapper": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "MacDesktopClient": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "MacStudioApp": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "MacStudioBootstrapper": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "PCClientBootstrapper": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "PCDesktopClient": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "PCStudioApp": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "PCStudioBootstrapper": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "PlayStationClient": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "UWPApp": "a8040ef97e509bf14af5bfdcbeec6930d75934ad",
+      "XboxClient": "a8040ef97e509bf14af5bfdcbeec6930d75934ad"
+    }
   }
 }
