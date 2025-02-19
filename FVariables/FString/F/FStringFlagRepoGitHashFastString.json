@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "25f7b01bc7d4438da53448fe2e59a02bb6dc42cf",
-    "zintegration": "25f7b01bc7d4438da53448fe2e59a02bb6dc42cf"
+    "LIVE": {
+      "AndroidApp": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "iOSApp": "25f7b01bc7d4438da53448fe2e59a02bb6dc42cf",
+      "MacClientBootstrapper": "25f7b01bc7d4438da53448fe2e59a02bb6dc42cf",
+      "MacDesktopClient": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "MacStudioApp": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "MacStudioBootstrapper": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "PCClientBootstrapper": "25f7b01bc7d4438da53448fe2e59a02bb6dc42cf",
+      "PCDesktopClient": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "PCStudioApp": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "PCStudioBootstrapper": "25f7b01bc7d4438da53448fe2e59a02bb6dc42cf",
+      "PlayStationClient": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "UWPApp": "25f7b01bc7d4438da53448fe2e59a02bb6dc42cf",
+      "XboxClient": "0ed6c591f0253cd8a725d7770f593dded2891d61"
+    },
+    "zintegration": {
+      "AndroidApp": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "iOSApp": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "MacClientBootstrapper": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "MacDesktopClient": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "MacStudioApp": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "MacStudioBootstrapper": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "PCClientBootstrapper": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "PCDesktopClient": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "PCStudioApp": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "PCStudioBootstrapper": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "PlayStationClient": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "UWPApp": "0ed6c591f0253cd8a725d7770f593dded2891d61",
+      "XboxClient": "25f7b01bc7d4438da53448fe2e59a02bb6dc42cf"
+    }
   }
 }
