@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "461a4031c6d065d655765a2f2fa0ac22fadcd7b5",
-    "zintegration": "461a4031c6d065d655765a2f2fa0ac22fadcd7b5"
+    "LIVE": {
+      "AndroidApp": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "iOSApp": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "MacClientBootstrapper": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "MacDesktopClient": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "MacStudioApp": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "MacStudioBootstrapper": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "PCClientBootstrapper": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "PCDesktopClient": "461a4031c6d065d655765a2f2fa0ac22fadcd7b5",
+      "PCStudioApp": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "PCStudioBootstrapper": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "PlayStationClient": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "UWPApp": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "XboxClient": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca"
+    },
+    "zintegration": {
+      "AndroidApp": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "iOSApp": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "MacClientBootstrapper": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "MacDesktopClient": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "MacStudioApp": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "MacStudioBootstrapper": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "PCClientBootstrapper": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "PCDesktopClient": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "PCStudioApp": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "PCStudioBootstrapper": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "PlayStationClient": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "UWPApp": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca",
+      "XboxClient": "78bc5dbdda99bd388e269dae0e5a8fa3842116ca"
+    }
   }
 }
