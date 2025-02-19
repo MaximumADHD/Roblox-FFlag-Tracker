@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "7577a5fc2f765eac1cb9f4094c2378baffb7c999",
-    "zintegration": "7577a5fc2f765eac1cb9f4094c2378baffb7c999"
+    "LIVE": {
+      "AndroidApp": "7577a5fc2f765eac1cb9f4094c2378baffb7c999",
+      "iOSApp": "7577a5fc2f765eac1cb9f4094c2378baffb7c999",
+      "MacClientBootstrapper": "7577a5fc2f765eac1cb9f4094c2378baffb7c999",
+      "MacDesktopClient": "7577a5fc2f765eac1cb9f4094c2378baffb7c999",
+      "MacStudioApp": "7577a5fc2f765eac1cb9f4094c2378baffb7c999",
+      "MacStudioBootstrapper": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "PCClientBootstrapper": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "PCDesktopClient": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "PCStudioApp": "7577a5fc2f765eac1cb9f4094c2378baffb7c999",
+      "PCStudioBootstrapper": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "PlayStationClient": "7577a5fc2f765eac1cb9f4094c2378baffb7c999",
+      "UWPApp": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "XboxClient": "7577a5fc2f765eac1cb9f4094c2378baffb7c999"
+    },
+    "zintegration": {
+      "AndroidApp": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "iOSApp": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "MacClientBootstrapper": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "MacDesktopClient": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "MacStudioApp": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "MacStudioBootstrapper": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "PCClientBootstrapper": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "PCDesktopClient": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "PCStudioApp": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "PCStudioBootstrapper": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "PlayStationClient": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "UWPApp": "59d39ff0dfd4f9195753127b12227ae68f34885b",
+      "XboxClient": "59d39ff0dfd4f9195753127b12227ae68f34885b"
+    }
   }
 }
