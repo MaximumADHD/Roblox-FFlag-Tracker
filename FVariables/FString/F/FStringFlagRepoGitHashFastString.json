@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "2f87b35370fc8d53c31cdd2fa4695e645f36fd27",
-    "zintegration": "2f87b35370fc8d53c31cdd2fa4695e645f36fd27"
+    "LIVE": {
+      "AndroidApp": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "iOSApp": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "MacClientBootstrapper": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "MacDesktopClient": "2f87b35370fc8d53c31cdd2fa4695e645f36fd27",
+      "MacStudioApp": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "MacStudioBootstrapper": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "PCClientBootstrapper": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "PCDesktopClient": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "PCStudioApp": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "PCStudioBootstrapper": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "PlayStationClient": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "UWPApp": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "XboxClient": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3"
+    },
+    "zintegration": {
+      "AndroidApp": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "iOSApp": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "MacClientBootstrapper": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "MacDesktopClient": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "MacStudioApp": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "MacStudioBootstrapper": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "PCClientBootstrapper": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "PCDesktopClient": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "PCStudioApp": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "PCStudioBootstrapper": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "PlayStationClient": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "UWPApp": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3",
+      "XboxClient": "d97f0c371a5b827e0ec3bd08d0a5aa262ebffed3"
+    }
   }
 }
