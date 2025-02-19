@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "c287d1fd730cc4ecb7911f86715c5cd77c8790cf",
-    "zintegration": "c287d1fd730cc4ecb7911f86715c5cd77c8790cf"
+    "LIVE": {
+      "AndroidApp": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "iOSApp": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "MacClientBootstrapper": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "MacDesktopClient": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "MacStudioApp": "c287d1fd730cc4ecb7911f86715c5cd77c8790cf",
+      "MacStudioBootstrapper": "c287d1fd730cc4ecb7911f86715c5cd77c8790cf",
+      "PCClientBootstrapper": "c287d1fd730cc4ecb7911f86715c5cd77c8790cf",
+      "PCDesktopClient": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "PCStudioApp": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "PCStudioBootstrapper": "c287d1fd730cc4ecb7911f86715c5cd77c8790cf",
+      "PlayStationClient": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "UWPApp": "c287d1fd730cc4ecb7911f86715c5cd77c8790cf",
+      "XboxClient": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4"
+    },
+    "zintegration": {
+      "AndroidApp": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "iOSApp": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "MacClientBootstrapper": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "MacDesktopClient": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "MacStudioApp": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "MacStudioBootstrapper": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "PCClientBootstrapper": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "PCDesktopClient": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "PCStudioApp": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "PCStudioBootstrapper": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "PlayStationClient": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "UWPApp": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4",
+      "XboxClient": "b59330fe7a3acb3ea053609d2d5698c2a607c2b4"
+    }
   }
 }
