@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "5f42d685dcae340a179e4b3346752489524eee2a",
-    "zintegration": "5f42d685dcae340a179e4b3346752489524eee2a"
+    "LIVE": {
+      "AndroidApp": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "iOSApp": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "MacClientBootstrapper": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "MacDesktopClient": "587a404043f8a7bf23d630dc24cfae0eac39d30b",
+      "MacStudioApp": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "MacStudioBootstrapper": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "PCClientBootstrapper": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "PCDesktopClient": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "PCStudioApp": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "PCStudioBootstrapper": "587a404043f8a7bf23d630dc24cfae0eac39d30b",
+      "PlayStationClient": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "UWPApp": "587a404043f8a7bf23d630dc24cfae0eac39d30b",
+      "XboxClient": "6f9377997125e2feaa303021b9f06e3c7a7532a3"
+    },
+    "zintegration": {
+      "AndroidApp": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "iOSApp": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "MacClientBootstrapper": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "MacDesktopClient": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "MacStudioApp": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "MacStudioBootstrapper": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "PCClientBootstrapper": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "PCDesktopClient": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "PCStudioApp": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "PCStudioBootstrapper": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "PlayStationClient": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "UWPApp": "6f9377997125e2feaa303021b9f06e3c7a7532a3",
+      "XboxClient": "6f9377997125e2feaa303021b9f06e3c7a7532a3"
+    }
   }
 }
