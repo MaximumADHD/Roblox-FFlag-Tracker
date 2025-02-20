@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "9c9cfae58cc43dce560e12cca34af4b1e26452d9",
-    "zintegration": "9c9cfae58cc43dce560e12cca34af4b1e26452d9"
+    "LIVE": {
+      "AndroidApp": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "iOSApp": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "MacClientBootstrapper": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "MacDesktopClient": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "MacStudioApp": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "MacStudioBootstrapper": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "PCClientBootstrapper": "9c9cfae58cc43dce560e12cca34af4b1e26452d9",
+      "PCDesktopClient": "9c9cfae58cc43dce560e12cca34af4b1e26452d9",
+      "PCStudioApp": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "PCStudioBootstrapper": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "PlayStationClient": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "UWPApp": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "XboxClient": "b4a577fce59e46fb02f7465731562ce4a48ef481"
+    },
+    "zintegration": {
+      "AndroidApp": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "iOSApp": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "MacClientBootstrapper": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "MacDesktopClient": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "MacStudioApp": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "MacStudioBootstrapper": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "PCClientBootstrapper": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "PCDesktopClient": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "PCStudioApp": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "PCStudioBootstrapper": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "PlayStationClient": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "UWPApp": "b4a577fce59e46fb02f7465731562ce4a48ef481",
+      "XboxClient": "b4a577fce59e46fb02f7465731562ce4a48ef481"
+    }
   }
 }
