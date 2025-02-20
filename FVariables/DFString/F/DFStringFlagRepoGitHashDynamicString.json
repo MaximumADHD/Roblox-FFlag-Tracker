@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "ed5881392566bed21886210653134ad44c354893",
-    "zintegration": "ed5881392566bed21886210653134ad44c354893"
+    "LIVE": {
+      "AndroidApp": "5f4b6bd061c043ccb25efa05f885dabd4b044f45",
+      "iOSApp": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "MacClientBootstrapper": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "MacDesktopClient": "5f4b6bd061c043ccb25efa05f885dabd4b044f45",
+      "MacStudioApp": "5f4b6bd061c043ccb25efa05f885dabd4b044f45",
+      "MacStudioBootstrapper": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "PCClientBootstrapper": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "PCDesktopClient": "5f4b6bd061c043ccb25efa05f885dabd4b044f45",
+      "PCStudioApp": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "PCStudioBootstrapper": "5f4b6bd061c043ccb25efa05f885dabd4b044f45",
+      "PlayStationClient": "5f4b6bd061c043ccb25efa05f885dabd4b044f45",
+      "UWPApp": "5f4b6bd061c043ccb25efa05f885dabd4b044f45",
+      "XboxClient": "5f4b6bd061c043ccb25efa05f885dabd4b044f45"
+    },
+    "zintegration": {
+      "AndroidApp": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "iOSApp": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "MacClientBootstrapper": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "MacDesktopClient": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "MacStudioApp": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "MacStudioBootstrapper": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "PCClientBootstrapper": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "PCDesktopClient": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "PCStudioApp": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "PCStudioBootstrapper": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "PlayStationClient": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "UWPApp": "888b9f79b88a66f585e5152a81afd2097f0cc831",
+      "XboxClient": "888b9f79b88a66f585e5152a81afd2097f0cc831"
+    }
   }
 }
