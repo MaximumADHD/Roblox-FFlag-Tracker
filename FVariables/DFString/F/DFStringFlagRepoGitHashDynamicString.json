@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "1de5db0f5fb4fa2b334ff4bbad47ddb471feffcb",
-    "zintegration": "1de5db0f5fb4fa2b334ff4bbad47ddb471feffcb"
+    "LIVE": {
+      "AndroidApp": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "iOSApp": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "MacClientBootstrapper": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "MacDesktopClient": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "MacStudioApp": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "MacStudioBootstrapper": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "PCClientBootstrapper": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "PCDesktopClient": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "PCStudioApp": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "PCStudioBootstrapper": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "PlayStationClient": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "UWPApp": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "XboxClient": "e427d1726c999d7014bb65ee9fa6fc1331d1e819"
+    },
+    "zintegration": {
+      "AndroidApp": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "iOSApp": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "MacClientBootstrapper": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "MacDesktopClient": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "MacStudioApp": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "MacStudioBootstrapper": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "PCClientBootstrapper": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "PCDesktopClient": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "PCStudioApp": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "PCStudioBootstrapper": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "PlayStationClient": "e427d1726c999d7014bb65ee9fa6fc1331d1e819",
+      "UWPApp": "5fcca31702ef7cceabe99d665244776b3efd2e44",
+      "XboxClient": "5fcca31702ef7cceabe99d665244776b3efd2e44"
+    }
   }
 }
