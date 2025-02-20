@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "f6efb48b3a34bd8166410b062f6c0f6d92ebc069",
-    "zintegration": "f6efb48b3a34bd8166410b062f6c0f6d92ebc069"
+    "LIVE": {
+      "AndroidApp": "1923cc29b7d0cd0905e180babb2245e0848c73ae",
+      "iOSApp": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "MacClientBootstrapper": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "MacDesktopClient": "1923cc29b7d0cd0905e180babb2245e0848c73ae",
+      "MacStudioApp": "1923cc29b7d0cd0905e180babb2245e0848c73ae",
+      "MacStudioBootstrapper": "1923cc29b7d0cd0905e180babb2245e0848c73ae",
+      "PCClientBootstrapper": "1923cc29b7d0cd0905e180babb2245e0848c73ae",
+      "PCDesktopClient": "1923cc29b7d0cd0905e180babb2245e0848c73ae",
+      "PCStudioApp": "1923cc29b7d0cd0905e180babb2245e0848c73ae",
+      "PCStudioBootstrapper": "1923cc29b7d0cd0905e180babb2245e0848c73ae",
+      "PlayStationClient": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "UWPApp": "1923cc29b7d0cd0905e180babb2245e0848c73ae",
+      "XboxClient": "1923cc29b7d0cd0905e180babb2245e0848c73ae"
+    },
+    "zintegration": {
+      "AndroidApp": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "iOSApp": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "MacClientBootstrapper": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "MacDesktopClient": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "MacStudioApp": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "MacStudioBootstrapper": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "PCClientBootstrapper": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "PCDesktopClient": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "PCStudioApp": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "PCStudioBootstrapper": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "PlayStationClient": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "UWPApp": "82f94f563fa6bf2601375250f37015e5f6a6096d",
+      "XboxClient": "82f94f563fa6bf2601375250f37015e5f6a6096d"
+    }
   }
 }
