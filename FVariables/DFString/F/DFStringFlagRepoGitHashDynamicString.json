@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "547db0a530e0271292c091c06a4aaaa043514f1e",
-    "zintegration": "547db0a530e0271292c091c06a4aaaa043514f1e"
+    "LIVE": {
+      "AndroidApp": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "iOSApp": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "MacClientBootstrapper": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "MacDesktopClient": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "MacStudioApp": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "MacStudioBootstrapper": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "PCClientBootstrapper": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "PCDesktopClient": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "PCStudioApp": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "PCStudioBootstrapper": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "PlayStationClient": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "UWPApp": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "XboxClient": "547db0a530e0271292c091c06a4aaaa043514f1e"
+    },
+    "zintegration": {
+      "AndroidApp": "b2214441d67a6508ea806ff2b18808c6caddf250",
+      "iOSApp": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "MacClientBootstrapper": "b2214441d67a6508ea806ff2b18808c6caddf250",
+      "MacDesktopClient": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "MacStudioApp": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "MacStudioBootstrapper": "b2214441d67a6508ea806ff2b18808c6caddf250",
+      "PCClientBootstrapper": "b2214441d67a6508ea806ff2b18808c6caddf250",
+      "PCDesktopClient": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "PCStudioApp": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "PCStudioBootstrapper": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "PlayStationClient": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "UWPApp": "547db0a530e0271292c091c06a4aaaa043514f1e",
+      "XboxClient": "547db0a530e0271292c091c06a4aaaa043514f1e"
+    }
   }
 }
