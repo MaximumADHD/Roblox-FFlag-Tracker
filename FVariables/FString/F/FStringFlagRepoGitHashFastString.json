@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "850a84705cc194c4a9a0f7684f3d20b488666c4f",
-    "zintegration": "850a84705cc194c4a9a0f7684f3d20b488666c4f"
+    "LIVE": {
+      "AndroidApp": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "iOSApp": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "MacClientBootstrapper": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "MacDesktopClient": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "MacStudioApp": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "MacStudioBootstrapper": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "PCClientBootstrapper": "850a84705cc194c4a9a0f7684f3d20b488666c4f",
+      "PCDesktopClient": "850a84705cc194c4a9a0f7684f3d20b488666c4f",
+      "PCStudioApp": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "PCStudioBootstrapper": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "PlayStationClient": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "UWPApp": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "XboxClient": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b"
+    },
+    "zintegration": {
+      "AndroidApp": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "iOSApp": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "MacClientBootstrapper": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "MacDesktopClient": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "MacStudioApp": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "MacStudioBootstrapper": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "PCClientBootstrapper": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "PCDesktopClient": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "PCStudioApp": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "PCStudioBootstrapper": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "PlayStationClient": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "UWPApp": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b",
+      "XboxClient": "5e0bcfa18a28778cee2929ed18bd8d78211caa7b"
+    }
   }
 }
