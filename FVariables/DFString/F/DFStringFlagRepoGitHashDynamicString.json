@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "d0d6e66c5b55a6d0e0273275a90527129ea4be8a",
-    "zintegration": "d0d6e66c5b55a6d0e0273275a90527129ea4be8a"
+    "LIVE": {
+      "AndroidApp": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "iOSApp": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "MacClientBootstrapper": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "MacDesktopClient": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "MacStudioApp": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "MacStudioBootstrapper": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "PCClientBootstrapper": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "PCDesktopClient": "93029174dc4dc2313fa8fd3184b9496e09621c6d",
+      "PCStudioApp": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "PCStudioBootstrapper": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "PlayStationClient": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "UWPApp": "93029174dc4dc2313fa8fd3184b9496e09621c6d",
+      "XboxClient": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b"
+    },
+    "zintegration": {
+      "AndroidApp": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "iOSApp": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "MacClientBootstrapper": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "MacDesktopClient": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "MacStudioApp": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "MacStudioBootstrapper": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "PCClientBootstrapper": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "PCDesktopClient": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "PCStudioApp": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "PCStudioBootstrapper": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "PlayStationClient": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "UWPApp": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b",
+      "XboxClient": "166d84c5eb4cf976e2fd56dc7cde7c44c8e3265b"
+    }
   }
 }
