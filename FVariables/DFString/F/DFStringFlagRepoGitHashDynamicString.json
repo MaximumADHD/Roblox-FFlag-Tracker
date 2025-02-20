@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "95dfe37e1ea47bc6aebdfa8c88327d77334c5d65",
-    "zintegration": "95dfe37e1ea47bc6aebdfa8c88327d77334c5d65"
+    "LIVE": {
+      "AndroidApp": "4b1702b744959d9811d3efc5ff5031bbc43275c1",
+      "iOSApp": "4b1702b744959d9811d3efc5ff5031bbc43275c1",
+      "MacClientBootstrapper": "4b1702b744959d9811d3efc5ff5031bbc43275c1",
+      "MacDesktopClient": "4b1702b744959d9811d3efc5ff5031bbc43275c1",
+      "MacStudioApp": "4b1702b744959d9811d3efc5ff5031bbc43275c1",
+      "MacStudioBootstrapper": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "PCClientBootstrapper": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "PCDesktopClient": "4b1702b744959d9811d3efc5ff5031bbc43275c1",
+      "PCStudioApp": "4b1702b744959d9811d3efc5ff5031bbc43275c1",
+      "PCStudioBootstrapper": "4b1702b744959d9811d3efc5ff5031bbc43275c1",
+      "PlayStationClient": "4b1702b744959d9811d3efc5ff5031bbc43275c1",
+      "UWPApp": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "XboxClient": "4b1702b744959d9811d3efc5ff5031bbc43275c1"
+    },
+    "zintegration": {
+      "AndroidApp": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "iOSApp": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "MacClientBootstrapper": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "MacDesktopClient": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "MacStudioApp": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "MacStudioBootstrapper": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "PCClientBootstrapper": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "PCDesktopClient": "4b1702b744959d9811d3efc5ff5031bbc43275c1",
+      "PCStudioApp": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "PCStudioBootstrapper": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "PlayStationClient": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "UWPApp": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9",
+      "XboxClient": "37edbbe66d0208ea84b30e7b212bbbd609a1f7a9"
+    }
   }
 }
