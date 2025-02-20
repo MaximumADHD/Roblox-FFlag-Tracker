@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "0a808b443dbf7470c72ffeebc4277ac71c9f4b29",
-    "zintegration": "0a808b443dbf7470c72ffeebc4277ac71c9f4b29"
+    "LIVE": {
+      "AndroidApp": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "iOSApp": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "MacClientBootstrapper": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "MacDesktopClient": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "MacStudioApp": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "MacStudioBootstrapper": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "PCClientBootstrapper": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "PCDesktopClient": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "PCStudioApp": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "PCStudioBootstrapper": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "PlayStationClient": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "UWPApp": "0a808b443dbf7470c72ffeebc4277ac71c9f4b29",
+      "XboxClient": "940bacb36eaea01eb09544b5c7371498a5f45eb3"
+    },
+    "zintegration": {
+      "AndroidApp": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "iOSApp": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "MacClientBootstrapper": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "MacDesktopClient": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "MacStudioApp": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "MacStudioBootstrapper": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "PCClientBootstrapper": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "PCDesktopClient": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "PCStudioApp": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "PCStudioBootstrapper": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "PlayStationClient": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "UWPApp": "940bacb36eaea01eb09544b5c7371498a5f45eb3",
+      "XboxClient": "940bacb36eaea01eb09544b5c7371498a5f45eb3"
+    }
   }
 }
