@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "22670ca2d3b26f2fa1d2152a2c0499a7a65f2ed2",
-    "zintegration": "22670ca2d3b26f2fa1d2152a2c0499a7a65f2ed2"
+    "LIVE": {
+      "AndroidApp": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "iOSApp": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "MacClientBootstrapper": "20cf41e4f77fbb642c36e2c003d56e3610f6abb9",
+      "MacDesktopClient": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "MacStudioApp": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "MacStudioBootstrapper": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "PCClientBootstrapper": "20cf41e4f77fbb642c36e2c003d56e3610f6abb9",
+      "PCDesktopClient": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "PCStudioApp": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "PCStudioBootstrapper": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "PlayStationClient": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "UWPApp": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "XboxClient": "6cc4c43b1a3755b6b953155d834271d7baa382e6"
+    },
+    "zintegration": {
+      "AndroidApp": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "iOSApp": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "MacClientBootstrapper": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "MacDesktopClient": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "MacStudioApp": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "MacStudioBootstrapper": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "PCClientBootstrapper": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "PCDesktopClient": "20cf41e4f77fbb642c36e2c003d56e3610f6abb9",
+      "PCStudioApp": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "PCStudioBootstrapper": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "PlayStationClient": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "UWPApp": "6cc4c43b1a3755b6b953155d834271d7baa382e6",
+      "XboxClient": "6cc4c43b1a3755b6b953155d834271d7baa382e6"
+    }
   }
 }
