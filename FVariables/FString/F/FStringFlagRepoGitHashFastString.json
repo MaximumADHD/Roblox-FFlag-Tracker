@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "685e759962199579212a97187727fbb07034ba16",
-    "zintegration": "685e759962199579212a97187727fbb07034ba16"
+    "LIVE": {
+      "AndroidApp": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "iOSApp": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "MacClientBootstrapper": "23ac335511d6fd2f418b7a8fa62e53098da02592",
+      "MacDesktopClient": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "MacStudioApp": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "MacStudioBootstrapper": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "PCClientBootstrapper": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "PCDesktopClient": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "PCStudioApp": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "PCStudioBootstrapper": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "PlayStationClient": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "UWPApp": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "XboxClient": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0"
+    },
+    "zintegration": {
+      "AndroidApp": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "iOSApp": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "MacClientBootstrapper": "23ac335511d6fd2f418b7a8fa62e53098da02592",
+      "MacDesktopClient": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "MacStudioApp": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "MacStudioBootstrapper": "23ac335511d6fd2f418b7a8fa62e53098da02592",
+      "PCClientBootstrapper": "23ac335511d6fd2f418b7a8fa62e53098da02592",
+      "PCDesktopClient": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "PCStudioApp": "23ac335511d6fd2f418b7a8fa62e53098da02592",
+      "PCStudioBootstrapper": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "PlayStationClient": "23ac335511d6fd2f418b7a8fa62e53098da02592",
+      "UWPApp": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0",
+      "XboxClient": "e4cee8e603665f4b3ea0c30c055aeabc67f916f0"
+    }
   }
 }
