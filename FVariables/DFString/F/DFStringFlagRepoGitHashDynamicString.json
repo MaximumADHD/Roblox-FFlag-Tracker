@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "332459a877fde0b0360a27d18058351fbbb38c74",
-    "zintegration": "332459a877fde0b0360a27d18058351fbbb38c74"
+    "LIVE": {
+      "AndroidApp": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "iOSApp": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "MacClientBootstrapper": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "MacDesktopClient": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "MacStudioApp": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "MacStudioBootstrapper": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "PCClientBootstrapper": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "PCDesktopClient": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "PCStudioApp": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "PCStudioBootstrapper": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "PlayStationClient": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "UWPApp": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "XboxClient": "332459a877fde0b0360a27d18058351fbbb38c74"
+    },
+    "zintegration": {
+      "AndroidApp": "7001921bd68690d938e2dcf5e3e7ac82b9972a65",
+      "iOSApp": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "MacClientBootstrapper": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "MacDesktopClient": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "MacStudioApp": "7001921bd68690d938e2dcf5e3e7ac82b9972a65",
+      "MacStudioBootstrapper": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "PCClientBootstrapper": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "PCDesktopClient": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "PCStudioApp": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "PCStudioBootstrapper": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "PlayStationClient": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "UWPApp": "332459a877fde0b0360a27d18058351fbbb38c74",
+      "XboxClient": "7001921bd68690d938e2dcf5e3e7ac82b9972a65"
+    }
   }
 }
