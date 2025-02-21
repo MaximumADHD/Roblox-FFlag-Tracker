@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
-    "zintegration": "3e2790438bb58ccba379ef3909c2ad027c6a7125"
+    "LIVE": {
+      "AndroidApp": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
+      "iOSApp": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
+      "MacClientBootstrapper": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
+      "MacDesktopClient": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
+      "MacStudioApp": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
+      "MacStudioBootstrapper": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "PCClientBootstrapper": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
+      "PCDesktopClient": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
+      "PCStudioApp": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
+      "PCStudioBootstrapper": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
+      "PlayStationClient": "3e2790438bb58ccba379ef3909c2ad027c6a7125",
+      "UWPApp": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "XboxClient": "3e2790438bb58ccba379ef3909c2ad027c6a7125"
+    },
+    "zintegration": {
+      "AndroidApp": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "iOSApp": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "MacClientBootstrapper": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "MacDesktopClient": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "MacStudioApp": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "MacStudioBootstrapper": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "PCClientBootstrapper": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "PCDesktopClient": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "PCStudioApp": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "PCStudioBootstrapper": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "PlayStationClient": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "UWPApp": "08257cb38f0ac6181cfb7cfba84b1d839276695f",
+      "XboxClient": "08257cb38f0ac6181cfb7cfba84b1d839276695f"
+    }
   }
 }
