@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "42c8c46bf39a3d021b57421d85f1625483cdfa80",
-    "zintegration": "42c8c46bf39a3d021b57421d85f1625483cdfa80"
+    "LIVE": {
+      "AndroidApp": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "iOSApp": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "MacClientBootstrapper": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "MacDesktopClient": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "MacStudioApp": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "MacStudioBootstrapper": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "PCClientBootstrapper": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "PCDesktopClient": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "PCStudioApp": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "PCStudioBootstrapper": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "PlayStationClient": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "UWPApp": "40914ddbf4de8a289b722c25f2887510aa9fb5d2",
+      "XboxClient": "0506ed45ae11f44a13536b218b1534e22bf6bb6b"
+    },
+    "zintegration": {
+      "AndroidApp": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "iOSApp": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "MacClientBootstrapper": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "MacDesktopClient": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "MacStudioApp": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "MacStudioBootstrapper": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "PCClientBootstrapper": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "PCDesktopClient": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "PCStudioApp": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "PCStudioBootstrapper": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "PlayStationClient": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "UWPApp": "0506ed45ae11f44a13536b218b1534e22bf6bb6b",
+      "XboxClient": "0506ed45ae11f44a13536b218b1534e22bf6bb6b"
+    }
   }
 }
