@@ -159,6 +159,7 @@
   "EnableUseRoomDBForLoggingExperiment": true,
   "EnableZstdClientSettingsSharedCompressionDictionary2": "true",
   "EventStreamBatchSize": 10,
+  "EventUploadEnableRetryAttemptCount": true,
   "EventUploadHandleDiskFull": true,
   "EventUploadHonorSendAllNow": true,
   "ExposeAppSuspended": "true",
