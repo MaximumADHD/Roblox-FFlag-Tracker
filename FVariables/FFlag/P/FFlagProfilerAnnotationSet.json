@@ -1,7 +1,14 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": false,
-    "zintegration": false
+    "LIVE": {
+      "AndroidApp": false,
+      "PCDesktopClient": true
+    },
+    "zintegration": {
+      "AndroidApp": false,
+      "iOSApp": true,
+      "PCDesktopClient": true
+    }
   }
 }
