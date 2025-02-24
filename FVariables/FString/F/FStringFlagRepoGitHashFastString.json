@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "d0e1f442df341bdfe35275d87b208df4bf1a460e",
-    "zintegration": "d0e1f442df341bdfe35275d87b208df4bf1a460e"
+    "LIVE": {
+      "AndroidApp": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "iOSApp": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "MacClientBootstrapper": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "MacDesktopClient": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "MacStudioApp": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "MacStudioBootstrapper": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "PCClientBootstrapper": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "PCDesktopClient": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "PCStudioApp": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "PCStudioBootstrapper": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "PlayStationClient": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "UWPApp": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "XboxClient": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4"
+    },
+    "zintegration": {
+      "AndroidApp": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "iOSApp": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "MacClientBootstrapper": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "MacDesktopClient": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "MacStudioApp": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "MacStudioBootstrapper": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "PCClientBootstrapper": "12ad5913cb715b32841154b34f7542362ba17369",
+      "PCDesktopClient": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "PCStudioApp": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "PCStudioBootstrapper": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "PlayStationClient": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "UWPApp": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4",
+      "XboxClient": "bf48e8281305b8f2eb526ff9c51e8f06342ce0f4"
+    }
   }
 }
