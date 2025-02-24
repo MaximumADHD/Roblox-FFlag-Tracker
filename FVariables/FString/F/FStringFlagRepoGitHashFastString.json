@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "c761fbbc86afe0062180764d55c3e458ebd934de",
-    "zintegration": "c761fbbc86afe0062180764d55c3e458ebd934de"
+    "LIVE": {
+      "AndroidApp": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "iOSApp": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "MacClientBootstrapper": "51078bcc9df9a0ac689609929855d72a43d523de",
+      "MacDesktopClient": "51078bcc9df9a0ac689609929855d72a43d523de",
+      "MacStudioApp": "51078bcc9df9a0ac689609929855d72a43d523de",
+      "MacStudioBootstrapper": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "PCClientBootstrapper": "51078bcc9df9a0ac689609929855d72a43d523de",
+      "PCDesktopClient": "51078bcc9df9a0ac689609929855d72a43d523de",
+      "PCStudioApp": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "PCStudioBootstrapper": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "PlayStationClient": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "UWPApp": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "XboxClient": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9"
+    },
+    "zintegration": {
+      "AndroidApp": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "iOSApp": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "MacClientBootstrapper": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "MacDesktopClient": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "MacStudioApp": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "MacStudioBootstrapper": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "PCClientBootstrapper": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "PCDesktopClient": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "PCStudioApp": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "PCStudioBootstrapper": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "PlayStationClient": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "UWPApp": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9",
+      "XboxClient": "4b91ce1c9dfb6b020016bd62acc00f8152a279f9"
+    }
   }
 }
