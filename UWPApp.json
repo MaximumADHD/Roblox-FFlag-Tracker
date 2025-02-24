@@ -1,6 +1,7 @@
 {
   "DFFlagFlagRolloutTestDynamicBool3": true,
   "DFFlagPauseSurfaceControllerBeforeSwappingDataModel2": true,
+  "DFIntSQLiteCacheEvictBatchSize_Staged": "500;SteadyState;10;30;Rollout;100;30;Promote;2025-02-24T23:18:03",
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagEnableSSABootstrapStandardization": true,

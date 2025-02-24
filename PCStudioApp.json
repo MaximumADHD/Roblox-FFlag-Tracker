@@ -55,6 +55,7 @@
   "DFIntMultiPartUploadMaxChunkSizeByte": 7340032,
   "DFIntOAuth2AuthorizeHttpRequestReportingHundredthsPercent": 10000,
   "DFIntOnDemandAdsProviderHttpDebounceTimeMs": 60000,
+  "DFIntOnDemandAdsProviderHttpDebounceTimeMs_Staged": "15000;SteadyState;10;30;Rollout;100;30;Promote;2025-02-24T23:17:43",
   "DFIntPacakgeServiceReportFailedRequestsRate": 10000,
   "DFIntPropertyUsageEventThrottleHundredthsPercent": 500,
   "DFIntReportCloudEditJoinFailureReportPerMyriad": 10000,

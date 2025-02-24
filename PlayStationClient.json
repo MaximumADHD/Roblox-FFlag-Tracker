@@ -18,6 +18,7 @@
   "DFIntMemoryLogFreqSec": 0,
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,
   "DFIntReportCacheDirSizesHundredthsPercent": 100,
+  "DFIntSQLiteCacheEvictBatchSize_Staged": "500;SteadyState;10;30;Rollout;100;30;Promote;2025-02-24T23:18:03",
   "DFLogHttpCache": 6,
   "DFLogMemoryStats": 6,
   "FFlagAddCursorProviderToPurchasePromptAppV2": true,
