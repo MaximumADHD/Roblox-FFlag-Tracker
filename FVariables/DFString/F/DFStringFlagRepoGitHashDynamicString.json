@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "783e6ac4d5ffa64e0263752a4e09eb3c767f6e99",
-    "zintegration": "783e6ac4d5ffa64e0263752a4e09eb3c767f6e99"
+    "LIVE": {
+      "AndroidApp": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "iOSApp": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "MacClientBootstrapper": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "MacDesktopClient": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "MacStudioApp": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "MacStudioBootstrapper": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "PCClientBootstrapper": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "PCDesktopClient": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "PCStudioApp": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "PCStudioBootstrapper": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "PlayStationClient": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "UWPApp": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "XboxClient": "b93997e2807aa241cebe1047272ba50a2990fd5f"
+    },
+    "zintegration": {
+      "AndroidApp": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "iOSApp": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "MacClientBootstrapper": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "MacDesktopClient": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "MacStudioApp": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "MacStudioBootstrapper": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "PCClientBootstrapper": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "PCDesktopClient": "b93997e2807aa241cebe1047272ba50a2990fd5f",
+      "PCStudioApp": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "PCStudioBootstrapper": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "PlayStationClient": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "UWPApp": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb",
+      "XboxClient": "7b5ca7dfb2d34e20b01466b1ae1e274df0f668cb"
+    }
   }
 }
