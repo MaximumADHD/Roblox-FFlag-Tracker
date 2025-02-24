@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "0439277456a60cc69a7188fa3bc5338f20185062",
-    "zintegration": "0439277456a60cc69a7188fa3bc5338f20185062"
+    "LIVE": {
+      "AndroidApp": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "iOSApp": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "MacClientBootstrapper": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "MacDesktopClient": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "MacStudioApp": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "MacStudioBootstrapper": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "PCClientBootstrapper": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "PCDesktopClient": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "PCStudioApp": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "PCStudioBootstrapper": "0439277456a60cc69a7188fa3bc5338f20185062",
+      "PlayStationClient": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "UWPApp": "0439277456a60cc69a7188fa3bc5338f20185062",
+      "XboxClient": "6acf3a18526cc468b62afaac750f0f999cd56441"
+    },
+    "zintegration": {
+      "AndroidApp": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "iOSApp": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "MacClientBootstrapper": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "MacDesktopClient": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "MacStudioApp": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "MacStudioBootstrapper": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "PCClientBootstrapper": "d5923abcffb0113bee4b4a07204a8f5d55ba3e7c",
+      "PCDesktopClient": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "PCStudioApp": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "PCStudioBootstrapper": "d5923abcffb0113bee4b4a07204a8f5d55ba3e7c",
+      "PlayStationClient": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "UWPApp": "6acf3a18526cc468b62afaac750f0f999cd56441",
+      "XboxClient": "6acf3a18526cc468b62afaac750f0f999cd56441"
+    }
   }
 }
