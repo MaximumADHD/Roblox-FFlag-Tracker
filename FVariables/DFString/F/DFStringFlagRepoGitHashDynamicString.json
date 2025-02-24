@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "70e010ae2307dadb2650e93f35a3e78d93f440e2",
-    "zintegration": "70e010ae2307dadb2650e93f35a3e78d93f440e2"
+    "LIVE": {
+      "AndroidApp": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "iOSApp": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "MacClientBootstrapper": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "MacDesktopClient": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "MacStudioApp": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "MacStudioBootstrapper": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "PCClientBootstrapper": "9ddb6bf5ca69f623d03b427b159907781c141067",
+      "PCDesktopClient": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "PCStudioApp": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "PCStudioBootstrapper": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "PlayStationClient": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "UWPApp": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "XboxClient": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3"
+    },
+    "zintegration": {
+      "AndroidApp": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "iOSApp": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "MacClientBootstrapper": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "MacDesktopClient": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "MacStudioApp": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "MacStudioBootstrapper": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "PCClientBootstrapper": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "PCDesktopClient": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "PCStudioApp": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "PCStudioBootstrapper": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "PlayStationClient": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "UWPApp": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3",
+      "XboxClient": "32065d0fa09bdc10a50b09abfb361e7cf9cb55d3"
+    }
   }
 }
