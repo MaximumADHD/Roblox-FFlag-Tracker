@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "34b654c13b5cf888a6bd367111dc03c261429104",
-    "zintegration": "34b654c13b5cf888a6bd367111dc03c261429104"
+    "LIVE": {
+      "AndroidApp": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "iOSApp": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "MacClientBootstrapper": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "MacDesktopClient": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "MacStudioApp": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "MacStudioBootstrapper": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "PCClientBootstrapper": "34b654c13b5cf888a6bd367111dc03c261429104",
+      "PCDesktopClient": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "PCStudioApp": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "PCStudioBootstrapper": "34b654c13b5cf888a6bd367111dc03c261429104",
+      "PlayStationClient": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "UWPApp": "34b654c13b5cf888a6bd367111dc03c261429104",
+      "XboxClient": "cc75007825172b7cc6109a445a6b8ec3d49cc690"
+    },
+    "zintegration": {
+      "AndroidApp": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "iOSApp": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "MacClientBootstrapper": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "MacDesktopClient": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "MacStudioApp": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "MacStudioBootstrapper": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "PCClientBootstrapper": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "PCDesktopClient": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "PCStudioApp": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "PCStudioBootstrapper": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "PlayStationClient": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "UWPApp": "cc75007825172b7cc6109a445a6b8ec3d49cc690",
+      "XboxClient": "cc75007825172b7cc6109a445a6b8ec3d49cc690"
+    }
   }
 }
