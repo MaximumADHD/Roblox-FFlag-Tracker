@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "fe5d4ca91376e5a2d6a06b74cbb960cb2447150a",
-    "zintegration": "fe5d4ca91376e5a2d6a06b74cbb960cb2447150a"
+    "LIVE": {
+      "AndroidApp": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "iOSApp": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "MacClientBootstrapper": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "MacDesktopClient": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "MacStudioApp": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "MacStudioBootstrapper": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "PCClientBootstrapper": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "PCDesktopClient": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "PCStudioApp": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "PCStudioBootstrapper": "fe5d4ca91376e5a2d6a06b74cbb960cb2447150a",
+      "PlayStationClient": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "UWPApp": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "XboxClient": "21495844d6729af3612b3793fdc134b8b51fe232"
+    },
+    "zintegration": {
+      "AndroidApp": "1e989be5a2a188963918dee80b5c8a3969aa07a2",
+      "iOSApp": "1e989be5a2a188963918dee80b5c8a3969aa07a2",
+      "MacClientBootstrapper": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "MacDesktopClient": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "MacStudioApp": "1e989be5a2a188963918dee80b5c8a3969aa07a2",
+      "MacStudioBootstrapper": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "PCClientBootstrapper": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "PCDesktopClient": "1e989be5a2a188963918dee80b5c8a3969aa07a2",
+      "PCStudioApp": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "PCStudioBootstrapper": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "PlayStationClient": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "UWPApp": "21495844d6729af3612b3793fdc134b8b51fe232",
+      "XboxClient": "1e989be5a2a188963918dee80b5c8a3969aa07a2"
+    }
   }
 }
