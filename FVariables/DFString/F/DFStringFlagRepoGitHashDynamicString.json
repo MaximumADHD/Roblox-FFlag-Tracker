@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "84c09bb3261161223d73690cbcb913c4defe069b",
-    "zintegration": "84c09bb3261161223d73690cbcb913c4defe069b"
+    "LIVE": {
+      "AndroidApp": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "iOSApp": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "MacClientBootstrapper": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "MacDesktopClient": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "MacStudioApp": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "MacStudioBootstrapper": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "PCClientBootstrapper": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "PCDesktopClient": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "PCStudioApp": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "PCStudioBootstrapper": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "PlayStationClient": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "UWPApp": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "XboxClient": "84c09bb3261161223d73690cbcb913c4defe069b"
+    },
+    "zintegration": {
+      "AndroidApp": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "iOSApp": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "MacClientBootstrapper": "4d0713f5c78481e8f502fbeebf8ac74d12bcf104",
+      "MacDesktopClient": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "MacStudioApp": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "MacStudioBootstrapper": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "PCClientBootstrapper": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "PCDesktopClient": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "PCStudioApp": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "PCStudioBootstrapper": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "PlayStationClient": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "UWPApp": "84c09bb3261161223d73690cbcb913c4defe069b",
+      "XboxClient": "84c09bb3261161223d73690cbcb913c4defe069b"
+    }
   }
 }
