@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "4d0713f5c78481e8f502fbeebf8ac74d12bcf104",
-    "zintegration": "4d0713f5c78481e8f502fbeebf8ac74d12bcf104"
+    "LIVE": {
+      "AndroidApp": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "iOSApp": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "MacClientBootstrapper": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "MacDesktopClient": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "MacStudioApp": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "MacStudioBootstrapper": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "PCClientBootstrapper": "7ba2b4b6f08c049c9ca6da03541fc53850ee658c",
+      "PCDesktopClient": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "PCStudioApp": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "PCStudioBootstrapper": "7ba2b4b6f08c049c9ca6da03541fc53850ee658c",
+      "PlayStationClient": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "UWPApp": "7ba2b4b6f08c049c9ca6da03541fc53850ee658c",
+      "XboxClient": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7"
+    },
+    "zintegration": {
+      "AndroidApp": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "iOSApp": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "MacClientBootstrapper": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "MacDesktopClient": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "MacStudioApp": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "MacStudioBootstrapper": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "PCClientBootstrapper": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "PCDesktopClient": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "PCStudioApp": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "PCStudioBootstrapper": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "PlayStationClient": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "UWPApp": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "XboxClient": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7"
+    }
   }
 }
