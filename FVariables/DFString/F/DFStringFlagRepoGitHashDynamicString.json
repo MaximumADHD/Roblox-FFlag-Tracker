@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "fc0bf2041843393c736115901152627dc26fa1c1",
-    "zintegration": "fc0bf2041843393c736115901152627dc26fa1c1"
+    "LIVE": {
+      "AndroidApp": "fc0bf2041843393c736115901152627dc26fa1c1",
+      "iOSApp": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "MacClientBootstrapper": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "MacDesktopClient": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "MacStudioApp": "fc0bf2041843393c736115901152627dc26fa1c1",
+      "MacStudioBootstrapper": "fc0bf2041843393c736115901152627dc26fa1c1",
+      "PCClientBootstrapper": "fc0bf2041843393c736115901152627dc26fa1c1",
+      "PCDesktopClient": "fc0bf2041843393c736115901152627dc26fa1c1",
+      "PCStudioApp": "fc0bf2041843393c736115901152627dc26fa1c1",
+      "PCStudioBootstrapper": "fc0bf2041843393c736115901152627dc26fa1c1",
+      "PlayStationClient": "fc0bf2041843393c736115901152627dc26fa1c1",
+      "UWPApp": "fc0bf2041843393c736115901152627dc26fa1c1",
+      "XboxClient": "fc0bf2041843393c736115901152627dc26fa1c1"
+    },
+    "zintegration": {
+      "AndroidApp": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "iOSApp": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "MacClientBootstrapper": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "MacDesktopClient": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "MacStudioApp": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "MacStudioBootstrapper": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "PCClientBootstrapper": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "PCDesktopClient": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "PCStudioApp": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "PCStudioBootstrapper": "fc0bf2041843393c736115901152627dc26fa1c1",
+      "PlayStationClient": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "UWPApp": "71889699139973ecf77af6145f5ae9cfc5bf4273",
+      "XboxClient": "71889699139973ecf77af6145f5ae9cfc5bf4273"
+    }
   }
 }
