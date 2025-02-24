@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "d5923abcffb0113bee4b4a07204a8f5d55ba3e7c",
-    "zintegration": "d5923abcffb0113bee4b4a07204a8f5d55ba3e7c"
+    "LIVE": {
+      "AndroidApp": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "iOSApp": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "MacClientBootstrapper": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "MacDesktopClient": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "MacStudioApp": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "MacStudioBootstrapper": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "PCClientBootstrapper": "3994963627de512ab1363789f55360ca20bb9267",
+      "PCDesktopClient": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "PCStudioApp": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "PCStudioBootstrapper": "3994963627de512ab1363789f55360ca20bb9267",
+      "PlayStationClient": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "UWPApp": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "XboxClient": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c"
+    },
+    "zintegration": {
+      "AndroidApp": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "iOSApp": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "MacClientBootstrapper": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "MacDesktopClient": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "MacStudioApp": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "MacStudioBootstrapper": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "PCClientBootstrapper": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "PCDesktopClient": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "PCStudioApp": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "PCStudioBootstrapper": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "PlayStationClient": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "UWPApp": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c",
+      "XboxClient": "b9c82aa30425f79ae42020e9d5cf03ef5cd8c80c"
+    }
   }
 }
