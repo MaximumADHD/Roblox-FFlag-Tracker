@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
-    "zintegration": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7"
+    "LIVE": {
+      "AndroidApp": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "iOSApp": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "MacClientBootstrapper": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "MacDesktopClient": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "MacStudioApp": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "MacStudioBootstrapper": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "PCClientBootstrapper": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "PCDesktopClient": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "PCStudioApp": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "PCStudioBootstrapper": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "PlayStationClient": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "UWPApp": "68fd48000a74ee9daf28e8fff4aca530e4cb12c7",
+      "XboxClient": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2"
+    },
+    "zintegration": {
+      "AndroidApp": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "iOSApp": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "MacClientBootstrapper": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "MacDesktopClient": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "MacStudioApp": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "MacStudioBootstrapper": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "PCClientBootstrapper": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "PCDesktopClient": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "PCStudioApp": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "PCStudioBootstrapper": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "PlayStationClient": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "UWPApp": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2",
+      "XboxClient": "2ef80f8a78cc5d9e2282044b59765f1dccd1a8b2"
+    }
   }
 }
