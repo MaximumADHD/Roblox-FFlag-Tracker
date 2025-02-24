@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "262d026251a890917b7b8f09ba5a85d4f9b62679",
-    "zintegration": "262d026251a890917b7b8f09ba5a85d4f9b62679"
+    "LIVE": {
+      "AndroidApp": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "iOSApp": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "MacClientBootstrapper": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "MacDesktopClient": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "MacStudioApp": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "MacStudioBootstrapper": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "PCClientBootstrapper": "262d026251a890917b7b8f09ba5a85d4f9b62679",
+      "PCDesktopClient": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "PCStudioApp": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "PCStudioBootstrapper": "262d026251a890917b7b8f09ba5a85d4f9b62679",
+      "PlayStationClient": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "UWPApp": "262d026251a890917b7b8f09ba5a85d4f9b62679",
+      "XboxClient": "3d735f46678d8b5769265f996a3f7b0bae722aaf"
+    },
+    "zintegration": {
+      "AndroidApp": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "iOSApp": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "MacClientBootstrapper": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "MacDesktopClient": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "MacStudioApp": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "MacStudioBootstrapper": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "PCClientBootstrapper": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "PCDesktopClient": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "PCStudioApp": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "PCStudioBootstrapper": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "PlayStationClient": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "UWPApp": "3d735f46678d8b5769265f996a3f7b0bae722aaf",
+      "XboxClient": "3d735f46678d8b5769265f996a3f7b0bae722aaf"
+    }
   }
 }
