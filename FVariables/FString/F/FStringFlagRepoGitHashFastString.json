@@ -1,35 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "12ad5913cb715b32841154b34f7542362ba17369",
-      "iOSApp": "12ad5913cb715b32841154b34f7542362ba17369",
-      "MacClientBootstrapper": "12ad5913cb715b32841154b34f7542362ba17369",
-      "MacDesktopClient": "12ad5913cb715b32841154b34f7542362ba17369",
-      "MacStudioApp": "12ad5913cb715b32841154b34f7542362ba17369",
-      "MacStudioBootstrapper": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "PCClientBootstrapper": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "PCDesktopClient": "12ad5913cb715b32841154b34f7542362ba17369",
-      "PCStudioApp": "12ad5913cb715b32841154b34f7542362ba17369",
-      "PCStudioBootstrapper": "12ad5913cb715b32841154b34f7542362ba17369",
-      "PlayStationClient": "12ad5913cb715b32841154b34f7542362ba17369",
-      "UWPApp": "12ad5913cb715b32841154b34f7542362ba17369",
-      "XboxClient": "12ad5913cb715b32841154b34f7542362ba17369"
-    },
-    "zintegration": {
-      "AndroidApp": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "iOSApp": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "MacClientBootstrapper": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "MacDesktopClient": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "MacStudioApp": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "MacStudioBootstrapper": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "PCClientBootstrapper": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "PCDesktopClient": "12ad5913cb715b32841154b34f7542362ba17369",
-      "PCStudioApp": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "PCStudioBootstrapper": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "PlayStationClient": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "UWPApp": "f49b39f69e6b84db6082dd37618026aa5a64408d",
-      "XboxClient": "f49b39f69e6b84db6082dd37618026aa5a64408d"
-    }
+    "LIVE": "f49b39f69e6b84db6082dd37618026aa5a64408d",
+    "zintegration": "f49b39f69e6b84db6082dd37618026aa5a64408d"
   }
 }
