@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d",
-    "zintegration": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d"
+    "LIVE": {
+      "AndroidApp": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d",
+      "iOSApp": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d",
+      "MacClientBootstrapper": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "MacDesktopClient": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d",
+      "MacStudioApp": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d",
+      "MacStudioBootstrapper": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "PCClientBootstrapper": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "PCDesktopClient": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d",
+      "PCStudioApp": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d",
+      "PCStudioBootstrapper": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "PlayStationClient": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d",
+      "UWPApp": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d",
+      "XboxClient": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d"
+    },
+    "zintegration": {
+      "AndroidApp": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "iOSApp": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "MacClientBootstrapper": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "MacDesktopClient": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "MacStudioApp": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "MacStudioBootstrapper": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "PCClientBootstrapper": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "PCDesktopClient": "a217cffe81a845ba5a8317a1a2f3970a6c1a916d",
+      "PCStudioApp": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "PCStudioBootstrapper": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "PlayStationClient": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "UWPApp": "71b3b1fbb4220469130ab84d9f596d941dd2b335",
+      "XboxClient": "71b3b1fbb4220469130ab84d9f596d941dd2b335"
+    }
   }
 }
