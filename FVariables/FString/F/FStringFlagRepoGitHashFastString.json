@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "8b115f567140d604fb6dc34526b2162a484788ae",
-    "zintegration": "8b115f567140d604fb6dc34526b2162a484788ae"
+    "LIVE": {
+      "AndroidApp": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "iOSApp": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "MacClientBootstrapper": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "MacDesktopClient": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "MacStudioApp": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "MacStudioBootstrapper": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "PCClientBootstrapper": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "PCDesktopClient": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "PCStudioApp": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "PCStudioBootstrapper": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "PlayStationClient": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "UWPApp": "8b115f567140d604fb6dc34526b2162a484788ae",
+      "XboxClient": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c"
+    },
+    "zintegration": {
+      "AndroidApp": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "iOSApp": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "MacClientBootstrapper": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "MacDesktopClient": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "MacStudioApp": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "MacStudioBootstrapper": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "PCClientBootstrapper": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "PCDesktopClient": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "PCStudioApp": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "PCStudioBootstrapper": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "PlayStationClient": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "UWPApp": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c",
+      "XboxClient": "8bee2b0cc13a99e70f33e4c32ee7467f60e1b67c"
+    }
   }
 }
