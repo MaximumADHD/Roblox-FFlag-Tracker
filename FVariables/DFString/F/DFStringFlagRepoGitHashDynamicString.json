@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "b3d777c027796200feaf5306e5a87368ecad81a3",
-    "zintegration": "b3d777c027796200feaf5306e5a87368ecad81a3"
+    "LIVE": {
+      "AndroidApp": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "iOSApp": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "MacClientBootstrapper": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "MacDesktopClient": "59e60ba2f0d38049700c55070772c2fc82e38d0a",
+      "MacStudioApp": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "MacStudioBootstrapper": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "PCClientBootstrapper": "59e60ba2f0d38049700c55070772c2fc82e38d0a",
+      "PCDesktopClient": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "PCStudioApp": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "PCStudioBootstrapper": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "PlayStationClient": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "UWPApp": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "XboxClient": "2040d3955e37259c5c0888ac2ac4d0b3318e2115"
+    },
+    "zintegration": {
+      "AndroidApp": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "iOSApp": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "MacClientBootstrapper": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "MacDesktopClient": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "MacStudioApp": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "MacStudioBootstrapper": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "PCClientBootstrapper": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "PCDesktopClient": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "PCStudioApp": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "PCStudioBootstrapper": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "PlayStationClient": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "UWPApp": "2040d3955e37259c5c0888ac2ac4d0b3318e2115",
+      "XboxClient": "2040d3955e37259c5c0888ac2ac4d0b3318e2115"
+    }
   }
 }
