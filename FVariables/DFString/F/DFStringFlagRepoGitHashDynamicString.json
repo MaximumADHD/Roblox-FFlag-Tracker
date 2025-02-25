@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "2f45dcca926e2fb1170613c8ad40692feebe772d",
-    "zintegration": "2f45dcca926e2fb1170613c8ad40692feebe772d"
+    "LIVE": {
+      "AndroidApp": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "iOSApp": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "MacClientBootstrapper": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "MacDesktopClient": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "MacStudioApp": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "MacStudioBootstrapper": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "PCClientBootstrapper": "2f45dcca926e2fb1170613c8ad40692feebe772d",
+      "PCDesktopClient": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "PCStudioApp": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "PCStudioBootstrapper": "2f45dcca926e2fb1170613c8ad40692feebe772d",
+      "PlayStationClient": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "UWPApp": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "XboxClient": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8"
+    },
+    "zintegration": {
+      "AndroidApp": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "iOSApp": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "MacClientBootstrapper": "86bc4c602fadde5456a6dcdeca32f8688afd0af9",
+      "MacDesktopClient": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "MacStudioApp": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "MacStudioBootstrapper": "86bc4c602fadde5456a6dcdeca32f8688afd0af9",
+      "PCClientBootstrapper": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "PCDesktopClient": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "PCStudioApp": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "PCStudioBootstrapper": "86bc4c602fadde5456a6dcdeca32f8688afd0af9",
+      "PlayStationClient": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "UWPApp": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8",
+      "XboxClient": "7d4afe49fc1e3e84da86a62f72f4c001251c85e8"
+    }
   }
 }
