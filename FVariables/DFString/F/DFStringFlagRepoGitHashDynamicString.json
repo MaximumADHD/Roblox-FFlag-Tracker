@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "819283da7e3f4fcc4c81dcc27e46bbd2f59f8794",
-    "zintegration": "819283da7e3f4fcc4c81dcc27e46bbd2f59f8794"
+    "LIVE": {
+      "AndroidApp": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "iOSApp": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "MacClientBootstrapper": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "MacDesktopClient": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "MacStudioApp": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "MacStudioBootstrapper": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "PCClientBootstrapper": "8ba740d161f62db49de9dc853da85e2f5f28faac",
+      "PCDesktopClient": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "PCStudioApp": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "PCStudioBootstrapper": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "PlayStationClient": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "UWPApp": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "XboxClient": "6bf76d293b3138570cd567d79aa0dc01c15f8a01"
+    },
+    "zintegration": {
+      "AndroidApp": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "iOSApp": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "MacClientBootstrapper": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "MacDesktopClient": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "MacStudioApp": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "MacStudioBootstrapper": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "PCClientBootstrapper": "d2559918b97f328b70bc211d76357eda3d1bb0f7",
+      "PCDesktopClient": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "PCStudioApp": "d2559918b97f328b70bc211d76357eda3d1bb0f7",
+      "PCStudioBootstrapper": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "PlayStationClient": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "UWPApp": "6bf76d293b3138570cd567d79aa0dc01c15f8a01",
+      "XboxClient": "6bf76d293b3138570cd567d79aa0dc01c15f8a01"
+    }
   }
 }
