@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "2b9a649dfd916851ea935129fb22abac804b7c1e",
-    "zintegration": "2b9a649dfd916851ea935129fb22abac804b7c1e"
+    "LIVE": {
+      "AndroidApp": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "iOSApp": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "MacClientBootstrapper": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "MacDesktopClient": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "MacStudioApp": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "MacStudioBootstrapper": "2b9a649dfd916851ea935129fb22abac804b7c1e",
+      "PCClientBootstrapper": "2b9a649dfd916851ea935129fb22abac804b7c1e",
+      "PCDesktopClient": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "PCStudioApp": "2b9a649dfd916851ea935129fb22abac804b7c1e",
+      "PCStudioBootstrapper": "2b9a649dfd916851ea935129fb22abac804b7c1e",
+      "PlayStationClient": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "UWPApp": "2b9a649dfd916851ea935129fb22abac804b7c1e",
+      "XboxClient": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a"
+    },
+    "zintegration": {
+      "AndroidApp": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "iOSApp": "2b9a649dfd916851ea935129fb22abac804b7c1e",
+      "MacClientBootstrapper": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "MacDesktopClient": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "MacStudioApp": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "MacStudioBootstrapper": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "PCClientBootstrapper": "2b9a649dfd916851ea935129fb22abac804b7c1e",
+      "PCDesktopClient": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "PCStudioApp": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "PCStudioBootstrapper": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "PlayStationClient": "2b9a649dfd916851ea935129fb22abac804b7c1e",
+      "UWPApp": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a",
+      "XboxClient": "d5b051e20ef36eed13bce24b8dfc5aeccf43707a"
+    }
   }
 }
