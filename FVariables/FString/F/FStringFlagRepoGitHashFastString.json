@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "0e92fdf0ef7dde98a9c74c6d91f6ca68683016ed",
-    "zintegration": "0e92fdf0ef7dde98a9c74c6d91f6ca68683016ed"
+    "LIVE": {
+      "AndroidApp": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "iOSApp": "41fb936875c6965929813227633bd30408af0b92",
+      "MacClientBootstrapper": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "MacDesktopClient": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "MacStudioApp": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "MacStudioBootstrapper": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "PCClientBootstrapper": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "PCDesktopClient": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "PCStudioApp": "41fb936875c6965929813227633bd30408af0b92",
+      "PCStudioBootstrapper": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "PlayStationClient": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "UWPApp": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "XboxClient": "7486c59f8deb35b117c766f410b63c8961e6e0e7"
+    },
+    "zintegration": {
+      "AndroidApp": "41fb936875c6965929813227633bd30408af0b92",
+      "iOSApp": "41fb936875c6965929813227633bd30408af0b92",
+      "MacClientBootstrapper": "41fb936875c6965929813227633bd30408af0b92",
+      "MacDesktopClient": "41fb936875c6965929813227633bd30408af0b92",
+      "MacStudioApp": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "MacStudioBootstrapper": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "PCClientBootstrapper": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "PCDesktopClient": "41fb936875c6965929813227633bd30408af0b92",
+      "PCStudioApp": "41fb936875c6965929813227633bd30408af0b92",
+      "PCStudioBootstrapper": "41fb936875c6965929813227633bd30408af0b92",
+      "PlayStationClient": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "UWPApp": "7486c59f8deb35b117c766f410b63c8961e6e0e7",
+      "XboxClient": "41fb936875c6965929813227633bd30408af0b92"
+    }
   }
 }
