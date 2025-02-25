@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "e3e08d22587ff77c74c8913dc3106557d8d16648",
-    "zintegration": "e3e08d22587ff77c74c8913dc3106557d8d16648"
+    "LIVE": {
+      "AndroidApp": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "iOSApp": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "MacClientBootstrapper": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "MacDesktopClient": "e3e08d22587ff77c74c8913dc3106557d8d16648",
+      "MacStudioApp": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "MacStudioBootstrapper": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "PCClientBootstrapper": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "PCDesktopClient": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "PCStudioApp": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "PCStudioBootstrapper": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "PlayStationClient": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "UWPApp": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "XboxClient": "af195dc427fe1c27699d59057810616a3b44dd65"
+    },
+    "zintegration": {
+      "AndroidApp": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "iOSApp": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "MacClientBootstrapper": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "MacDesktopClient": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "MacStudioApp": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "MacStudioBootstrapper": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "PCClientBootstrapper": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "PCDesktopClient": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "PCStudioApp": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "PCStudioBootstrapper": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "PlayStationClient": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "UWPApp": "af195dc427fe1c27699d59057810616a3b44dd65",
+      "XboxClient": "af195dc427fe1c27699d59057810616a3b44dd65"
+    }
   }
 }
