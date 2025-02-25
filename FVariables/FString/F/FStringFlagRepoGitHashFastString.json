@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "cb5f845dabecd0bb8201b10ae6d6f95425cdbc2f",
-    "zintegration": "cb5f845dabecd0bb8201b10ae6d6f95425cdbc2f"
+    "LIVE": {
+      "AndroidApp": "ae7382b4f0136be5465ec2e3afffe631115e40ed",
+      "iOSApp": "ae7382b4f0136be5465ec2e3afffe631115e40ed",
+      "MacClientBootstrapper": "ae7382b4f0136be5465ec2e3afffe631115e40ed",
+      "MacDesktopClient": "ae7382b4f0136be5465ec2e3afffe631115e40ed",
+      "MacStudioApp": "ae7382b4f0136be5465ec2e3afffe631115e40ed",
+      "MacStudioBootstrapper": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "PCClientBootstrapper": "ae7382b4f0136be5465ec2e3afffe631115e40ed",
+      "PCDesktopClient": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "PCStudioApp": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "PCStudioBootstrapper": "ae7382b4f0136be5465ec2e3afffe631115e40ed",
+      "PlayStationClient": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "UWPApp": "ae7382b4f0136be5465ec2e3afffe631115e40ed",
+      "XboxClient": "9ff480cce68674061ccad7c8237a00195867a15b"
+    },
+    "zintegration": {
+      "AndroidApp": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "iOSApp": "ae7382b4f0136be5465ec2e3afffe631115e40ed",
+      "MacClientBootstrapper": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "MacDesktopClient": "ae7382b4f0136be5465ec2e3afffe631115e40ed",
+      "MacStudioApp": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "MacStudioBootstrapper": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "PCClientBootstrapper": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "PCDesktopClient": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "PCStudioApp": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "PCStudioBootstrapper": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "PlayStationClient": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "UWPApp": "9ff480cce68674061ccad7c8237a00195867a15b",
+      "XboxClient": "9ff480cce68674061ccad7c8237a00195867a15b"
+    }
   }
 }
