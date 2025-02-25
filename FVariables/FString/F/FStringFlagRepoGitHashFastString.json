@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "6cfa890209fe807557d0e71b9cd6689dc5577b1f",
-    "zintegration": "6cfa890209fe807557d0e71b9cd6689dc5577b1f"
+    "LIVE": {
+      "AndroidApp": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "iOSApp": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "MacClientBootstrapper": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "MacDesktopClient": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "MacStudioApp": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "MacStudioBootstrapper": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "PCClientBootstrapper": "6cfa890209fe807557d0e71b9cd6689dc5577b1f",
+      "PCDesktopClient": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "PCStudioApp": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "PCStudioBootstrapper": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "PlayStationClient": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "UWPApp": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "XboxClient": "4c2bb1039732592327f0695bda61e1e9fabfb5fd"
+    },
+    "zintegration": {
+      "AndroidApp": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "iOSApp": "5373f9d04d2f13606ffc6939d85c37278901c314",
+      "MacClientBootstrapper": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "MacDesktopClient": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "MacStudioApp": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "MacStudioBootstrapper": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "PCClientBootstrapper": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "PCDesktopClient": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "PCStudioApp": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "PCStudioBootstrapper": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "PlayStationClient": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "UWPApp": "4c2bb1039732592327f0695bda61e1e9fabfb5fd",
+      "XboxClient": "4c2bb1039732592327f0695bda61e1e9fabfb5fd"
+    }
   }
 }
