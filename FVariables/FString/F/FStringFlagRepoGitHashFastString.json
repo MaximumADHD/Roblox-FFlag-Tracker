@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "71a77eeb4cbc78cb6c832939f6e514db6e50192b",
-    "zintegration": "71a77eeb4cbc78cb6c832939f6e514db6e50192b"
+    "LIVE": {
+      "AndroidApp": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "iOSApp": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "MacClientBootstrapper": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "MacDesktopClient": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "MacStudioApp": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "MacStudioBootstrapper": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "PCClientBootstrapper": "71a77eeb4cbc78cb6c832939f6e514db6e50192b",
+      "PCDesktopClient": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "PCStudioApp": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "PCStudioBootstrapper": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "PlayStationClient": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "UWPApp": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "XboxClient": "b3d777c027796200feaf5306e5a87368ecad81a3"
+    },
+    "zintegration": {
+      "AndroidApp": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "iOSApp": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "MacClientBootstrapper": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "MacDesktopClient": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "MacStudioApp": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "MacStudioBootstrapper": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "PCClientBootstrapper": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "PCDesktopClient": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "PCStudioApp": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "PCStudioBootstrapper": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "PlayStationClient": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "UWPApp": "b3d777c027796200feaf5306e5a87368ecad81a3",
+      "XboxClient": "b3d777c027796200feaf5306e5a87368ecad81a3"
+    }
   }
 }
