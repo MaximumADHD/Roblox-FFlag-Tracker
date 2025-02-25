@@ -4,12 +4,24 @@
     "LIVE": {
       "AndroidApp": false,
       "iOSApp": true,
-      "PCDesktopClient": true
+      "MacDesktopClient": true,
+      "MacStudioApp": true,
+      "PCDesktopClient": true,
+      "PCStudioApp": true,
+      "PlayStationClient": true,
+      "UWPApp": true,
+      "XboxClient": true
     },
     "zintegration": {
       "AndroidApp": false,
       "iOSApp": true,
-      "PCDesktopClient": true
+      "MacDesktopClient": true,
+      "MacStudioApp": true,
+      "PCDesktopClient": true,
+      "PCStudioApp": true,
+      "PlayStationClient": true,
+      "UWPApp": true,
+      "XboxClient": true
     }
   }
 }
