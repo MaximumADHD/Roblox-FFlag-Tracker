@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "3676132e15bf62a51b8a9e3261e67383b5f23f9a",
-    "zintegration": "3676132e15bf62a51b8a9e3261e67383b5f23f9a"
+    "LIVE": {
+      "AndroidApp": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "iOSApp": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "MacClientBootstrapper": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "MacDesktopClient": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "MacStudioApp": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "MacStudioBootstrapper": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "PCClientBootstrapper": "3676132e15bf62a51b8a9e3261e67383b5f23f9a",
+      "PCDesktopClient": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "PCStudioApp": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "PCStudioBootstrapper": "3676132e15bf62a51b8a9e3261e67383b5f23f9a",
+      "PlayStationClient": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "UWPApp": "3676132e15bf62a51b8a9e3261e67383b5f23f9a",
+      "XboxClient": "52e92c1a59c723c1348678d341065272c07a5c13"
+    },
+    "zintegration": {
+      "AndroidApp": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "iOSApp": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "MacClientBootstrapper": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "MacDesktopClient": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "MacStudioApp": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "MacStudioBootstrapper": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "PCClientBootstrapper": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "PCDesktopClient": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "PCStudioApp": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "PCStudioBootstrapper": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "PlayStationClient": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "UWPApp": "52e92c1a59c723c1348678d341065272c07a5c13",
+      "XboxClient": "52e92c1a59c723c1348678d341065272c07a5c13"
+    }
   }
 }
