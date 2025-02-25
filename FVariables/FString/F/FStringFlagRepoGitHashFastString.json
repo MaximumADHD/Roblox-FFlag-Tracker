@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "23135326a4b0506123e88087308b4bf3c70d84c5",
-    "zintegration": "23135326a4b0506123e88087308b4bf3c70d84c5"
+    "LIVE": {
+      "AndroidApp": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "iOSApp": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "MacClientBootstrapper": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "MacDesktopClient": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "MacStudioApp": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "MacStudioBootstrapper": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "PCClientBootstrapper": "4c5b6486e32a93a9710dfa1683e022ce140eef58",
+      "PCDesktopClient": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "PCStudioApp": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "PCStudioBootstrapper": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "PlayStationClient": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "UWPApp": "4c5b6486e32a93a9710dfa1683e022ce140eef58",
+      "XboxClient": "86fec44c8c2958b79f2369ccdf114aa7a088115f"
+    },
+    "zintegration": {
+      "AndroidApp": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "iOSApp": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "MacClientBootstrapper": "c4a6c7178eeaf5991adef6ee7a9632f47f322347",
+      "MacDesktopClient": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "MacStudioApp": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "MacStudioBootstrapper": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "PCClientBootstrapper": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "PCDesktopClient": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "PCStudioApp": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "PCStudioBootstrapper": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "PlayStationClient": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "UWPApp": "86fec44c8c2958b79f2369ccdf114aa7a088115f",
+      "XboxClient": "86fec44c8c2958b79f2369ccdf114aa7a088115f"
+    }
   }
 }
