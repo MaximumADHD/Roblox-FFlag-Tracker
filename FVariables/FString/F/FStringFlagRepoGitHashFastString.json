@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "2bc8f094c6261c842823b10ae80ea186ad410f78",
-    "zintegration": "2bc8f094c6261c842823b10ae80ea186ad410f78"
+    "LIVE": {
+      "AndroidApp": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "iOSApp": "2bc8f094c6261c842823b10ae80ea186ad410f78",
+      "MacClientBootstrapper": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "MacDesktopClient": "2bc8f094c6261c842823b10ae80ea186ad410f78",
+      "MacStudioApp": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "MacStudioBootstrapper": "2bc8f094c6261c842823b10ae80ea186ad410f78",
+      "PCClientBootstrapper": "2bc8f094c6261c842823b10ae80ea186ad410f78",
+      "PCDesktopClient": "2bc8f094c6261c842823b10ae80ea186ad410f78",
+      "PCStudioApp": "2bc8f094c6261c842823b10ae80ea186ad410f78",
+      "PCStudioBootstrapper": "2bc8f094c6261c842823b10ae80ea186ad410f78",
+      "PlayStationClient": "2bc8f094c6261c842823b10ae80ea186ad410f78",
+      "UWPApp": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "XboxClient": "2bc8f094c6261c842823b10ae80ea186ad410f78"
+    },
+    "zintegration": {
+      "AndroidApp": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "iOSApp": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "MacClientBootstrapper": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "MacDesktopClient": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "MacStudioApp": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "MacStudioBootstrapper": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "PCClientBootstrapper": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "PCDesktopClient": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "PCStudioApp": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "PCStudioBootstrapper": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "PlayStationClient": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "UWPApp": "64e2f89d2059a51bc35cb9c2b712370c8099b56d",
+      "XboxClient": "64e2f89d2059a51bc35cb9c2b712370c8099b56d"
+    }
   }
 }
