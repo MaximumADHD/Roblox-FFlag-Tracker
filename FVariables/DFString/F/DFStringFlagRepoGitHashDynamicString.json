@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "2946adc2ddb343263f75f69e119e26f58b9bc5c7",
-    "zintegration": "2946adc2ddb343263f75f69e119e26f58b9bc5c7"
+    "LIVE": {
+      "AndroidApp": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "iOSApp": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "MacClientBootstrapper": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "MacDesktopClient": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "MacStudioApp": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "MacStudioBootstrapper": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "PCClientBootstrapper": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "PCDesktopClient": "2946adc2ddb343263f75f69e119e26f58b9bc5c7",
+      "PCStudioApp": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "PCStudioBootstrapper": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "PlayStationClient": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "UWPApp": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "XboxClient": "64e49d74e98361c2f0cc2f047683a162f4f49060"
+    },
+    "zintegration": {
+      "AndroidApp": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "iOSApp": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "MacClientBootstrapper": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "MacDesktopClient": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "MacStudioApp": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "MacStudioBootstrapper": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "PCClientBootstrapper": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "PCDesktopClient": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "PCStudioApp": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "PCStudioBootstrapper": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "PlayStationClient": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "UWPApp": "64e49d74e98361c2f0cc2f047683a162f4f49060",
+      "XboxClient": "64e49d74e98361c2f0cc2f047683a162f4f49060"
+    }
   }
 }
