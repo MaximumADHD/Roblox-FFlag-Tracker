@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
-    "zintegration": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb"
+    "LIVE": {
+      "AndroidApp": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "iOSApp": "8315830b7c72f22e55710ad44d42a0ef2a83a044",
+      "MacClientBootstrapper": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "MacDesktopClient": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "MacStudioApp": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "MacStudioBootstrapper": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "PCClientBootstrapper": "8315830b7c72f22e55710ad44d42a0ef2a83a044",
+      "PCDesktopClient": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "PCStudioApp": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "PCStudioBootstrapper": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "PlayStationClient": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "UWPApp": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "XboxClient": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb"
+    },
+    "zintegration": {
+      "AndroidApp": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "iOSApp": "8315830b7c72f22e55710ad44d42a0ef2a83a044",
+      "MacClientBootstrapper": "8315830b7c72f22e55710ad44d42a0ef2a83a044",
+      "MacDesktopClient": "8315830b7c72f22e55710ad44d42a0ef2a83a044",
+      "MacStudioApp": "8315830b7c72f22e55710ad44d42a0ef2a83a044",
+      "MacStudioBootstrapper": "8315830b7c72f22e55710ad44d42a0ef2a83a044",
+      "PCClientBootstrapper": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "PCDesktopClient": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "PCStudioApp": "8315830b7c72f22e55710ad44d42a0ef2a83a044",
+      "PCStudioBootstrapper": "8315830b7c72f22e55710ad44d42a0ef2a83a044",
+      "PlayStationClient": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb",
+      "UWPApp": "8315830b7c72f22e55710ad44d42a0ef2a83a044",
+      "XboxClient": "5e4d9f02f8a4236dac0c33fe2149fbd72443b6fb"
+    }
   }
 }
