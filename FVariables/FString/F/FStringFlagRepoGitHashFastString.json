@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "934921276231589b8a07712d8b90894d9d5ac548",
-    "zintegration": "934921276231589b8a07712d8b90894d9d5ac548"
+    "LIVE": {
+      "AndroidApp": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "iOSApp": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "MacClientBootstrapper": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "MacDesktopClient": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "MacStudioApp": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "MacStudioBootstrapper": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "PCClientBootstrapper": "934921276231589b8a07712d8b90894d9d5ac548",
+      "PCDesktopClient": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "PCStudioApp": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "PCStudioBootstrapper": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "PlayStationClient": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "UWPApp": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "XboxClient": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd"
+    },
+    "zintegration": {
+      "AndroidApp": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "iOSApp": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "MacClientBootstrapper": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "MacDesktopClient": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "MacStudioApp": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "MacStudioBootstrapper": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "PCClientBootstrapper": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "PCDesktopClient": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "PCStudioApp": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "PCStudioBootstrapper": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "PlayStationClient": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "UWPApp": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd",
+      "XboxClient": "5c1d4b844d1acdc2aec9276a24f4cb1baf2da1dd"
+    }
   }
 }
