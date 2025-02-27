@@ -1,35 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "iOSApp": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "MacClientBootstrapper": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "MacDesktopClient": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "MacStudioApp": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "MacStudioBootstrapper": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "PCClientBootstrapper": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "PCDesktopClient": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "PCStudioApp": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "PCStudioBootstrapper": "eb42f7a7a12d591cc4174a15d4a72794c7f55d90",
-      "PlayStationClient": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "UWPApp": "eb42f7a7a12d591cc4174a15d4a72794c7f55d90",
-      "XboxClient": "f676b209d55680292f9c05444b359cc8fad5bd37"
-    },
-    "zintegration": {
-      "AndroidApp": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "iOSApp": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "MacClientBootstrapper": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "MacDesktopClient": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "MacStudioApp": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "MacStudioBootstrapper": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "PCClientBootstrapper": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "PCDesktopClient": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "PCStudioApp": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "PCStudioBootstrapper": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "PlayStationClient": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "UWPApp": "f676b209d55680292f9c05444b359cc8fad5bd37",
-      "XboxClient": "f676b209d55680292f9c05444b359cc8fad5bd37"
-    }
+    "LIVE": "f676b209d55680292f9c05444b359cc8fad5bd37",
+    "zintegration": "f676b209d55680292f9c05444b359cc8fad5bd37"
   }
 }
