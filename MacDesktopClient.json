@@ -48,6 +48,8 @@
   "FFlagMacSyncWKCookieStoreToNSCookieStoreV2": true,
   "FFlagPersonalizedInstallerDeeplinkCompatible": true,
   "FFlagPreventCoreAudioCallbackCrash": true,
+  "FFlagRbxStorageEnableDbCacheSelfTest_Staged": "false;SteadyState;10;30;Rollout;100;30;Promote;2025-02-27T23:16:03",
+  "FFlagRbxStorageEnableFileCacheSelfTest_Staged": "false;SteadyState;10;30;Rollout;100;30;Promote;2025-02-27T23:16:02",
   "FFlagRemoveDeeplinkReceivedFromMacWrapper": true,
   "FFlagRenderEnableGlobalInstancingMetal": true,
   "FFlagSimEditableMemoryDestructorLockFix": true,
