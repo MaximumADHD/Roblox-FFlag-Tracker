@@ -13,6 +13,7 @@
   "DFFlagHttpClientCookieProtocolMetrics": true,
   "DFFlagHttpClientCookieStoreMetrics": true,
   "DFFlagHttpReportWhenAppSuspended": true,
+  "DFFlagHttpThrottleRequestInWorkerThread": true,
   "DFFlagMemoryProfilingTopLevelUsageMutex": true,
   "DFFlagPerformanceControlAddMLOomModelTimestamp2": true,
   "DFFlagPerformanceControlEnableInference": true,
