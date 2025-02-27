@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "aa5a6750d1775809e030374fd0627db427b259ea",
-    "zintegration": "aa5a6750d1775809e030374fd0627db427b259ea"
+    "LIVE": {
+      "AndroidApp": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "iOSApp": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "MacClientBootstrapper": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "MacDesktopClient": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "MacStudioApp": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "MacStudioBootstrapper": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "PCClientBootstrapper": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "PCDesktopClient": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "PCStudioApp": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "PCStudioBootstrapper": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "PlayStationClient": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "UWPApp": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "XboxClient": "aa5a6750d1775809e030374fd0627db427b259ea"
+    },
+    "zintegration": {
+      "AndroidApp": "8f59d59b946372b42c4dabd12ca5e26c40dc3907",
+      "iOSApp": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "MacClientBootstrapper": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "MacDesktopClient": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "MacStudioApp": "8f59d59b946372b42c4dabd12ca5e26c40dc3907",
+      "MacStudioBootstrapper": "8f59d59b946372b42c4dabd12ca5e26c40dc3907",
+      "PCClientBootstrapper": "8f59d59b946372b42c4dabd12ca5e26c40dc3907",
+      "PCDesktopClient": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "PCStudioApp": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "PCStudioBootstrapper": "8f59d59b946372b42c4dabd12ca5e26c40dc3907",
+      "PlayStationClient": "aa5a6750d1775809e030374fd0627db427b259ea",
+      "UWPApp": "8f59d59b946372b42c4dabd12ca5e26c40dc3907",
+      "XboxClient": "8f59d59b946372b42c4dabd12ca5e26c40dc3907"
+    }
   }
 }
