@@ -1,7 +1,9 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zcanary": "true;444",
-    "zintegration": "true;444"
+    "MacDesktopClient": "true;444",
+    "MacStudioApp": "true;444",
+    "PCDesktopClient": "true;444",
+    "PCStudioApp": "true;444"
   }
 }
