@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
-    "zintegration": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc"
+    "LIVE": {
+      "AndroidApp": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
+      "iOSApp": "0385f5040444eaa23587a3d27562e0908553994b",
+      "MacClientBootstrapper": "0385f5040444eaa23587a3d27562e0908553994b",
+      "MacDesktopClient": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
+      "MacStudioApp": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
+      "MacStudioBootstrapper": "0385f5040444eaa23587a3d27562e0908553994b",
+      "PCClientBootstrapper": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
+      "PCDesktopClient": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
+      "PCStudioApp": "0385f5040444eaa23587a3d27562e0908553994b",
+      "PCStudioBootstrapper": "0385f5040444eaa23587a3d27562e0908553994b",
+      "PlayStationClient": "0385f5040444eaa23587a3d27562e0908553994b",
+      "UWPApp": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
+      "XboxClient": "0385f5040444eaa23587a3d27562e0908553994b"
+    },
+    "zintegration": {
+      "AndroidApp": "0385f5040444eaa23587a3d27562e0908553994b",
+      "iOSApp": "0385f5040444eaa23587a3d27562e0908553994b",
+      "MacClientBootstrapper": "0385f5040444eaa23587a3d27562e0908553994b",
+      "MacDesktopClient": "0385f5040444eaa23587a3d27562e0908553994b",
+      "MacStudioApp": "0385f5040444eaa23587a3d27562e0908553994b",
+      "MacStudioBootstrapper": "0385f5040444eaa23587a3d27562e0908553994b",
+      "PCClientBootstrapper": "0385f5040444eaa23587a3d27562e0908553994b",
+      "PCDesktopClient": "d6b7862f4f3a65fe57661e25c0320cec6f3638fc",
+      "PCStudioApp": "0385f5040444eaa23587a3d27562e0908553994b",
+      "PCStudioBootstrapper": "0385f5040444eaa23587a3d27562e0908553994b",
+      "PlayStationClient": "0385f5040444eaa23587a3d27562e0908553994b",
+      "UWPApp": "0385f5040444eaa23587a3d27562e0908553994b",
+      "XboxClient": "0385f5040444eaa23587a3d27562e0908553994b"
+    }
   }
 }
