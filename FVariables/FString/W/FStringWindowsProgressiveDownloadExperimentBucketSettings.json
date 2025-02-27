@@ -1,17 +1,8 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "LIVE": {
-      "PCClientBootstrapper": "10-1",
-      "PCStudioBootstrapper": "v4-10-19"
-    },
-    "zcanary": {
-      "PCClientBootstrapper": "10-1",
-      "PCStudioBootstrapper": "10-1"
-    },
-    "zintegration": {
-      "PCClientBootstrapper": "v4-10-19",
-      "PCStudioBootstrapper": "v4-10-19"
-    }
+    "LIVE": "v4-10-19",
+    "zcanary": "10-1",
+    "zintegration": "v4-10-19"
   }
 }
