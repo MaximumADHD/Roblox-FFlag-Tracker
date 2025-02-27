@@ -1,7 +1,9 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "Social.ProfilePeekView",
-    "zintegration": "Social.ProfilePeekView"
+    "MacDesktopClient": "Social.ProfilePeekView",
+    "MacStudioApp": "Social.ProfilePeekView",
+    "PCDesktopClient": "Social.ProfilePeekView",
+    "PCStudioApp": "Social.ProfilePeekView"
   }
 }

@@ -1,7 +1,11 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": 1,
-    "zintegration": 1
+    "AndroidApp": 1,
+    "iOSApp": 1,
+    "MacDesktopClient": 1,
+    "PCDesktopClient": 1,
+    "PlayStationClient": 1,
+    "XboxClient": 1
   }
 }

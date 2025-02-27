@@ -1,7 +1,10 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": true,
-    "zintegration": true
+    "PCClientBootstrapper": true,
+    "PCDesktopClient": true,
+    "PCStudioApp": true,
+    "PCStudioBootstrapper": true,
+    "UWPApp": true
   }
 }
