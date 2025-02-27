@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "1a38790b462345778ec539f0e701ba6ca4c911c7",
-    "zintegration": "1a38790b462345778ec539f0e701ba6ca4c911c7"
+    "LIVE": {
+      "AndroidApp": "84bdcb4688047a48a3985a4949e6b00f5ebb5518",
+      "iOSApp": "84bdcb4688047a48a3985a4949e6b00f5ebb5518",
+      "MacClientBootstrapper": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "MacDesktopClient": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "MacStudioApp": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "MacStudioBootstrapper": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "PCClientBootstrapper": "84bdcb4688047a48a3985a4949e6b00f5ebb5518",
+      "PCDesktopClient": "9f494293b8794cd1f32a70c399f7502f2b11c4cc",
+      "PCStudioApp": "84bdcb4688047a48a3985a4949e6b00f5ebb5518",
+      "PCStudioBootstrapper": "84bdcb4688047a48a3985a4949e6b00f5ebb5518",
+      "PlayStationClient": "84bdcb4688047a48a3985a4949e6b00f5ebb5518",
+      "UWPApp": "84bdcb4688047a48a3985a4949e6b00f5ebb5518",
+      "XboxClient": "84bdcb4688047a48a3985a4949e6b00f5ebb5518"
+    },
+    "zintegration": {
+      "AndroidApp": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "iOSApp": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "MacClientBootstrapper": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "MacDesktopClient": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "MacStudioApp": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "MacStudioBootstrapper": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "PCClientBootstrapper": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "PCDesktopClient": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "PCStudioApp": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "PCStudioBootstrapper": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "PlayStationClient": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "UWPApp": "ed83ae6d10061bd277f8ff9fd119eb2d4d5cc5f3",
+      "XboxClient": "b66e4ebc076c4ae65f02fae43f2cb093344fd739"
+    }
   }
 }
