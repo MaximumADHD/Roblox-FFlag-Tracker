@@ -1,7 +1,35 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "8845e30dc67097b636529b3b89faa9e94430c76e",
-    "zintegration": "8845e30dc67097b636529b3b89faa9e94430c76e"
+    "LIVE": {
+      "AndroidApp": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "iOSApp": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "MacClientBootstrapper": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "MacDesktopClient": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "MacStudioApp": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "MacStudioBootstrapper": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "PCClientBootstrapper": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "PCDesktopClient": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "PCStudioApp": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "PCStudioBootstrapper": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "PlayStationClient": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "UWPApp": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "XboxClient": "8845e30dc67097b636529b3b89faa9e94430c76e"
+    },
+    "zintegration": {
+      "AndroidApp": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "iOSApp": "38fbe7147c42fe52e031b5d2577dc5a9e516574f",
+      "MacClientBootstrapper": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "MacDesktopClient": "38fbe7147c42fe52e031b5d2577dc5a9e516574f",
+      "MacStudioApp": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "MacStudioBootstrapper": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "PCClientBootstrapper": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "PCDesktopClient": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "PCStudioApp": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "PCStudioBootstrapper": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "PlayStationClient": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "UWPApp": "8845e30dc67097b636529b3b89faa9e94430c76e",
+      "XboxClient": "38fbe7147c42fe52e031b5d2577dc5a9e516574f"
+    }
   }
 }
