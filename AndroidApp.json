@@ -218,7 +218,7 @@
   "FFlagFixNotCallingCallbackAfterBlockingDMDestroy": true,
   "FFlagFixNullPtrCrashInLoadImageBuffer_IXP": "1;Portal.Mmap;Portal.MmapEngineExperiment;1297667953;flagbank",
   "FFlagFixTextMismatchAndOverlap": true,
-  "FFlagFlagRolloutTestStaticBool15": false,
+  "FFlagFlagRolloutTestStaticBool15_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-02-28T00:12:14",
   "FFlagFlagRolloutTestStaticBool20": false,
   "FFlagFriendsCarouseCINavigationUpdate": true,
   "FFlagGraphicsGLEnableHQShadersExclusion": true,
