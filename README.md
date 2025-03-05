@@ -107,3 +107,7 @@ The files in this repository each represent individual products of Roblox's clie
 		<td>MacStudioBootstrapper.json</td>
 	</tr>
 </table>
+
+## Source
+
+This repo is automatically maintained by [RCT-Source](https://github.com/MaximumADHD/RCT-Source).
