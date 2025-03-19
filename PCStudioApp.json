@@ -1004,7 +1004,7 @@
   "FIntGameViewItemCap": 10000,
   "FIntLuauNativeExecutionTimePeriodFrameCount": 1800,
   "FIntLuauTypeInferTypePackLoopLimit": 5000,
-  "FIntMLCodeCompletionTimeRateLimitTimeMs_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-19T21:22:56",
+  "FIntMLCodeCompletionTimeRateLimitTimeMs": 1000,
   "FIntModelPublishFailAssetIdCountLimit": 50,
   "FIntNativeWatcherRolloutPercentage": 100,
   "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent": 10000,
