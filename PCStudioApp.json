@@ -768,7 +768,7 @@
   "FFlagStudioFixPluginManagementInfiniteLoading": true,
   "FFlagStudioFixPluginReloadingDependencies": true,
   "FFlagStudioFixRunnablePluginsProviderRace": true,
-  "FFlagStudioFixSoundNotMutedWhenLostFocus_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-20T20:50:04",
+  "FFlagStudioFixSoundNotMutedWhenLostFocus": true,
   "FFlagStudioFixStackOverflowInOpenPlace": true,
   "FFlagStudioFixStudioServiceLock": true,
   "FFlagStudioFixToggleStatsForVerb": true,
