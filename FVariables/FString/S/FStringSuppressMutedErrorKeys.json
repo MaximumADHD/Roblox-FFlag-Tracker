@@ -1,38 +1,4 @@
 {
-  "Type": "ChannelsAndPlatforms",
-  "Value": {
-    "LIVE": {
-      "AndroidApp": "AdjustAccessoryView",
-      "iOSApp": "AdjustAccessoryView",
-      "MacDesktopClient": "AdjustAccessoryView",
-      "MacStudioApp": "AdjustAccessoryView",
-      "PCDesktopClient": "AdjustAccessoryView",
-      "PCStudioApp": "AdjustAccessoryView",
-      "PlayStationClient": "AdjustAccessoryView",
-      "UWPApp": "AdjustAccessoryView,ItemActionEventMissingParameter,ItemImpressionsEventMissingParameter",
-      "XboxClient": "AdjustAccessoryView"
-    },
-    "zcanary": {
-      "AndroidApp": "AdjustAccessoryView",
-      "iOSApp": "AdjustAccessoryView",
-      "MacDesktopClient": "AdjustAccessoryView",
-      "MacStudioApp": "AdjustAccessoryView",
-      "PCDesktopClient": "AdjustAccessoryView",
-      "PCStudioApp": "AdjustAccessoryView",
-      "PlayStationClient": "AdjustAccessoryView",
-      "UWPApp": "AdjustAccessoryView",
-      "XboxClient": "AdjustAccessoryView"
-    },
-    "zintegration": {
-      "AndroidApp": "AdjustAccessoryView",
-      "iOSApp": "AdjustAccessoryView",
-      "MacDesktopClient": "AdjustAccessoryView",
-      "MacStudioApp": "AdjustAccessoryView",
-      "PCDesktopClient": "AdjustAccessoryView",
-      "PCStudioApp": "AdjustAccessoryView",
-      "PlayStationClient": "AdjustAccessoryView",
-      "UWPApp": "AdjustAccessoryView",
-      "XboxClient": "AdjustAccessoryView"
-    }
-  }
+  "Type": "Unified",
+  "Value": "AdjustAccessoryView"
 }
