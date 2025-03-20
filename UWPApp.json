@@ -1,8 +1,10 @@
 {
   "DFFlagFlagRolloutTestDynamicBool3": true,
   "DFFlagPauseSurfaceControllerBeforeSwappingDataModel2": true,
+  "DFFlagSet2DMeshScaledInertiaToFixedValue_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-20T16:48:05",
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
+  "FFlagEnableClientToastNotificationsRedirectExperiment_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-20T16:45:48",
   "FFlagEnableSSABootstrapStandardization": true,
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
