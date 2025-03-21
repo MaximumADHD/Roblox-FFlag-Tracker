@@ -1,0 +1,4 @@
+{
+  "Type": "Unified",
+  "Value": "(?:(?:https?://\\w+\\.roblox(?:labs)?\\.com/games/start\\?)|(?:roblox(?:mobile)?://(?:experiences/start\\?)?))(?:(?:(?:(?:id=\\d+)|(?:placeid=\\d+)|(?:userID=\\d+)|(?:launchtime=\\d+)|(?:gameInstanceId=(?:\\w|\\-)+)|(?:linkCode=(?:\\w|\\-)+)|(?:accessCode=(?:\\w|\\-)+)|(?:reservedServerAccessCode=(?:\\w|\\-)+)|(?:launchData=(?:.+))|(?:referredByPlayerId=\\d+)|(?:joinAttemptId=(?:[0-9a-fA-F]{8}-([0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12})+)|(?:joinAttemptOrigin=(?:\\w|\\-)+)|(?:eventId=(?:\\d+))|(?:callId=(?:[0-9a-fA-F]{8}-([0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12})+)|(?:gaasKey =(?:\\w|_)+))&?)+)/?;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-21T20:08:55"
+}
