@@ -108,6 +108,56 @@ The files in this repository each represent individual products of Roblox's clie
 	</tr>
 </table>
 
+**PC** is currently inferred as the baseline platform. As such, all `#####Bootstrapper.json` files derive against `PCClientBootstrapper.json`, and non-bootstrap related files derive against `PCDesktopClient.json`.
+
+## Metadata
+
+Metadata about each individual FVariable can be accessed through the following route:<br/>
+```
+FVariables/{FVariableType}/{A-Z}/{FVariable}.json
+```
+
+The metadata can be described with the following Luau types:
+```luau
+type IMetadata<TypeName, Data> = {
+    Type: TypeName,
+    Value: Data
+}
+
+type PlatformData<T> = {
+    AndroidApp: T?,
+    iOSApp: T?,
+    MacClientBootstrapper: T?,
+    MacDesktopClient: T?,
+    MacStudioApp: T?,
+    MacStudioBootstrapper: T?,
+    PCClientBootstrapper: T?,
+    PCDesktopClient: T?,
+    PCStudioApp: T?,
+    PCStudioBootstrapper: T?,
+    PlayStationClient: T?,
+    UWPApp: T?,
+    XboxClient: T?,
+}
+
+type ChannelData<T> = {
+    LIVE: T?,
+    zcanary: T?,
+    zintegration: T?,
+}
+
+type Unified<T> = IMetadata<"Unified", T>
+type Channels<T> = IMetadata<"Channels", ChannelData<T>>
+type Platforms<T> = IMetadata<"Platforms", PlatformData<T>>
+type ChannelsAndPlatforms<T> = IMetadata<"ChannelsAndPlatforms", ChannelData<PlatformData<T>>>
+
+export type Metadata<T = (string | number)> =
+    | Unified<T>
+    | Channels<T>
+    | Platforms<T>
+    | ChannelsAndPlatforms<T>
+```
+
 ## Source
 
 This repo is automatically maintained by [RCT-Source](https://github.com/MaximumADHD/RCT-Source).
