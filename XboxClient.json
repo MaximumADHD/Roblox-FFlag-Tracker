@@ -9,6 +9,7 @@
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
   "DFIntHttpCacheRetryCount": 5000,
+  "DFIntRakNetMissingPingThresholdMs_Staged": "30000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T23:26:10",
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": 10000,
   "DFIntXboxGamepadUserInfoHundredthsPercentage": 500,
