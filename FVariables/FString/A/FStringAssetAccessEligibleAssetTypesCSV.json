@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "Audio,Video"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "Audio,Video",
+    "iOSApp": "Audio,Video",
+    "MacDesktopClient": "Audio,Video",
+    "MacStudioApp": "\"Audio,Video,Meshpart\"",
+    "PCDesktopClient": "Audio,Video",
+    "PCStudioApp": "\"Audio,Video,Meshpart\"",
+    "PlayStationClient": "Audio,Video",
+    "UWPApp": "Audio,Video",
+    "XboxClient": "Audio,Video"
+  }
 }
