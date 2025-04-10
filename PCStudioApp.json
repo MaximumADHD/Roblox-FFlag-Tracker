@@ -532,6 +532,8 @@
   "FFlagLuauAllowNonSharedTableTypesInLiteral": true,
   "FFlagLuauAlwaysFillInFunctionCallDiscriminantTypes": true,
   "FFlagLuauAutocompleteUseLimits": true,
+  "FFlagLuauBidirectionalFailsafe_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-10T20:49:45",
+  "FFlagLuauBidirectionalInferenceCollectIndexerTypes_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-10T20:49:35",
   "FFlagLuauBlockDiffFragmentSelection_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-10T20:29:32",
   "FFlagLuauClipNestedAndRecursiveUnion": true,
   "FFlagLuauCloneReturnTypePack": true,
