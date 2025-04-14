@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Warning"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Warning",
+    "zcanary": "Verbose",
+    "zintegration": "Warning"
+  }
 }
