@@ -1,6 +1,11 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zintegration": 1000
+    "AndroidApp": 1000,
+    "iOSApp": 1000,
+    "MacDesktopClient": 1000,
+    "PCDesktopClient": 1000,
+    "UWPApp": 1000,
+    "XboxClient": 1000
   }
 }
