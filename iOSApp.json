@@ -1,4 +1,14 @@
 {
+  "DFFlagBatch24HotrodMigration": true,
+  "DFFlagBatch25HotrodMigration": true,
+  "DFFlagBatchId0HotrodAccessorMigration": true,
+  "DFFlagBatchId11HotrodAccessorMigration": true,
+  "DFFlagBatchId12HotrodAccessorMigration": true,
+  "DFFlagBatchId14HotrodAccessorMigration": true,
+  "DFFlagBatchId15HotrodAccessorMigration": true,
+  "DFFlagBatchId17HotrodAccessorMigration": true,
+  "DFFlagBatchId18HotrodAccessorMigration": true,
+  "DFFlagBatchId19HotrodAccessorMigration": true,
   "DFFlagEnableCallingStopAdsBeforeClose": true,
   "DFFlagEnablePartnerBillingLogging": true,
   "DFFlagEnableRewardedAdsSessionTrackingFields": true,
@@ -241,8 +251,6 @@
   "FLogDebugQuadTreeLogging2": 6,
   "FLogSessionReporter": 0,
   "FLogViewRbxInit": 7,
-  "FreeMemoryCheckerRateMilliSeconds": 100,
-  "FreeMemoryCheckerThresholdKiloBytes": 4096,
   "FStringContactsListLayer": "Social.ContactImporter",
   "FStringContactsToastButtonPressed": "ContactsToastButtonPressed_iOS",
   "FStringContactsToastDismissed": "ContactsToastDismissed_iOS",
@@ -258,9 +266,7 @@
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
   "FStringSignalRRelativePath": "notifications",
   "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS",
-  "iOSGoogleAnalyticsSampleRate": 5,
   "MaxMemoryReporterRateMilliSeconds": 100,
   "SearchEndpointIPad": "Browse.aspx?name=",
-  "SearchEndpointIPhone": "people?search=",
-  "TimeIntervalBetweenRobuxPurchaseInMinutes": 10
+  "SearchEndpointIPhone": "people?search="
 }
