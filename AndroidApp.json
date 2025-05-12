@@ -19,6 +19,8 @@
   "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
   "DefaultTapFilterLevel": 0,
   "DeprecationNoticeDeadline": "2021-06-16",
+  "DetectBackgroundLaunches": true,
+  "DetectProcessReuse": true,
   "DFFlagAndroidDebugHeapTelemetry": true,
   "DFFlagAndroidOomScoreTelemetry": true,
   "DFFlagCLI106369": true,
