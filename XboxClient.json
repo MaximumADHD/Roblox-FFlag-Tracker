@@ -81,7 +81,7 @@
   "FFlagUseNotificationsLocalization": true,
   "FFlagUsePurchasePromptLocalization": true,
   "FFlagXboxAddHangTimerAndLKStoBT": true,
-  "FFlagXboxCheckConsumedBeforeProcessPayment_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-19T16:25:59",
+  "FFlagXboxCheckConsumedBeforeProcessPayment": true,
   "FFlagXboxEnableRoutingToPaymentsGatewayApi": false,
   "FFlagXboxInferredCrashUnbufferedIO": true,
   "FFlagXboxLastKnownStateFlushOnSuspend": true,
