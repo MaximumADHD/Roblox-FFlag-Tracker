@@ -1,39 +1,8 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "LIVE": {
-      "AndroidApp": false,
-      "iOSApp": false,
-      "MacDesktopClient": false,
-      "MacStudioApp": false,
-      "PCDesktopClient": false,
-      "PCStudioApp": false,
-      "PlayStationClient": false,
-      "UWPApp": false,
-      "XboxClient": false
-    },
-    "zcanary": {
-      "AndroidApp": false,
-      "iOSApp": false,
-      "MacClientBootstrapper": "true",
-      "MacDesktopClient": false,
-      "MacStudioApp": false,
-      "PCDesktopClient": false,
-      "PCStudioApp": false,
-      "PlayStationClient": false,
-      "UWPApp": false,
-      "XboxClient": false
-    },
-    "zintegration": {
-      "AndroidApp": false,
-      "iOSApp": false,
-      "MacDesktopClient": false,
-      "MacStudioApp": false,
-      "PCDesktopClient": false,
-      "PCStudioApp": false,
-      "PlayStationClient": false,
-      "UWPApp": false,
-      "XboxClient": false
-    }
+    "LIVE": false,
+    "zcanary": "true",
+    "zintegration": false
   }
 }
