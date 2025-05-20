@@ -7,6 +7,7 @@
   "DFFlagHttpDetachCacheCleanThread": true,
   "DFFlagReportAutoSelectGuiInvoked": true,
   "DFFlagReportCacheDirSizes": true,
+  "DFFlagSQLiteStatementFixFinalizeBug_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-20T21:57:29",
   "DFFlagTrackDPJProgress": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
   "DFIntHangDetectionJobTimeoutMs": 15000,
