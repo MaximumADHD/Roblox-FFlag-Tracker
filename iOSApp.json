@@ -9,6 +9,7 @@
   "DFFlagHttpClientCookieProtocolMetrics": true,
   "DFFlagHttpClientCookieStoreMetrics": true,
   "DFFlagHttpReportWhenAppSuspended": true,
+  "DFFlagInvalidStringAtomReport_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-20T20:20:41",
   "DFFlagMemoryProfilingTopLevelUsageMutex": true,
   "DFFlagPerformanceControlAddMLOomModelTimestamp2": true,
   "DFFlagPerformanceControlEnableInference": true,
