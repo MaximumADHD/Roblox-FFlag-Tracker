@@ -113,6 +113,7 @@
   "FFlagEnablePermissionProtocolForIOSPostNotification": true,
   "FFlagEnablePermissionsProtocolForPushNotification": true,
   "FFlagEnablePrefetchTimeout": true,
+  "FFlagEnablePrewarmDetection_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T22:19:34",
   "FFlagEnablePushNotificationAck": true,
   "FFlagEnablePushNotificationPromptExperimentV2": true,
   "FFlagEnablePushNotificationsUpsellModal3": false,
