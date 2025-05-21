@@ -1,20 +1,8 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "PowerVR Rogue.*:.*:glsles3:.*",
-      "PCDesktopClient": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|AMD Radeon(TM) Graphics:.*:.*:.*|AMD Radeon.*(TM) Graphics:.*:.*:.*",
-      "PCStudioApp": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*"
-    },
-    "zcanary": {
-      "AndroidApp": "PowerVR Rogue.*:.*:glsles3:.*",
-      "PCDesktopClient": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|AMD Radeon(TM) Graphics:.*:.*:.*|AMD Radeon.*(TM) Graphics:.*:.*:.*",
-      "PCStudioApp": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|AMD Radeon(TM) Graphics:.*:.*:.*|AMD Radeon.*(TM) Graphics:.*:.*:.*"
-    },
-    "zintegration": {
-      "AndroidApp": "PowerVR Rogue.*:.*:glsles3:.*",
-      "PCDesktopClient": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|AMD Radeon(TM) Graphics:.*:.*:.*|AMD Radeon.*(TM) Graphics:.*:.*:.*",
-      "PCStudioApp": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|AMD Radeon(TM) Graphics:.*:.*:.*|AMD Radeon.*(TM) Graphics:.*:.*:.*"
-    }
+    "AndroidApp": "PowerVR Rogue.*:.*:glsles3:.*",
+    "PCDesktopClient": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|AMD Radeon(TM) Graphics:.*:.*:.*|AMD Radeon.*(TM) Graphics:.*:.*:.*",
+    "PCStudioApp": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|AMD Radeon(TM) Graphics:.*:.*:.*|AMD Radeon.*(TM) Graphics:.*:.*:.*"
   }
 }
