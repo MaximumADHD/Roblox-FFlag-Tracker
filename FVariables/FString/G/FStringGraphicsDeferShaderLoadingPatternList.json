@@ -1,8 +1,20 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "PowerVR Rogue.*:.*:glsles3:.*",
-    "PCDesktopClient": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|.*Radeon.*:.*:.*:.*",
-    "PCStudioApp": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|.*Radeon.*:.*:.*:.*"
+    "LIVE": {
+      "AndroidApp": "PowerVR Rogue.*:.*:glsles3:.*",
+      "PCDesktopClient": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*",
+      "PCStudioApp": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|.*Radeon.*:.*:.*:.*"
+    },
+    "zcanary": {
+      "AndroidApp": "PowerVR Rogue.*:.*:glsles3:.*",
+      "PCDesktopClient": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*",
+      "PCStudioApp": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*"
+    },
+    "zintegration": {
+      "AndroidApp": "PowerVR Rogue.*:.*:glsles3:.*",
+      "PCDesktopClient": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*",
+      "PCStudioApp": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*"
+    }
   }
 }
