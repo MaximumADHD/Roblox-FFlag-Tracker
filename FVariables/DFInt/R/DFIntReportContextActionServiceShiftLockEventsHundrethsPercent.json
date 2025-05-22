@@ -1,7 +1,17 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacDesktopClient": 100,
-    "PCDesktopClient": 100
+    "LIVE": {
+      "MacDesktopClient": 100,
+      "PCDesktopClient": 100
+    },
+    "zcanary": {
+      "MacDesktopClient": 100,
+      "PCDesktopClient": 100
+    },
+    "zintegration": {
+      "MacDesktopClient": 10000,
+      "PCDesktopClient": 100
+    }
   }
 }
