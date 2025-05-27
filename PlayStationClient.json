@@ -14,6 +14,7 @@
   "DFFlagSolverV2UpdateGcLogicAndDescendantCollection_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T18:31:31",
   "DFFlagSolverV2UpdatePPPLogic_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T18:27:55",
   "DFFlagTrackDPJProgress": true,
+  "DFFlagWarnLongRunningScripts": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
   "DFIntHangDetectionJobTimeoutMs": 15000,
   "DFIntHttpCacheCleanScheduleAfterMs": 30000,
