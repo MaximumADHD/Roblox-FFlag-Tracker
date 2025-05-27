@@ -1,6 +1,7 @@
 {
   "DFFlagAddPlaySessionIdToAutoSelectGuiInvoked": true,
   "DFFlagBoneInstanceApi504": true,
+  "DFFlagCLI_147010_ReportAttributesWithHangTelemetry2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T20:42:38",
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagFlagRolloutTestDynamicBool1": false,
   "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": true,
@@ -23,6 +24,9 @@
   "FFlagAXFixShoesInPurchasedCharacters_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T20:01:27",
   "FFlagChatServiceCompatibilityCheck2_PlaceFilter": "true;97907604952329;100416697650493;140020255467604;81527297895754;97053926302352;72888887992401;114188702067756;122546802658972;97650141830651",
   "FFlagCheckForTCSMigration_PlaceFilter": "true;97907604952329;100416697650493;140020255467604;81527297895754;97053926302352;72888887992401;114188702067756;122546802658972",
+  "FFlagCLI_125587_UnifiedHangMonitor_MacRefactoring4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T20:42:38",
+  "FFlagCLI_125587_UnifiedHangMonitor_WindowsRefactoring4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T20:42:38",
+  "FFlagCLI_147010_RefactorHangReportingLogic_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T20:42:38",
   "FFlagConsoleInExperienceChatExperimentEnabled": true,
   "FFlagContinueSortsListEndpointChange": true,
   "FFlagDevEnableAppNavIXP": true,
