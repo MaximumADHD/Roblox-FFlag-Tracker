@@ -104,6 +104,8 @@
   "DFIntCrashUploadToBacktracePercentage_DataCenterFilter": "100;397;412",
   "DFIntCriticalThermalStatusThreshold": 4,
   "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": 4000,
+  "DFIntHangMonitorNoCheckpoints_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-28T23:44:11",
+  "DFIntHangMonitorReportHangTimeoutMS_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-28T23:44:11",
   "DFIntHttpCacheReportSlowWritesHundredthPercentageSent": 1000,
   "DFIntHttpCacheReportSlowWritesMinDuration": 10000,
   "DFIntImmersiveAdPerfDataEventThrottleHundredthsPercent": 10000,
