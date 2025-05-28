@@ -1,5 +1,4 @@
 {
-  "DFFlagEnableAdditionalGmaDebuggingVariants_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-28T17:49:49",
   "DFFlagEnableCallingStopAdsBeforeClose": true,
   "DFFlagEnablePartnerBillingLogging": true,
   "DFFlagEnableRewardedAdsSessionTrackingFields": true,
@@ -53,9 +52,8 @@
   "DFStringRewardedAdFlowStateToLogPerfData": "SessionEligible,AdAvailabilityCalled,AdNotAvailable,AdAvailable,AdPlayed,AdCompleted",
   "DFStringVNGWebViewUrlAllowlist": "vnggames.net,vnggames.com,vngcorp.mobi,zing.vn",
   "FFlagAdjustAudioLoaderThreadCount": true,
-  "FFlagAllowUseLegacyGameTile2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-28T16:46:54",
   "FFlagAnimationCurveDenseCacheEnabled3": false,
-  "FFlagAppChatEnableFriendConversationModals_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-28T16:45:25",
+  "FFlagAppChatEnableFriendConversationModals": true,
   "FFlagAppChatEnableMessagePreviewContentDisplay": true,
   "FFlagAppChatEnableOneToOneOSAContextCards2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-28T16:52:00",
   "FFlagApplyLaunchContextForNewAccountSwitches": true,
