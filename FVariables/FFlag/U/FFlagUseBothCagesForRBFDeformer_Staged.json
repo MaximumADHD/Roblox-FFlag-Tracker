@@ -1,6 +1,11 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zintegration": "true;SteadyState;10;30;Revert;2025-05-29T19:33:38"
+    "AndroidApp": "true;SteadyState;10;30;Revert;2025-05-29T19:33:38",
+    "iOSApp": "true;SteadyState;10;30;Revert;2025-05-29T19:33:38",
+    "MacDesktopClient": "true;SteadyState;10;30;Revert;2025-05-29T19:33:38",
+    "MacStudioApp": "true;SteadyState;10;30;Revert;2025-05-29T19:33:38",
+    "PCDesktopClient": "true;SteadyState;10;30;Revert;2025-05-29T19:33:38",
+    "PCStudioApp": "true;SteadyState;10;30;Revert;2025-05-29T19:33:38"
   }
 }
