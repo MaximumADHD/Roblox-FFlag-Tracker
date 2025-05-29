@@ -1250,6 +1250,7 @@
   "FIntMininumRequiredMemoryInGB": 2,
   "FIntMininumRequiredMemoryInMB": 1536,
   "FIntMLCodeCompletionTimeRateLimitTimeMs": 1000,
+  "FIntMLCodeCompletionTimeRateLimitTimeMs_Staged": "300;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-29T22:06:30",
   "FIntModelPublishFailAssetIdCountLimit": 50,
   "FIntOcclusionWorkerThreadCount": 4,
   "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent": 10000,
