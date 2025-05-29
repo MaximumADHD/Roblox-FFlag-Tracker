@@ -1,5 +1,6 @@
 {
   "DFFlagAddPlaySessionIdToAutoSelectGuiInvoked": true,
+  "DFFlagEnableGameJoinRetryMinimumWaitTime_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-29T22:29:21",
   "DFFlagFlagRolloutTestDynamicBool1": false,
   "DFFlagGraphicsOptimizationModeMVPExposureEnrollment2": true,
   "DFFlagHangDetectionForceCrash": true,
@@ -37,6 +38,7 @@
   "FFlagEnableBigGameIconInDetailsPage": true,
   "FFlagEnableCentralOverlayForUpsellPrompt": true,
   "FFlagEnableConsolePreparePaymentCheck": true,
+  "FFlagEnableCustomMatchmaking3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-29T22:29:25",
   "FFlagEnableExperienceCoordinator6": true,
   "FFlagEnableExternalBrowserForVPCPrivacyPolicy": true,
   "FFlagEnablePSAuthAndHomepagePrefetch": true,
@@ -46,7 +48,6 @@
   "FFlagExpDetailsUseSelectionBumpers": true,
   "FFlagFireSignalForLegacyWindow_PlaceFilter": "true;97907604952329;100416697650493;140020255467604;81527297895754;97053926302352;72888887992401;114188702067756;122546802658972;97650141830651",
   "FFlagFixALCUsageForPayments": true,
-  "FFlagFixCustomMatchmakingInitOrder_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-29T22:26:11",
   "FFlagFixInExperienceNilPlatformNames": true,
   "FFlagFlagRolloutTestStaticBool17": false,
   "FFlagFlagRolloutTestStaticBool19": false,
