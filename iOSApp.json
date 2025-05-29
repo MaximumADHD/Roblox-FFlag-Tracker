@@ -1,6 +1,7 @@
 {
   "DFFlagEnableCallingStopAdsBeforeClose": true,
   "DFFlagEnableGmaAppPromoAd": true,
+  "DFFlagEnableGmaAppPromoAd_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-29T20:52:02",
   "DFFlagEnablePartnerBillingLogging": true,
   "DFFlagEnableRewardedAdsSessionTrackingFields": true,
   "DFFlagFlagRolloutTestDynamicBool2": false,
@@ -169,6 +170,8 @@
   "FFlagLuaEnableLandingPageTTIMeasurements": true,
   "FFlagLuaEnableLoginAndSignupDifferentiatedStatusValues": true,
   "FFlagLuaEnableShowUpsellMethod2": true,
+  "FFlagLuauCurrentLineBounds": true,
+  "FFlagLuauLoadNoOomThrow": true,
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": true,
   "FFlagLuaVerifiedSignupExperiment2": true,
   "FFlagMergeFakeInputEvents": false,
