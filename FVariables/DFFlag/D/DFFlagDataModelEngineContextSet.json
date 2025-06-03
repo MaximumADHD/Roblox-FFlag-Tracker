@@ -3,8 +3,8 @@
   "Value": {
     "LIVE": {
       "AndroidApp": true,
-      "iOSApp": false,
-      "MacDesktopClient": false,
+      "iOSApp": true,
+      "MacDesktopClient": true,
       "MacStudioApp": true,
       "PCDesktopClient": true,
       "PCStudioApp": true,
@@ -14,14 +14,14 @@
     },
     "zcanary": {
       "AndroidApp": false,
-      "iOSApp": false,
+      "iOSApp": true,
       "MacDesktopClient": false,
       "MacStudioApp": false,
-      "PCDesktopClient": false,
+      "PCDesktopClient": true,
       "PCStudioApp": false,
       "PlayStationClient": true,
       "UWPApp": false,
-      "XboxClient": true
+      "XboxClient": false
     },
     "zintegration": {
       "AndroidApp": false,
@@ -29,7 +29,7 @@
       "MacDesktopClient": false,
       "MacStudioApp": true,
       "PCDesktopClient": false,
-      "PCStudioApp": false,
+      "PCStudioApp": true,
       "PlayStationClient": false,
       "UWPApp": false,
       "XboxClient": true
