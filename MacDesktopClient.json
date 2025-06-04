@@ -54,7 +54,7 @@
   "FFlagRemoveDeeplinkReceivedFromMacWrapper": true,
   "FFlagRenderEnableGlobalInstancingMetal": true,
   "FFlagSimEditableMemoryDestructorLockFix": true,
-  "FFlagSQLiteFullfsync_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-04T22:37:40",
+  "FFlagSQLiteFullfsync": true,
   "FFlagUnifiedCookieProtocolEnabledSticky": true,
   "FFlagUserInputRefactor2": false,
   "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": true,
@@ -65,6 +65,5 @@
   "FStringFeature_CookieStoreMacStickyEnabled": "564;100",
   "FStringFeature_DisableOldCookieManagementSticky": "569;100",
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100",
-  "FStringGameInviteBannerEnabledGameIds": 6173080615,
-  "FStringStudioPlayModeAllowedBuiltins_Staged": "Debugger.rbxm,SelectDragger.rbxm,SimulationStep.rbxm,MoveDragger.rbxm,ScaleDragger.rbxm,RotateDragger.rbxm,Tutorials.rbxm,AttenuationCurveEditor.rbxm,StreamingServiceDispatcherRegistry.rbxm,AudioEqualizerEditor.rbxm,DirectionalCurveEditor.rbxm,ExplorerPlugin.rbxm,PerformanceTools.rbxm,FindReplaceAll.rbxm,ControlsEmulator.rbxm;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-04T22:26:17"
+  "FStringGameInviteBannerEnabledGameIds": 6173080615
 }
