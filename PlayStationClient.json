@@ -86,7 +86,7 @@
   "FFlagUseExternalBrowserForAgeGuidelines10ft": true,
   "FFlagUseLifecycleManagerForPayments": true,
   "FFlagUseLifecycleManagerPSPlatform": true,
-  "FIntDataModelJobMaxStackSizeBytes_Staged": "1048576;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-04T17:00:58",
+  "FIntDataModelJobMaxStackSizeBytes": 1048576,
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": 500,
   "FIntLuaAppHomeFeedProfilePosition": 0,
   "FIntMediumCollectionItemVerticalGap": 24,
