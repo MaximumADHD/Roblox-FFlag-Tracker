@@ -1,19 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "96;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:06:31",
-      "iOSApp": "96;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:06:31",
-      "PlayStationClient": "75;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:03:43",
-      "XboxClient": "75;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:03:43"
-    },
-    "zcanary": {
-      "AndroidApp": "96;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:06:31",
-      "iOSApp": "96;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:06:31"
-    },
-    "zintegration": {
-      "AndroidApp": "96;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:06:31",
-      "iOSApp": "96;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:06:31"
-    }
+    "AndroidApp": "96;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:06:31",
+    "iOSApp": "96;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:06:31"
   }
 }
