@@ -427,6 +427,8 @@
   "FFlagEnableAudioPrefixForAliasOnly": true,
   "FFlagEnableCageEditingTools": true,
   "FFlagEnableCanEditAssetAsync": true,
+  "FFlagEnableCodeAssistExperiment_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T23:09:01",
+  "FFlagEnableCodeAssistExperimentMgr_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T23:09:01",
   "FFlagEnableCodeAssistReporter": true,
   "FFlagEnableCodeAssistStreaming3": true,
   "FFlagEnableConnectivityDiagnosticTelemetry": false,
