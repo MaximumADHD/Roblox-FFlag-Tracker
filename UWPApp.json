@@ -5,6 +5,8 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
+  "FFlagCLI_149235_GenerationServiceSimpleMeshPartExtraction_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:02:00",
+  "FFlagEnableMicMutingDuringRewardedAds_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T17:01:53",
   "FFlagEnableSSABootstrapStandardization": true,
   "FFlagLuaAppOmniFeedService_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-05T18:03:52",
   "FFlagUpdateFmodVorbisDecoder": true,
