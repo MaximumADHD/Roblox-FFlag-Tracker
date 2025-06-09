@@ -1,8 +1,13 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51",
-    "zcanary": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51",
-    "zintegration": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51"
+    "iOSApp": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51",
+    "MacDesktopClient": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51",
+    "MacStudioApp": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51",
+    "PCDesktopClient": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51",
+    "PCStudioApp": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51",
+    "PlayStationClient": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51",
+    "UWPApp": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51",
+    "XboxClient": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-09T18:38:51"
   }
 }
