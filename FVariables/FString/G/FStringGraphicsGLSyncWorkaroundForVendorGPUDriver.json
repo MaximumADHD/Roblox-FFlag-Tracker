@@ -1,6 +1,14 @@
 {
   "Type": "Platforms",
   "Value": {
-    "AndroidApp": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*"
+    "AndroidApp": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*",
+    "iOSApp": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*",
+    "MacDesktopClient": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*",
+    "MacStudioApp": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*",
+    "PCDesktopClient": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*",
+    "PCStudioApp": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*",
+    "PlayStationClient": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*",
+    "UWPApp": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*",
+    "XboxClient": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno (TM) 308:.*|Qualcomm:Adreno (TM) 306:.*|Qualcomm:Adreno (TM) 304:.*"
   }
 }
