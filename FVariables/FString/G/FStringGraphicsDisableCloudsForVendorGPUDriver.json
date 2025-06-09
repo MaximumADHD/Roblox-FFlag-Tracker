@@ -1,14 +1,4 @@
 {
-  "Type": "Platforms",
-  "Value": {
-    "AndroidApp": "PowerVR Rouge GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664",
-    "iOSApp": "PowerVR Rouge GE8300:OpenGL ES 3.2 build 1.11@5516664|Adreno (TM) 308:OpenGL.*|Adreno (TM) 306:OpenGL.*|Adreno (TM) 304:OpenGL.*|Adreno (TM) 640:OpenGL ES 3.2|Adreno (TM) 330:OpenGL.*|Adreno (TM) 305:OpenGL.*|Adreno (TM) 320:OpenGL.*",
-    "MacDesktopClient": "PowerVR Rouge GE8300:OpenGL ES 3.2 build 1.11@5516664|Adreno (TM) 308:OpenGL.*|Adreno (TM) 306:OpenGL.*|Adreno (TM) 304:OpenGL.*|Adreno (TM) 640:OpenGL ES 3.2|Adreno (TM) 330:OpenGL.*|Adreno (TM) 305:OpenGL.*|Adreno (TM) 320:OpenGL.*",
-    "MacStudioApp": "PowerVR Rouge GE8300:OpenGL ES 3.2 build 1.11@5516664|Adreno (TM) 308:OpenGL.*|Adreno (TM) 306:OpenGL.*|Adreno (TM) 304:OpenGL.*|Adreno (TM) 640:OpenGL ES 3.2|Adreno (TM) 330:OpenGL.*|Adreno (TM) 305:OpenGL.*|Adreno (TM) 320:OpenGL.*",
-    "PCDesktopClient": "PowerVR Rouge GE8300:OpenGL ES 3.2 build 1.11@5516664|Adreno (TM) 308:OpenGL.*|Adreno (TM) 306:OpenGL.*|Adreno (TM) 304:OpenGL.*|Adreno (TM) 640:OpenGL ES 3.2|Adreno (TM) 330:OpenGL.*|Adreno (TM) 305:OpenGL.*|Adreno (TM) 320:OpenGL.*",
-    "PCStudioApp": "PowerVR Rouge GE8300:OpenGL ES 3.2 build 1.11@5516664|Adreno (TM) 308:OpenGL.*|Adreno (TM) 306:OpenGL.*|Adreno (TM) 304:OpenGL.*|Adreno (TM) 640:OpenGL ES 3.2|Adreno (TM) 330:OpenGL.*|Adreno (TM) 305:OpenGL.*|Adreno (TM) 320:OpenGL.*",
-    "PlayStationClient": "PowerVR Rouge GE8300:OpenGL ES 3.2 build 1.11@5516664|Adreno (TM) 308:OpenGL.*|Adreno (TM) 306:OpenGL.*|Adreno (TM) 304:OpenGL.*|Adreno (TM) 640:OpenGL ES 3.2|Adreno (TM) 330:OpenGL.*|Adreno (TM) 305:OpenGL.*|Adreno (TM) 320:OpenGL.*",
-    "UWPApp": "PowerVR Rouge GE8300:OpenGL ES 3.2 build 1.11@5516664|Adreno (TM) 308:OpenGL.*|Adreno (TM) 306:OpenGL.*|Adreno (TM) 304:OpenGL.*|Adreno (TM) 640:OpenGL ES 3.2|Adreno (TM) 330:OpenGL.*|Adreno (TM) 305:OpenGL.*|Adreno (TM) 320:OpenGL.*",
-    "XboxClient": "PowerVR Rouge GE8300:OpenGL ES 3.2 build 1.11@5516664|Adreno (TM) 308:OpenGL.*|Adreno (TM) 306:OpenGL.*|Adreno (TM) 304:OpenGL.*|Adreno (TM) 640:OpenGL ES 3.2|Adreno (TM) 330:OpenGL.*|Adreno (TM) 305:OpenGL.*|Adreno (TM) 320:OpenGL.*"
-  }
+  "Type": "Unified",
+  "Value": "PowerVR Rouge GE8300:OpenGL ES 3.2 build 1.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*"
 }
