@@ -3,12 +3,12 @@
   "Value": {
     "AndroidApp": true,
     "iOSApp": true,
-    "MacDesktopClient": true,
-    "MacStudioApp": true,
-    "PCDesktopClient": true,
-    "PCStudioApp": true,
+    "MacDesktopClient": false,
+    "MacStudioApp": false,
+    "PCDesktopClient": false,
+    "PCStudioApp": false,
     "PlayStationClient": false,
-    "UWPApp": true,
+    "UWPApp": false,
     "XboxClient": false
   }
 }
