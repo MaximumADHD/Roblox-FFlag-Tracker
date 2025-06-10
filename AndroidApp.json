@@ -237,6 +237,7 @@
   "FFlagFixNotCallingCallbackAfterBlockingDMDestroy": true,
   "FFlagFixNullPtrCrashInLoadImageBuffer_IXP": "1;Portal.Mmap;Portal.MmapEngineExperiment.V2;699416080;flagbank",
   "FFlagFixTextMismatchAndOverlap": true,
+  "FFlagFixUgcBadPointerForLowMemoryWarning_Staged": "true;SteadyState;10;30;Revert;2025-06-10T19:57:01",
   "FFlagFlagRolloutTestStaticBool20": false,
   "FFlagFriendsCarouseCINavigationUpdate": true,
   "FFlagGLES3_0EnableCBs2": true,
