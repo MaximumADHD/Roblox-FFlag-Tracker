@@ -62,6 +62,7 @@
   "DFFlagHttpDisableSslReleaseBuffers_DataCenterFilter": "true;265;370;295",
   "DFFlagHttpFixUnfinishedBody_IXP": "1;Portal.Mmap;Portal.MmapEngineExperiment.V2;699416080;flagbank",
   "DFFlagHttpReportWhenAppSuspended": true,
+  "DFFlagHttpThrottleEarlierHandling_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-11T21:54:45",
   "DFFlagNumOpenFilesAndroid": false,
   "DFFlagPacketQueueTime": true,
   "DFFlagPerformanceControlAddMemoryPercentageTelemetry": true,
