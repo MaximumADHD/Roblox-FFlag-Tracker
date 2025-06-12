@@ -6,6 +6,8 @@
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
   "FFlagEnableSSABootstrapStandardization": true,
+  "FFlagEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpOverrideEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-11T23:57:12",
+  "FFlagEngineVoiceWebrtcRobloxNeteqDynamicMemoryIxpOverrideEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-11T23:57:08",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FFlagUwpMarshalStoreErrors": true,
