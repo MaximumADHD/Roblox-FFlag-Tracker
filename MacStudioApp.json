@@ -678,6 +678,7 @@
   "FFlagLuauDfgIfBlocksShouldRespectControlFlow": true,
   "FFlagLuauDfgScopeStackNotNull": true,
   "FFlagLuauDfgScopeStackTrueReset": true,
+  "FFlagLuauDisablePrimitiveInferenceInLargeTables_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-13T17:24:11",
   "FFlagLuauDoNotAddUpvalueTypesToLocalType": true,
   "FFlagLuauDoNotGeneralizeInTypeFunctions": true,
   "FFlagLuauDoNotLeakNilInRefinement": true,
