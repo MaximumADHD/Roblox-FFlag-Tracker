@@ -1314,6 +1314,7 @@
   "FIntLuauTypeInferTypePackLoopLimit": 5000,
   "FIntMininumRequiredMemoryInGB": 2,
   "FIntMininumRequiredMemoryInMB": 1536,
+  "FIntMininumRequiredMemoryInMB_Staged": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-20T18:09:22",
   "FIntMLCodeCompletionTimeRateLimitTimeMs": 300,
   "FIntModelPublishFailAssetIdCountLimit": 50,
   "FIntOcclusionWorkerThreadCount": 4,
