@@ -211,6 +211,8 @@
   "FFlagLuaEnableLoginAndSignupDifferentiatedStatusValues": true,
   "FFlagLuaEnableShowUpsellMethod2": true,
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": true,
+  "FFlagLuauSubtypingCheckFunctionGenericCounts_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-23T17:06:19",
+  "FFlagLuauUpdateGetMetatableTypeSignature_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-23T17:06:21",
   "FFlagLuaVerifiedSignupExperiment2": true,
   "FFlagMergeFakeInputEvents": false,
   "FFlagMicroprofileGameSettingsFix": true,
