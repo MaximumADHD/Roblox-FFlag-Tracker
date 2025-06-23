@@ -72,6 +72,7 @@
   "DFFlagPlayerConfigurerRunLMSTest": true,
   "DFFlagPredictedOOM": true,
   "DFFlagRakNetEnablePoll": true,
+  "DFFlagRakNetSignalThreadExitReliably_Staged": "true;SteadyState;10;30;Revert;2025-06-23T19:53:52",
   "DFFlagRbxStorageEnableSlowInitSkipLoadKeys_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-23T19:07:29",
   "DFFlagReportAppSuspended": false,
   "DFFlagReportDeviceNameInCrashes": true,
