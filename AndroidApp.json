@@ -190,6 +190,7 @@
   "FeatureDeliveryLoggingAndroidThrottlingHundredthPercentage": 10000,
   "FFlagAndroidEnableQoS": true,
   "FFlagAndroidEnableTaskSchedulerHangMonitor": true,
+  "FFlagAndroidTestNativeFlagBoolean_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-24T23:31:30",
   "FFlagAndroidTrimMemoryCounters": true,
   "FFlagAssetReaderSetBasePath": true,
   "FFlagAXTileSizeIXPEnabled": true,
