@@ -731,7 +731,7 @@
   "FFlagLuauNonStrictVisitorImprovements": true,
   "FFlagLuauNormalizationCatchMetatableCycles": true,
   "FFlagLuauNormalizationIntersectTablesPreservesExternTypes": true,
-  "FFlagLuauNormalizationReorderFreeTypeIntersect_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-25T16:03:24",
+  "FFlagLuauNormalizationReorderFreeTypeIntersect": true,
   "FFlagLuauOptimizeFalsyAndTruthyIntersect": true,
   "FFlagLuauPrecalculateMutatedFreeTypes2": true,
   "FFlagLuauPreprocessTypestatedArgument": true,
