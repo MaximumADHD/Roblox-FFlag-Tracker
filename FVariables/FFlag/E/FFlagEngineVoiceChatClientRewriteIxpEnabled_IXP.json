@@ -1,7 +1,11 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zcanary": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.2;1577877099;dev_controlled",
-    "zintegration": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.2;1577877099;dev_controlled"
+    "AndroidApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.2;1577877099;dev_controlled",
+    "iOSApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.2;1577877099;dev_controlled",
+    "MacDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.2;1577877099;dev_controlled",
+    "MacStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.2;1577877099;dev_controlled",
+    "PCDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.2;1577877099;dev_controlled",
+    "PCStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.2;1577877099;dev_controlled"
   }
 }
