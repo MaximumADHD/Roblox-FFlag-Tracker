@@ -23,6 +23,7 @@
   "DetectBackgroundLaunches": true,
   "DetectProcessReuse": true,
   "DFFlagAddProfilerScopesForPerformanceControlStreaming_IXP": "1;HarmonyExposure;Harmony.IXPFlags.ManualExposureTest;434264036;dev_controlled",
+  "DFFlagAddToDecryptionTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T22:06:35",
   "DFFlagAndroidDebugHeapTelemetry": true,
   "DFFlagAndroidOomScoreTelemetry": true,
   "DFFlagBoneInstanceApi504": true,
