@@ -1,5 +1,4 @@
 {
-  "DFFlagAddToDecryptionTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T22:06:35",
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
   "DFFlagHttpDetachCacheCleanThread": true,
@@ -54,6 +53,7 @@
   "FFlagFriendCarouselGetCarouseListSorting": true,
   "FFlagFriendCarouselHas10ftPolicies": true,
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": true,
+  "FFlagFriendsRenameSocgraph_6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T23:15:30",
   "FFlagGamepadNavigationDialogABTest2": true,
   "FFlagGuardTermOfUseByIsLinkAllowed": true,
   "FFlagIEMFocusNavToButtons": true,
