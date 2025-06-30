@@ -276,6 +276,7 @@
   "FFlagPasskeySignupEnabled5": true,
   "FFlagPerformanceControlAddSupportForOomBox": true,
   "FFlagPerformanceControlAddSupportForOomBox2": true,
+  "FFlagPerformanceControlAddSupportForOomBox3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T17:52:49",
   "FFlagPerformanceControlLimitScopeOfSingleSurfaceAppTunable_IXP": "1;HarmonyExposure;HarmonyExposure.ReverseFlagTestForLimitScopeOfSingleSurfaceAppTunable;67377802;flagbank",
   "FFlagPerformanceControlOomBoxEnabled_IXP": "1;HarmonyExposure;HarmonyExposure.AndroidBoostedOomBoxV1;868835344;flagbank",
   "FFlagPerformanceControlSendIxpIdToEbt": true,
