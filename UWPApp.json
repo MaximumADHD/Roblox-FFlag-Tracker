@@ -1,6 +1,7 @@
 {
   "DFFlagBoneInstanceApi504": true,
   "DFFlagFlagRolloutTestDynamicBool3": true,
+  "DFFlagJsonWriterWritesNanAndInfAsString_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T23:33:13",
   "DFFlagPauseSurfaceControllerBeforeSwappingDataModel2": true,
   "DFFlagReportServerSecurityDelayStats_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T22:46:18",
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
@@ -11,9 +12,8 @@
   "FFlagFriendsRenameSocgraph_6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T23:15:30",
   "FFlagSocialLuaAnalyticsTelemetryEnableCtx_1_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T23:08:18",
   "FFlagTCAnalytics_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T23:21:37",
-  "FFlagTelemetryDataReArchTransmission9_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;159697246;2025-06-30T22:29:02",
+  "FFlagTelemetryUseStandardNanAndInf2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-30T23:33:35",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
-  "FIntTelemetryDataReArchTransmissionRollout_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;159697246;2025-06-30T22:29:02",
   "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
 }
