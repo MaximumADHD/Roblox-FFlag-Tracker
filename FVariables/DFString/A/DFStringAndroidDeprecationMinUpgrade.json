@@ -1,38 +1,4 @@
 {
-  "Type": "ChannelsAndPlatforms",
-  "Value": {
-    "LIVE": {
-      "AndroidApp": 23,
-      "iOSApp": 23,
-      "MacDesktopClient": 26,
-      "MacStudioApp": 23,
-      "PCDesktopClient": 26,
-      "PCStudioApp": 26,
-      "PlayStationClient": 23,
-      "UWPApp": 23,
-      "XboxClient": 26
-    },
-    "zcanary": {
-      "AndroidApp": 23,
-      "iOSApp": 23,
-      "MacDesktopClient": 23,
-      "MacStudioApp": 23,
-      "PCDesktopClient": 23,
-      "PCStudioApp": 23,
-      "PlayStationClient": 23,
-      "UWPApp": 23,
-      "XboxClient": 23
-    },
-    "zintegration": {
-      "AndroidApp": 23,
-      "iOSApp": 23,
-      "MacDesktopClient": 23,
-      "MacStudioApp": 23,
-      "PCDesktopClient": 23,
-      "PCStudioApp": 23,
-      "PlayStationClient": 23,
-      "UWPApp": 23,
-      "XboxClient": 23
-    }
-  }
+  "Type": "Unified",
+  "Value": 23
 }
