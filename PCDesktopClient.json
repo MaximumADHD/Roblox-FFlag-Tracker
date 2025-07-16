@@ -2653,6 +2653,7 @@
   "DFIntHttpServiceTransportFailureInfluxHundrethsPercentage": 10000,
   "DFIntHttpStatsDnsErrorInfluxReportsPerMillion": 1000,
   "DFIntHttpStatsErrorInfluxReportsPerMillion": 500,
+  "DFIntHttpThrottlingQualifyingResponseThrottle": 10,
   "DFIntHttpThrottlingQualifyingResponseThrottle_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-16T22:06:14",
   "DFIntHumanoidMassScaleThresholdThou": 1000,
   "DFIntHumanoidMassScaleThresholdThou2": 1000,
