@@ -65,6 +65,7 @@
   "DFIntContentProviderReportBlockedRequestsRate": 500,
   "DFIntCppErrorReporterReportDirectlyHundredthPercent": 10000,
   "DFIntGenerationServiceEventsThrottleHundredthsPercent": 1000,
+  "DFIntGeometryHullVolumeDiffHundredthsAllowance_Staged": "95;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-16T22:39:35",
   "DFIntHttpParallelLimit_RequestHttpService": 8,
   "DFIntHttpParallelLimit_RequestHttpServiceStudioPlugins": 5,
   "DFIntHttpResponseDefaultTimeoutMillis": 120000,
