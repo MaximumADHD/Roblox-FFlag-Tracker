@@ -651,7 +651,7 @@
   "FFlagLuauAutocompleteUnionCopyPreviousSeen": true,
   "FFlagLuauAutocompleteUseLimits": true,
   "FFlagLuauAvoidDoubleNegation": true,
-  "FFlagLuauAvoidExcessiveTypeCopying_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-14T23:29:35",
+  "FFlagLuauAvoidExcessiveTypeCopying": true,
   "FFlagLuauAvoidGenericsLeakingDuringFunctionCallCheck": true,
   "FFlagLuauBidirectionalFailsafe": true,
   "FFlagLuauBidirectionalInferenceCollectIndexerTypes": true,
