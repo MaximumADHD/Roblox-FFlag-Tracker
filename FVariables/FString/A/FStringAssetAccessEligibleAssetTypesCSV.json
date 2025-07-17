@@ -1,38 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "Audio,Video,Mesh,Image",
-      "iOSApp": "Audio,Video,Mesh,Image",
-      "MacDesktopClient": "Audio,Video,Mesh,Image",
-      "MacStudioApp": "Audio,Video,Mesh,Image",
-      "PCDesktopClient": "Audio,Video,Mesh,Image,TexturePack",
-      "PCStudioApp": "Audio,Video,Mesh,Image",
-      "PlayStationClient": "Audio,Video,Mesh,Image",
-      "UWPApp": "Audio,Video,Mesh,Image",
-      "XboxClient": "Audio,Video,Mesh,Image"
-    },
-    "zcanary": {
-      "AndroidApp": "Audio,Video,Mesh,Image,TexturePack",
-      "iOSApp": "Audio,Video,Mesh,Image",
-      "MacDesktopClient": "Audio,Video,Mesh,Image,TexturePack",
-      "MacStudioApp": "Audio,Video,Mesh,Image",
-      "PCDesktopClient": "Audio,Video,Mesh,Image",
-      "PCStudioApp": "Audio,Video,Mesh,Image",
-      "PlayStationClient": "Audio,Video,Mesh,Image,TexturePack",
-      "UWPApp": "Audio,Video,Mesh,Image",
-      "XboxClient": "Audio,Video,Mesh,Image"
-    },
-    "zintegration": {
-      "AndroidApp": "Audio,Video,Mesh,Image,TexturePack",
-      "iOSApp": "Audio,Video,Mesh,Image",
-      "MacDesktopClient": "Audio,Video,Mesh,Image,TexturePack",
-      "MacStudioApp": "Audio,Video,Mesh,Image",
-      "PCDesktopClient": "Audio,Video,Mesh,Image,TexturePack",
-      "PCStudioApp": "Audio,Video,Mesh,Image",
-      "PlayStationClient": "Audio,Video,Mesh,Image,TexturePack",
-      "UWPApp": "Audio,Video,Mesh,Image,TexturePack",
-      "XboxClient": "Audio,Video,Mesh,Image,TexturePack"
-    }
+    "AndroidApp": "Audio,Video,Mesh,Image,TexturePack",
+    "iOSApp": "Audio,Video,Mesh,Image,TexturePack",
+    "MacDesktopClient": "Audio,Video,Mesh,Image,TexturePack",
+    "MacStudioApp": "Audio,Video,Mesh,Image",
+    "PCDesktopClient": "Audio,Video,Mesh,Image,TexturePack",
+    "PCStudioApp": "Audio,Video,Mesh,Image",
+    "PlayStationClient": "Audio,Video,Mesh,Image,TexturePack",
+    "UWPApp": "Audio,Video,Mesh,Image,TexturePack",
+    "XboxClient": "Audio,Video,Mesh,Image,TexturePack"
   }
 }
