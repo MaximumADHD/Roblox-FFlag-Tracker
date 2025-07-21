@@ -1,9 +1,7 @@
 {
   "DFFlagBoneInstanceApi504": true,
-  "DFFlagFixAccoutrementWeldCreationForCameras_Staged": "true;SteadyState;10;30;Revert;2025-07-21T18:02:25",
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
-  "DFFlagSimCSG4UseSortMeshes_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-21T17:31:51",
   "DFFlagTrackDPJProgress": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
@@ -60,6 +58,7 @@
   "FFlagRespawnActionChromeShortcutTelemetry": true,
   "FFlagRespawnChromeShortcutTelemetry": true,
   "FFlagRestrictLimited2ToSoothsayers": true,
+  "FFlagRSVPPromptUseConsistentBadgeComponent_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-21T18:37:43",
   "FFlagSduiOmniFeedItemLogDelay_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-21T17:49:13",
   "FFlagSystemErrorMessageLocalize": true,
   "FFlagTenFootUiSupportSortHeaderTooltip2": true,
