@@ -1,38 +1,4 @@
 {
-  "Type": "ChannelsAndPlatforms",
-  "Value": {
-    "LIVE": {
-      "AndroidApp": "MilkyWayStore",
-      "iOSApp": "MilkyWayStore",
-      "MacDesktopClient": "MilkyWayStore",
-      "MacStudioApp": "MilkyWayStore",
-      "PCDesktopClient": "MilkyWayStore",
-      "PCStudioApp": "MilkyWayStore",
-      "PlayStationClient": "MilkyWayStore",
-      "UWPApp": "MilkyWayStore",
-      "XboxClient": "MilkyWayStore"
-    },
-    "zcanary": {
-      "AndroidApp": "MilkyWayStore",
-      "iOSApp": "MilkyWayStore",
-      "MacDesktopClient": "MilkyWayStore",
-      "MacStudioApp": "MilkyWayStore",
-      "PCDesktopClient": "MilkyWayStore",
-      "PCStudioApp": "MilkyWayStore",
-      "PlayStationClient": "MilkyWayStore",
-      "UWPApp": "MilkyWayStore",
-      "XboxClient": "MilkyWayStore"
-    },
-    "zintegration": {
-      "AndroidApp": "MilkyWayStore",
-      "iOSApp": "MilkyWayStore",
-      "MacDesktopClient": "MilkyWayStore",
-      "MacStudioApp": "SamsungGalaxyStore",
-      "PCDesktopClient": "MilkyWayStore",
-      "PCStudioApp": "MilkyWayStore",
-      "PlayStationClient": "MilkyWayStore",
-      "UWPApp": "MilkyWayStore",
-      "XboxClient": "MilkyWayStore"
-    }
-  }
+  "Type": "Unified",
+  "Value": "MilkyWayStore"
 }
