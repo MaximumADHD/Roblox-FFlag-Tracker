@@ -286,7 +286,7 @@
   "FFlagCLI_146266_GenerationServiceTelemetry": true,
   "FFlagCLI_154965_GenerationServiceAllowNestedOptions": true,
   "FFlagCLI_154965_GenerationServiceAllowVectorOptions": true,
-  "FFlagCLI_158610_BroadPhaseReplaceVectorOfPairsWithSet_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-22T18:25:57",
+  "FFlagCLI_158610_BroadPhaseReplaceVectorOfPairsWithSet": true,
   "FFlagClientFixCreatorIdValueForSimulation": true,
   "FFlagCloudEditConnectionClosedTelemetry": true,
   "FFlagCodeAssistFeature": true,
