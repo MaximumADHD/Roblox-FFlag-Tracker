@@ -1,14 +1,4 @@
 {
-  "Type": "Platforms",
-  "Value": {
-    "AndroidApp": "Audio,Video,Mesh,Image,TexturePack",
-    "iOSApp": "Audio,Video,Mesh,Image,TexturePack",
-    "MacDesktopClient": "Audio,Video,Mesh,Image,TexturePack",
-    "MacStudioApp": "Audio,Video,Mesh,Image",
-    "PCDesktopClient": "Audio,Video,Mesh,Image,TexturePack",
-    "PCStudioApp": "Audio,Video,Mesh,Image",
-    "PlayStationClient": "Audio,Video,Mesh,Image,TexturePack",
-    "UWPApp": "Audio,Video,Mesh,Image,TexturePack",
-    "XboxClient": "Audio,Video,Mesh,Image,TexturePack"
-  }
+  "Type": "Unified",
+  "Value": "Audio,Video,Mesh,Image,TexturePack,Animation"
 }
