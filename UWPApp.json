@@ -1,10 +1,17 @@
 {
+  "DFFlagBindToMessageWhileRequiringError": true,
   "DFFlagBoneInstanceApi504": true,
+  "DFFlagMakeRaycastFunctionsReturnOptional": true,
+  "DFFlagParallelLuaCachedThreadMap": true,
+  "DFFlagParallelLuaCompareVMsIfActorsAreNull": true,
   "DFFlagPauseSurfaceControllerBeforeSwappingDataModel2": true,
+  "DFFlagSendTagRemovalSignalOnlyWhenActuallyRemoved2": true,
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
   "FFlagEnableSSABootstrapStandardization": true,
+  "FFlagProfilePlatformFixOrigin": true,
+  "FFlagProfilePlatformRemoveNamesFetch": true,
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
