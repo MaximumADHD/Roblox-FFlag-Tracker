@@ -1,4 +1,23 @@
 {
-  "Type": "Unified",
-  "Value": true
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "MacClientBootstrapper": true,
+      "MacStudioBootstrapper": false,
+      "PCClientBootstrapper": false,
+      "PCStudioBootstrapper": false
+    },
+    "zcanary": {
+      "MacClientBootstrapper": false,
+      "MacStudioBootstrapper": false,
+      "PCClientBootstrapper": false,
+      "PCStudioBootstrapper": false
+    },
+    "zintegration": {
+      "MacClientBootstrapper": false,
+      "MacStudioBootstrapper": false,
+      "PCClientBootstrapper": false,
+      "PCStudioBootstrapper": false
+    }
+  }
 }
