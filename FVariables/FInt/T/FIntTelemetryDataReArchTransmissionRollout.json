@@ -1,4 +1,18 @@
 {
-  "Type": "Unified",
-  "Value": 10
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": 10,
+    "iOSApp": 10,
+    "MacClientBootstrapper": 25,
+    "MacDesktopClient": 25,
+    "MacStudioApp": 25,
+    "MacStudioBootstrapper": 25,
+    "PCClientBootstrapper": 25,
+    "PCDesktopClient": 25,
+    "PCStudioApp": 25,
+    "PCStudioBootstrapper": 25,
+    "PlayStationClient": 10,
+    "UWPApp": 10,
+    "XboxClient": 10
+  }
 }
