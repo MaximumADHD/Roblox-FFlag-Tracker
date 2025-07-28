@@ -1,8 +1,8 @@
 {
   "DFFlagBoneInstanceApi504": true,
-  "DFFlagCDCVerifyTransformIdentity_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-28T21:15:36",
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
+  "DFFlagSQLiteThrottleCorruptErrors_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-28T22:16:04",
   "DFFlagTrackDPJProgress": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
@@ -55,8 +55,6 @@
   "FFlagRespawnActionChromeShortcutTelemetry": true,
   "FFlagRespawnChromeShortcutTelemetry": true,
   "FFlagRestrictLimited2ToSoothsayers": true,
-  "FFlagSduiGameTileFooterProps_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-28T21:15:04",
-  "FFlagSduiTileFooterGaps_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-28T21:14:23",
   "FFlagSduiTileLayoutEffectForPreload_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-28T21:18:53",
   "FFlagSystemErrorMessageLocalize": true,
   "FFlagTenFootUiSupportSortHeaderTooltip2": true,
