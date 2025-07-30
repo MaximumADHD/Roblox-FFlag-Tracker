@@ -99,6 +99,7 @@
   "DFIntScriptEditorLazyTelemetryReporterPeriodSec": 60,
   "DFIntSimCloseVoxelBadMeshTelemetryHundredthsPercentage": 100,
   "DFIntSimStepPhysicsStatsHundredthsPercentage": 10000,
+  "DFIntSQLiteSlowChkPointThreshold_Staged": "20000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-30T16:55:11",
   "DFIntStudioBetaFeatureEnrollmentThrottleHundrethsPercent": 10000,
   "DFIntStudioInteractionTelemetryThrottleHundredthsPercent": 1000,
   "DFIntStudioMemoryTelemetryPercent": 200,
