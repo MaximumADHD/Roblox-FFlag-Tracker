@@ -83,6 +83,7 @@
   "FFlagUseLifecycleManagerForPayments": true,
   "FFlagUseLifecycleManagerPSPlatform": true,
   "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-30T18:07:44",
+  "FFlagVoiceChatClientRewriteDisableVCSDevice_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-30T18:45:34",
   "FIntDataModelJobMaxStackSizeBytes": 1048576,
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": 500,
   "FIntLuaAppHomeFeedProfilePosition": 0,
