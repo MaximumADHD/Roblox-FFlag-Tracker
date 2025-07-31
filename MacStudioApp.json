@@ -1310,6 +1310,8 @@
   "FFlagVREmulatorFullRelease5": true,
   "FFlagWebBrowserEnablePreInitialize": false,
   "FFlagWebBrowserPreloadSTM6221Enabled": false,
+  "FFlagWebBrowserSTM6363FixHangsEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-31T17:31:12",
+  "FFlagWebBrowserSTM6363NullGuardEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-07-31T17:31:12",
   "FIntAmrAssetFetchCount": 100000,
   "FIntAssetsUploadUseMultiPartSizeThresholdBytes": 7340032,
   "FIntAssistantSyntaxHighlightingLimit": 1800,
