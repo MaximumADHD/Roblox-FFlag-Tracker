@@ -85,6 +85,7 @@
   "DFIntPacakgeServiceReportFailedRequestsRate": 10000,
   "DFIntPropertyUsageEventThrottleHundredthsPercent": 500,
   "DFIntReportCloudEditJoinFailureReportPerMyriad": 10000,
+  "DFIntRestrictedReadStatsHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-01T16:39:30",
   "DFIntRobloxTelemetryConnectionIndicatorSaveFailure": 10000,
   "DFIntRobloxTelemetryTeamCreateRecoveryFileFailure": 10000,
   "DFIntScriptEditorLazyTelemetryReporterPeriodMSec": 60000,
