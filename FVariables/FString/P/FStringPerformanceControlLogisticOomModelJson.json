@@ -1,6 +1,6 @@
 {
   "Type": "Platforms",
   "Value": {
-    "AndroidApp": "{\\\"oomPredictionThreshold\\\":0.4594403398686916,\\\"oddsOfOomExpression\\\":\\\"-4.148502271073587 + 0.0215829485928127 * <int>MemoryStats::androidOomScore + 3.52736051625913 * <uint64_t>MemoryStats::totalFreeSwapBytes / <uint64_t>MemoryStats::totalSwapBytes + -23.161083346765377 * <uint64_t>MemoryStats::androidFreeMemoryBytes / <uint64_t>MemoryStats::totalMemoryBytes\\\",\\\"memoryBufferShiftExpression\\\":\\\"(<uint64_t>MemoryStats::androidFreeMemoryBytes / <uint64_t>MemoryStats::totalMemoryBytes - (-0.7777461827 - (-4.148502271073587 + 0.0215829485928127 * <int>MemoryStats::androidOomScore + 3.52736051625913 * <uint64_t>MemoryStats::totalFreeSwapBytes / <uint64_t>MemoryStats::totalSwapBytes)) / -23.161083346765377) * <uint64_t>MemoryStats::totalMemoryBytes\\\"}"
+    "AndroidApp": ""
   }
 }
