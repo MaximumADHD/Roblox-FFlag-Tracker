@@ -289,6 +289,7 @@
   "FFlagPerformanceControlEnableLogisticOomModel_Staged": "true;SteadyState;10;30;Revert;2025-08-04T20:38:18",
   "FFlagPerformanceControlEnablePortTextureManagerTrimMemory_IXP": "1;HarmonyExposure;HarmonyExposure.Android.TrimMemoryRemapping.PostUI;2055893897;flagbank",
   "FFlagPerformanceControlLimitScopeOfSingleSurfaceAppTunable_IXP": "1;HarmonyExposure;HarmonyExposure.ReverseFlagTestForLimitScopeOfSingleSurfaceAppTunable;67377802;flagbank",
+  "FFlagPerformanceControlLogisticOomModelMemoryBufferShift_Staged": "true;SteadyState;10;30;Revert;2025-08-04T20:41:23",
   "FFlagPerformanceControlLogisticOomModelTelemetry": true,
   "FFlagPerformanceControlOomBoxEnabled_IXP": "1;HarmonyExposure;HarmonyExposure.AndroidBoostedOomBoxV1;868835344;flagbank",
   "FFlagPerformanceControlOomProbabilityTunableSelection_IXP": "1;HarmonyExposure;HarmonyExposure.BoostedOomProbabilityMemoryEffectValue.Motorola.V4.Flags;1314332976;dev_controlled",
