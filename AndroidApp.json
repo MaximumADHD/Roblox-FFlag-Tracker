@@ -333,7 +333,7 @@
   "FFlagVideoCaptureDurationFromEncodedTimestamps": true,
   "FFlagVideoCaptureEofOnEncoderError": true,
   "FFlagVideoCaptureSelfTest": true,
-  "FFlagVideoCaptureSelfTestDontPersistTempFailures_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-04T21:53:10",
+  "FFlagVideoCaptureSelfTestDontPersistTempFailures": true,
   "FFlagVideoCaptureStopOnAppHide": true,
   "FFlagVideoFixEncryptedAlignment": true,
   "FFlagVideoManagerReportTextureType": true,
