@@ -283,6 +283,7 @@
   "FIntmi_option_purge_delay": 0,
   "FIntRbxStorageRemoveLargeDbThresholdMB": 800,
   "FIntSessionReporterInfluxHundredthsPercentage": 100,
+  "FIntTelemetryDataReArchTransmissionRollout_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T22:14:18",
   "FIntTextureUseACRHundredthPercent_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-05T21:32:32",
   "FIntUpsellSuggestionsAPIMaxPackagesV2": 1,
   "FIntUpsellSuggestionsAPIMaxPackagesV3": 2,
