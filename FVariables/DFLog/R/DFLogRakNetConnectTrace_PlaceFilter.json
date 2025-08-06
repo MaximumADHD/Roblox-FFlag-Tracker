@@ -1,4 +1,38 @@
 {
-  "Type": "Unified",
-  "Value": "Verbose,9;5757772154;18208155774"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "Verbose,9;5757772154;18208155774;86795605773744",
+      "iOSApp": "Verbose,9;5757772154;18208155774",
+      "MacDesktopClient": "Verbose,9;5757772154;18208155774",
+      "MacStudioApp": "Verbose,9;5757772154;18208155774",
+      "PCDesktopClient": "Verbose,9;5757772154;18208155774;86795605773744",
+      "PCStudioApp": "Verbose,9;5757772154;18208155774",
+      "PlayStationClient": "Verbose,9;5757772154;18208155774",
+      "UWPApp": "Verbose,9;5757772154;18208155774",
+      "XboxClient": "Verbose,9;5757772154;18208155774"
+    },
+    "zcanary": {
+      "AndroidApp": "Verbose,9;5757772154;18208155774;86795605773744",
+      "iOSApp": "Verbose,9;5757772154;18208155774;86795605773744",
+      "MacDesktopClient": "Verbose,9;5757772154;18208155774",
+      "MacStudioApp": "Verbose,9;5757772154;18208155774",
+      "PCDesktopClient": "Verbose,9;5757772154;18208155774",
+      "PCStudioApp": "Verbose,9;5757772154;18208155774;86795605773744",
+      "PlayStationClient": "Verbose,9;5757772154;18208155774;86795605773744",
+      "UWPApp": "Verbose,9;5757772154;18208155774",
+      "XboxClient": "Verbose,9;5757772154;18208155774;86795605773744"
+    },
+    "zintegration": {
+      "AndroidApp": "Verbose,9;5757772154;18208155774;86795605773744",
+      "iOSApp": "Verbose,9;5757772154;18208155774",
+      "MacDesktopClient": "Verbose,9;5757772154;18208155774;86795605773744",
+      "MacStudioApp": "Verbose,9;5757772154;18208155774;86795605773744",
+      "PCDesktopClient": "Verbose,9;5757772154;18208155774",
+      "PCStudioApp": "Verbose,9;5757772154;18208155774;86795605773744",
+      "PlayStationClient": "Verbose,9;5757772154;18208155774",
+      "UWPApp": "Verbose,9;5757772154;18208155774;86795605773744",
+      "XboxClient": "Verbose,9;5757772154;18208155774"
+    }
+  }
 }
