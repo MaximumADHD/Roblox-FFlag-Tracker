@@ -503,7 +503,7 @@
   "FFlagExtendedMetricsOnPlacePublishPackage": true,
   "FFlagFeatureMigrateStylingV2": true,
   "FFlagFFlagAutoSetupMissingDynamicHeadAllowed": true,
-  "FFlagFileSyncServiceUseSharedWatcher_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-06T21:21:09",
+  "FFlagFileSyncServiceUseSharedWatcher": true,
   "FFlagFixActivityHistoryJSONParseError2": true,
   "FFlagFixAICOOnFailureCrash": true,
   "FFlagFixAudioTagTranslations": true,
