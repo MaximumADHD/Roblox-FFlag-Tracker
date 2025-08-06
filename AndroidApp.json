@@ -72,7 +72,7 @@
   "DFFlagReportAppSuspended": false,
   "DFFlagResetAdInEnableGmaVideoAdsMemoryCheck": true,
   "DFFlagRestartAppOnOpenGLMemoryLeak": false,
-  "DFFlagRvCodecCleanupInDestructor_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-06T19:24:32",
+  "DFFlagRvCodecCleanupInDestructor": true,
   "DFFlagSendOpenFileCountInPerfData": true,
   "DFFlagStoreUniqueIdInferredCrashSystem": true,
   "DFFlagSwitchToMemAvailableForLinux_IXP": "1;HarmonyExposure;HarmonyExposure.Android.TextureQuality.MultipleVariantsV3;866555761;flagbank",
