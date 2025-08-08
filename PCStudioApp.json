@@ -1025,7 +1025,7 @@
   "FFlagStudioErrorReporterFixNameFiltering": true,
   "FFlagStudioExpandMMEndMetrics": true,
   "FFlagStudioFetchABTestConfigAsync": true,
-  "FFlagStudioFireNonRepKeyEventOnStateChange_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-08T18:19:06",
+  "FFlagStudioFireNonRepKeyEventOnStateChange": true,
   "FFlagStudioFixAddClientSpinboxInitialValue": true,
   "FFlagStudioFixBadRenderModes": true,
   "FFlagStudioFixBuggyPasteActions": true,
