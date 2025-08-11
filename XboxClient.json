@@ -2,6 +2,8 @@
   "DFFlagBoneInstanceApi504": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
+  "DFFlagHttpCurlHttp2Enabled2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1805835246;2025-08-11T21:15:33",
+  "DFFlagHttpCurlPipeWaitEnabled2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1805835246;2025-08-11T21:15:33",
   "DFFlagTrackDPJProgress": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
