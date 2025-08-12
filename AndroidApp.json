@@ -356,6 +356,8 @@
   "FIntMobileAdvertisingIdCacheDurationInSeconds": 86400,
   "FIntPerformanceControlBoostedOomProbabilityThresholdHundredths": 5000,
   "FIntPerformanceControlBoostedOomProbabilityThresholdHundredths_IXP": "1;HarmonyExposure;HarmonyExposure.AndroidBoostedOomBoxV1;868835344;flagbank",
+  "FIntPerformanceControlLmkdCurrentFreeMemCoef_Staged": "-581841059;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-12T17:34:53",
+  "FIntPerformanceControlLmkdFreeMemScalingFactor_Staged": "1000000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-12T17:33:27",
   "FIntPerformanceControlLmkdMaxMemBufferSize_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1191277958;2025-08-12T16:52:14",
   "FIntPerformanceControlLmkdMaxMemDeltaBufferSize_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1191277958;2025-08-12T16:52:14",
   "FIntPerformanceControlLmkdMaxSlopeBufferSize_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-12T17:29:45",
