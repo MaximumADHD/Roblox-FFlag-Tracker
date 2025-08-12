@@ -295,7 +295,7 @@
   "FFlagPerformanceControlEnableLogisticOomModel": true,
   "FFlagPerformanceControlEnablePortTextureManagerTrimMemory_IXP": "1;HarmonyExposure;HarmonyExposure.Android.TrimMemoryRemapping.PostUI;2055893897;flagbank",
   "FFlagPerformanceControlLimitScopeOfSingleSurfaceAppTunable_IXP": "1;HarmonyExposure;HarmonyExposure.ReverseFlagTestForLimitScopeOfSingleSurfaceAppTunable;67377802;flagbank",
-  "FFlagPerformanceControlLmkdDebugReporting_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-12T17:56:01",
+  "FFlagPerformanceControlLmkdDebugReporting": true,
   "FFlagPerformanceControlLmkdPredictorEnabled5_IXP": "1;HarmonyExposure;HarmonyExposure.LmkdAwakePercentageHarmonyIntegration.V4;2133357242;flagbank",
   "FFlagPerformanceControlLmkdPredictorEnabled6_IXP": "1;HarmonyExposure;HarmonyExposure.LmkdAwakePercentageHarmonyIntegration.V4;2133357242;flagbank",
   "FFlagPerformanceControlLogisticOomModelMemoryBufferShift": true,
