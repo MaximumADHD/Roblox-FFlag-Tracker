@@ -368,6 +368,7 @@
   "FIntPerformanceControlLmkdMaxMemBufferSize": 30,
   "FIntPerformanceControlLmkdMaxMemDeltaBufferSize": 30,
   "FIntPerformanceControlLmkdMaxMemDeltaCoef": 1,
+  "FIntPerformanceControlLmkdMaxMemDeltaCoef_Staged": "12;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-12T20:55:05",
   "FIntPerformanceControlLmkdMaxSlopeBufferSize": 1,
   "FIntPerformanceControlLmkdRollbackMemThreshold_IXP": "1;HarmonyExposure;HarmonyExposure.LmkdAwakePercentageHarmonyIntegration.V4;2133357242;flagbank",
   "FIntPerformanceControlLmkdScoreScalingFactor": 100000000,
