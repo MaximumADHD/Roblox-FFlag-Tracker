@@ -12,8 +12,6 @@
   "DFFlagHttpBlockWhenAppSuspended": true,
   "DFFlagHttpClientCookieProtocolMetrics": true,
   "DFFlagHttpClientCookieStoreMetrics": true,
-  "DFFlagHttpCurlHttp2Enabled2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;600702045;2025-08-14T21:17:52",
-  "DFFlagHttpCurlPipeWaitEnabled2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;600702045;2025-08-14T21:17:52",
   "DFFlagHttpReportWhenAppSuspended": true,
   "DFFlagMemoryProfilingTopLevelUsageMutex": true,
   "DFFlagPerformanceControlAddMLOomModelTimestamp2": true,
