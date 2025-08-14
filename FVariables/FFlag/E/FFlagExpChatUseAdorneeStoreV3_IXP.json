@@ -1,4 +1,38 @@
 {
-  "Type": "Unified",
-  "Value": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix;151850965;flagbank"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix;151850965;flagbank",
+      "iOSApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "MacDesktopClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix;151850965;flagbank",
+      "MacStudioApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix;151850965;flagbank",
+      "PCDesktopClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix;151850965;flagbank",
+      "PCStudioApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix;151850965;flagbank",
+      "PlayStationClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix;151850965;flagbank",
+      "UWPApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix;151850965;flagbank",
+      "XboxClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "iOSApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "MacDesktopClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "MacStudioApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "PCDesktopClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "PCStudioApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "PlayStationClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "UWPApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "XboxClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "iOSApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "MacDesktopClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "MacStudioApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "PCDesktopClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "PCStudioApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "PlayStationClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "UWPApp": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank",
+      "XboxClient": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV3-Remix-50;151850965;flagbank"
+    }
+  }
 }
