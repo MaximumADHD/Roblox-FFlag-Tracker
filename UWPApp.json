@@ -1,9 +1,6 @@
 {
   "DFFlagBoneInstanceApi504": true,
   "DFFlagDebugSimEnableNewAlignTypeInitialization": true,
-  "DFFlagEnableAudioPlayerTelemetry2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T16:06:15",
-  "DFFlagEnableCppSoundTelemetry7_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T16:05:49",
-  "DFFlagFilterEmptySoundTelemetrySession_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T16:07:42",
   "DFFlagLuauErrorYield_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T16:22:24",
   "DFFlagLuauHeapFixModules_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T16:21:04",
   "DFFlagLuauSafeStackCheck_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T16:20:31",
@@ -21,7 +18,6 @@
   "FFlagFixUseSeparateColorLayerPin2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1049323661;2025-08-14T16:23:50",
   "FFlagLuauHeapDumpStringSizeOverhead_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T16:22:57",
   "FFlagRefactorHighEndTerrainShaders2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1049323661;2025-08-14T16:23:50",
-  "FFlagSimAeroNewPreprocessingQueueCondition_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T16:07:18",
   "FFlagSupportMultipleQosSessionsInterfaceOnly_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1741124309;2025-08-14T16:39:56",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
