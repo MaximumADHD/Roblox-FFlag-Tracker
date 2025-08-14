@@ -5,6 +5,8 @@
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
   "DFFlagHttpDetachCacheCleanThread": true,
+  "DFFlagIEAvatarAutoSetupHandleThrottling_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T19:00:30",
+  "DFFlagIEAvatarAutoSetupProgress_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T19:00:00",
   "DFFlagReportCacheDirSizes": true,
   "DFFlagSimOptimizeSetSizeNonDeferred_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-14T19:05:49",
   "DFFlagTrackDPJProgress": true,
