@@ -110,6 +110,7 @@
   "DFIntCriticalThermalStatusThreshold": 4,
   "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": 4000,
   "DFIntFreeSpaceRequiredForHttpKiloBytes": 2097152,
+  "DFIntHangMonitorNoCheckpoints_Staged": "6;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1855103595;2025-08-15T18:10:26",
   "DFIntHttpCacheReportSlowWritesHundredthPercentageSent": 1000,
   "DFIntHttpCacheReportSlowWritesMinDuration": 10000,
   "DFIntImmersiveAdPerfDataEventThrottleHundredthsPercent": 10000,
