@@ -1,5 +1,4 @@
 {
-  "DFFlagDebugSimEnableNewAlignTypeInitialization": true,
   "DFFlagDisableLTAnalytics": true,
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
@@ -74,6 +73,8 @@
   "FFlagRuntimeStmExpEnabled5": true,
   "FFlagRuntimeStmExpEnabled6": true,
   "FFlagSendInvalidBTIDCounter": false,
+  "FFlagSimAeroUseNewKDTree_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:02:40",
+  "FFlagTelemetryDataReArchTransmission9_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:12:32",
   "FFlagTenFootUiSupportSortHeaderTooltip2": true,
   "FFlagUseCoreScriptsRootProviderForUpsellModal": true,
   "FFlagUseExternalBrowserForAgeGuidelines10ft": true,
