@@ -237,7 +237,6 @@
   "FFlagShouldUseSelectionRowInAccountSelectionRelease1": true,
   "FFlagShutdownOnIOS": true,
   "FFlagSignupTrackFailedRequestv1": true,
-  "FFlagSimAeroUseNewKDTree_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:02:40",
   "FFlagSmoothClusterDisableAsyncUpload": true,
   "FFlagStartupDeprecationMessage": true,
   "FFlagSystemThemeEnabled4_IXP": "1;ConsumerPlatforms.SystemTheme;ConsumerPlatforms.SystemThemeAvailable.2-noNotif;259916233;flagbank",
@@ -310,6 +309,5 @@
   "FStringSignalRRelativePath": "notifications",
   "FStringSocialCarouselUserTileBackground": "bg-system-neutral",
   "FStringSocialCarouselUserTileBackgroundHover": "bg-system-contrast",
-  "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS",
-  "FStringTelemetryDataReArchTransmissionRolloutDenyList_Staged": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_app_launch_flow;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:02:46"
+  "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS"
 }
