@@ -1,8 +1,7 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_experience_launch_flow;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;702117575;2025-08-19T17:55:57",
-    "zcanary": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_experience_launch_flow;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1601972483;2025-08-19T18:16:45",
-    "zintegration": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_experience_launch_flow;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1601972483;2025-08-19T18:16:45"
+    "UWPApp": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_experience_launch_flow;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1601972483;2025-08-19T18:16:45",
+    "XboxClient": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_experience_launch_flow;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1601972483;2025-08-19T18:16:45"
   }
 }
