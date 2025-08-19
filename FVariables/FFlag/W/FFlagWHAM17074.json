@@ -1,17 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "PCDesktopClient": false,
-      "PCStudioApp": true
-    },
-    "zcanary": {
-      "PCDesktopClient": false,
-      "PCStudioApp": false
-    },
-    "zintegration": {
-      "PCDesktopClient": false,
-      "PCStudioApp": false
-    }
+    "PCDesktopClient": false,
+    "PCStudioApp": false
   }
 }
