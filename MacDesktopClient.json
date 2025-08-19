@@ -65,7 +65,6 @@
   "FFlagMacSyncNSCookieStoreToWKCookieStore": true,
   "FFlagMacSyncWKCookieStoreToNSCookieStoreV2": true,
   "FFlagPersonalizedInstallerDeeplinkCompatible": true,
-  "FFlagPPTwoFactorLogOutMessage_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-19T20:16:39",
   "FFlagRefactorPATAddDeviceCheck": true,
   "FFlagRemoveDeeplinkReceivedFromMacWrapper": true,
   "FFlagRenderCorrectStudioHighlightStoreState": true,
@@ -85,5 +84,6 @@
   "FStringFeature_CookieStoreMacStickyEnabled": "564;100",
   "FStringFeature_DisableOldCookieManagementSticky": "569;100",
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100",
-  "FStringGameInviteBannerEnabledGameIds": 6173080615
+  "FStringGameInviteBannerEnabledGameIds": 6173080615,
+  "FStringPerformanceControlIncludedTunables_Staged": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure, WHAM1707 memory pressure;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-19T21:20:11"
 }
