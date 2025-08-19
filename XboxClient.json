@@ -2,7 +2,6 @@
   "DFFlagBoneInstanceApi504": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
-  "DFFlagSendMapFieldsForClassUsage_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-19T18:15:57",
   "DFFlagTrackDPJProgress": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
@@ -75,6 +74,5 @@
   "FLogXboxPlatformBase": "Debug",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
   "FStringSduiForceImageQualityLevel": "high",
-  "FStringTelemetryDataReArchTransmissionRolloutDenyList_Staged": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_experience_launch_flow;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1601972483;2025-08-19T18:16:45",
   "FStringXboxSaleAvatarPackageIds": ""
 }
