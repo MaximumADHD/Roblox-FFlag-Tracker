@@ -759,6 +759,7 @@
   "FFlagLuauSolverAgnosticStringification": true,
   "FFlagLuauStuckTypeFunctionsStillDispatch": true,
   "FFlagLuauSubtypeGenericsAndNegations": true,
+  "FFlagLuauSubtypingGenericsDoesntUseVariance_Staged": "true;SteadyState;10;30;Revert;2025-08-21T20:46:51",
   "FFlagLuauTableLiteralSubtypeCheckFunctionCalls": true,
   "FFlagLuauTableLiteralSubtypeSpecificCheck2": true,
   "FFlagLuauTrackFreeInteriorTypePacks": true,
