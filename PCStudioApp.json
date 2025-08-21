@@ -1030,7 +1030,7 @@
   "FFlagStudioFixCookieMismatchAndRaceProblem": true,
   "FFlagStudioFixDialogImageManagerCrash": true,
   "FFlagStudioFixFetchUserSettingsCrash": true,
-  "FFlagStudioFixInstanceProxyBadWeakPtr_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-21T17:50:29",
+  "FFlagStudioFixInstanceProxyBadWeakPtr": true,
   "FFlagStudioFixInstanceSignalStackOverflow": true,
   "FFlagStudioFixInvalidLaunchTask": true,
   "FFlagStudioFixLateBoundActionShortcuts": true,
