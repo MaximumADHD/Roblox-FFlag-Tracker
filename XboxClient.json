@@ -8,6 +8,8 @@
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
   "DFIntHttpCacheRetryCount": 5000,
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,
+  "DFIntSQLiteFullChkpointMaxReport_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:31:49",
+  "DFIntSQLiteLockedChkpointMaxReport_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:30:52",
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": 10000,
   "DFLogHttpCache": 6,
   "DFStringCrashUploadToBacktraceXboxPlayerToken": "a604d0cebc61b31687842404ac5add8588a98ad0719dbe0769dbc9abdf5618e1",
@@ -76,5 +78,6 @@
   "FLogXboxPlatformBase": "Debug",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
   "FStringSduiForceImageQualityLevel": "high",
+  "FStringSquadCoordinationExperienceJoinExperimentLayer_Staged": "Party.Coordination.ExperienceJoin2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:32:30",
   "FStringXboxSaleAvatarPackageIds": ""
 }

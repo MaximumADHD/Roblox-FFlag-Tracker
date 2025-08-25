@@ -13,6 +13,8 @@
   "DFIntMemoryLogFreqSec": 0,
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,
   "DFIntReportCacheDirSizesHundredthsPercent": 100,
+  "DFIntSQLiteFullChkpointMaxReport_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:31:49",
+  "DFIntSQLiteLockedChkpointMaxReport_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:30:52",
   "DFLogHttpCache": 6,
   "DFLogMemoryStats": 6,
   "FFlagAddMenuNavigationToggleDialog": true,
