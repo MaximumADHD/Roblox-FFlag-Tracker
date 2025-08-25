@@ -1,7 +1,17 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacStudioApp": 500,
-    "PCStudioApp": 500
+    "LIVE": {
+      "MacStudioApp": 2000,
+      "PCStudioApp": 500
+    },
+    "zcanary": {
+      "MacStudioApp": 2000,
+      "PCStudioApp": 2000
+    },
+    "zintegration": {
+      "MacStudioApp": 2000,
+      "PCStudioApp": 2000
+    }
   }
 }
