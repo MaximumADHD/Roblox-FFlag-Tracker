@@ -100,6 +100,7 @@
   "DFIntStudioReportLuauAnyInfluxHundredthsPercentage": 500,
   "DFIntTextServiceInitTypesettersHundredthsPercent": 100,
   "DFIntUserHttpRequestsPerMinuteLimitZ": 2000,
+  "DFIntWebStreamClientRequestTimeoutMs_Staged": "1800000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T17:29:02",
   "DFLogGameShutdownDebug": 5,
   "DFLogNetworkDetailed": 6,
   "DFLogNetworkTrace": 0,
