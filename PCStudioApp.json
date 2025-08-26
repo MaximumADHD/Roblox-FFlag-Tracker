@@ -75,6 +75,7 @@
   "DFIntHttpParallelLimit_RequestHttpService": 8,
   "DFIntHttpParallelLimit_RequestHttpServiceStudioPlugins": 5,
   "DFIntHttpResponseDefaultTimeoutMillis": 120000,
+  "DFIntHttpServiceMaxSseClients_Staged": "4;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T18:35:02",
   "DFIntHttpServiceOpenCloudReportUrlHundredthsPercentage": 10000,
   "DFIntInsertServiceValidateInstancePermissionsReportHundredths": 10000,
   "DFIntMLCodeCompletionRequestReporterThrottlePercent": 10000,
