@@ -1,23 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": true,
-      "iOSApp": false,
-      "MacStudioApp": true,
-      "PCStudioApp": true
-    },
-    "zcanary": {
-      "AndroidApp": false,
-      "iOSApp": false,
-      "MacStudioApp": true,
-      "PCStudioApp": true
-    },
-    "zintegration": {
-      "AndroidApp": false,
-      "iOSApp": false,
-      "MacStudioApp": true,
-      "PCStudioApp": true
-    }
+    "AndroidApp": false,
+    "iOSApp": false,
+    "MacStudioApp": true,
+    "PCStudioApp": true
   }
 }
