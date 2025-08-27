@@ -11,6 +11,7 @@
   "DFIntHttpMinimumIndividualResponseTimeoutMs": 5000,
   "DFIntMemoryLargeCategorySizeMB": 10,
   "DFIntMemoryLogFreqSec": 0,
+  "DFIntRbxStorageDBMaxCapacityMB_Staged": "1500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T18:02:40",
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,
   "DFIntReportCacheDirSizesHundredthsPercent": 100,
   "DFLogHttpCache": 6,
