@@ -1,7 +1,7 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zcanary": "get_product_info_load_test_simple",
-    "zintegration": "get_product_info_load_test_simple"
+    "MacDesktopClient": "get_product_info_load_test_simple",
+    "PCDesktopClient": "get_product_info_load_test_simple"
   }
 }
