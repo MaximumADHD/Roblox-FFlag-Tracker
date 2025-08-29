@@ -1,0 +1,10 @@
+{
+  "Type": "Platforms",
+  "Value": {
+    "iOSApp": "EnableManualRetry;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:48:00",
+    "MacDesktopClient": "EnableManualRetry;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:48:00",
+    "MacStudioApp": "EnableManualRetry;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:48:00",
+    "PCDesktopClient": "EnableManualRetry;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:48:00",
+    "PCStudioApp": "EnableManualRetry;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:48:00"
+  }
+}
