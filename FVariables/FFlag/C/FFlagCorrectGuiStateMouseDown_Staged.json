@@ -1,4 +1,7 @@
 {
-  "Type": "Unified",
-  "Value": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1833756626;2025-08-29T16:12:00"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1833756626;2025-08-29T16:12:00",
+    "zcanary": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1833756626;2025-08-29T16:12:00"
+  }
 }
