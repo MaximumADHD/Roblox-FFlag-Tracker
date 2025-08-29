@@ -1,18 +1,18 @@
 {
   "Type": "Platforms",
   "Value": {
-    "AndroidApp": true,
+    "AndroidApp": false,
     "iOSApp": false,
-    "MacClientBootstrapper": true,
+    "MacClientBootstrapper": false,
     "MacDesktopClient": true,
-    "MacStudioApp": true,
-    "MacStudioBootstrapper": true,
-    "PCClientBootstrapper": true,
+    "MacStudioApp": false,
+    "MacStudioBootstrapper": false,
+    "PCClientBootstrapper": false,
     "PCDesktopClient": true,
-    "PCStudioApp": true,
-    "PCStudioBootstrapper": true,
-    "PlayStationClient": true,
-    "UWPApp": true,
-    "XboxClient": true
+    "PCStudioApp": false,
+    "PCStudioBootstrapper": false,
+    "PlayStationClient": false,
+    "UWPApp": false,
+    "XboxClient": false
   }
 }
