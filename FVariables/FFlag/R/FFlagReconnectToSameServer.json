@@ -1,18 +1,4 @@
 {
-  "Type": "Platforms",
-  "Value": {
-    "AndroidApp": false,
-    "iOSApp": false,
-    "MacClientBootstrapper": false,
-    "MacDesktopClient": true,
-    "MacStudioApp": false,
-    "MacStudioBootstrapper": false,
-    "PCClientBootstrapper": false,
-    "PCDesktopClient": true,
-    "PCStudioApp": false,
-    "PCStudioBootstrapper": false,
-    "PlayStationClient": false,
-    "UWPApp": false,
-    "XboxClient": false
-  }
+  "Type": "Unified",
+  "Value": false
 }
