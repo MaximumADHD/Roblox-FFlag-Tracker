@@ -81,6 +81,7 @@
   "FFlagUseCoreScriptsRootProviderForUpsellModal": true,
   "FFlagUseExternalBrowserForAgeGuidelines10ft": true,
   "FFlagUseLifecycleManagerPSPlatform": true,
+  "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds_Staged": "15;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T23:41:30",
   "FIntDataModelJobMaxStackSizeBytes": 1048576,
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": 500,
   "FIntLuaAppHomeFeedProfilePosition": 0,
@@ -88,6 +89,7 @@
   "FIntSmallCollectionItemMinItemCount": 8,
   "FLogPaymentsProtocol": "Warning",
   "FLogPlayStationAgeRestrictionManager": "Info",
+  "FStringFStringTimeoutLoadingLocalPlayerInBackgroundDM_Staged": "EnableManualRetry;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T23:40:46",
   "FStringLuaAppEphemeralCounterPrefix": "PlayStation-",
   "FStringSduiForceImageQualityLevel": "high"
 }
