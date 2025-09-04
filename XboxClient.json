@@ -51,7 +51,6 @@
   "FFlagNeverUseJoinBlobRobloxLocaleEvenAsDefault": true,
   "FFlagNewUpsellModalExperimentForPlatform": true,
   "FFlagNotificationsComplianceShouldRestrictStream": true,
-  "FFlagRecordCevJoinAttemptIdInObserverSetup_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T23:42:43",
   "FFlagRefactorAuthPageForTenFoot": true,
   "FFlagRestrictLimited2ToSoothsayers": true,
   "FFlagSystemErrorMessageLocalize": true,
@@ -68,7 +67,6 @@
   "FFlagXboxLastKnownStateTrackingEnabled": true,
   "FFlagXboxLastKnownStateTrackSuspended": true,
   "FFlagXboxPrefetchEnabled": true,
-  "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds_Staged": "15;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T23:41:30",
   "FIntCheckValidSessionInterval": 30,
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": 500,
   "FIntLuaAppHomeFeedProfilePosition": 0,
@@ -77,7 +75,6 @@
   "FIntXboxInferredCrashThrottleHundredthsPercent": 10000,
   "FIntXboxPrefetchAuthRetries": 1,
   "FLogXboxPlatformBase": "Debug",
-  "FStringFStringTimeoutLoadingLocalPlayerInBackgroundDM_Staged": "EnableManualRetry;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T23:40:46",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
   "FStringSduiForceImageQualityLevel": "high",
   "FStringXboxSaleAvatarPackageIds": ""
