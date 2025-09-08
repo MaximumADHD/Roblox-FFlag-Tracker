@@ -1,9 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.4;159170000;dev_controlled",
-    "MacStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.4;159170000;dev_controlled",
-    "PCDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.4;159170000;dev_controlled",
-    "PCStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.4;159170000;dev_controlled"
+    "LIVE": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.4;159170000;dev_controlled",
+    "zcanary": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.4;159170000;dev_controlled",
+    "zintegration": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.4;159170000;dev_controlled"
   }
 }
