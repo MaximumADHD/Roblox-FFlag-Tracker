@@ -55,6 +55,7 @@
   "DFIntPerformanceControlInferenceInterval": 3000,
   "DFIntPerformanceControlRunInferenceHundrethsPercent": 20,
   "DFIntSessionReporterUserQuitLoadTimeout": 60,
+  "DFIntSQLiteCacheMaxBlobSizeBytes_Staged": "32000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T22:13:21",
   "DFIntVideoCaptureBlockOnLowMemThresholdMB": 460,
   "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
   "DFStringIosDeprecationMinUpgrade": 13,
