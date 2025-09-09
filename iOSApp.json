@@ -32,6 +32,7 @@
   "DFIntCriticalThermalStatusThreshold": 3,
   "DFIntDataModelPatchPollingIntervalMilliSeconds": 3600000,
   "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent": 1,
+  "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T20:06:31",
   "DFIntEnableInternalMemoryUpdateFunctionsPercentage": 10000,
   "DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": 5,
   "DFIntFreeSpaceRequiredForHttpKiloBytes": 2097152,
