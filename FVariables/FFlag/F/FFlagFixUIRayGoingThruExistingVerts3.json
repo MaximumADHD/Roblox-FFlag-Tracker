@@ -1,9 +1,23 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacDesktopClient": false,
-    "MacStudioApp": false,
-    "PCDesktopClient": false,
-    "PCStudioApp": false
+    "LIVE": {
+      "MacDesktopClient": false,
+      "MacStudioApp": false,
+      "PCDesktopClient": false,
+      "PCStudioApp": false
+    },
+    "zcanary": {
+      "MacDesktopClient": false,
+      "MacStudioApp": true,
+      "PCDesktopClient": false,
+      "PCStudioApp": false
+    },
+    "zintegration": {
+      "MacDesktopClient": false,
+      "MacStudioApp": false,
+      "PCDesktopClient": false,
+      "PCStudioApp": false
+    }
   }
 }
