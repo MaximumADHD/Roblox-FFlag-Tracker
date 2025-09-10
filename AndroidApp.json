@@ -412,6 +412,7 @@
   "FStringGraphicsVulkanBlacklistDeviceIDs": "1888489488;137367552;1621098497",
   "FStringGraphicsVulkanBlacklistVendorDeviceDriverIDs": "0x13B5:0x70901010:.*|0x13B5:0x60A00001:.*|0x13B5:0x60A00002:0x8FF1B78E|0x13B5:0x8301000:0x59D6A299|0x13B5:0x74021000:0x6401000|0x13B5:0x74021000:0x8000000",
   "FStringGraphicsVulkanBlacklistVendorIDs": 5045,
+  "FStringGraphicsVulkanPVRMTBlacklist": "5776728;6070602;6133110;6133109",
   "FStringGraphicsVulkanVertexOutputsBufferLimitMiB": "0x13B5:.+:.+=160",
   "FStringMetricFlagsOverride": "{\"CrashUniqueId\": 1}",
   "FStringMobilePopularItemBadgingLayer": "Optimization.InExperienceUpsell.Mobile.UI",
