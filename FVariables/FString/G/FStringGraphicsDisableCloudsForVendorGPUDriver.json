@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*",
+    "iOSApp": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*",
+    "MacDesktopClient": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*",
+    "MacStudioApp": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*",
+    "PCDesktopClient": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*",
+    "PCStudioApp": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*",
+    "PlayStationClient": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*",
+    "UWPApp": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*",
+    "XboxClient": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*"
+  }
 }
