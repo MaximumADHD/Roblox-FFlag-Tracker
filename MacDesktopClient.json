@@ -46,7 +46,7 @@
   "FFlagCookieStoreMacStickyEnabled": true,
   "FFlagDebugEnableOctreeValidation": true,
   "FFlagDisableCloudsAndroidAndMac_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:53:40",
-  "FFlagDisableHQShadersOnLowendGLMac_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:07:05",
+  "FFlagDisableHQShadersOnLowendGLMac": true,
   "FFlagDmLockFixForTimerServiceCreate": true,
   "FFlagEnableDeviceCheckChallenge": true,
   "FFlagEnableMmapForFileReading": true,
