@@ -407,6 +407,7 @@
   "FStringGraphicsGLES3ConstantBufferSupportDenyList": "PowerVR Rogue.*:.*:.*",
   "FStringGraphicsGLGpuExcludeListHQShaders": "PowerVR.*;Vivante GC7000UL;Mali-T628;Mali-T624;Mali-T860;Adreno \\(TM\\) 304;Adreno \\(TM\\) 305;Adreno \\(TM\\) 306;Adreno \\(TM\\) 320;Adreno \\(TM\\) 330",
   "FStringGraphicsGLReportExtensions": "GL_EXT_buffer_storage|GL_OES_element_index_uint",
+  "FStringGraphicsGLReportExtensions_Staged": "GL_EXT_copy_image|GL_OES_get_program_binary;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:58:18",
   "FStringGraphicsGLShlangExcludeListSuperHQShaders": "glsles3",
   "FStringGraphicsVulkanBlacklistDeviceIDs": "1888489488;137367552;1621098497",
   "FStringGraphicsVulkanBlacklistVendorDeviceDriverIDs": "0x13B5:0x70901010:.*|0x13B5:0x60A00001:.*|0x13B5:0x60A00002:0x8FF1B78E|0x13B5:0x8301000:0x59D6A299|0x13B5:0x74021000:0x6401000|0x13B5:0x74021000:0x8000000",
