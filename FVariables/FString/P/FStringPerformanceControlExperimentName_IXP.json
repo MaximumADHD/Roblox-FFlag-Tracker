@@ -1,12 +1,32 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "1;HarmonyExposure;Harmony_Prio_Based_Planning_Android_4;1261959210;flagbank",
-    "iOSApp": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
-    "MacDesktopClient": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
-    "PCDesktopClient": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
-    "PlayStationClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
-    "UWPApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
-    "XboxClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank"
+    "LIVE": {
+      "AndroidApp": "1;HarmonyExposure;Harmony_Luau_Emergency_GC_Android_4;1109451710;flagbank",
+      "iOSApp": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
+      "MacDesktopClient": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
+      "PCDesktopClient": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
+      "PlayStationClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "UWPApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "XboxClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;HarmonyExposure;Harmony_Luau_Emergency_GC_Android_4;1109451710;flagbank",
+      "iOSApp": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
+      "MacDesktopClient": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
+      "PCDesktopClient": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
+      "PlayStationClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "UWPApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "XboxClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;HarmonyExposure;Harmony_Prio_Based_Planning_Android_4;1261959210;flagbank",
+      "iOSApp": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
+      "MacDesktopClient": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
+      "PCDesktopClient": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
+      "PlayStationClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "UWPApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "XboxClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank"
+    }
   }
 }
