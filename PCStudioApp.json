@@ -68,6 +68,8 @@
   "DFIntAnalyticsDeferredEventIngestReportBatchFullHundredthsPercentage": 1000,
   "DFIntAnalyticsDeferredEventIngestReportTooLargeErrorHundredthsPercentage": 1000,
   "DFIntAutocompletePerformanceTelemetryThrottlePercent": 2000,
+  "DFIntBatchWorkflowMaxWaitMs_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T17:51:57",
+  "DFIntBatchWorkflowMinWaitMs_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T17:52:26",
   "DFIntConnectionMTUSize": 1200,
   "DFIntContentProviderReportBlockedRequestsRate": 500,
   "DFIntConvexDecompBadMeshReportingHundredthsPercentage": 10000,
