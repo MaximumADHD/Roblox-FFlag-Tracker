@@ -89,6 +89,7 @@
   "DFIntMLCodeCompletionRequestReporterThrottlePercent": 10000,
   "DFIntMultiPartUploadConcurrentRequestLimit": 1,
   "DFIntMultiPartUploadMaxChunkSizeByte": 7340032,
+  "DFIntNumConcurrentBatchWorkflowsPerAssetProviderInstance_Staged": "4;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T18:00:55",
   "DFIntOAuth2AuthorizeHttpRequestReportingHundredthsPercent": 10000,
   "DFIntOAuth2RefreshTokenStorageTelemetryHundredthsPercent": 10000,
   "DFIntPacakgeServiceReportFailedRequestsRate": 10000,
