@@ -57,6 +57,7 @@
   "DFIntPerformanceControlRunInferenceHundrethsPercent": 20,
   "DFIntSessionReporterUserQuitLoadTimeout": 60,
   "DFIntSQLiteCacheMaxBlobSizeBytes": 32000,
+  "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-17T17:35:28",
   "DFIntVideoCaptureBlockOnLowMemThresholdMB": 460,
   "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
   "DFStringIosDeprecationMinUpgrade": 13,
