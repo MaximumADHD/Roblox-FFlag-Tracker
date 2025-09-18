@@ -1,23 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "MacDesktopClient": "true;121864768012064",
-      "MacStudioApp": "true;121864768012064",
-      "PCDesktopClient": "true;121864768012064",
-      "PCStudioApp": "true;121864768012064"
-    },
-    "zcanary": {
-      "MacDesktopClient": "true;121864768012064",
-      "MacStudioApp": "true;121864768012064",
-      "PCDesktopClient": "true;121864768012064",
-      "PCStudioApp": "true;121864768012064"
-    },
-    "zintegration": {
-      "MacDesktopClient": "true;121864768012064",
-      "MacStudioApp": "true;121864768012064",
-      "PCDesktopClient": "true;121864768012064",
-      "PCStudioApp": "true;121864768012064;126884695634066"
-    }
+    "MacDesktopClient": "true;121864768012064;126884695634066",
+    "MacStudioApp": "true;121864768012064;126884695634066",
+    "PCDesktopClient": "true;121864768012064;126884695634066",
+    "PCStudioApp": "true;121864768012064;126884695634066"
   }
 }
