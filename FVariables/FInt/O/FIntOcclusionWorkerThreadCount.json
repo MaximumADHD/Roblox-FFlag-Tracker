@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "iOSApp": 2,
-      "MacStudioApp": 4,
-      "PCStudioApp": 4
-    },
-    "zcanary": {
-      "AndroidApp": 2,
-      "iOSApp": 2,
-      "MacStudioApp": 4,
-      "PCStudioApp": 4
-    },
-    "zintegration": {
-      "AndroidApp": 2,
-      "iOSApp": 2,
-      "MacStudioApp": 4,
-      "PCStudioApp": 4
-    }
+    "AndroidApp": 2,
+    "iOSApp": 2,
+    "MacStudioApp": 4,
+    "PCStudioApp": 4
   }
 }
