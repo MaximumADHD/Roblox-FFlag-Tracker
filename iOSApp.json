@@ -1,5 +1,6 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
+  "DFFlagChangeServiceUseFind_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:29:56",
   "DFFlagEnableCallingStopAdsBeforeClose": true,
   "DFFlagEnableGmaAppPromoAd": false,
   "DFFlagEnableIosRewardTimerUIExperiment": true,
@@ -12,6 +13,7 @@
   "DFFlagHttpClientCookieProtocolMetrics": true,
   "DFFlagHttpClientCookieStoreMetrics": true,
   "DFFlagHttpReportWhenAppSuspended": true,
+  "DFFlagInstanceReflectReporting_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:29:04",
   "DFFlagMemoryProfilingTopLevelUsageMutex": true,
   "DFFlagPerformanceControlAddMLOomModelTimestamp2": true,
   "DFFlagPerformanceControlBetteriOSOomModelMetrics": true,
@@ -137,7 +139,7 @@
   "FFlagEnableMappedParametersSafer": true,
   "FFlagEnableMmapForFileReading": true,
   "FFlagEnableModularizedUserAgreementsList": true,
-  "FFlagEnableMoreDeviceIDMetadataCached_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:29:08",
+  "FFlagEnableMoreDeviceIDMetadataCached": true,
   "FFlagEnableMultiPageSignup5": true,
   "FFlagEnableMultiPageSignupExperimentRelease2": true,
   "FFlagEnableNewCustomizeBundleEquip2": true,
