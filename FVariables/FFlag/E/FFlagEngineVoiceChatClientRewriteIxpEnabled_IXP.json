@@ -1,9 +1,23 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
-    "MacStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
-    "PCDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
-    "PCStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank"
+    "LIVE": {
+      "MacDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
+      "MacStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
+      "PCDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
+      "PCStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank"
+    },
+    "zcanary": {
+      "MacDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
+      "MacStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
+      "PCDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
+      "PCStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank"
+    },
+    "zintegration": {
+      "MacDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.5.All.Platforms;137851750;dev_controlled",
+      "MacStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
+      "PCDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
+      "PCStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank"
+    }
   }
 }
