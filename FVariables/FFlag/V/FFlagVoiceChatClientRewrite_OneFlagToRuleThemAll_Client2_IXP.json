@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;1500300741;flagbank"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "1;Portal.Engine.Voice.SDPCompression.Portal-1758671375;Engine.Voice.SDPCompression.Portal;109065095;dev_controlled",
+    "iOSApp": "1;Portal.Engine.Voice.SDPCompression.Portal-1758671375;Engine.Voice.SDPCompression.Portal;109065095;dev_controlled",
+    "MacDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;1500300741;flagbank",
+    "MacStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;1500300741;flagbank",
+    "PCDesktopClient": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;1500300741;flagbank",
+    "PCStudioApp": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;1500300741;flagbank",
+    "PlayStationClient": "1;Portal.Engine.Voice.SDPCompression.Portal-1758671375;Engine.Voice.SDPCompression.Portal;109065095;dev_controlled",
+    "UWPApp": "1;Portal.Engine.Voice.SDPCompression.Portal-1758671375;Engine.Voice.SDPCompression.Portal;109065095;dev_controlled",
+    "XboxClient": "1;Portal.Engine.Voice.SDPCompression.Portal-1758671375;Engine.Voice.SDPCompression.Portal;109065095;dev_controlled"
+  }
 }
