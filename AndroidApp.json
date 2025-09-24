@@ -358,6 +358,7 @@
   "FinishEarlyOnProcessDeath": "true",
   "FIntEnableCacheDirSizeTelemetryHundredthPercent": 10,
   "FIntEnableCVSUrlForOtaPatchPercentage": 25,
+  "FIntEnableCVSUrlForOtaPatchPercentage_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T23:20:09",
   "FIntEnableFIB3VulkanHundredthPercent": 10000,
   "FIntHapticBufferSamplesPerBuffer": 100,
   "FIntHapticBufferUpdateTimerMS": 1000,
