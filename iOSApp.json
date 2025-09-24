@@ -299,6 +299,7 @@
   "FIntOcclusionWorkerThreadCount": 2,
   "FIntRbxStorageMinMemoryRequirementMB": 3250,
   "FIntRbxStorageRemoveLargeDbThresholdMB": 800,
+  "FIntServerTriggeredModalTrafficPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1898490302;2025-09-24T16:35:54",
   "FIntSessionReporterInfluxHundredthsPercentage": 100,
   "FIntUpsellSuggestionsAPIMaxPackagesV2": 1,
   "FIntUpsellSuggestionsAPIMaxPackagesV3": 2,
