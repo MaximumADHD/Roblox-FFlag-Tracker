@@ -68,7 +68,7 @@
   "DFIntAnalyticsDeferredEventIngestMaxPostByteSize": 10000,
   "DFIntAnalyticsDeferredEventIngestReportBatchFullHundredthsPercentage": 1000,
   "DFIntAnalyticsDeferredEventIngestReportTooLargeErrorHundredthsPercentage": 1000,
-  "DFIntAssetServiceComposeDecalAsyncLoggingHundredthsPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:45:58",
+  "DFIntAssetServiceComposeDecalAsyncLoggingHundredthsPercentage": 10000,
   "DFIntAutocompletePerformanceTelemetryThrottlePercent": 2000,
   "DFIntConnectionMTUSize": 1200,
   "DFIntContentProviderReportBlockedRequestsRate": 500,
