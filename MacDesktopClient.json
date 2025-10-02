@@ -62,7 +62,6 @@
   "FFlagLuaAppBootcampIntroUABOOTCAMP93": true,
   "FFlagLuaAppBootcampIntroUABOOTCAMP95": true,
   "FFlagLuaAppBootcampIntroUABOOTCAMP98": true,
-  "FFlagMacInstallerAddStudioArguments": true,
   "FFlagMacSeverCrashpadOnUpdate2": true,
   "FFlagMacSyncNSCookieStoreToWKCookieStore": true,
   "FFlagMacSyncWKCookieStoreToNSCookieStoreV2": true,
@@ -70,16 +69,8 @@
   "FFlagPersonalizedInstallerDeeplinkCompatible": true,
   "FFlagRefactorPATAddDeviceCheck": true,
   "FFlagRemoveDeeplinkReceivedFromMacWrapper": true,
-  "FFlagRemovePSMLConversationalAIWidget2": true,
-  "FFlagRemovePSMLRobloxDocManager": true,
-  "FFlagRemovePSMLScriptCloneTracker": true,
-  "FFlagRemovePSMLSessionTracker": true,
-  "FFlagRemovePSMLStudioCmdHostAppServices": true,
   "FFlagRenderEnableGlobalInstancingMetal": true,
-  "FFlagRibbonEnableSliderLua": true,
-  "FFlagSplitCoreAndDevUIMetrics": true,
   "FFlagSQLiteFullfsync": true,
-  "FFlagSyncSubStateOnVoiceJoin": true,
   "FFlagUnifiedCookieProtocolEnabledSticky": true,
   "FFlagUserInputRefactor2": false,
   "FFlagUseUpdatedBackgroundSceneSettingsOnMobile1": true,
@@ -91,6 +82,5 @@
   "FLogSignalRNotification": 0,
   "FStringFeature_CookieStoreMacStickyEnabled": "564;100",
   "FStringFeature_DisableOldCookieManagementSticky": "569;100",
-  "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100",
-  "FStringGameInviteBannerEnabledGameIds": 6173080615
+  "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100"
 }
