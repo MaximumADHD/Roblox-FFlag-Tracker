@@ -1,4 +1,50 @@
 {
-  "Type": "Unified",
-  "Value": "10/07/2025 18:00:00"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "10/07/2025 18:05:02",
+      "iOSApp": "10/07/2025 18:04:35",
+      "MacClientBootstrapper": "10/07/2025 18:05:02",
+      "MacDesktopClient": "10/07/2025 18:05:02",
+      "MacStudioApp": "10/07/2025 18:04:35",
+      "MacStudioBootstrapper": "10/07/2025 18:05:02",
+      "PCClientBootstrapper": "10/07/2025 18:00:00",
+      "PCDesktopClient": "10/07/2025 18:04:35",
+      "PCStudioApp": "10/07/2025 18:05:02",
+      "PCStudioBootstrapper": "10/07/2025 18:04:35",
+      "PlayStationClient": "10/07/2025 18:04:35",
+      "UWPApp": "10/07/2025 18:05:02",
+      "XboxClient": "10/07/2025 18:04:35"
+    },
+    "zcanary": {
+      "AndroidApp": "10/07/2025 18:05:02",
+      "iOSApp": "10/07/2025 18:05:02",
+      "MacClientBootstrapper": "10/07/2025 18:04:35",
+      "MacDesktopClient": "10/07/2025 18:05:02",
+      "MacStudioApp": "10/07/2025 18:05:02",
+      "MacStudioBootstrapper": "10/07/2025 18:05:02",
+      "PCClientBootstrapper": "10/07/2025 18:04:35",
+      "PCDesktopClient": "10/07/2025 18:04:35",
+      "PCStudioApp": "10/07/2025 18:04:35",
+      "PCStudioBootstrapper": "10/07/2025 18:05:02",
+      "PlayStationClient": "10/07/2025 18:04:35",
+      "UWPApp": "10/07/2025 18:04:35",
+      "XboxClient": "10/07/2025 18:05:02"
+    },
+    "zintegration": {
+      "AndroidApp": "10/07/2025 18:05:02",
+      "iOSApp": "10/07/2025 18:05:02",
+      "MacClientBootstrapper": "10/07/2025 18:05:02",
+      "MacDesktopClient": "10/07/2025 18:04:35",
+      "MacStudioApp": "10/07/2025 18:05:02",
+      "MacStudioBootstrapper": "10/07/2025 18:05:02",
+      "PCClientBootstrapper": "10/07/2025 18:05:02",
+      "PCDesktopClient": "10/07/2025 18:04:35",
+      "PCStudioApp": "10/07/2025 18:04:35",
+      "PCStudioBootstrapper": "10/07/2025 18:05:02",
+      "PlayStationClient": "10/07/2025 18:05:02",
+      "UWPApp": "10/07/2025 18:05:02",
+      "XboxClient": "10/07/2025 18:05:02"
+    }
+  }
 }
