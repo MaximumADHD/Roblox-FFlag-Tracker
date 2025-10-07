@@ -850,7 +850,7 @@
   "FFlagLuauReportAutocompleteICEToUser": true,
   "FFlagLuauResetConditionalContextProperly": true,
   "FFlagLuauReturnMappedGenericPacksFromSubtyping": false,
-  "FFlagLuauScopedSeenSetInLookupTableProp_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:22:14",
+  "FFlagLuauScopedSeenSetInLookupTableProp": true,
   "FFlagLuauSearchForRefineableType": true,
   "FFlagLuauSimplifyAnyAndUnion": true,
   "FFlagLuauSimplifyIntersectionForLiteralSubtypeCheck": true,
