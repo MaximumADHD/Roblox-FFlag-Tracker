@@ -1,9 +1,11 @@
 {
   "DFFlagBoneInstanceApi504": true,
+  "DFFlagCDCTestsReportFailingDecomps_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1330825102;2025-10-08T17:45:01",
   "DFFlagFastEmitterFill2_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T17:42:54",
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagTrackDPJProgress": true,
+  "DFIntConvexDecompBadDecompReportingHundredthsPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1330825102;2025-10-08T17:45:01",
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
   "DFIntHttpCacheRetryCount": 5000,
