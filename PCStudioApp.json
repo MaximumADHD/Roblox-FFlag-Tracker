@@ -90,6 +90,7 @@
   "DFIntOAuth2AuthorizeHttpRequestReportingHundredthsPercent": 10000,
   "DFIntOAuth2RefreshTokenStorageTelemetryHundredthsPercent": 10000,
   "DFIntPacakgeServiceReportFailedRequestsRate": 10000,
+  "DFIntPerfDataGlobalThrottleHundredthsPercent_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T19:03:54",
   "DFIntPropertyUsageEventThrottleHundredthsPercent": 2000,
   "DFIntReportCloudEditJoinFailureReportPerMyriad": 10000,
   "DFIntRobloxTelemetryConnectionIndicatorSaveFailure": 10000,
