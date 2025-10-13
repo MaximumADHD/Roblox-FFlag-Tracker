@@ -1,4 +1,38 @@
 {
-  "Type": "Unified",
-  "Value": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "iOSApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2",
+      "MacDesktopClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "MacStudioApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2",
+      "PCDesktopClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2",
+      "PCStudioApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "PlayStationClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "UWPApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "XboxClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck"
+    },
+    "zcanary": {
+      "AndroidApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "iOSApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "MacDesktopClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "MacStudioApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "PCDesktopClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "PCStudioApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "PlayStationClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "UWPApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "XboxClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck"
+    },
+    "zintegration": {
+      "AndroidApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "iOSApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "MacDesktopClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "MacStudioApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "PCDesktopClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "PCStudioApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "PlayStationClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "UWPApp": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+      "XboxClient": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck"
+    }
+  }
 }
