@@ -1,18 +1,8 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "LIVE": {
-      "iOSApp": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;446427765;dev_controlled",
-      "MacDesktopClient": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
-      "PCDesktopClient": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
-      "PCStudioApp": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;446427765;dev_controlled"
-    },
-    "zcanary": {
-      "MacStudioApp": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;446427765;dev_controlled",
-      "PCDesktopClient": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled"
-    },
-    "zintegration": {
-      "MacDesktopClient": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled"
-    }
+    "LIVE": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1693274933;dev_controlled",
+    "zcanary": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1693274933;dev_controlled",
+    "zintegration": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1693274933;dev_controlled"
   }
 }
