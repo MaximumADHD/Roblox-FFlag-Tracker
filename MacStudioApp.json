@@ -1530,6 +1530,7 @@
   "FIntTooltipShowDelay": 1000,
   "FIntUGCValidateFacsDataOperationalThreshold": 105,
   "FIntUGCValidateMaxSensibleBinaryStringLength": 15000,
+  "FIntUGCValidateMaxSensibleSharedStringLength_Staged": "150000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:14:08",
   "FIntUGCValidationBodyBackAttachmentThreshold": 360,
   "FIntUGCValidationBodyFrontAttachmentThreshold": 360,
   "FIntUGCValidationFaceCenterAttachmentThreshold": 360,
