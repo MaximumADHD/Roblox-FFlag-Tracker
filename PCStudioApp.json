@@ -821,7 +821,7 @@
   "FFlagLuauNormalizationCatchMetatableCycles": true,
   "FFlagLuauNormalizationLimitTyvarUnionSize": true,
   "FFlagLuauNormalizationReorderFreeTypeIntersect": true,
-  "FFlagLuauNormalizerUnionTyvarsTakeMaxSize_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T16:52:31",
+  "FFlagLuauNormalizerUnionTyvarsTakeMaxSize": true,
   "FFlagLuauNumericUnaryOpsDontProduceNegationRefinements": true,
   "FFlagLuauOccursCheckForRefinement": true,
   "FFlagLuauOptimizeFalsyAndTruthyIntersect": true,
