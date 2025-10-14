@@ -7,8 +7,11 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
+  "FFlagRVideoAddVorbisEncode_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:17:56",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FFlagUwpMigrationDialogHelpLink": true,
+  "FIntFixLoadingScreenNetworkingPerThousand_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:19:54",
+  "FIntImprovedStrokesBetaFeatureRolloutPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;895824873;2025-10-14T17:17:11",
   "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
 }
