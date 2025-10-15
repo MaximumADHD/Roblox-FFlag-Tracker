@@ -1,5 +1,6 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
+  "DFFlagCLI171730AddSizeCheck_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:27:05",
   "DFFlagEnableCallingStopAdsBeforeClose": true,
   "DFFlagEnableGmaAppPromoAd": false,
   "DFFlagEnableIosRewardTimerUIExperiment": true,
@@ -22,7 +23,7 @@
   "DFFlagPlayerConfigurerRunLMSTest": true,
   "DFFlagPredictedOOM": true,
   "DFFlagPredictedOOMMessage": true,
-  "DFFlagRbxStorageAddPermCategoryStatsWithBypass_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:23:54",
+  "DFFlagRbxStorageAddPermCategoryStatsWithBypass": true,
   "DFFlagRbxstorageHTTPDontInitInterfaceGatedOnSysRam": true,
   "DFFlagRbxstorageHTTPUseMemoryTrackingForEnforcingSysRam": true,
   "DFFlagReportInferenceResultToPerfdata2": true,
@@ -215,6 +216,7 @@
   "FFlagLuaAppGameImpressionsMobileAdsId": true,
   "FFlagLuaAppGameTileWideVideoThumbnailOnMobile": true,
   "FFlagLuaAppImproveAccountSwitcherPeekView": true,
+  "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:27:01",
   "FFlagLuaAppMoveProfileIntoTopBarIXP": true,
   "FFlagLuaAppUpdateNotificationBadgeCountEnabledV2": true,
   "FFlagLuaAppUseSettingsNativeWrapper2": true,
