@@ -14,6 +14,7 @@
   "DFIntHttpMinimumIndividualResponseTimeoutMs": 5000,
   "DFIntMemoryLargeCategorySizeMB": 10,
   "DFIntMemoryLogFreqSec": 0,
+  "DFIntPerfDataGlobalThrottleHundredthsPercent_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1038368123;2025-10-15T17:48:25",
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,
   "DFIntReportCacheDirSizesHundredthsPercent": 100,
   "DFIntSQLiteCacheMaxBlobSizeBytes": 32000,
