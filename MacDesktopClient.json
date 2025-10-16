@@ -8,7 +8,7 @@
   "DFFlagEnableFdTracking": true,
   "DFFlagEnableGameJoinRetryMinimumWaitTime_PlaceFilter": "true;96104676030215",
   "DFFlagEnableMacWebViewUrlWhitelisting_PlaceFilter": "true;15098120933;13398434647;14298635815;17284537980;13398230007;18973713348",
-  "DFFlagEnableReportRCCTimeoutStackTrace_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:13:31",
+  "DFFlagEnableReportRCCTimeoutStackTrace": true,
   "DFFlagFileCacheCheckSize_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:44:32",
   "DFFlagFileCacheDirSizeYield": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,

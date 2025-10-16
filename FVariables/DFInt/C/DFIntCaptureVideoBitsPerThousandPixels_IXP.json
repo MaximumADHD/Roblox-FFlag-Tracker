@@ -1,17 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "PCDesktopClient": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.3Gsuns;1849467581;dev_controlled",
-      "PCStudioApp": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.3Gsuns;1849467581;dev_controlled"
-    },
-    "zcanary": {
-      "PCDesktopClient": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.3Gsuns;1849467581;dev_controlled",
-      "PCStudioApp": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.3Gsuns;1849467581;dev_controlled"
-    },
-    "zintegration": {
-      "PCDesktopClient": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.3Gsuns;1849467581;dev_controlled",
-      "PCStudioApp": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.HardwareAndGsuns;1422196895;dev_controlled"
-    }
+    "PCDesktopClient": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.HardwareAndGsuns;1422196895;dev_controlled",
+    "PCStudioApp": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.HardwareAndGsuns;1422196895;dev_controlled"
   }
 }
