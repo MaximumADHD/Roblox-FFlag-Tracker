@@ -65,9 +65,7 @@
   "DFStringIosDeprecationMinUpgrade": 13,
   "DFStringRewardedAdFlowStateToLogPerfData": "SessionEligible,AdAvailabilityCalled,AdNotAvailable,AdAvailable,AdPlayed,AdCompleted",
   "DFStringVNGWebViewUrlAllowlist": "vnggames.net,vnggames.com,vngcorp.mobi,zing.vn",
-  "FFlagAddIEMProfilePage_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
   "FFlagAddL2SessionTagAssetReadLogger": true,
-  "FFlagAddPeoplePageCardLayout3_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
   "FFlagAnimationCurveDenseCacheEnabled3": false,
   "FFlagAppChatEnableDoubleOptInRC2": false,
   "FFlagAppChatEnableDoubleOptInRC3": true,
@@ -202,7 +200,6 @@
   "FFlagGetOriginalWebviewUserAgentIOS": true,
   "FFlagHttpBlockWhenAppSuspendedIOS": true,
   "FFlagHttpCacheEntryUseMmap": true,
-  "FFlagInhibitPeopleRenderOnLeaveAndJoin_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
   "FFlagInvestigateZeroViewport": false,
   "FFlagLoadIconFontsiOS": true,
   "FFlagLoadRawBytecodeWithHashKey": false,
@@ -349,5 +346,9 @@
   "FStringSignalRRelativePath": "notifications",
   "FStringSocialCarouselUserTileBackground": "bg-system-neutral",
   "FStringSocialCarouselUserTileBackgroundHover": "bg-system-contrast",
-  "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS"
+  "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS",
+  "FStringUGCValidationInflationThresholdArmsX_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54",
+  "FStringUGCValidationInflationThresholdArmsZ_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54",
+  "FStringUGCValidationInflationThresholdLegsX_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54",
+  "FStringUGCValidationInflationThresholdLegsZ_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54"
 }
