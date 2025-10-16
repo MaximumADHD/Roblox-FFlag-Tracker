@@ -372,7 +372,6 @@
   "FFlagVideoReportHardwareBufferMetrics": true,
   "FFlagVideoServiceAddHardwareCodecMetrics": true,
   "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
-  "FFlagVoiceConnectionApiEnableTearDownPeerConnectionFactoryOnSignalingThread_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T17:48:32",
   "FFlagVoiceRtcStatsEnabled8_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
   "FFlagWriteBodyToFile2": true,
   "FinishEarlyOnProcessDeath": "true",
