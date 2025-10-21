@@ -25,6 +25,8 @@
   "DFFlagTrackDPJProgress": true,
   "DFFlagUnifiedCookieProtocolEnabled": true,
   "DFFlagVideoMacEncodeFailedMetrics": true,
+  "DFFlagWebSocketHttpRequestType": true,
+  "DFFlagWebSocketSecrets": true,
   "DFIntInvalidEnumValueAttemptToReflectReportHundredthsPercentage": 100,
   "DFIntNetStackDummyClientConnectResultPointsThrottleHP": 10000,
   "DFIntNetStackDummyClientPingStatsThrottleHP": 10000,
@@ -53,6 +55,7 @@
   "FFlagDebugEnableOctreeValidation": true,
   "FFlagEnableDeviceCheckChallenge": true,
   "FFlagEnableMmapForFileReading": true,
+  "FFlagEnableNetStackDummyClientVersionCheck_Staged": "true;SteadyState;10;30;Revert;true;2109041983;2025-10-21T23:48:52",
   "FFlagFixEscExitingFullscreen": true,
   "FFlagGraphicsMetalNoDestruct": true,
   "FFlagGraphicsMetalNoShaderRelease": false,
@@ -92,5 +95,6 @@
   "FLogSignalRNotification": 0,
   "FStringFeature_CookieStoreMacStickyEnabled": "564;100",
   "FStringFeature_DisableOldCookieManagementSticky": "569;100",
-  "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100"
+  "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100",
+  "FStringNetStackDummyClientEnabledMajorVersions_Staged": "0;SteadyState;10;30;Revert;true;2109041983;2025-10-21T23:48:52"
 }
