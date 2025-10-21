@@ -4,11 +4,14 @@
   "DFFlagRobloxTelemetryEnableSenderCallback2": true,
   "DFFlagRobloxTelemetryEnableSenderCallback4": true,
   "DFFlagRobloxTelemetryEnableSenderCallback5": true,
+  "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:03:25",
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
+  "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1402120007;2025-10-21T22:05:01",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FFlagUwpMigrationDialogHelpLink": true,
+  "FFlagVoiceWebrtcConnectionOperationEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:02:44",
   "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
 }
