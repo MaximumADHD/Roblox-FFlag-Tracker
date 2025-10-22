@@ -1,13 +1,4 @@
 {
-  "Type": "Platforms",
-  "Value": {
-    "MacClientBootstrapper": 30000,
-    "MacDesktopClient": 30000,
-    "MacStudioApp": 30000,
-    "MacStudioBootstrapper": 30000,
-    "PCClientBootstrapper": 30000,
-    "PCDesktopClient": 30000,
-    "PCStudioApp": 30000,
-    "PCStudioBootstrapper": 30000
-  }
+  "Type": "Unified",
+  "Value": 30000
 }

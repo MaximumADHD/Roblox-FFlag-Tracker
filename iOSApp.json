@@ -60,7 +60,6 @@
   "DFIntSessionReporterUserQuitLoadTimeout": 60,
   "DFIntSQLiteCacheMaxBlobSizeBytes": 32000,
   "DFIntVideoCaptureBlockOnLowMemThresholdMB": 460,
-  "DFIntVoiceWebrtcIceInActiveTimeoutMs_Staged": "30000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:05:04",
   "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
   "DFStringIosDeprecationMinUpgrade": 13,
   "DFStringRewardedAdFlowStateToLogPerfData": "SessionEligible,AdAvailabilityCalled,AdNotAvailable,AdAvailable,AdPlayed,AdCompleted",
