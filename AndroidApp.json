@@ -421,6 +421,7 @@
   "FIntRbxStorageRemoveLargeDbThresholdMB": 800,
   "FIntRenderMeshOptimizeVertexBuffer": 3,
   "FIntReportHangStatusThrottleHundredthPercent": 0,
+  "FIntReportHangStatusThrottleHundredthPercent_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T17:14:36",
   "FIntReportSecondVEHundredthsPercent2": 10000,
   "FIntSQLiteDisableSHM": 1,
   "FIntUtilityDeltaOfBestQualityVideo_PlaceFilter": "10;10449761463",
