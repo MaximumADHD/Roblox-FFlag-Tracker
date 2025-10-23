@@ -1,7 +1,8 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zcanary": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:11:45",
-    "zintegration": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:11:45"
+    "PlayStationClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:11:45",
+    "UWPApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:11:45",
+    "XboxClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:11:45"
   }
 }
