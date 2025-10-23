@@ -1,7 +1,17 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": 5000,
-    "iOSApp": 9999
+    "LIVE": {
+      "AndroidApp": 5000,
+      "iOSApp": 9999
+    },
+    "zcanary": {
+      "AndroidApp": 4100,
+      "iOSApp": 9999
+    },
+    "zintegration": {
+      "AndroidApp": 4100,
+      "iOSApp": 9999
+    }
   }
 }
