@@ -307,7 +307,7 @@
   "FFlagPerformanceControlAddSupportForOomBox": true,
   "FFlagPerformanceControlAddSupportForOomBox2": true,
   "FFlagPerformanceControlAddSupportForOomBox3": false,
-  "FFlagPerformanceControlDeviceSpecificExperimentation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:59:00",
+  "FFlagPerformanceControlDeviceSpecificExperimentation": true,
   "FFlagPerformanceControlEnableLogisticOomModel": true,
   "FFlagPerformanceControlEnablePortTextureManagerTrimMemory_IXP": "1;HarmonyExposure;HarmonyExposure.Android.TrimMemoryRemapping.PostUI;2055893897;flagbank",
   "FFlagPerformanceControlHarmonyService_IXP": "1;HarmonyExposure;Harmony_Prio_Based_Planning_Android_4;1261959210;flagbank",
