@@ -62,6 +62,7 @@
   "DFIntSessionReporterUserQuitLoadTimeout": 60,
   "DFIntSQLiteCacheMaxBlobSizeBytes": 32000,
   "DFIntVideoCaptureBlockOnLowMemThresholdMB": 460,
+  "DFIntVideoCaptureLowResOnLowMemThresholdMB_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.iOSLowMemThreshold.V1;193482330;dev_controlled",
   "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
   "DFStringIosDeprecationMinUpgrade": 13,
   "DFStringRewardedAdFlowStateToLogPerfData": "SessionEligible,AdAvailabilityCalled,AdNotAvailable,AdAvailable,AdPlayed,AdCompleted",
