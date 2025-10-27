@@ -1,7 +1,8 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zcanary": true,
-    "zintegration": true
+    "iOSApp": true,
+    "MacDesktopClient": true,
+    "MacStudioApp": true
   }
 }
