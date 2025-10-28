@@ -67,8 +67,6 @@
   "DFIntSQLiteCacheMaxBlobSizeBytes": 32000,
   "DFIntVideoCaptureBlockOnLowMemThresholdMB": 460,
   "DFIntVideoCaptureLowResOnLowMemThresholdMB_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.iOSLowMemThreshold.V1;193482330;dev_controlled",
-  "DFIntVideoStreamMaxImageLongSide_Staged": "1920;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1979522480;2025-10-28T17:29:18",
-  "DFIntVideoStreamMaxImageShortSide_Staged": "1080;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1979522480;2025-10-28T17:29:18",
   "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
   "DFStringIosDeprecationMinUpgrade": 13,
   "DFStringRewardedAdFlowStateToLogPerfData": "SessionEligible,AdAvailabilityCalled,AdNotAvailable,AdAvailable,AdPlayed,AdCompleted",
