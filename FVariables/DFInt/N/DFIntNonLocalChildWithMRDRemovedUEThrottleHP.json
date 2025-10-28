@@ -1,9 +1,14 @@
 {
   "Type": "Platforms",
   "Value": {
+    "AndroidApp": 10000,
+    "iOSApp": 10000,
     "MacDesktopClient": 1000,
     "MacStudioApp": 1000,
     "PCDesktopClient": 1000,
-    "PCStudioApp": 1000
+    "PCStudioApp": 1000,
+    "PlayStationClient": 10000,
+    "UWPApp": 10000,
+    "XboxClient": 10000
   }
 }
