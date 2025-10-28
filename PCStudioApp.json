@@ -1477,6 +1477,7 @@
   "FIntAICOTooltipDeboucenceMs": 0,
   "FIntAmrAssetFetchCount": 100000,
   "FIntAnnotationsPluginActionThrottleHundredthsPercent": 10000,
+  "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:37:58",
   "FIntAssetsUploadUseMultiPartSizeThresholdBytes": 7340032,
   "FIntAssistantSyntaxHighlightingLimit": 1800,
   "FIntAutoSaveAfterUserInputThresholdMs": 5000,
