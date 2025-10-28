@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "Release"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "Release",
+    "iOSApp": " ",
+    "MacDesktopClient": "Release",
+    "MacStudioApp": "Release",
+    "PCDesktopClient": "Release",
+    "PCStudioApp": "Release",
+    "PlayStationClient": "Release",
+    "UWPApp": "Release",
+    "XboxClient": "Release"
+  }
 }
