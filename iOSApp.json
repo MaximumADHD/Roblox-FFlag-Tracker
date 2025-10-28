@@ -1,6 +1,7 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
   "DFFlagCollectSessionBatteryTelemetry": true,
+  "DFFlagDontRemoveNonLocalChildrenWithMRD_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:00:53",
   "DFFlagEnableCallingStopAdsBeforeClose": true,
   "DFFlagEnableGmaAppPromoAd": false,
   "DFFlagEnableIosRewardTimerUIExperiment": true,
@@ -25,6 +26,7 @@
   "DFFlagRbxstorageHTTPDontInitInterfaceGatedOnSysRam": true,
   "DFFlagRbxstorageHTTPUseMemoryTrackingForEnforcingSysRam": true,
   "DFFlagReportInferenceResultToPerfdata2": true,
+  "DFFlagReportNonLocalChildrenRemoved_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:01:46",
   "DFFlagResetAdInEnableGmaVideoAdsMemoryCheck": true,
   "DFFlagSendOrientationToPlayersGui": true,
   "DFFlagSkipInstallGmasdk": true,

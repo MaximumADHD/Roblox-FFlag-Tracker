@@ -1,9 +1,11 @@
 {
   "DFFlagDisableLTAnalytics": true,
+  "DFFlagDontRemoveNonLocalChildrenWithMRD_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:00:53",
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
   "DFFlagHttpDetachCacheCleanThread": true,
   "DFFlagReportCacheDirSizes": true,
+  "DFFlagReportNonLocalChildrenRemoved_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:01:46",
   "DFFlagSQLiteLazyCacheSumBy": true,
   "DFFlagTrackDPJProgress": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
