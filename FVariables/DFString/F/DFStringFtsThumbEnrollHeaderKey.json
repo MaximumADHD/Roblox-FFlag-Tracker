@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "IsFtsThumbAccepted"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "IsFtsThumbAccepted",
+    "zcanary": "IsFtsThumbAccepted",
+    "zintegration": "IsFtsThumbAccepted"
+  }
 }
