@@ -52,8 +52,7 @@
   "FFlagDebugEnableOctreeValidation": true,
   "FFlagEnableDeviceCheckChallenge": true,
   "FFlagEnableMmapForFileReading": true,
-  "FFlagEnableNetStackDummyClientVersionCheck": true,
-  "FFlagEnableNetStackDummyClientVersionCheck_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2109041983;2025-10-28T23:35:47",
+  "FFlagEnableNetStackDummyClientVersionCheck": false,
   "FFlagFixEscExitingFullscreen": true,
   "FFlagFixStrikeThrough": true,
   "FFlagGraphicsMetalNoDestruct": true,
@@ -99,6 +98,5 @@
   "FStringFeature_CookieStoreMacStickyEnabled": "564;100",
   "FStringFeature_DisableOldCookieManagementSticky": "569;100",
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100",
-  "FStringNetStackDummyClientEnabledMajorVersions": 0,
-  "FStringNetStackDummyClientEnabledMajorVersions_Staged": ";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2109041983;2025-10-28T23:35:47"
+  "FStringNetStackDummyClientEnabledMajorVersions": ""
 }
