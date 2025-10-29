@@ -1,8 +1,6 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "GL_EXT_copy_image|GL_OES_get_program_binary",
-    "zcanary": "GL_OES_texture_compression_astc|GL_KHR_texture_compression_astc_hdr|GL_KHR_texture_compression_astc_sliced_3d|GL_KHR_texture_compression_astc_ldr",
-    "zintegration": "GL_OES_texture_compression_astc|GL_KHR_texture_compression_astc_hdr|GL_KHR_texture_compression_astc_sliced_3d|GL_KHR_texture_compression_astc_ldr"
+    "AndroidApp": "GL_OES_texture_compression_astc|GL_KHR_texture_compression_astc_hdr|GL_KHR_texture_compression_astc_sliced_3d|GL_KHR_texture_compression_astc_ldr"
   }
 }
