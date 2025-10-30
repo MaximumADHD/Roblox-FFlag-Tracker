@@ -1,6 +1,7 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
   "DFFlagCollectSessionBatteryTelemetry": true,
+  "DFFlagControllerManagerFuzzyToleranceDirectionChanges_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:39:12",
   "DFFlagEnableCallingStopAdsBeforeClose": true,
   "DFFlagEnableGmaAppPromoAd": false,
   "DFFlagEnableIosRewardTimerUIExperiment": true,
@@ -272,6 +273,7 @@
   "FFlagShutdownOnIOS": true,
   "FFlagSignupTrackFailedRequestv1": true,
   "FFlagSmoothClusterDisableAsyncUpload": true,
+  "FFlagSocialCarouselEnableTilesSeenCollection2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:39:32",
   "FFlagSocialTabBarVisibleFix": true,
   "FFlagStartupDeprecationMessage": true,
   "FFlagSystemThemeEnabled4_IXP": "1;ConsumerPlatforms.SystemTheme;ConsumerPlatforms.SystemThemeAvailable.2-noNotif.iOS;310984872;flagbank",
