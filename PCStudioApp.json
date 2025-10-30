@@ -37,6 +37,7 @@
   "DFFlagFixTransparentMeshDecomps": false,
   "DFFlagGatherHastefulHullTelemetry": false,
   "DFFlagHttp2AllInternalReqs": true,
+  "DFFlagHttp2AllInternalReqs_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;293614516;2025-10-30T19:45:45",
   "DFFlagHttp2CurlEnabledNoExternal": false,
   "DFFlagHttpServiceGenerateGuidLowercase": true,
   "DFFlagHttpServiceInsightsImprovedTelemetry2": true,
