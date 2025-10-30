@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
+    "iOSApp": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
+    "MacDesktopClient": "1;Engine.Voice.SdpCompression.Exposure;Voice.SdpCompression.Desktop;1641365118;dev_controlled",
+    "MacStudioApp": "1;Engine.Voice.SdpCompression.Exposure;Voice.SdpCompression.Desktop;1641365118;dev_controlled",
+    "PCDesktopClient": "1;Engine.Voice.SdpCompression.Exposure;Voice.SdpCompression.Desktop;1641365118;dev_controlled",
+    "PCStudioApp": "1;Engine.Voice.SdpCompression.Exposure;Voice.SdpCompression.Desktop;1641365118;dev_controlled",
+    "PlayStationClient": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
+    "UWPApp": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
+    "XboxClient": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled"
+  }
 }
