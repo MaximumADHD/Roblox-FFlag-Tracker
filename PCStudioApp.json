@@ -791,7 +791,7 @@
   "FFlagLuauDontInPlaceMutateTableType": true,
   "FFlagLuauEagerGeneralization4": true,
   "FFlagLuauEmptyStringInKeyOf": true,
-  "FFlagLuauEnqueueUnionsOfDistributedTypeFunctions_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T20:46:20",
+  "FFlagLuauEnqueueUnionsOfDistributedTypeFunctions": true,
   "FFlagLuauExpectedTypeVisitor": true,
   "FFlagLuauExplicitSkipBoundTypes": true,
   "FFlagLuauExternTableIndexersIntersect": true,
