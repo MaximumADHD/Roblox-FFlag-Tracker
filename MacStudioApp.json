@@ -54,7 +54,7 @@
   "DFFlagMigrateStudioRemovePlaceUsageFromWwwToUniversesApi": true,
   "DFFlagMultipartUploadSemaphore": true,
   "DFFlagNewCreateMeshPartBeta": true,
-  "DFFlagOnlyMigrateInEditMode_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:46:09",
+  "DFFlagOnlyMigrateInEditMode": true,
   "DFFlagOnlyMigrateInNonEditMode_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:47:27",
   "DFFlagPlaceUploadFailureWarning": true,
   "DFFlagPropertyRejectionCountTelemetry": true,
