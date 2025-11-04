@@ -92,6 +92,7 @@
   "FFlagUseExternalBrowserForAgeGuidelines10ft": true,
   "FFlagUsePlaystationPaymentsProtocolCommonFunctions": true,
   "FIntDataModelJobMaxStackSizeBytes": 1048576,
+  "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:35:44",
   "FIntLoginByUsernameSSOErrorsThrottleHundrethsPercent": 500,
   "FIntLuaAppHomeFeedProfilePosition": 0,
   "FIntMediumCollectionItemVerticalGap": 24,
