@@ -16,6 +16,7 @@
   "DFIntReportCacheDirSizesHundredthsPercent": 100,
   "DFIntSQLiteCacheMaxBlobSizeBytes": 32000,
   "DFIntSQLiteDiskFullCleanMB": 64,
+  "DFIntTriangleMeshPartMigrationTelemetryThrottle_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T22:10:01",
   "DFLogHttpCache": 6,
   "DFLogMemoryStats": 6,
   "FFlagAddMenuNavigationToggleDialog": true,
