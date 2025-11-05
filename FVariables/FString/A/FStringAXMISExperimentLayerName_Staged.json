@@ -1,4 +1,7 @@
 {
-  "Type": "Unified",
-  "Value": "AvatarExperience.UA.AllViews;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:35:01"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AvatarExperience.UA.AllViews;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:35:01",
+    "zcanary": "AvatarExperience.UA.AllViews;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:35:01"
+  }
 }
