@@ -1,6 +1,5 @@
 {
   "DFFlagBoneInstanceApi504": true,
-  "DFFlagCrashOnMigrateWithoutWriteLock_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:04:25",
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagTrackDPJProgress": true,
@@ -8,7 +7,6 @@
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
   "DFIntHttpCacheRetryCount": 5000,
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,
-  "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "100000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:05:14",
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": 10000,
   "DFLogHttpCache": 6,
   "DFStringCrashUploadToBacktraceXboxPlayerToken": "a604d0cebc61b31687842404ac5add8588a98ad0719dbe0769dbc9abdf5618e1",
@@ -60,7 +58,6 @@
   "FFlagNotificationsComplianceShouldRestrictStream": true,
   "FFlagPropertyDescriptorsToArray4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:56:57",
   "FFlagRefactorAuthPageForTenFoot": true,
-  "FFlagReportTextureStreamingTelemetry5_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:04:58",
   "FFlagRestrictLimited2ToSoothsayers": true,
   "FFlagSystemErrorMessageLocalize": true,
   "FFlagTenFootUiSupportSortHeaderTooltip2": true,
