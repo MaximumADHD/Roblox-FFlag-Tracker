@@ -221,7 +221,7 @@
   "FFlagDisableAppChatConversationAbsorbInputLayerAndroid": true,
   "FFlagDisableCameraOnLowSpecDevices2": true,
   "FFlagDisableMessageBusUnSubscribeError": true,
-  "FFlagDisablePauseSessionInPersonaFlow_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:25:11",
+  "FFlagDisablePauseSessionInPersonaFlow": true,
   "FFlagEmergencyDeleteOfExperimentDummyFile": false,
   "FFlagEnableAccountSwitchFeature": true,
   "FFlagEnableAckCallOnPushReceiveV3": false,
