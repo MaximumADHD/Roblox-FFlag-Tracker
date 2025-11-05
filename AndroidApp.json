@@ -24,6 +24,7 @@
   "DeprecationNoticeDeadline": "2021-06-16",
   "DetectBackgroundLaunches": true,
   "DetectProcessReuse": true,
+  "DFFlagAddConnectionErrors_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:03:32",
   "DFFlagAddProfilerScopesForPerformanceControlStreaming_IXP": "1;HarmonyExposure;Harmony.IXPFlags.ManualExposureTest;434264036;dev_controlled",
   "DFFlagBoneInstanceApi504": true,
   "DFFlagCLI106369": true,
