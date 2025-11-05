@@ -225,6 +225,7 @@
   "FFlagEmergencyDeleteOfExperimentDummyFile": false,
   "FFlagEnableAccountSwitchFeature": true,
   "FFlagEnableAckCallOnPushReceiveV3": false,
+  "FFlagEnableAckCallOnPushReceiveV4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:22:19",
   "FFlagEnableAdCtaUseNewTouchListener": true,
   "FFlagEnableAndroidAssetReaderOTAFix": true,
   "FFlagEnableAppSessionStartEnd": true,
