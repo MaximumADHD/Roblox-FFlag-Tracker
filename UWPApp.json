@@ -1,11 +1,13 @@
 {
   "DFFlagBoneInstanceApi504": true,
+  "DFFlagOnlyMigrateInNonEditMode_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T22:00:25",
   "DFFlagPauseSurfaceControllerBeforeSwappingDataModel2": true,
   "DFFlagRobloxTelemetryEnableSenderCallback2": true,
   "DFFlagRobloxTelemetryEnableSenderCallback4": true,
   "DFFlagRobloxTelemetryEnableSenderCallback5": true,
   "DFFlagServerNoResponseReason2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:00:11",
   "DFFlagSetDummyInertiaToNAN_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:59:55",
+  "DFFlagTriangleMeshPartMigrationTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T22:02:48",
   "DFIntTriangleMeshPartMigrationTelemetryThrottle_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T22:10:01",
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
