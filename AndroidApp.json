@@ -60,6 +60,8 @@
   "DFFlagEnableRewardedAdsStatsLogging": true,
   "DFFlagEnableStandardizedFieldAddPlaySessionId": true,
   "DFFlagFreeMemoryIgnoreSwap": true,
+  "DFFlagHttp2AllDevOriginatedReqs_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1967556714;2025-11-10T21:55:38",
+  "DFFlagHttp2NonUploadReqs_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1967556714;2025-11-10T21:55:38",
   "DFFlagHttpAppSuspendedTelemetry": true,
   "DFFlagHttpCacheReportSlowWrites": true,
   "DFFlagHttpReportWhenAppSuspended": true,
