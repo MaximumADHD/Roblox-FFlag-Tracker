@@ -1,5 +1,6 @@
 {
   "DFFlagBoneInstanceApi504": true,
+  "DFFlagCLI_157490_DelayBroadPhaseForBulkMove_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1635480703;2025-11-10T22:11:43",
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHttp2AllDevOriginatedReqs_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1967556714;2025-11-10T21:55:38",
@@ -47,7 +48,6 @@
   "FFlagGamepadNavigationDialogABTest2": true,
   "FFlagGuardTermOfUseByIsLinkAllowed": true,
   "FFlagLocalUserGameVoteCounterReducer": true,
-  "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:07:22",
   "FFlagLuaAppEnable10ftSignUpView": true,
   "FFlagLuaAppLaunchConnectorFix2": true,
   "FFlagLuaAppMigrateGameTileFixConsoleMetadataText": true,

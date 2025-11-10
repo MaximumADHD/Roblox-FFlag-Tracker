@@ -1,5 +1,6 @@
 {
   "DFFlagBoneInstanceApi504": true,
+  "DFFlagCLI_157490_DelayBroadPhaseForBulkMove_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1635480703;2025-11-10T22:11:43",
   "DFFlagHttp2AllDevOriginatedReqs_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1967556714;2025-11-10T21:55:38",
   "DFFlagHttp2NonUploadReqs_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1967556714;2025-11-10T21:55:38",
   "DFFlagPauseSurfaceControllerBeforeSwappingDataModel2": true,
@@ -9,7 +10,6 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
-  "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:07:22",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FFlagUwpMigrationDialogHelpLink": true,
