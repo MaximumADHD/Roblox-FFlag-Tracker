@@ -37,6 +37,7 @@
   "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent": 0,
   "DFIntDiskUsageNegativeExperimenHundredthsPercent": 10000,
   "DFIntEnableInternalMemoryUpdateFunctionsPercentage": 10000,
+  "DFIntFacialAgeEstimationFlowTelemetryThrottle_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T19:01:51",
   "DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": 5,
   "DFIntFreeSpaceRequiredForHttpKiloBytes": 2097152,
   "DFIntImmersiveAdVideoCollapseScreenEventThrottleHundredthsPercent": 10000,
