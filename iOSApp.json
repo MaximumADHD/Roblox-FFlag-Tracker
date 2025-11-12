@@ -106,7 +106,7 @@
   "FFlagDisableiOSRBXCrashObserver": false,
   "FFlagDisableMessageBusUnSubscribeError": true,
   "FFlagDoNotInitializeLuaAppIfAlreadyInitialized": true,
-  "FFlagDurationAlertOnlyForLongFlows_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T23:25:49",
+  "FFlagDurationAlertOnlyForLongFlows": true,
   "FFlagEmergencyDeleteOfExperimentDummyFile": true,
   "FFlagEnableAccountSelectorPeekviewRemoveSuperBriefState": true,
   "FFlagEnableAccountSwitchFeature": true,
