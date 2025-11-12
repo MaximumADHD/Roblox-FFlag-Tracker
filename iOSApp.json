@@ -354,6 +354,7 @@
   "FIntmi_option_purge_delay": 0,
   "FIntOcclusionWorkerThreadCount": 2,
   "FIntRbxStorageMinMemoryRequirementMB": 7000,
+  "FIntRbxStorageMinMemoryRequirementMB_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T20:51:43",
   "FIntRbxStorageRemoveLargeDbThresholdMB": 800,
   "FIntSessionReporterInfluxHundredthsPercentage": 100,
   "FIntSQLiteDisableSHM": 1,
