@@ -111,6 +111,7 @@
   "FFlagDisableMessageBusUnSubscribeError": true,
   "FFlagDoNotInitializeLuaAppIfAlreadyInitialized": true,
   "FFlagDurationAlertOnlyForLongFlows": true,
+  "FFlagDurationAlertOnlyForLongFlows_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1437606906;2025-11-12T23:48:19",
   "FFlagEmergencyDeleteOfExperimentDummyFile": true,
   "FFlagEnableAccountSelectorPeekviewRemoveSuperBriefState": true,
   "FFlagEnableAccountSwitchFeature": true,
