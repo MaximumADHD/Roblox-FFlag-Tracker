@@ -64,6 +64,7 @@
   "DFIntPerformanceControlRunInferenceHundrethsPercent": 20,
   "DFIntSessionReporterUserQuitLoadTimeout": 60,
   "DFIntSQLiteCacheMaxBlobSizeBytes": 32000,
+  "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:53:11",
   "DFIntVideoCaptureBlockOnLowMemThresholdMB": 460,
   "DFIntVideoCaptureLowResOnLowMemThresholdMB": 1000,
   "DFIntVideoCaptureLowResOnLowMemThresholdMB_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.iOShighResolution.V1;234847704;flagbank",
