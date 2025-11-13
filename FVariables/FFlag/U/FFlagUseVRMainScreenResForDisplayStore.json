@@ -1,6 +1,10 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zintegration": true
+    "iOSApp": true,
+    "MacDesktopClient": true,
+    "MacStudioApp": true,
+    "PCDesktopClient": true,
+    "PCStudioApp": true
   }
 }
