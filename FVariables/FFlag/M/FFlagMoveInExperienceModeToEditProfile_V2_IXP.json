@@ -1,10 +1,26 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "iOSApp": "1;UIEcosystem.User.Migration;;398703262;flagbank",
-    "MacDesktopClient": "1;UIEcosystem.User.Migration;;398703262;flagbank",
-    "MacStudioApp": "1;UIEcosystem.User.Migration;;398703262;flagbank",
-    "PCDesktopClient": "1;UIEcosystem.User.Migration;;398703262;flagbank",
-    "PCStudioApp": "1;UIEcosystem.User.Migration;;398703262;flagbank"
+    "LIVE": {
+      "iOSApp": "1;UIEcosystem.User.Migration;;398703262;flagbank",
+      "MacDesktopClient": "1;UIEcosystem.User.Migration;;398703262;flagbank",
+      "MacStudioApp": "1;UIEcosystem.User.Migration;;398703262;flagbank",
+      "PCDesktopClient": "1;UIEcosystem.User.Migration;;398703262;flagbank",
+      "PCStudioApp": "1;UIEcosystem.User.Migration;;398703262;flagbank"
+    },
+    "zcanary": {
+      "iOSApp": "1;UIEcosystem.User.Migration;;398703262;flagbank",
+      "MacDesktopClient": "1;UIEcosystem.User.Migration;;398703262;flagbank",
+      "MacStudioApp": "1;UIEcosystem.User.Migration;;398703262;flagbank",
+      "PCDesktopClient": "1;UIEcosystem.User.Migration;;398703262;flagbank",
+      "PCStudioApp": "1;UIEcosystem.User.Migration;;398703262;flagbank"
+    },
+    "zintegration": {
+      "iOSApp": "1;UIEcosystem.User.Migration;;398703262;flagbank",
+      "MacDesktopClient": "1;UIEcosystem.User.Migration;;398703262;flagbank",
+      "MacStudioApp": "1;UIEcosystem.User.Migration;IxpFlagLink;398703262;flagbank",
+      "PCDesktopClient": "1;UIEcosystem.User.Migration;IxpFlagLink;398703262;flagbank",
+      "PCStudioApp": "1;UIEcosystem.User.Migration;;398703262;flagbank"
+    }
   }
 }
