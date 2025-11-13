@@ -1,7 +1,6 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
   "DFFlagCollectSessionBatteryTelemetry": true,
-  "DFFlagDeserializeOnlySigningInfo": true,
   "DFFlagEnableCallingStopAdsBeforeClose": true,
   "DFFlagEnableGmaAppPromoAd": false,
   "DFFlagEnableIosRewardTimerUIExperiment": true,
@@ -32,7 +31,6 @@
   "DFFlagSkipInstallGmasdk": true,
   "DFFlagUnifiedCookieProtocolEnabled": true,
   "DFFlagUserInputServiceDeviceMotionAnalytics2": false,
-  "DFFlagVideoHandlePtsDiscontinuity_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:44:30",
   "DFIntAssetReadLoggingThrottleHundredthsPercent": 100,
   "DFIntCriticalThermalStatusThreshold": 3,
   "DFIntDataModelPatchPollingIntervalMilliSeconds": 3600000,
