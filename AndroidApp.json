@@ -113,6 +113,7 @@
   "DFIntDebugSimSolverMinFlopsToSpawnLDLThread": 4000,
   "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent": 0,
   "DFIntDiskUsageNegativeExperimenHundredthsPercent": 10000,
+  "DFIntFacialAgeEstimationFlowTelemetryThrottle_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;529057290;2025-11-13T20:35:56",
   "DFIntFreeSpaceRequiredForHttpKiloBytes": 2097152,
   "DFIntHttpCacheReportSlowWritesHundredthPercentageSent": 1000,
   "DFIntHttpCacheReportSlowWritesMinDuration": 10000,
