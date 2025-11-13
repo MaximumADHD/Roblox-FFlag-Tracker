@@ -1,38 +1,4 @@
 {
-  "Type": "ChannelsAndPlatforms",
-  "Value": {
-    "LIVE": {
-      "AndroidApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "iOSApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "MacDesktopClient": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "MacStudioApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "PCDesktopClient": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "PCStudioApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "PlayStationClient": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "UWPApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "XboxClient": "1;Social.ProfilePeekView;;810962997;dev_controlled"
-    },
-    "zcanary": {
-      "AndroidApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "iOSApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "MacDesktopClient": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "MacStudioApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "PCDesktopClient": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "PCStudioApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "PlayStationClient": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "UWPApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "XboxClient": "1;Social.ProfilePeekView;;810962997;dev_controlled"
-    },
-    "zintegration": {
-      "AndroidApp": "1;Social.ProfilePeekView;IxpFlagLink;810962997;dev_controlled",
-      "iOSApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "MacDesktopClient": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "MacStudioApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "PCDesktopClient": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "PCStudioApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "PlayStationClient": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "UWPApp": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-      "XboxClient": "1;Social.ProfilePeekView;;810962997;dev_controlled"
-    }
-  }
+  "Type": "Unified",
+  "Value": "1;Social.ProfilePeekView;IxpFlagLink;810962997;dev_controlled"
 }
