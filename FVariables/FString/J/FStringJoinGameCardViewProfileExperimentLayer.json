@@ -1,10 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "iOSApp": "Social.JoinGameCardViewProfile",
-    "MacDesktopClient": "Social.JoinGameCardViewProfile",
-    "MacStudioApp": "Social.JoinGameCardViewProfile",
-    "PCDesktopClient": "Social.JoinGameCardViewProfile",
-    "PCStudioApp": "Social.JoinGameCardViewProfile"
+    "LIVE": "Social.JoinGameCardViewProfile",
+    "zcanary": "Social.JoinGameCardViewProfile",
+    "zintegration": "Social.JoinGameCardViewProfile"
   }
 }
