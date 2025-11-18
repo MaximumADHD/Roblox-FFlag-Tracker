@@ -1,8 +1,20 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacDesktopClient": 20,
-    "PCDesktopClient": 0,
-    "UWPApp": 0
+    "LIVE": {
+      "MacDesktopClient": 20,
+      "PCDesktopClient": 0,
+      "UWPApp": 0
+    },
+    "zcanary": {
+      "MacDesktopClient": 20,
+      "PCDesktopClient": 0,
+      "UWPApp": 0
+    },
+    "zintegration": {
+      "MacDesktopClient": 80,
+      "PCDesktopClient": 0,
+      "UWPApp": 0
+    }
   }
 }
