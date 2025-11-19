@@ -1,20 +1,6 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "zcanary": {
-      "AndroidApp": "true",
-      "iOSApp": "true",
-      "MacClientBootstrapper": "false",
-      "MacDesktopClient": "true",
-      "MacStudioApp": "false",
-      "MacStudioBootstrapper": "false",
-      "PCClientBootstrapper": "false",
-      "PCDesktopClient": "true",
-      "PCStudioApp": "true",
-      "PCStudioBootstrapper": "false",
-      "PlayStationClient": "true",
-      "UWPApp": "true",
-      "XboxClient": "true"
-    }
+    "zcanary": "false"
   }
 }
