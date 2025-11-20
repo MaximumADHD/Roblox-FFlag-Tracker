@@ -848,6 +848,7 @@
   "FFlagLuauDoNotGeneralizeInTypeFunctions": true,
   "FFlagLuauDoNotLeakNilInRefinement": true,
   "FFlagLuauDoNotPrototypeTableIndex": true,
+  "FFlagLuauDoNotSuggestGenericsInAnonFuncs_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T23:03:11",
   "FFlagLuauDontDynamicallyCreateRedundantSubtypeConstraints": true,
   "FFlagLuauDontForgetToReduceUnionFunc": true,
   "FFlagLuauDontInPlaceMutateTableType": true,
