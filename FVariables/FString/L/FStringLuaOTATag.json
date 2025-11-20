@@ -1,14 +1,38 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "Release",
-    "iOSApp": "Release",
-    "MacDesktopClient": "Release",
-    "MacStudioApp": "Release",
-    "PCDesktopClient": "Release",
-    "PCStudioApp": "Release",
-    "PlayStationClient": "Release",
-    "UWPApp": "",
-    "XboxClient": "Release"
+    "LIVE": {
+      "AndroidApp": "Release",
+      "iOSApp": "Release",
+      "MacDesktopClient": "Release",
+      "MacStudioApp": "Release",
+      "PCDesktopClient": "Release",
+      "PCStudioApp": "Release",
+      "PlayStationClient": "Release",
+      "UWPApp": "",
+      "XboxClient": "Release"
+    },
+    "zcanary": {
+      "AndroidApp": "Release",
+      "iOSApp": "Release",
+      "MacDesktopClient": "Release",
+      "MacStudioApp": "Release",
+      "PCDesktopClient": "Release",
+      "PCStudioApp": "Release",
+      "PlayStationClient": "Release",
+      "UWPApp": "",
+      "XboxClient": "Release"
+    },
+    "zintegration": {
+      "AndroidApp": "Release",
+      "iOSApp": "",
+      "MacDesktopClient": "Release",
+      "MacStudioApp": "Release",
+      "PCDesktopClient": "Release",
+      "PCStudioApp": "Release",
+      "PlayStationClient": "Release",
+      "UWPApp": "",
+      "XboxClient": "Release"
+    }
   }
 }
