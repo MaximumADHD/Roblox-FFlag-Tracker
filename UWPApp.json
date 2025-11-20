@@ -8,6 +8,7 @@
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
   "FFlagLuaAppFixInlineSignalsReactPattern_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:26:04",
+  "FFlagLuaAppGameTileOverflowMenuTelemetry2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;871979953;2025-11-20T22:48:49",
   "FFlagLuaAppSduiSeeAllLayoutParamsFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:34:44",
   "FFlagMeshManagerAvoidVTableFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T21:51:54",
   "FFlagUpdateFmodVorbisDecoder": true,
@@ -15,6 +16,7 @@
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FFlagUwpMigrationDialogHelpLink": true,
   "FFlagUwpMigrationNextPhase": true,
+  "FIntGameTileOverflowMenuActionThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;871979953;2025-11-20T22:48:49",
   "FIntUwpDeprecationDate": 1763672400,
   "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
 }
