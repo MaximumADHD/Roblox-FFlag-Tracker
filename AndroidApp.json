@@ -399,7 +399,7 @@
   "FFlagUseAndroidPaymentsProtocolDuplicateMessageFix": true,
   "FFlagUseAndroidPaymentsProtocolMetricsPurchaseType": true,
   "FFlagUseAndroidPaymentsProtocolSurfacePreparePaymentErrorMessages": true,
-  "FFlagUseAndroidPaymentsProtocolThreadsafeSessionId_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:35:13",
+  "FFlagUseAndroidPaymentsProtocolThreadsafeSessionId": true,
   "FFlagUseAndroidPaymentsProtocolThrobber": true,
   "FFlagUseAndroidThreadsafeCheckoutSessionId2": true,
   "FFlagUseAppCrashpadReporterForAndroidHangMonitor": true,
