@@ -954,6 +954,7 @@
   "FFlagLuauStuckTypeFunctionsStillDispatch": true,
   "FFlagLuauSubtypeGenericsAndNegations": true,
   "FFlagLuauSubtypingGenericPacksDoesntUseVariance": false,
+  "FFlagLuauSuppressIndexingIntoError_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T22:16:12",
   "FFlagLuauTableLiteralSubtypeCheckFunctionCalls": true,
   "FFlagLuauTableLiteralSubtypeSpecificCheck2": true,
   "FFlagLuauTrackFreeInteriorTypePacks": true,
