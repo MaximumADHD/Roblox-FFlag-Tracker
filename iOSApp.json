@@ -82,7 +82,7 @@
   "FFlagAssetReadLoggerRaceConditionFix": true,
   "FFlagAttachAppRatingObserver_IXP": "1;ConsumerPlatforms.AppRatingPrompt;ConsumerPlatforms.iOSAppRatingPromptABTestV2;944157671;flagbank",
   "FFlagAwaitLoginCompletionForDisambiguationFlow": true,
-  "FFlagAXCloseFilterOnBackgroundTap_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;298209507;2025-11-24T22:33:32",
+  "FFlagAXCloseFilterOnBackgroundTap": true,
   "FFlagAXEditorRecommendationCarouselEnabled": true,
   "FFlagAXFixAdaptiveScrollingAgain": true,
   "FFlagAXFixCheckOnOutfitAssets": true,
