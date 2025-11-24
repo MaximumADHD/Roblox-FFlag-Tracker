@@ -1,6 +1,5 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
-  "DFFlagAdditionalFontChecks_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:11:28",
   "DFFlagBase64NewDecodeReport_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:56:43",
   "DFFlagBase64NewDecodeWarning_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:57:12",
   "DFFlagBatchedInstancePush_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:33:03",
@@ -66,7 +65,7 @@
   "DFIntPerformanceControlInferenceHoldoutChanceHundredthsPercent_IXP": "1;Portal.Harmony.iOS.OOM.Model.Deactivation.V1-1747934227;Harmony.iOS.OOM.Model.Deactivation.V1;596809591;flagbank",
   "DFIntPerformanceControlInferenceInterval": 3000,
   "DFIntPerformanceControlRunInferenceHundrethsPercent": 20,
-  "DFIntPowerTraceModuleEpochOffsetSeconds_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:10:48",
+  "DFIntPowerTraceModuleEpochOffsetSeconds": 1,
   "DFIntRbxStorageMinAvailableSpaceBeforeCleanupThresholdMB": 200,
   "DFIntSessionReporterUserQuitLoadTimeout": 60,
   "DFIntSQLiteCacheMaxBlobSizeBytes": 32000,
