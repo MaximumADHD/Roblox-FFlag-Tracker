@@ -3,6 +3,7 @@
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagFixTextTruncationWithFractionalScale_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;153934097;2025-11-24T23:42:49",
   "DFFlagHangDetectionForceCrash": true,
+  "DFFlagRegisterGranularAdAssetViewsIos_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T00:00:50",
   "DFFlagTrackDPJProgress": true,
   "DFFlagWsFixLoggableUrl_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2038282140;2025-11-24T23:26:18",
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
