@@ -62,6 +62,7 @@
   "DFIntPerformanceControlInferenceInterval": 3000,
   "DFIntPerformanceControlRunInferenceHundrethsPercent": 20,
   "DFIntPowerTraceHashThrottleRateHundredthsPercent": 10000,
+  "DFIntPowerTraceHashThrottleRateHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:12:55",
   "DFIntPowerTraceModuleEpochOffsetSeconds": 1,
   "DFIntRbxStorageMinAvailableSpaceBeforeCleanupThresholdMB": 200,
   "DFIntSessionReporterUserQuitLoadTimeout": 60,
