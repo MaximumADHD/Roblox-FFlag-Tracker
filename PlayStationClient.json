@@ -3,6 +3,8 @@
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
   "DFFlagHttpDetachCacheCleanThread": true,
+  "DFFlagLogOpensocketFailures_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;770942966;2025-11-25T19:32:37",
+  "DFFlagPsSocketExhaustionLog_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;770942966;2025-11-25T19:32:37",
   "DFFlagReportCacheDirSizes": true,
   "DFFlagTrackDPJProgress": true,
   "DFFlagUseFtsEnrollHeader": true,
