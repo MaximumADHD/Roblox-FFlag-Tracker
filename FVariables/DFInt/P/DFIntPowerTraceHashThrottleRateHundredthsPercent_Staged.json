@@ -1,8 +1,7 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:12:55",
-    "zcanary": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:12:55",
-    "zintegration": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:12:55"
+    "AndroidApp": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:12:55",
+    "iOSApp": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:12:55"
   }
 }
