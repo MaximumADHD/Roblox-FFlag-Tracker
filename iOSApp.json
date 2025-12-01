@@ -364,7 +364,7 @@
   "FFlagUseUpdatedVNGAgreementsWorkflow": true,
   "FFlagVideoAdaptionByMemory4": false,
   "FFlagVideoCaptureBlockOnLowMemDevices2": true,
-  "FFlagVideoEnableHevcDecode_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:07:21",
+  "FFlagVideoEnableHevcDecode": true,
   "FFlagVideoFixEncryptedAlignment": true,
   "FFlagVideoPlaybackIxpLayerEnabled_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
   "FFlagWriteBodyToFile2": true,
