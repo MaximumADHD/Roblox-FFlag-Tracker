@@ -24,6 +24,7 @@
   "DFIntAPMinBytesToMMapUncompressedAssetRegular": 10485760,
   "DFIntInvalidEnumValueAttemptToReflectReportHundredthsPercentage": 100,
   "DFIntMainThreadMinIdleTimeUs": 500,
+  "DFIntMainThreadMinIdleTimeUs_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:20:27",
   "DFIntParallelForThreadStackSize": 262144,
   "DFLogBootcampCLI165139Log": 6,
   "DFLogTrackHttpRequest": 0,
