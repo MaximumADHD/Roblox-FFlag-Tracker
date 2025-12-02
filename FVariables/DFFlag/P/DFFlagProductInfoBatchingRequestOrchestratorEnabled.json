@@ -1,9 +1,14 @@
 {
   "Type": "Platforms",
   "Value": {
+    "AndroidApp": true,
+    "iOSApp": true,
     "MacDesktopClient": true,
     "MacStudioApp": false,
     "PCDesktopClient": true,
-    "PCStudioApp": false
+    "PCStudioApp": false,
+    "PlayStationClient": true,
+    "UWPApp": true,
+    "XboxClient": true
   }
 }
