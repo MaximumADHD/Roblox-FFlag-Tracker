@@ -1,4 +1,50 @@
 {
-  "Type": "Unified",
-  "Value": "12/12/2025 17:03:03"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "12/12/2025 17:03:03",
+      "iOSApp": "12/12/2025 17:03:03",
+      "MacClientBootstrapper": "12/12/2025 17:15:57",
+      "MacDesktopClient": "12/12/2025 17:15:57",
+      "MacStudioApp": "12/12/2025 17:15:57",
+      "MacStudioBootstrapper": "12/12/2025 17:03:03",
+      "PCClientBootstrapper": "12/12/2025 17:03:03",
+      "PCDesktopClient": "12/12/2025 17:03:03",
+      "PCStudioApp": "12/12/2025 17:03:03",
+      "PCStudioBootstrapper": "12/12/2025 17:03:03",
+      "PlayStationClient": "12/12/2025 17:15:57",
+      "UWPApp": "12/12/2025 17:15:57",
+      "XboxClient": "12/12/2025 17:03:03"
+    },
+    "zcanary": {
+      "AndroidApp": "12/12/2025 17:03:03",
+      "iOSApp": "12/12/2025 17:15:57",
+      "MacClientBootstrapper": "12/12/2025 17:15:57",
+      "MacDesktopClient": "12/12/2025 17:03:03",
+      "MacStudioApp": "12/12/2025 17:15:57",
+      "MacStudioBootstrapper": "12/12/2025 17:03:03",
+      "PCClientBootstrapper": "12/12/2025 17:15:57",
+      "PCDesktopClient": "12/12/2025 17:03:03",
+      "PCStudioApp": "12/12/2025 17:03:03",
+      "PCStudioBootstrapper": "12/12/2025 17:15:57",
+      "PlayStationClient": "12/12/2025 17:03:03",
+      "UWPApp": "12/12/2025 17:03:03",
+      "XboxClient": "12/12/2025 17:15:57"
+    },
+    "zintegration": {
+      "AndroidApp": "12/12/2025 17:15:57",
+      "iOSApp": "12/12/2025 17:03:03",
+      "MacClientBootstrapper": "12/12/2025 17:15:57",
+      "MacDesktopClient": "12/12/2025 17:15:57",
+      "MacStudioApp": "12/12/2025 17:03:03",
+      "MacStudioBootstrapper": "12/12/2025 17:03:03",
+      "PCClientBootstrapper": "12/12/2025 17:15:57",
+      "PCDesktopClient": "12/12/2025 17:03:03",
+      "PCStudioApp": "12/12/2025 17:03:03",
+      "PCStudioBootstrapper": "12/12/2025 17:15:57",
+      "PlayStationClient": "12/12/2025 17:03:03",
+      "UWPApp": "12/12/2025 17:03:03",
+      "XboxClient": "12/12/2025 17:03:03"
+    }
+  }
 }
