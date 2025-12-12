@@ -1,6 +1,7 @@
 {
   "Type": "Platforms",
   "Value": {
+    "AndroidApp": ".*:.*:.*:1|.*:.*:.*:2|.*:.*:.*:3|.*:.*:.*:4;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:29:56",
     "iOSApp": ".*:Apple.*:.*:1|.*:Apple.*:.*:2|.*:Apple.*:.*:3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:14:34"
   }
 }
