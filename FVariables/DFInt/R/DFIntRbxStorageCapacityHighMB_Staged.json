@@ -1,38 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "2500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:17:41",
-      "iOSApp": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
-      "MacDesktopClient": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "MacStudioApp": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "PCDesktopClient": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "PCStudioApp": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "PlayStationClient": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
-      "UWPApp": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
-      "XboxClient": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42"
-    },
-    "zcanary": {
-      "AndroidApp": "2500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:17:41",
-      "iOSApp": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
-      "MacDesktopClient": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "MacStudioApp": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "PCDesktopClient": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "PCStudioApp": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "PlayStationClient": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
-      "UWPApp": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
-      "XboxClient": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42"
-    },
-    "zintegration": {
-      "AndroidApp": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
-      "iOSApp": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
-      "MacDesktopClient": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "MacStudioApp": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "PCDesktopClient": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "PCStudioApp": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
-      "PlayStationClient": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
-      "UWPApp": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
-      "XboxClient": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42"
-    }
+    "AndroidApp": "2500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:17:41",
+    "iOSApp": "2700;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:18:43",
+    "MacDesktopClient": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
+    "MacStudioApp": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
+    "PCDesktopClient": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
+    "PCStudioApp": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:10:55",
+    "PlayStationClient": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
+    "UWPApp": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
+    "XboxClient": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42"
   }
 }
