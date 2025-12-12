@@ -489,7 +489,7 @@
   "FStringGraphicsGLGpuExcludeListHQShaders": "PowerVR.*;Vivante GC7000UL;Mali-T628;Mali-T624;Mali-T860;Adreno \\(TM\\) 304;Adreno \\(TM\\) 305;Adreno \\(TM\\) 306;Adreno \\(TM\\) 320;Adreno \\(TM\\) 330",
   "FStringGraphicsGLReportExtensions": "GL_OES_texture_compression_astc|GL_KHR_texture_compression_astc_hdr|GL_KHR_texture_compression_astc_sliced_3d|GL_KHR_texture_compression_astc_ldr",
   "FStringGraphicsGLShlangExcludeListSuperHQShaders": "glsles3",
-  "FStringGraphicsTextureManager2DenyPattern_Staged": ".*:.*:.*:1|.*:.*:.*:2|.*:.*:.*:3|.*:.*:.*:4;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:29:56",
+  "FStringGraphicsTextureManager2DenyPattern": ".*:.*:.*:1|.*:.*:.*:2|.*:.*:.*:3|.*:.*:.*:4",
   "FStringGraphicsVulkanBlacklistDeviceIDs": "1888489488;137367552;1621098497",
   "FStringGraphicsVulkanBlacklistVendorDeviceDriverIDs": "0x13B5:0x70901010:.*|0x13B5:0x60A00001:.*|0x13B5:0x60A00002:0x8FF1B78E|0x13B5:0x8301000:0x59D6A299|0x13B5:0x74021000:0x6401000|0x13B5:0x74021000:0x8000000",
   "FStringGraphicsVulkanBlacklistVendorIDs": 5045,
