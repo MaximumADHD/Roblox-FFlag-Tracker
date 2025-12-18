@@ -510,6 +510,7 @@
   "FStringPowerVRWhitelistMSAA": ".*:PowerVR D-Series DXT-48-1536 MC1",
   "FStringRenderIGGPUWhitelistAndroid": "PowerVR Rogue GE8322|PowerVR Rogue GE8100|Mali-G52|Mali-G52 MC2",
   "FStringRenderTextureBudgetByRam": "1024,64,2048,115,3072,154,4096,210,8192,680,16384,1536",
+  "FStringRenderTextureBudgetByRam_Staged": "1024,64,2048,115,3072,154,4096,512,8192,680,16384,1536;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-18T22:28:43",
   "FStringRoactChatFetchedOlderConversationCounter": "RoactChatFetchedOlderConversationAndroid",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickAndroid",
   "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageAndroid",
