@@ -10,6 +10,7 @@
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
   "FFlagFastClusterFixBoundingBoxUpdates3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-06T17:05:44",
+  "FFlagFixGrassMaterialConstantsThreadSafety_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-06T17:51:25",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
   "FFlagUWPCheckTTIBlockingDialog": true,
