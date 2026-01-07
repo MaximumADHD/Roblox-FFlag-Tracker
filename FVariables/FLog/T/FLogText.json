@@ -1,6 +1,18 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "iOSApp": 0
+    "LIVE": {
+      "iOSApp": 0
+    },
+    "zcanary": {
+      "iOSApp": 0,
+      "MacStudioApp": "Debug",
+      "PCStudioApp": "Debug"
+    },
+    "zintegration": {
+      "iOSApp": 0,
+      "MacStudioApp": "Debug",
+      "PCStudioApp": "Debug"
+    }
   }
 }
