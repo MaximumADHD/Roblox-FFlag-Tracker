@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Production"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Production",
+    "zcanary": "ZCanary",
+    "zintegration": "Production"
+  }
 }
