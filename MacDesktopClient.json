@@ -23,6 +23,7 @@
   "DFFlagVoiceWebrtcThreadSafeSubscriptionSetup": true,
   "DFIntAPDecompressChunkSize": 32768,
   "DFIntAPMinBytesToMMapUncompressedAssetRegular": 10485760,
+  "DFIntHttpServiceOpenCloudRequestsPerMinuteBaseLimit_Staged": "2500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-09T17:13:36",
   "DFIntInvalidEnumValueAttemptToReflectReportHundredthsPercentage": 100,
   "DFIntMainThreadMinIdleTimeUs": 0,
   "DFIntParallelForThreadStackSize": 262144,

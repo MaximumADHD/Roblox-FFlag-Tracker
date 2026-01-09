@@ -6,6 +6,7 @@
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
   "DFIntHttpCacheRetryCount": 5000,
+  "DFIntHttpServiceOpenCloudRequestsPerMinuteBaseLimit_Staged": "2500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-09T17:13:36",
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": 10000,
   "DFIntXboxDeeplinkAnalyticsThrottleHundrethsPercent": 10000,

@@ -116,6 +116,7 @@
   "DFIntFreeSpaceRequiredForHttpKiloBytes": 2097152,
   "DFIntHttpCacheReportSlowWritesHundredthPercentageSent": 1000,
   "DFIntHttpCacheReportSlowWritesMinDuration": 10000,
+  "DFIntHttpServiceOpenCloudRequestsPerMinuteBaseLimit_Staged": "2500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-09T17:13:36",
   "DFIntImmersiveAdPerfDataEventThrottleHundredthsPercent": 10000,
   "DFIntInterpolationDtLimitForLod_PlaceFilter": "12;4924922222",
   "DFIntInterpolationNumMechanismsPerTask": 10,
