@@ -435,6 +435,7 @@
   "FinishEarlyOnProcessDeath": "true",
   "FIntEnableCacheDirSizeTelemetryHundredthPercent": 10,
   "FIntEnableFIB3VulkanHundredthPercent": 10000,
+  "FIntExpChatMessageResponseThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;752041646;2026-01-14T19:51:42",
   "FIntHapticBufferSamplesPerBuffer": 100,
   "FIntHapticBufferUpdateTimerMS": 1000,
   "FIntLmsClientRollout2": 20,
