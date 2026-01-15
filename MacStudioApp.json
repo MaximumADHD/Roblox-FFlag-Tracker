@@ -711,7 +711,7 @@
   "FFlagFixAICOOnFailureCrash": true,
   "FFlagFixAmrNewAsset": true,
   "FFlagFixAudioTagTranslations": true,
-  "FFlagFixAuthTokenManagerReleaseLockCrash_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-15T00:42:39",
+  "FFlagFixAuthTokenManagerReleaseLockCrash": true,
   "FFlagFixCancellableDialogManagerOnDialogShownCrash": true,
   "FFlagFixCancellableDialogResizing": true,
   "FFlagFixClearGhostText": true,
