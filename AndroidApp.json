@@ -493,6 +493,7 @@
   "FStringGraphicsGLReportExtensions": "GL_OES_texture_compression_astc|GL_KHR_texture_compression_astc_hdr|GL_KHR_texture_compression_astc_sliced_3d|GL_KHR_texture_compression_astc_ldr",
   "FStringGraphicsGLShlangExcludeListSuperHQShaders": "glsles3",
   "FStringGraphicsTextureManager2DenyPattern": ".*:.*:.*:1|.*:.*:.*:2|.*:.*:.*:3|.*:.*:.*:4",
+  "FStringGraphicsTextureManager2DenyPattern_Staged": ".*:.*:.*:1|.*:.*:.*:2|.*:.*:.*:3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-15T20:59:52",
   "FStringGraphicsVulkanBlacklistDeviceIDs": "1888489488;137367552;1621098497",
   "FStringGraphicsVulkanBlacklistVendorDeviceDriverIDs": "0x13B5:0x70901010:.*|0x13B5:0x60A00001:.*|0x13B5:0x60A00002:0x8FF1B78E|0x13B5:0x8301000:0x59D6A299|0x13B5:0x74021000:0x6401000|0x13B5:0x74021000:0x8000000",
   "FStringGraphicsVulkanBlacklistVendorIDs": 5045,
