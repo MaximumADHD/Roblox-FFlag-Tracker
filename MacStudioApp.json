@@ -1746,6 +1746,7 @@
   "FIntRuntimeMaxNumOfLatches": 4800,
   "FIntRuntimeMaxNumOfSchedulers": 2400,
   "FIntSimulateCrashOnPlaceOpenFailureThrottlingHundredthsPercentage": 100,
+  "FIntSimulateCrashOnPlaceOpenFailureThrottlingHundredthsPercentage_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-15T23:34:30",
   "FIntStudioImportMaxAsset": 200,
   "FIntStudioIncrementalAutocomplete2BetaFeatureRolloutPercent": 500,
   "FIntStudioPerInstanceMemoryMB": 2000,
