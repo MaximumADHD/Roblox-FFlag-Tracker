@@ -7,6 +7,7 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
+  "FFlagLuauCodegenNumToUintFoldRange_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-15T19:14:25",
   "FFlagProfilePlatformTrustedConnectionsMVP_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-15T19:10:36",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
