@@ -16,6 +16,7 @@
   "DFIntHttpMinimumIndividualResponseTimeoutMs": 5000,
   "DFIntMemoryLargeCategorySizeMB": 10,
   "DFIntMemoryLogFreqSec": 0,
+  "DFIntRankProductsHttpPriority_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-16T17:50:21",
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,
   "DFIntReportCacheDirSizesHundredthsPercent": 100,
   "DFIntSQLiteThrottleCorruptErrorsMax": 4,
