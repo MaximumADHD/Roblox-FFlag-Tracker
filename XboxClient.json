@@ -4,6 +4,7 @@
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagTrackDPJProgress": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
+  "DFIntHangDetectionInferredTimeoutStartMs_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-20T00:47:56",
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
   "DFIntHttpCacheRetryCount": 5000,
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,

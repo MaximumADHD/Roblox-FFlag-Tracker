@@ -11,6 +11,7 @@
   "DFFlagTrackDPJProgress": true,
   "DFFlagUseFtsEnrollHeader": false,
   "DFIntHangDetectionInferredTimeoutStartMs": 4000,
+  "DFIntHangDetectionInferredTimeoutStartMs_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-20T00:47:56",
   "DFIntHttpCacheCleanScheduleAfterMs": 30000,
   "DFIntHttpCacheRetryCount": 2000,
   "DFIntHttpMinimumIndividualResponseTimeoutMs": 5000,
