@@ -1,7 +1,23 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacDesktopClient": 703,
-    "PCDesktopClient": ""
+    "LIVE": {
+      "MacDesktopClient": 703,
+      "PCDesktopClient": ""
+    },
+    "zcanary": {
+      "MacClientBootstrapper": 705,
+      "MacDesktopClient": 703,
+      "MacStudioApp": 705,
+      "MacStudioBootstrapper": 705,
+      "PCClientBootstrapper": 705,
+      "PCDesktopClient": "",
+      "PCStudioApp": 705,
+      "PCStudioBootstrapper": 705
+    },
+    "zintegration": {
+      "MacDesktopClient": 703,
+      "PCDesktopClient": ""
+    }
   }
 }
