@@ -1,7 +1,19 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacDesktopClient": "450;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-21T00:25:00",
-    "PCDesktopClient": "450;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-21T00:25:00"
+    "LIVE": {
+      "MacDesktopClient": "450;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-21T00:25:00",
+      "PCDesktopClient": "450;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-21T00:25:00"
+    },
+    "zcanary": {
+      "AndroidApp": "400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-21T00:32:21",
+      "MacDesktopClient": "450;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-21T00:25:00",
+      "PCDesktopClient": "450;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-21T00:25:00"
+    },
+    "zintegration": {
+      "AndroidApp": "400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-21T00:32:21",
+      "MacDesktopClient": "450;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-21T00:25:00",
+      "PCDesktopClient": "450;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-21T00:25:00"
+    }
   }
 }
