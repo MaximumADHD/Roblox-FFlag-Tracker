@@ -1,35 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "zcanary": {
-      "AndroidApp": "ZCanary",
-      "iOSApp": "ZCanary",
-      "MacClientBootstrapper": "zcanary",
-      "MacDesktopClient": "ZCanary",
-      "MacStudioApp": "zcanary",
-      "MacStudioBootstrapper": "zcanary",
-      "PCClientBootstrapper": "zcanary",
-      "PCDesktopClient": "ZCanary",
-      "PCStudioApp": "zcanary",
-      "PCStudioBootstrapper": "zcanary",
-      "PlayStationClient": "ZCanary",
-      "UWPApp": "ZCanary",
-      "XboxClient": "ZCanary"
-    },
-    "zintegration": {
-      "AndroidApp": "ZIntegration",
-      "iOSApp": "ZIntegration",
-      "MacClientBootstrapper": "ZIntegration",
-      "MacDesktopClient": "ZIntegration",
-      "MacStudioApp": "ZIntegration",
-      "MacStudioBootstrapper": "ZIntegration",
-      "PCClientBootstrapper": "ZIntegration",
-      "PCDesktopClient": "ZIntegration",
-      "PCStudioApp": "ZIntegration",
-      "PCStudioBootstrapper": "ZIntegration",
-      "PlayStationClient": "ZIntegration",
-      "UWPApp": "ZIntegration",
-      "XboxClient": "ZIntegration"
-    }
+    "zcanary": "zcanary",
+    "zintegration": "ZIntegration"
   }
 }
