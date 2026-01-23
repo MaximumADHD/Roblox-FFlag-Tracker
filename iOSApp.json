@@ -1,6 +1,7 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
   "DFFlagCollectSessionBatteryTelemetry": true,
+  "DFFlagDataStoreEnableStartupThrottler": true,
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagEnableCallingStopAdsBeforeClose": true,
   "DFFlagEnableGmaAppPromoAd": false,
@@ -241,6 +242,7 @@
   "FFlagFriendsCarouseCINavigationUpdate": true,
   "FFlagFriendsRenameModalUnboldText": true,
   "FFlagGetOriginalWebviewUserAgentIOS": true,
+  "FFlagGroupOSAGetConversationParticipants2": true,
   "FFlagHttpBlockWhenAppSuspendedIOS": true,
   "FFlagHttpCacheEntryUseMmap": true,
   "FFlagInvestigateZeroViewport": false,
@@ -268,6 +270,7 @@
   "FFlagLuaEnableLoginAndSignupDifferentiatedStatusValues": true,
   "FFlagLuaEnableShowUpsellMethod2": true,
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": true,
+  "FFlagLuauSolverAgnosticPropType": true,
   "FFlagLuaVerifiedSignupExperiment2": true,
   "FFlagMacDisableVP9HWOpenGl": true,
   "FFlagMemoizePersonButton_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
