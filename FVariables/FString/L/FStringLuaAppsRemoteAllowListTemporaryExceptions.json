@@ -1,7 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacStudioApp": "AvatarGesturesVRPlayer",
-    "PCStudioApp": "AvatarGesturesVRPlayer"
+    "LIVE": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
+    "zcanary": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
+    "zintegration": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings"
   }
 }
