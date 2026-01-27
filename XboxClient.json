@@ -1,7 +1,10 @@
 {
   "DFFlagBoneInstanceApi504": true,
+  "DFFlagDoISRParallelStepOnReadFixed": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
+  "DFFlagInterpolationUseSelfHealing": true,
+  "DFFlagPhysicsSenderCastsLayOnHands": true,
   "DFFlagTrackDPJProgress": true,
   "DFIntHangDetectionInferredTimeoutStartMs": 0,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
@@ -56,6 +59,7 @@
   "FFlagNotificationsComplianceShouldRestrictStream": true,
   "FFlagRbxStorageReportPageSize": true,
   "FFlagRefactorAuthPageForTenFoot": true,
+  "FFlagRemoveScriptRefAsReturnInVoiceChatCore": true,
   "FFlagRestrictLimited2ToSoothsayers": true,
   "FFlagShowLandingPageThirdPartySwitchAccountButton": true,
   "FFlagSQLiteSetPageSize": true,
