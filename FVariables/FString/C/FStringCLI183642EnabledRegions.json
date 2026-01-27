@@ -1,7 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacDesktopClient": "SA",
-    "PCDesktopClient": "SA"
+    "LIVE": "SA",
+    "zcanary": "CH,SA",
+    "zintegration": "SA"
   }
 }
