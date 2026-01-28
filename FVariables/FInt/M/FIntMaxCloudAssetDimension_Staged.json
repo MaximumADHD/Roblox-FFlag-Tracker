@@ -1,6 +1,16 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "iOSApp": "4096;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-27T23:01:37"
+    "LIVE": {
+      "iOSApp": "4096;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-27T23:01:37"
+    },
+    "zcanary": {
+      "AndroidApp": "4096;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-28T00:03:23",
+      "iOSApp": "4096;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-27T23:01:37"
+    },
+    "zintegration": {
+      "AndroidApp": "4096;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-28T00:03:23",
+      "iOSApp": "4096;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-27T23:01:37"
+    }
   }
 }
