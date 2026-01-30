@@ -766,7 +766,7 @@
   "FFlagGameSettingsUseDFRadioButton": true,
   "FFlagGameToExperienceLocSettingsPublish": true,
   "FFlagGenerationServiceUseText2MeshInsteadOfAvatarGeneration": true,
-  "FFlagGetDeclarationAtEndOfWord_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-01-29T23:14:32",
+  "FFlagGetDeclarationAtEndOfWord": true,
   "FFlagGetDeclarationJumpsToRequires": true,
   "FFlagGetDeclarationOnMetatables": true,
   "FFlaggetFFlagToolboxEnableDataSharingForAssets": true,
@@ -1656,7 +1656,10 @@
   "FFlagUGCValidateCurveAnimMinTimeFix": true,
   "FFlagUGCValidateFACSJointTransformsWithinBounds": true,
   "FFlagUGCValidateFixCurveAnimFrameTimeErrorMessage": true,
+  "FFlagUGCValidateLegAssetSeparation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2071985727;2026-01-30T00:17:13",
+  "FFlagUGCValidateLegFullBodySeparation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2071985727;2026-01-30T00:17:13",
   "FFlagUGCValidatePropertiesSensible": false,
+  "FFlagUGCValidateTinyTrianglesIntersectFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2071985727;2026-01-30T00:17:13",
   "FFlagUGCValidationEnableFolderStructure": true,
   "FFlagUGCValidationEnableFolderStructure2": false,
   "FFlagUGCValidationEyebrowEyelashSupport2": true,
@@ -1828,6 +1831,7 @@
   "FStringStudioPluginsBacktraceToken": "37f816e4fd552fe0e43209ded2937e0d8a9bfd1790b866891988b56bc6f9410c",
   "FStringStudioTaskRegistryLogPinpoint": "StartPageBridge/openLoadingPage",
   "FStringStudioTestRewardedVideoAdAssetUrl": "rbxassetid://77013990375904",
+  "FStringUGCValidationInflationThresholdLegsY_Staged": "0.2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2071985727;2026-01-30T00:17:13",
   "FStringUGCValidationReferenceMeshIdWhitelistForIEC": 95042539578838,
   "FStringViewportDisplaySizeAPI2BetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-build-cross-platform-ui-with-the-viewportdisplaysize-api/3880384"
 }
