@@ -126,7 +126,7 @@
   "DFIntLowMemoryAnalyticsThrottleHundredthsPercent": 50,
   "DFIntLowMemoryStatsThrottleHundredthsPercent": 10,
   "DFIntMinimumNumberMechanismsForMT": 20,
-  "DFIntPerformanceControlBatteryMetricsReportingPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-02T21:29:07",
+  "DFIntPerformanceControlBatteryMetricsReportingPercentage": 100,
   "DFIntPerformanceControlBatteryMetricsReportingPeriodSeconds_Staged": "300;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-02T22:10:38",
   "DFIntPerformanceControlCrashMetricAlgorithmType": 4,
   "DFIntPerformanceControlCrashMetricPostProcessingAlgorithmType_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
