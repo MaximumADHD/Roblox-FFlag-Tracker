@@ -925,6 +925,7 @@
   "FFlagLuauCompileExtraTableHints": true,
   "FFlagLuauCompileInlineInitializers": true,
   "FFlagLuauCompileNoInterpStorage": true,
+  "FFlagLuauContainsAnyGenericDoesntTraverseIntoExtern_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-02T21:30:12",
   "FFlagLuauDeferBidirectionalInferenceForTableAssignment": true,
   "FFlagLuauDfgAllowUpdatesInLoops": true,
   "FFlagLuauDfgForwardNilFromAndOr": true,
