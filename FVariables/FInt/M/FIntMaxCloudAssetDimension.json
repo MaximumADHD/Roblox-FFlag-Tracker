@@ -1,13 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "AndroidApp": 4096,
-    "iOSApp": 4096,
-    "MacDesktopClient": 4096,
-    "MacStudioApp": 4096,
-    "PCDesktopClient": 4096,
-    "PCStudioApp": 4096,
-    "PlayStationClient": 4096,
-    "XboxClient": 4096
+    "LIVE": 4096,
+    "zcanary": 256,
+    "zintegration": 4096
   }
 }
