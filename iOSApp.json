@@ -241,6 +241,7 @@
   "FFlagGetOriginalWebviewUserAgentIOS": true,
   "FFlagHttpBlockWhenAppSuspendedIOS": true,
   "FFlagHttpCacheEntryUseMmap": true,
+  "FFlagIASFixResetInRollback_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-03T19:15:14",
   "FFlagInvestigateZeroViewport": false,
   "FFlagLegacyRatingPromptEmitEvent_IXP": "1;ConsumerPlatforms.AppRatingPrompt;ConsumerPlatforms.iOSAppRatingPromptABTestV2;944157671;flagbank",
   "FFlagLoadIconFontsiOS": true,
