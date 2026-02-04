@@ -1060,6 +1060,7 @@
   "FFlagLuauTypeFunctionsUseSolveFunctionCall": true,
   "FFlagLuauTypeFunReadWriteParents": true,
   "FFlagLuauUngeneralizedTypesForRecursiveFunctions": true,
+  "FFlagLuauUnifier2HandleMismatchedPacks_Staged": "true;SteadyState;10;30;Revert;2026-02-04T21:08:35",
   "FFlagLuauUnifierDoesntReferToNewSolver": true,
   "FFlagLuauUnifyMetatableWithAny": true,
   "FFlagLuauUseFastSubtypeForIndexerWithName": true,
