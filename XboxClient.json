@@ -66,7 +66,7 @@
   "FFlagUseXboxPaymentsProtocolCommonFunctions": false,
   "FFlagXboxAccountPickerCancel": true,
   "FFlagXboxLastKnownStateTrackingEnabled": true,
-  "FFlagXboxPrivacyUseUserId_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-10T19:23:57",
+  "FFlagXboxPrivacyUseUserId": true,
   "FFlagXboxRestartLuaAppOnSignOutCompleted": true,
   "FFlagXboxUsePrivacySettingsRequest": true,
   "FIntCheckValidSessionInterval": 30,
