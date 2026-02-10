@@ -1,20 +1,8 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": false,
-      "iOSApp": true,
-      "UWPApp": true
-    },
-    "zcanary": {
-      "AndroidApp": true,
-      "iOSApp": true,
-      "UWPApp": true
-    },
-    "zintegration": {
-      "AndroidApp": false,
-      "iOSApp": true,
-      "UWPApp": true
-    }
+    "AndroidApp": true,
+    "iOSApp": true,
+    "UWPApp": true
   }
 }
