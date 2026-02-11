@@ -1,6 +1,20 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "zcanary": "DFFlagAvatarJointUpgradeIgnoreStarterCharacter"
+    "zcanary": {
+      "AndroidApp": "DFFlagAvatarJointUpgradeIgnoreStarterCharacter,DFStringChannelName",
+      "iOSApp": "DFFlagAvatarJointUpgradeIgnoreStarterCharacter,DFStringChannelName",
+      "MacClientBootstrapper": "DFStringChannelName",
+      "MacDesktopClient": "DFFlagAvatarJointUpgradeIgnoreStarterCharacter,DFStringChannelName",
+      "MacStudioApp": "DFStringChannelName",
+      "MacStudioBootstrapper": "DFStringChannelName",
+      "PCClientBootstrapper": "DFStringChannelName",
+      "PCDesktopClient": "DFFlagAvatarJointUpgradeIgnoreStarterCharacter,DFStringChannelName",
+      "PCStudioApp": "DFStringChannelName",
+      "PCStudioBootstrapper": "DFStringChannelName",
+      "PlayStationClient": "DFFlagAvatarJointUpgradeIgnoreStarterCharacter,DFStringChannelName",
+      "UWPApp": "DFFlagAvatarJointUpgradeIgnoreStarterCharacter,DFStringChannelName",
+      "XboxClient": "DFFlagAvatarJointUpgradeIgnoreStarterCharacter,DFStringChannelName"
+    }
   }
 }
