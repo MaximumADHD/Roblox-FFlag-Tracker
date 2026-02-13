@@ -1,4 +1,9 @@
 {
-  "Type": "Unified",
-  "Value": true
+  "Type": "Platforms",
+  "Value": {
+    "MacClientBootstrapper": true,
+    "MacStudioBootstrapper": false,
+    "PCClientBootstrapper": true,
+    "PCStudioBootstrapper": true
+  }
 }
