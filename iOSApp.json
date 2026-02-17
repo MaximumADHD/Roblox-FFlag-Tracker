@@ -1,5 +1,6 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
+  "DFFlagAddRecieveCheckpointToNetworkTracer_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-17T19:26:09",
   "DFFlagCollectSessionBatteryTelemetry": true,
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagEnableCallingStopAdsBeforeClose": true,
@@ -73,6 +74,7 @@
   "FFlagAddDeferredAssetIndicator": true,
   "FFlagAddFriendsOldIconForChannelsVariant_exp_IXP": "1;Social.AddFriendsPage;Social.AddFriends.NewConnectionChannelsUI;1676622440;dev_controlled",
   "FFlagAddL2SessionTagAssetReadLogger": true,
+  "FFlagAddTypesToWidgetItems_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-02-17T19:26:13",
   "FFlagAnimationCurveDenseCacheEnabled3": false,
   "FFlagAppChatEnableDoubleOptInRC2": false,
   "FFlagAppChatEnableGroupOSA2": true,
