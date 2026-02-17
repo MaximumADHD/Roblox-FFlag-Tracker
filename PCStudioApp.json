@@ -892,6 +892,7 @@
   "FFlagLuauBidirectionalInferenceElideAssert": true,
   "FFlagLuauBuiltinTypeFunctionsUseNewOverloadResolution": true,
   "FFlagLuauCacheInferencePerAstExpr": true,
+  "FFlagLuauCaptureRecursiveCallsForTablesAndGlobals_Staged": "true;SteadyState;10;30;Revert;2026-02-17T18:14:42",
   "FFlagLuauCheckForInWithSubtyping3": true,
   "FFlagLuauClipNestedAndRecursiveUnion": true,
   "FFlagLuauCloneReturnTypePack": true,
