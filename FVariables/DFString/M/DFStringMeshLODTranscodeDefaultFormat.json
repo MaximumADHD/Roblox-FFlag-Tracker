@@ -1,38 +1,8 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Channels",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "fmd",
-      "iOSApp": "fmd",
-      "MacDesktopClient": "fmd",
-      "MacStudioApp": "fmd",
-      "PCDesktopClient": "fmd",
-      "PCStudioApp": "fmd",
-      "PlayStationClient": "fmd",
-      "UWPApp": "fmd",
-      "XboxClient": "fmd"
-    },
-    "zcanary": {
-      "AndroidApp": "wild_mesh",
-      "iOSApp": "wild_mesh",
-      "MacDesktopClient": "wild_mesh",
-      "MacStudioApp": "fmd",
-      "PCDesktopClient": "wild_mesh",
-      "PCStudioApp": "fmd",
-      "PlayStationClient": "wild_mesh",
-      "UWPApp": "wild_mesh",
-      "XboxClient": "wild_mesh"
-    },
-    "zintegration": {
-      "AndroidApp": "fmd",
-      "iOSApp": "fmd",
-      "MacDesktopClient": "fmd",
-      "MacStudioApp": "fmd",
-      "PCDesktopClient": "fmd",
-      "PCStudioApp": "fmd",
-      "PlayStationClient": "fmd",
-      "UWPApp": "fmd",
-      "XboxClient": "fmd"
-    }
+    "LIVE": "fmd",
+    "zcanary": "wild_mesh",
+    "zintegration": "fmd"
   }
 }
