@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "SA"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "SA",
+    "zcanary": "CH,SA,US",
+    "zintegration": "SA"
+  }
 }
