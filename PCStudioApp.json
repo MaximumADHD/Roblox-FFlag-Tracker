@@ -1816,6 +1816,7 @@
   "FIntEngineStyling3BetaFeatureRolloutPercent": 100,
   "FIntEventDidWakeThrottling": 10000,
   "FIntEventHangRecoveredThrottling": 100,
+  "FIntEventHangRecoveredThrottling_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;495178767;2026-02-26T19:30:00",
   "FIntEventMonitorIsOffThrottling": 10000,
   "FIntEventMonitorIsOnThrottling": 10000,
   "FIntEventWillSleepThrottling": 10000,
