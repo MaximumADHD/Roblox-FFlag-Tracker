@@ -94,6 +94,7 @@
   "DFIntAssetServiceComposeDecalAsyncLoggingHundredthsPercentage": 10000,
   "DFIntAutocompletePerformanceTelemetryThrottlePercent": 2000,
   "DFIntCheckFixLuaTelemetryBoolTypesThrottleHundredthsPercentage": 100,
+  "DFIntCheckFixLuaTelemetryBoolTypesThrottleHundredthsPercentage_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1077867283;2026-03-02T18:54:13",
   "DFIntConnectionMTUSize": 1200,
   "DFIntContentProviderReportBlockedRequestsRate": 500,
   "DFIntConvexDecompBadMeshReportingHundredthsPercentage": 10000,
