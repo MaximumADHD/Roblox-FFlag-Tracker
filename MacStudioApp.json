@@ -3,6 +3,7 @@
   "DFFlagAddUserIdInServerHeaderForAwardedDateEndpoints": true,
   "DFFlagAnalyticsDeferredEventIngestEmptyQueueEveryInterval": true,
   "DFFlagAnalyticsDeferredEventIngestReportUnsentEventsOnExit": true,
+  "DFFlagAppPolicyReadDefaultJson_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-02T22:51:06",
   "DFFlagAssetsUploadCounterEnhancement": true,
   "DFFlagAuroraAutoPredictHumanoidsAndModels2": true,
   "DFFlagBadgesCacheBadgeOwnedOn409": true,
