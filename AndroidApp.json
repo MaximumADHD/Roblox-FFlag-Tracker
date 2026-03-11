@@ -260,7 +260,7 @@
   "FFlagEnableNullInputWhenHideKeyboard": true,
   "FFlagEnablePrefetchTimeout": true,
   "FFlagEnablePurchaseFlowUUIDMigration": true,
-  "FFlagEnablePushHandlerWorker_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-10T23:58:38",
+  "FFlagEnablePushHandlerWorker": true,
   "FFlagEnableRecommendedNotificationsChannel": true,
   "FFlagEnableRegisterBackgroundPushSettingsReportingOnPush": false,
   "FFlagEnableRegisterBackgroundPushSettingsReportingOnPush_IXP": "1;Portal.android_notifs_bg_job_a_a-1767916421;android_notifs_bg_job_a_a;949135430;flagbank",
