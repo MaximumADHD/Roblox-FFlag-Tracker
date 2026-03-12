@@ -7,9 +7,12 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
+  "FFlagFixGridContentSize_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1072596570;2026-03-12T20:08:45",
+  "FFlagRenderPBRDecal3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-12T20:10:00",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
   "FFlagUWPCheckTTIBlockingDialog": true,
+  "FIntChatModerationFrameLayoutOrder_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1659925101;2026-03-12T20:10:31",
   "FIntUwpDeprecationDate": 1763672400,
   "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
 }
