@@ -1,8 +1,11 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;305188273;flagbank",
-    "zcanary": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;305188273;flagbank",
-    "zintegration": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;305188273;flagbank"
+    "AndroidApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;305188273;flagbank",
+    "iOSApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;305188273;flagbank",
+    "MacDesktopClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;305188273;flagbank",
+    "PCDesktopClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;305188273;flagbank",
+    "PlayStationClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;305188273;flagbank",
+    "XboxClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;305188273;flagbank"
   }
 }
