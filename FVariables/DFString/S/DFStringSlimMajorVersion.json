@@ -1,8 +1,38 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "v0.24",
-    "zcanary": "v0.Chunking",
-    "zintegration": "v0.24"
+    "LIVE": {
+      "AndroidApp": "v0.24",
+      "iOSApp": "v0.24",
+      "MacDesktopClient": "v0.24",
+      "MacStudioApp": "v0.24",
+      "PCDesktopClient": "v0.24",
+      "PCStudioApp": "v0.24",
+      "PlayStationClient": "v0.24",
+      "UWPApp": "v0.24",
+      "XboxClient": "v0.24"
+    },
+    "zcanary": {
+      "AndroidApp": "v0.24",
+      "iOSApp": "v0.24",
+      "MacDesktopClient": "v0.Chunking",
+      "MacStudioApp": "v0.24",
+      "PCDesktopClient": "v0.Chunking",
+      "PCStudioApp": "v0.24",
+      "PlayStationClient": "v0.Chunking",
+      "UWPApp": "v0.24",
+      "XboxClient": "v0.24"
+    },
+    "zintegration": {
+      "AndroidApp": "v0.24",
+      "iOSApp": "v0.24",
+      "MacDesktopClient": "v0.24",
+      "MacStudioApp": "v0.24",
+      "PCDesktopClient": "v0.24",
+      "PCStudioApp": "v0.24",
+      "PlayStationClient": "v0.24",
+      "UWPApp": "v0.24",
+      "XboxClient": "v0.24"
+    }
   }
 }
