@@ -1,7 +1,8 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zcanary": "1;PlayerApp.BadgeDetails.Exposure;Discovery.App.Badges.BadgeDetailsMigration;72708037;dev_controlled",
-    "zintegration": "1;PlayerApp.BadgeDetails.Exposure;Discovery.App.Badges.BadgeDetailsMigration;72708037;dev_controlled"
+    "iOSApp": "1;PlayerApp.BadgeDetails.Exposure;Discovery.App.Badges.BadgeDetailsMigration;72708037;dev_controlled",
+    "MacDesktopClient": "1;PlayerApp.BadgeDetails.Exposure;Discovery.App.Badges.BadgeDetailsMigration;72708037;dev_controlled",
+    "PCDesktopClient": "1;PlayerApp.BadgeDetails.Exposure;Discovery.App.Badges.BadgeDetailsMigration;72708037;dev_controlled"
   }
 }
