@@ -1,7 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacDesktopClient": "9999999;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;928275636;2026-03-18T22:29:35",
-    "MacStudioApp": "9999999;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;928275636;2026-03-18T22:29:35"
+    "LIVE": "9999999;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;928275636;2026-03-18T22:29:35",
+    "zcanary": "9999999;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;928275636;2026-03-18T22:29:35",
+    "zintegration": "9999999;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;928275636;2026-03-18T22:29:35"
   }
 }

@@ -1,8 +1,23 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "iOSApp": 9999999,
-    "PCDesktopClient": 1920,
-    "PCStudioApp": 1920
+    "LIVE": {
+      "iOSApp": 9999999,
+      "MacStudioApp": 9999999,
+      "PCDesktopClient": 1920,
+      "PCStudioApp": 1920
+    },
+    "zcanary": {
+      "iOSApp": 9999999,
+      "MacDesktopClient": 9999999,
+      "PCDesktopClient": 1920,
+      "PCStudioApp": 1920
+    },
+    "zintegration": {
+      "iOSApp": 9999999,
+      "MacStudioApp": 9999999,
+      "PCDesktopClient": 1920,
+      "PCStudioApp": 1920
+    }
   }
 }
