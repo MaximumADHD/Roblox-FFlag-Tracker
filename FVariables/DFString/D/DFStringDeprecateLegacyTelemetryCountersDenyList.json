@@ -1,6 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "XboxClient": "UserMouseIconGetAPICalled"
+    "LIVE": "UserMouseIconGetAPICalled",
+    "zcanary": "UserMouseIconGetAPICalled",
+    "zintegration": "UserMouseIconGetAPICalled"
   }
 }
