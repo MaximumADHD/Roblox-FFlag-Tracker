@@ -1,7 +1,17 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "PCDesktopClient": "Qualcomm",
-    "PCStudioApp": "Intel,AMD,Qualcomm"
+    "LIVE": {
+      "PCDesktopClient": "Qualcomm",
+      "PCStudioApp": "Intel,AMD,Qualcomm"
+    },
+    "zcanary": {
+      "PCDesktopClient": "Qualcomm",
+      "PCStudioApp": "Intel,AMD,Qualcomm"
+    },
+    "zintegration": {
+      "PCDesktopClient": "Qualcomm,AMD",
+      "PCStudioApp": "Intel,AMD,Qualcomm"
+    }
   }
 }
