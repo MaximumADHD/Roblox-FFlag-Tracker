@@ -1,6 +1,20 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "zcanary": "FFlagContentProviderSwitchCallbackExecutorToTaskScheduler,DFIntContentProviderNumberOfCallbackFibers,DFIntContentProviderNumberOfCallbackFibers,FFlagContentProviderCallbackExecutorUseConcurrencyMultiplier"
+    "zcanary": {
+      "AndroidApp": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "iOSApp": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "MacClientBootstrapper": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "MacDesktopClient": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "MacStudioApp": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "MacStudioBootstrapper": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "PCClientBootstrapper": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "PCDesktopClient": "FFlagContentProviderSwitchCallbackExecutorToTaskScheduler,DFIntContentProviderNumberOfCallbackFibers,DFIntContentProviderNumberOfCallbackFibers,FFlagContentProviderCallbackExecutorUseConcurrencyMultiplier",
+      "PCStudioApp": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "PCStudioBootstrapper": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "PlayStationClient": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "UWPApp": "FFlagRbxTransportUnreliableContiguousReassembly",
+      "XboxClient": "FFlagRbxTransportUnreliableContiguousReassembly"
+    }
   }
 }
