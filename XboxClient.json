@@ -1,8 +1,9 @@
 {
   "DFFlagBoneInstanceApi504": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
+  "DFFlagFixWarnLongRunningJobsOutputSpam2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-26T18:22:16",
   "DFFlagHangDetectionForceCrash": true,
-  "DFFlagMarketplaceApiUsageTelemetryEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-26T17:18:00",
+  "DFFlagPlayersApiUsageTelemetryEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-03-26T18:21:27",
   "DFFlagSQLiteCacheBatchEviction2": true,
   "DFFlagSQLiteCacheBatchUpdate2": true,
   "DFFlagTrackDPJProgress": true,
@@ -45,7 +46,6 @@
   "FFlagExpChatMigrationSetup_PlaceFilter": "true;97907604952329;100416697650493;140020255467604;81527297895754;97053926302352;72888887992401;114188702067756;122546802658972;97650141830651",
   "FFlagExpDetailsUseSelectionBumpers": true,
   "FFlagFireSignalForLegacyWindow_PlaceFilter": "true;97907604952329;100416697650493;140020255467604;81527297895754;97053926302352;72888887992401;114188702067756;122546802658972;97650141830651",
-  "FFlagFixImportWrapTextureTransferNonPBR_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;882664740;2026-03-26T18:20:45",
   "FFlagFriendCarouselGetCarouseListSorting": true,
   "FFlagFriendCarouselHas10ftPolicies": true,
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": true,
