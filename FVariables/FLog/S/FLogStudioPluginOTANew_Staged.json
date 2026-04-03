@@ -1,4 +1,6 @@
 {
-  "Type": "Unified",
-  "Value": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-03T18:36:59"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-03T18:36:59"
+  }
 }
