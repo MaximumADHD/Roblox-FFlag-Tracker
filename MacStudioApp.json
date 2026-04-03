@@ -1612,7 +1612,7 @@
   "FFlagStudioFixNoThumbnailProblem": true,
   "FFlagStudioFixPanelsObserverInvalidAccess": true,
   "FFlagStudioFixPlaySoloTelemetryTaskCondition": true,
-  "FFlagStudioFixPluginDebuggingRaceCondition_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-03T18:33:06",
+  "FFlagStudioFixPluginDebuggingRaceCondition": true,
   "FFlagStudioFixPluginGuiLifetimes": true,
   "FFlagStudioFixPluginLoadingControllerUserPluginsModel": true,
   "FFlagStudioFixPluginMenuUnloadingCrash": true,
