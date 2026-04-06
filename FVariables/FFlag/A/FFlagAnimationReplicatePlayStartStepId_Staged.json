@@ -1,8 +1,9 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-06T17:26:44",
-    "zcanary": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-06T17:26:44",
-    "zintegration": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-06T17:26:44"
+    "MacDesktopClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-06T17:26:44",
+    "MacStudioApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-06T17:26:44",
+    "PCDesktopClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-06T17:26:44",
+    "PCStudioApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-06T17:26:44"
   }
 }
