@@ -57,7 +57,6 @@
   "FFlagDebugEnableOctreeValidation": true,
   "FFlagEnableDeviceCheckChallenge": true,
   "FFlagEnableMmapForFileReading": true,
-  "FFlagEnableSentryMigration6": true,
   "FFlagFireErrorRCCTimeoutSignal": true,
   "FFlagFixEscExitingFullscreen": true,
   "FFlagGraphicsMetalNoDestruct": true,
@@ -114,6 +113,5 @@
   "FStringFeature_CookieStoreMacStickyEnabled": "564;100",
   "FStringFeature_DisableOldCookieManagementSticky": "569;100",
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100",
-  "FStringLuaAppSentryDsn": "https://43bd00cc9b5cf2ece95b75b1bb788f27@sentry-relay.rbx.com/3",
   "FStringNetStackDummyClientEnabledMajorVersions": ""
 }
