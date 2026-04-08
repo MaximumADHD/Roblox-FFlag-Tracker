@@ -8,9 +8,11 @@
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagAvatarJointUpgradeReplaceBodyPartR15_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-08T20:17:30",
   "FFlagBootcampCLI147189": true,
+  "FFlagEnableSentryMigration6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1947394308;2026-04-08T20:56:46",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FIntUwpDeprecationDate": 1763672400,
+  "FStringLuaAppSentryDsn_Staged": "https://43bd00cc9b5cf2ece95b75b1bb788f27@sentry-relay.rbx.com/3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1947394308;2026-04-08T20:56:46",
   "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
 }
