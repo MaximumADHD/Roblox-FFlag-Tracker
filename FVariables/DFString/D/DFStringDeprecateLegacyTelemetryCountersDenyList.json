@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "UserMouseIconGetAPICalled"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "UserMouseIconGetAPICalled,NewMouseIconGetAPICalled",
+    "iOSApp": "UserMouseIconGetAPICalled",
+    "MacDesktopClient": "UserMouseIconGetAPICalled",
+    "MacStudioApp": "UserMouseIconGetAPICalled",
+    "PCDesktopClient": "UserMouseIconGetAPICalled",
+    "PCStudioApp": "UserMouseIconGetAPICalled",
+    "PlayStationClient": "UserMouseIconGetAPICalled,NewMouseIconGetAPICalled",
+    "UWPApp": "UserMouseIconGetAPICalled,NewMouseIconGetAPICalled",
+    "XboxClient": "UserMouseIconGetAPICalled"
+  }
 }
