@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V6;1770156885;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V6;1770156885;flagbank",
+    "zcanary": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V6;1770156885;flagbank",
+    "zintegration": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V6;1770156885;flagbank"
+  }
 }
