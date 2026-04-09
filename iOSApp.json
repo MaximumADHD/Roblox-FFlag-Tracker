@@ -16,7 +16,7 @@
   "DFFlagHttpReportWhenAppSuspended": true,
   "DFFlagPerformanceControlEnableInference": true,
   "DFFlagPerformanceControlEnableMLOomModel2": true,
-  "DFFlagPerformanceControlEnableMLOomModel2_Staged": "false;SteadyState;10;30;Revert;2026-04-09T17:39:21",
+  "DFFlagPerformanceControlEnableMLOomModel2_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-09T18:21:54",
   "DFFlagPerformanceControlIXPMLOomThresholdIntegration": false,
   "DFFlagPlayerConfigurerRunLMSTest": true,
   "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry": true,
