@@ -8,6 +8,8 @@
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
   "FFlagRemove2DLightgrid_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-13T16:00:20",
+  "FFlagTM2AlwaysSkipFirstRequestRetryDelay_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-13T16:02:49",
+  "FFlagTM2FixDelayRetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-13T16:03:11",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
   "FFlagUWPCheckTTIBlockingDialog": true,
