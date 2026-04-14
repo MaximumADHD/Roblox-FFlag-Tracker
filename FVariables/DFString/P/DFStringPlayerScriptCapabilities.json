@@ -1,38 +1,4 @@
 {
-  "Type": "ChannelsAndPlatforms",
-  "Value": {
-    "LIVE": {
-      "AndroidApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment",
-      "iOSApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "MacDesktopClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment",
-      "MacStudioApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment",
-      "PCDesktopClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment",
-      "PCStudioApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment",
-      "PlayStationClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment",
-      "UWPApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment",
-      "XboxClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment"
-    },
-    "zcanary": {
-      "AndroidApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "iOSApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "MacDesktopClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "MacStudioApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "PCDesktopClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "PCStudioApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "PlayStationClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "UWPApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "XboxClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript"
-    },
-    "zintegration": {
-      "AndroidApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "iOSApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "MacDesktopClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "MacStudioApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "PCDesktopClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "PCStudioApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "PlayStationClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "UWPApp": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript",
-      "XboxClient": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript"
-    }
-  }
+  "Type": "Unified",
+  "Value": "RunClientScript | AccessOutsideWrite | Animation | AvatarAppearance | Basic | CreateInstances | Input | Players | UI | Audio | LegacySound | CSG | AvatarBehavior | Environment | RunServerScript"
 }
