@@ -367,6 +367,7 @@
   "FFlagUseIsAvailableCheckForIOSKeychainFetch": true,
   "FFlagUseLargerHeaderTextOnMultipageSignup": true,
   "FFlagUseMultiPageSignupTextOnAddAuthMethodPage": true,
+  "FFlagUsePaymentsProtocolFailureMetrics_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-14T20:18:19",
   "FFlagUsePaymentsProtocolMetricsV2": true,
   "FFlagUsePaymentsProtocolMetricsV2_IXP": "1;ConsumerPlatforms.PaymentsProtocol;ConsumerPlatforms.PaymentsProtocoliOSTest.V3;676893979;flagbank",
   "FFlagUsePaymentsProtocolPurchaseTypeDimension_IXP": "1;ConsumerPlatforms.PaymentsProtocol;ConsumerPlatforms.PaymentsProtocoliOSTest.V3;676893979;flagbank",
