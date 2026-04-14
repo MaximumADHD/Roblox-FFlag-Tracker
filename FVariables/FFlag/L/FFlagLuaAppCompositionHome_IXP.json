@@ -1,14 +1,38 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
-    "iOSApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
-    "MacDesktopClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;857965896;flagbank",
-    "MacStudioApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;857965896;flagbank",
-    "PCDesktopClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;857965896;flagbank",
-    "PCStudioApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;857965896;flagbank",
-    "PlayStationClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;857965896;flagbank",
-    "UWPApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
-    "XboxClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;857965896;flagbank"
+    "LIVE": {
+      "AndroidApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
+      "iOSApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
+      "MacDesktopClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "MacStudioApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "PCDesktopClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "PCStudioApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "PlayStationClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;857965896;flagbank",
+      "UWPApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
+      "XboxClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;857965896;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
+      "iOSApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
+      "MacDesktopClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "MacStudioApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "PCDesktopClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "PCStudioApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "PlayStationClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "UWPApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
+      "XboxClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
+      "iOSApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
+      "MacDesktopClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "MacStudioApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "PCDesktopClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "PCStudioApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "PlayStationClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank",
+      "UWPApp": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V1;2100356277;flagbank",
+      "XboxClient": "1;PlayerApp.GridUI;Discovery.App.MaxWidthGridModernization.HomeCharts.DesktopConsole.V2;36911730;flagbank"
+    }
   }
 }
