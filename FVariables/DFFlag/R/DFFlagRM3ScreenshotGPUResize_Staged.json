@@ -1,38 +1,4 @@
 {
-  "Type": "ChannelsAndPlatforms",
-  "Value": {
-    "LIVE": {
-      "AndroidApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-24T16:31:22",
-      "iOSApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "MacDesktopClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-24T16:31:22",
-      "MacStudioApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-24T16:31:22",
-      "PCDesktopClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "PCStudioApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-24T16:31:22",
-      "PlayStationClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "UWPApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-24T16:31:22",
-      "XboxClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14"
-    },
-    "zcanary": {
-      "AndroidApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "iOSApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "MacDesktopClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "MacStudioApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "PCDesktopClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "PCStudioApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "PlayStationClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "UWPApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "XboxClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14"
-    },
-    "zintegration": {
-      "AndroidApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "iOSApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "MacDesktopClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "MacStudioApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "PCDesktopClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "PCStudioApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "PlayStationClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "UWPApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14",
-      "XboxClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14"
-    }
-  }
+  "Type": "Unified",
+  "Value": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1041558295;2026-04-24T16:33:14"
 }
