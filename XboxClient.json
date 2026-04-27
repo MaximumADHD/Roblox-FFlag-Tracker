@@ -1,6 +1,9 @@
 {
   "DFFlagBoneInstanceApi504": true,
+  "DFFlagCLI183873_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;554984713;2026-04-26T20:24:07",
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
+  "DFFlagFixRbxAssertCLI139490VolumeCap_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;212054868;2026-04-26T20:25:29",
+  "DFFlagFixSanitizeReflectedCFrame_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;19711382;2026-04-26T18:47:28",
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagRbxStorageDontQueryForNonPermanentCategorySizes": true,
   "DFFlagTrackDPJProgress": true,
