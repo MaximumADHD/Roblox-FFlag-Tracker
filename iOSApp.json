@@ -25,6 +25,7 @@
   "DFFlagReportInferenceResultToPerfdata2": true,
   "DFFlagSendOrientationToPlayersGui": true,
   "DFFlagSkipInstallGmasdk": true,
+  "DFFlagSkipSslCustomVerifyCallback_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T22:47:20",
   "DFFlagUnifiedCookieProtocolEnabled": true,
   "DFFlagUserInputServiceDeviceMotionAnalytics2": false,
   "DFFlagUseShareLinkHandler_IXP": "1;ShareLink;ShareLinks.Cpp.Handling;1359076184;flagbank",
@@ -443,6 +444,5 @@
   "FStringSignalRRelativePath": "notifications",
   "FStringSocialCarouselUserTileBackground": "bg-system-neutral",
   "FStringSocialCarouselUserTileBackgroundHover": "bg-system-contrast",
-  "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS",
-  "FStringTelemetryDataReArchTransmissionRolloutDenyList_Staged": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1282765861;2026-04-27T22:21:48"
+  "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS"
 }
