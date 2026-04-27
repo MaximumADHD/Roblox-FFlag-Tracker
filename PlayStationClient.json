@@ -24,6 +24,7 @@
   "FFlagAddMenuNavigationToggleDialog": true,
   "FFlagAuthDisclaimerUseArgs": false,
   "FFlagAXF10ftFixPeekabooWidget": true,
+  "FFlagAXFixIaBItemMap_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T18:30:31",
   "FFlagAXMigrateSceneGamepadHandlerInputBindings": true,
   "FFlagAXNoCarouselsOnCatalogWithGamepad": true,
   "FFlagBlockingConsolePreparePaymentCheck": true,
@@ -58,6 +59,9 @@
   "FFlagExpDetailsUseSelectionBumpers": true,
   "FFlagFireSignalForLegacyWindow_PlaceFilter": "true;97907604952329;100416697650493;140020255467604;81527297895754;97053926302352;72888887992401;114188702067756;122546802658972;97650141830651",
   "FFlagFixALCUsageForPayments": true,
+  "FFlagFixSoundFailedLoadRetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T18:28:17",
+  "FFlagFmodVorbisCodecMutex_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T18:29:09",
+  "FFlagFoundationImagesRemoveDeprecatedIconAssets2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1866393972;2026-04-27T18:27:02",
   "FFlagFriendCarouselGetCarouseListSorting": true,
   "FFlagFriendCarouselHas10ftPolicies": true,
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": true,
@@ -81,6 +85,7 @@
   "FFlagPlayStationDebugMemoryStats": true,
   "FFlagPlayStationReportCrashChannel": true,
   "FFlagPreauthPassToLua": true,
+  "FFlagPromptBulkPurchaseRequestedV2EventEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T18:28:46",
   "FFlagPS4CopyTextureApi3": true,
   "FFlagPSHandlePSNSignOut1": true,
   "FFlagRbxStorageSparsedFindAndRemoveOrphanedFiles": false,
@@ -107,6 +112,7 @@
   "FIntSQLiteDisableSHM": 1,
   "FLogPaymentsProtocol": "Warning",
   "FLogPlayStationAgeRestrictionManager": "Info",
+  "FStringFoundationImagesWhitelistedIconAssets_Staged": "icons/menu/2-person-with-bubble-on,icons/menu/2-person-with-bubble;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1866393972;2026-04-27T18:27:02",
   "FStringLuaAppEphemeralCounterPrefix": "PlayStation-",
   "FStringSduiForceImageQualityLevel": "high"
 }

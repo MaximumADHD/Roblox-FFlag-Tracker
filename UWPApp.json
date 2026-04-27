@@ -7,11 +7,17 @@
   "DFFlagRobloxTelemetryEnableSenderCallback5": true,
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
+  "FFlagAXFixIaBItemMap_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T18:30:31",
   "FFlagBootcampCLI147189": true,
+  "FFlagFixSoundFailedLoadRetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T18:28:17",
+  "FFlagFmodVorbisCodecMutex_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T18:29:09",
+  "FFlagFoundationImagesRemoveDeprecatedIconAssets2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1866393972;2026-04-27T18:27:02",
+  "FFlagPromptBulkPurchaseRequestedV2EventEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T18:28:46",
   "FFlagRenderOrchestratorMeshUseContentStore11_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T18:25:36",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FIntUwpDeprecationDate": 1763672400,
+  "FStringFoundationImagesWhitelistedIconAssets_Staged": "icons/menu/2-person-with-bubble-on,icons/menu/2-person-with-bubble;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1866393972;2026-04-27T18:27:02",
   "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
 }
