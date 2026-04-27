@@ -1,6 +1,5 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
-  "DFFlagCapsReparentAutoSandboxCreate_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T19:05:22",
   "DFFlagCollectSessionBatteryTelemetry": true,
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagEnableCallingStopAdsBeforeClose": true,
@@ -398,8 +397,7 @@
   "FIntmi_option_arena_reserve": 131072,
   "FIntmi_option_eager_commit": 0,
   "FIntmi_option_page_commit_on_demand": 1,
-  "FIntmi_option_purge_delay": 0,
-  "FIntmi_option_purge_delay_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-27T19:09:28",
+  "FIntmi_option_purge_delay": 10,
   "FIntOcclusionWorkerThreadCount": 2,
   "FIntPartyPlayerInactivityTimeoutInSeconds": 300,
   "FIntRbxStorageMinMemoryRequirementMB": 0,
