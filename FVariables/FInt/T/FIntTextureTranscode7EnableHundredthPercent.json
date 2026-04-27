@@ -1,11 +1,29 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacDesktopClient": 100,
-    "MacStudioApp": 100,
-    "PCDesktopClient": 100,
-    "PCStudioApp": 100,
-    "PlayStationClient": 100,
-    "XboxClient": 100
+    "LIVE": {
+      "MacDesktopClient": 100,
+      "MacStudioApp": 100,
+      "PCDesktopClient": 100,
+      "PCStudioApp": 100,
+      "PlayStationClient": 100,
+      "XboxClient": 100
+    },
+    "zcanary": {
+      "MacDesktopClient": 100,
+      "MacStudioApp": 100,
+      "PCDesktopClient": 100,
+      "PCStudioApp": 100,
+      "PlayStationClient": 200,
+      "XboxClient": 100
+    },
+    "zintegration": {
+      "MacDesktopClient": 100,
+      "MacStudioApp": 100,
+      "PCDesktopClient": 200,
+      "PCStudioApp": 200,
+      "PlayStationClient": 100,
+      "XboxClient": 200
+    }
   }
 }
