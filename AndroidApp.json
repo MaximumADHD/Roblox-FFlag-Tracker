@@ -441,6 +441,7 @@
   "FinishEarlyOnProcessDeath": "true",
   "FIntEnableCacheDirSizeTelemetryHundredthPercent": 10,
   "FIntEnableFIB3VulkanHundredthPercent": 10000,
+  "FIntEnableSentryUARolloutPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T17:45:19",
   "FIntHapticBufferSamplesPerBuffer": 100,
   "FIntHapticBufferUpdateTimerMS": 1000,
   "FIntLmsClientRollout2": 20,
