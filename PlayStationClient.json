@@ -7,6 +7,8 @@
   "DFFlagHttpHardProgressReqLimit": true,
   "DFFlagPSAddMissingLocales": true,
   "DFFlagPsSocketExhaustionLog": false,
+  "DFFlagRbxTransportQuicHandshakeErrorMTFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T22:42:02",
+  "DFFlagRbxTransportQuicHandshakeStageAccuracy2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T22:42:26",
   "DFFlagReportCacheDirSizes": true,
   "DFFlagTrackDPJProgress": true,
   "DFFlagUseFtsEnrollHeader": false,
