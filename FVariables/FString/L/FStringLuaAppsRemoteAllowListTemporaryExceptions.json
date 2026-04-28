@@ -1,14 +1,4 @@
 {
-  "Type": "Platforms",
-  "Value": {
-    "AndroidApp": "ExpChatFeatureValueChanged",
-    "iOSApp": "ExpChatFeatureValueChanged",
-    "MacDesktopClient": "ExpChatFeatureValueChanged",
-    "MacStudioApp": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
-    "PCDesktopClient": "ExpChatFeatureValueChanged",
-    "PCStudioApp": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
-    "PlayStationClient": "ExpChatFeatureValueChanged",
-    "UWPApp": "ExpChatFeatureValueChanged",
-    "XboxClient": "ExpChatFeatureValueChanged"
-  }
+  "Type": "Unified",
+  "Value": "ExpChatFeatureValueChanged"
 }
