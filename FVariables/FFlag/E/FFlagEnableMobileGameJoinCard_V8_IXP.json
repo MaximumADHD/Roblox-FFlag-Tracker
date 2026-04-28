@@ -1,11 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;2041261404;dev_controlled",
-    "iOSApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;2041261404;dev_controlled",
-    "MacDesktopClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;2041261404;dev_controlled",
-    "MacStudioApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;2041261404;dev_controlled",
-    "PCDesktopClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;2041261404;dev_controlled",
-    "PCStudioApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;2041261404;dev_controlled"
+    "LIVE": {
+      "AndroidApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "iOSApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "MacDesktopClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "MacStudioApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "PCDesktopClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "PCStudioApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;2041261404;dev_controlled",
+      "PlayStationClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "UWPApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled"
+    },
+    "zcanary": {
+      "AndroidApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "iOSApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "MacDesktopClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "MacStudioApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "PCDesktopClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "PCStudioApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "PlayStationClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "UWPApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "XboxClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled"
+    },
+    "zintegration": {
+      "AndroidApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "iOSApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "MacDesktopClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "MacStudioApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "PCDesktopClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "PCStudioApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "PlayStationClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "UWPApp": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled",
+      "XboxClient": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardRedesign;146325503;dev_controlled"
+    }
   }
 }
