@@ -1,38 +1,14 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "ExpChatFeatureValueChanged",
-      "iOSApp": "ExpChatFeatureValueChanged",
-      "MacDesktopClient": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
-      "MacStudioApp": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
-      "PCDesktopClient": "ExpChatFeatureValueChanged",
-      "PCStudioApp": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
-      "PlayStationClient": "ExpChatFeatureValueChanged",
-      "UWPApp": "ExpChatFeatureValueChanged",
-      "XboxClient": "ExpChatFeatureValueChanged"
-    },
-    "zcanary": {
-      "AndroidApp": "ExpChatFeatureValueChanged",
-      "iOSApp": "ExpChatFeatureValueChanged",
-      "MacDesktopClient": "ExpChatFeatureValueChanged",
-      "MacStudioApp": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
-      "PCDesktopClient": "ExpChatFeatureValueChanged",
-      "PCStudioApp": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
-      "PlayStationClient": "ExpChatFeatureValueChanged",
-      "UWPApp": "ExpChatFeatureValueChanged",
-      "XboxClient": "ExpChatFeatureValueChanged"
-    },
-    "zintegration": {
-      "AndroidApp": "ExpChatFeatureValueChanged",
-      "iOSApp": "ExpChatFeatureValueChanged",
-      "MacDesktopClient": "ExpChatFeatureValueChanged",
-      "MacStudioApp": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
-      "PCDesktopClient": "ExpChatFeatureValueChanged",
-      "PCStudioApp": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
-      "PlayStationClient": "ExpChatFeatureValueChanged",
-      "UWPApp": "ExpChatFeatureValueChanged",
-      "XboxClient": "ExpChatFeatureValueChanged"
-    }
+    "AndroidApp": "ExpChatFeatureValueChanged",
+    "iOSApp": "ExpChatFeatureValueChanged",
+    "MacDesktopClient": "ExpChatFeatureValueChanged",
+    "MacStudioApp": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
+    "PCDesktopClient": "ExpChatFeatureValueChanged",
+    "PCStudioApp": "AvatarGesturesVRPlayer,RequestPlayerProfileSettings",
+    "PlayStationClient": "ExpChatFeatureValueChanged",
+    "UWPApp": "ExpChatFeatureValueChanged",
+    "XboxClient": "ExpChatFeatureValueChanged"
   }
 }
