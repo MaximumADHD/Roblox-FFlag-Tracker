@@ -1,6 +1,12 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zintegration": "ExpChatFeatureValueChanged;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T16:11:58"
+    "AndroidApp": "ExpChatFeatureValueChanged;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T16:11:58",
+    "iOSApp": "ExpChatFeatureValueChanged;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T16:11:58",
+    "MacDesktopClient": "ExpChatFeatureValueChanged;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T16:11:58",
+    "PCDesktopClient": "ExpChatFeatureValueChanged;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T16:11:58",
+    "PlayStationClient": "ExpChatFeatureValueChanged;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T16:11:58",
+    "UWPApp": "ExpChatFeatureValueChanged;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T16:11:58",
+    "XboxClient": "ExpChatFeatureValueChanged;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-28T16:11:58"
   }
 }
