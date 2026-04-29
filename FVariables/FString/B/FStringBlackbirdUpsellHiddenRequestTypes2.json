@@ -1,8 +1,10 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "AvatarCreationFee,Experience",
-    "zcanary": "AvatarCreationFee,Experience",
-    "zintegration": "AvatarCreationFee,Experience"
+    "iOSApp": "AvatarCreationFee,Experience",
+    "MacDesktopClient": "AvatarCreationFee,Experience",
+    "MacStudioApp": "AvatarCreationFee,Experience",
+    "PCDesktopClient": "AvatarCreationFee,Experience",
+    "PCStudioApp": "AvatarCreationFee,Experience"
   }
 }
