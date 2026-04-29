@@ -14,6 +14,7 @@
   "DFFlagCppErrorReporterReportDirectly": true,
   "DFFlagDataStoreEnableModernRequestQueues": true,
   "DFFlagDataStoreEnableSendConcurrentWriteKeysToQueue": true,
+  "DFFlagDataStoreLoadModernThrottlingOnCreate_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1990132349;2026-04-29T21:55:48",
   "DFFlagDebugLuauReportReturnTypeVariadicWithTypeSuffix": true,
   "DFFlagDigitsRigDescriptionEnabled": true,
   "DFFlagDisableVideoEncodeForIntelMac": false,
