@@ -1,8 +1,50 @@
 {
-  "Type": "Channels",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "LIVE": "04/29/2026 20:40:37",
-    "zcanary": "04/29/2026 20:41:57",
-    "zintegration": "04/29/2026 20:41:57"
+    "LIVE": {
+      "AndroidApp": "04/29/2026 20:44:22",
+      "iOSApp": "04/29/2026 20:44:22",
+      "MacClientBootstrapper": "04/29/2026 20:43:18",
+      "MacDesktopClient": "04/29/2026 20:43:18",
+      "MacStudioApp": "04/29/2026 20:44:22",
+      "MacStudioBootstrapper": "04/29/2026 20:43:18",
+      "PCClientBootstrapper": "04/29/2026 20:44:22",
+      "PCDesktopClient": "04/29/2026 20:43:18",
+      "PCStudioApp": "04/29/2026 20:43:18",
+      "PCStudioBootstrapper": "04/29/2026 20:43:18",
+      "PlayStationClient": "04/29/2026 20:43:18",
+      "UWPApp": "04/29/2026 20:43:18",
+      "XboxClient": "04/29/2026 20:43:18"
+    },
+    "zcanary": {
+      "AndroidApp": "04/29/2026 20:44:22",
+      "iOSApp": "04/29/2026 20:44:22",
+      "MacClientBootstrapper": "04/29/2026 20:44:22",
+      "MacDesktopClient": "04/29/2026 20:44:22",
+      "MacStudioApp": "04/29/2026 20:44:22",
+      "MacStudioBootstrapper": "04/29/2026 20:44:22",
+      "PCClientBootstrapper": "04/29/2026 20:44:22",
+      "PCDesktopClient": "04/29/2026 20:44:22",
+      "PCStudioApp": "04/29/2026 20:44:22",
+      "PCStudioBootstrapper": "04/29/2026 20:44:22",
+      "PlayStationClient": "04/29/2026 20:44:22",
+      "UWPApp": "04/29/2026 20:44:22",
+      "XboxClient": "04/29/2026 20:44:22"
+    },
+    "zintegration": {
+      "AndroidApp": "04/29/2026 20:44:22",
+      "iOSApp": "04/29/2026 20:44:22",
+      "MacClientBootstrapper": "04/29/2026 20:44:22",
+      "MacDesktopClient": "04/29/2026 20:44:22",
+      "MacStudioApp": "04/29/2026 20:44:22",
+      "MacStudioBootstrapper": "04/29/2026 20:44:22",
+      "PCClientBootstrapper": "04/29/2026 20:44:22",
+      "PCDesktopClient": "04/29/2026 20:44:22",
+      "PCStudioApp": "04/29/2026 20:44:22",
+      "PCStudioBootstrapper": "04/29/2026 20:44:22",
+      "PlayStationClient": "04/29/2026 20:44:22",
+      "UWPApp": "04/29/2026 20:44:22",
+      "XboxClient": "04/29/2026 20:44:22"
+    }
   }
 }
