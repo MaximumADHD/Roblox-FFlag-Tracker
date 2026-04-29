@@ -1,7 +1,12 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "zcanary": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T21:00:24",
-    "zintegration": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T21:00:24"
+    "MacDesktopClient": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T21:00:24",
+    "MacStudioApp": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T21:00:24",
+    "PCDesktopClient": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T21:00:24",
+    "PCStudioApp": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T21:00:24",
+    "PlayStationClient": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T21:00:24",
+    "UWPApp": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T21:00:24",
+    "XboxClient": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T21:00:24"
   }
 }
