@@ -1,6 +1,7 @@
 {
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDisableLTAnalytics": true,
+  "DFFlagEnableTextChatUniverseChatMessages18_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T22:25:15",
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
   "DFFlagHttp2ExcludeCdnReqs": true,
@@ -91,6 +92,7 @@
   "FFlagRefactorAuthPageForTenFoot": true,
   "FFlagRenderMeshEvictUnusedEnable": true,
   "FFlagRenderRemoveDefaultCompatibilityLighting4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2002239736;2026-04-29T21:43:34",
+  "FFlagReportMeshManagerVersionTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-04-29T22:26:33",
   "FFlagRuntimeStmExpEnabled5": true,
   "FFlagRuntimeStmExpEnabled6": true,
   "FFlagSendInvalidBTIDCounter": false,
