@@ -49,6 +49,8 @@
   "DFIntImmersiveAdVideoUnsupportedEventThrottleHundredthsPercent": 10000,
   "DFIntIosDeprecationDate": 1749484800,
   "DFIntIosDeprecationPhase": 1,
+  "DFIntMediaCodecDecDequeueInputTimeoutUs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-04T23:18:27",
+  "DFIntMediaCodecDecDequeueOutputTimeoutUs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-04T23:18:45",
   "DFIntMemoryUtilityCurveTotalMemoryReserve_IXP": "1;HarmonyExposure;HarmonyExposure.AveragedConstantMemoryBuffer.iOS;1340269764;dev_controlled",
   "DFIntMLOomModelThresholdPercent": 63,
   "DFIntPerformanceControlDummyInferenceHundrethsPercent": 5,
