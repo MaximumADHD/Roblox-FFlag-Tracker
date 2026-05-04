@@ -34,6 +34,7 @@
   "DFIntCriticalThermalStatusThreshold": 3,
   "DFIntDataModelPatchPollingIntervalMilliSeconds": 3600000,
   "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent": 0,
+  "DFIntDisconnectOnISRSendThrowThrottle_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-04T21:14:07",
   "DFIntDiskUsageNegativeExperimenHundredthsPercent": 10000,
   "DFIntEnableInternalMemoryUpdateFunctionsPercentage": 10000,
   "DFIntFailedLoginAttemptsBeforePasswordResetWarningLimit": 5,
