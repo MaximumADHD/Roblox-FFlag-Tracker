@@ -1942,6 +1942,8 @@
   "FFlagVideoApiBetaFeature": true,
   "FFlagVideoDisplayFixRectRender": true,
   "FFlagVideoDisplaySliceAndTileDisable": true,
+  "FFlagVideoFixLiveStreamSeek": true,
+  "FFlagVideoFrameYuvGPURenderSync": true,
   "FFlagVideoPlayerFixOnServiceProviderLoad": true,
   "FFlagViewInstanceLaunchTask": true,
   "FFlagViewInstanceLaunchTaskHandler": true,
