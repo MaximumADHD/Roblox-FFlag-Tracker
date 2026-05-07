@@ -1,5 +1,6 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
+  "DFFlagAdditionalWorldAssembleChecks_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T16:10:47",
   "DFFlagCollectSessionBatteryTelemetry": true,
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagEnableCallingStopAdsBeforeClose": true,
@@ -27,6 +28,7 @@
   "DFFlagRemoveNonR15PlusHrd_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1825849690;2026-05-07T16:07:19",
   "DFFlagReportInferenceResultToPerfdata2": true,
   "DFFlagSendOrientationToPlayersGui": true,
+  "DFFlagServerAuthorityBetterInputDuringMispredictions_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T16:12:23",
   "DFFlagSkipInstallGmasdk": true,
   "DFFlagTurnOffR15Plus": true,
   "DFFlagUnifiedCookieProtocolEnabled": true,
@@ -357,6 +359,7 @@
   "FFlagResetLegacyRatingPromptStats": false,
   "FFlagSduiMoreFeedErrors": false,
   "FFlagSendWebViewUserAgentEnabledIOS": true,
+  "FFlagServerAuthorityPopulateServerViewFromNetwork_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T16:11:59",
   "FFlagShouldApplyDevSubsUpsellFix": false,
   "FFlagShouldEnableAuthBirthdayBarUpdates": true,
   "FFlagShouldFilterWebVCStateDelegateUpdateByPageDismissed": true,
