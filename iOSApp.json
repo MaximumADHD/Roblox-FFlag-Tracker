@@ -35,6 +35,7 @@
   "DFIntAssetWorkflowTelemetryEventThrottleDeferredIxpPerMillionth": 1000,
   "DFIntBundlePrefetchDelayHundredthPercentage": 10,
   "DFIntBundlePrefetchDelayIxpHundredthPercentage": 1000,
+  "DFIntConnectionTransportBranchSelectionHundredthsPercentage_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T21:37:02",
   "DFIntCriticalThermalStatusThreshold": 3,
   "DFIntDataModelPatchPollingIntervalMilliSeconds": 3600000,
   "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent": 0,
