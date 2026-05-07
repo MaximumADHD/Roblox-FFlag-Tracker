@@ -1,12 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacDesktopClient": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T18:44:30",
-    "MacStudioApp": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T18:44:30",
-    "PCDesktopClient": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T18:44:30",
-    "PCStudioApp": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T18:44:30",
-    "PlayStationClient": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T18:44:30",
-    "UWPApp": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T18:44:30",
-    "XboxClient": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T18:44:30"
+    "LIVE": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T18:44:30",
+    "zcanary": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T18:44:30",
+    "zintegration": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-07T18:44:30"
   }
 }
