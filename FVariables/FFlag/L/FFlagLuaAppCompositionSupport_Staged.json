@@ -1,17 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1672499795;2026-05-08T18:24:12",
-      "UWPApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-08T17:25:38"
-    },
-    "zcanary": {
-      "AndroidApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1672499795;2026-05-08T18:24:12",
-      "UWPApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1672499795;2026-05-08T18:24:12"
-    },
-    "zintegration": {
-      "AndroidApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1672499795;2026-05-08T18:24:12",
-      "UWPApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1672499795;2026-05-08T18:24:12"
-    }
+    "AndroidApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1672499795;2026-05-08T18:24:12",
+    "UWPApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1672499795;2026-05-08T18:24:12"
   }
 }
