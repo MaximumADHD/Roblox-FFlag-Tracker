@@ -1,22 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": 30,
-      "MacStudioApp": 5,
-      "PCDesktopClient": 30,
-      "PCStudioApp": 5
-    },
-    "zcanary": {
-      "AndroidApp": 30,
-      "MacStudioApp": 5,
-      "PCDesktopClient": 30,
-      "PCStudioApp": 5
-    },
-    "zintegration": {
-      "AndroidApp": 30,
-      "PCDesktopClient": 30,
-      "PCStudioApp": 5
-    }
+    "AndroidApp": 30,
+    "MacStudioApp": 5,
+    "PCDesktopClient": 30,
+    "PCStudioApp": 5
   }
 }

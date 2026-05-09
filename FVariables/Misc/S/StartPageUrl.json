@@ -1,8 +1,13 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "/ide/welcome",
-    "zcanary": "/ide/welcome",
-    "zintegration": "/ide/welcome"
+    "AndroidApp": "/ide/welcome",
+    "iOSApp": "/ide/welcome",
+    "MacDesktopClient": "/ide/welcome",
+    "MacStudioApp": "/ide/welcome",
+    "PCDesktopClient": "/ide/welcome",
+    "PCStudioApp": "/ide/welcome",
+    "UWPApp": "/ide/welcome",
+    "XboxClient": "/ide/welcome"
   }
 }

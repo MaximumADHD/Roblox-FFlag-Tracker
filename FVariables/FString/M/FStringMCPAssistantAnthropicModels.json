@@ -1,8 +1,7 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "claude-sonnet-4-6,claude-opus-4-7,claude-haiku-4-5",
-    "zcanary": "claude-sonnet-4-6,claude-opus-4-7,claude-haiku-4-5",
-    "zintegration": "claude-sonnet-4-6,claude-opus-4-7,claude-haiku-4-5"
+    "MacStudioApp": "claude-sonnet-4-6,claude-opus-4-7,claude-haiku-4-5",
+    "PCStudioApp": "claude-sonnet-4-6,claude-opus-4-7,claude-haiku-4-5"
   }
 }
