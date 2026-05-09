@@ -1,7 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacStudioApp": "https://create.roblox.com/docs/reference/engine/classes/TextChatService#GetChatGroupsAsync",
-    "PCStudioApp": "https://create.roblox.com/docs/reference/engine/classes/TextChatService#GetChatGroupsAsync"
+    "LIVE": "https://create.roblox.com/docs/reference/engine/classes/TextChatService#GetChatGroupsAsync",
+    "zcanary": "https://create.roblox.com/docs/reference/engine/classes/TextChatService#GetChatGroupsAsync",
+    "zintegration": "https://create.roblox.com/docs/reference/engine/classes/TextChatService#GetChatGroupsAsync"
   }
 }

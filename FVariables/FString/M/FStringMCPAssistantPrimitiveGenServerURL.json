@@ -1,7 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacStudioApp": "https://apis.roblox.com/cube-generation-gateway/api/v1/primitive-generations",
-    "PCStudioApp": "https://apis.roblox.com/cube-generation-gateway/api/v1/primitive-generations"
+    "LIVE": "https://apis.roblox.com/cube-generation-gateway/api/v1/primitive-generations",
+    "zcanary": "https://apis.roblox.com/cube-generation-gateway/api/v1/primitive-generations",
+    "zintegration": "https://apis.roblox.com/cube-generation-gateway/api/v1/primitive-generations"
   }
 }

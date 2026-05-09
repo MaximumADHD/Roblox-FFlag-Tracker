@@ -1,13 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "AndroidApp": "/ide/publish",
-    "iOSApp": "/ide/publish",
-    "MacDesktopClient": "/ide/publish",
-    "MacStudioApp": "/ide/publish",
-    "PCDesktopClient": "/ide/publish",
-    "PCStudioApp": "/ide/publish",
-    "UWPApp": "/ide/publish",
-    "XboxClient": "/ide/publish"
+    "LIVE": "/ide/publish",
+    "zcanary": "/ide/publish",
+    "zintegration": "/ide/publish"
   }
 }

@@ -1,11 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacClientBootstrapper": 3072,
-    "MacStudioApp": 3072,
-    "MacStudioBootstrapper": 3072,
-    "PCClientBootstrapper": 3072,
-    "PCStudioApp": 3072,
-    "PCStudioBootstrapper": 3072
+    "LIVE": 3072,
+    "zcanary": 3072,
+    "zintegration": 3072
   }
 }
