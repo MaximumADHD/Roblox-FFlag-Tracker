@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;Social.Presence.Frontend;Social.Presence.UserHeartbeatsDegradation;732733497;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;Social.Presence.Frontend;Social.Presence.UserHeartbeatsDegradation;732733497;flagbank",
+    "zcanary": "1;Social.Presence.Frontend;Social.Presence.UserHeartbeatsDegradation;732733497;flagbank",
+    "zintegration": "1;Social.Presence.Frontend;Social.Presence.UserHeartbeatsDegradation;732733497;flagbank"
+  }
 }

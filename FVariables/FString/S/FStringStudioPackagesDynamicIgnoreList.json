@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "ParticleEmitter.FlipbookLayout"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "ParticleEmitter.FlipbookLayout",
+    "zcanary": "ParticleEmitter.FlipbookLayout",
+    "zintegration": "ParticleEmitter.FlipbookLayout"
+  }
 }

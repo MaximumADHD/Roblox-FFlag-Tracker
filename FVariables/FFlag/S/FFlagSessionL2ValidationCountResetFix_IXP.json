@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank",
+    "zcanary": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank",
+    "zintegration": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank"
+  }
 }
