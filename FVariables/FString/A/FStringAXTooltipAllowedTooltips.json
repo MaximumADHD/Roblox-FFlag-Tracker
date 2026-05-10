@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AXFilterButtonExpiredItemsTooltip"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AXFilterButtonExpiredItemsTooltip",
+    "zcanary": "AXFilterButtonExpiredItemsTooltip",
+    "zintegration": "AXFilterButtonExpiredItemsTooltip"
+  }
 }

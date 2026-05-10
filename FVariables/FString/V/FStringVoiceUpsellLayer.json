@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "SocialVoice.VoiceUpsell"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "SocialVoice.VoiceUpsell",
+    "zcanary": "SocialVoice.VoiceUpsell",
+    "zintegration": "SocialVoice.VoiceUpsell"
+  }
 }
