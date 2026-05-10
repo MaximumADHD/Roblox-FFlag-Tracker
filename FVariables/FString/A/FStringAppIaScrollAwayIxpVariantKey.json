@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "ScrollAwayHeaderFooter"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "ScrollAwayHeaderFooter",
+    "zcanary": "ScrollAwayHeaderFooter",
+    "zintegration": "ScrollAwayHeaderFooter"
+  }
 }

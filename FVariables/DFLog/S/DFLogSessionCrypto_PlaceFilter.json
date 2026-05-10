@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Verbose,9;5757772154"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Verbose,9;5757772154",
+    "zcanary": "Verbose,9;5757772154",
+    "zintegration": "Verbose,9;5757772154"
+  }
 }
