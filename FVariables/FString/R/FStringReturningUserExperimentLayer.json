@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Creator.Assistant.CreatorId"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Creator.Assistant.CreatorId",
+    "zcanary": "Creator.Assistant.CreatorId",
+    "zintegration": "Creator.Assistant.CreatorId"
+  }
 }

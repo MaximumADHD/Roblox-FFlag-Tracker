@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "/catalog/(%d+)/?.*"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "/catalog/(%d+)/?.*",
+    "zcanary": "/catalog/(%d+)/?.*",
+    "zintegration": "/catalog/(%d+)/?.*"
+  }
 }
