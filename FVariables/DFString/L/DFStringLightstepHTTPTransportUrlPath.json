@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "/api/v2/reports",
-    "zcanary": "/api/v2/reports",
-    "zintegration": "/api/v2/reports"
-  }
+  "Type": "Unified",
+  "Value": "/api/v2/reports"
 }
