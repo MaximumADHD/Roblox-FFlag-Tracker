@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "ExponentialDecay;11597947993;10787386927;12867018908;11822559022"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "ExponentialDecay;11597947993;10787386927;12867018908;11822559022",
+    "zcanary": "ExponentialDecay;11597947993;10787386927;12867018908;11822559022",
+    "zintegration": "ExponentialDecay;11597947993;10787386927;12867018908;11822559022"
+  }
 }

@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "/rm3-evidence-config/evidence-config"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "/rm3-evidence-config/evidence-config",
+    "zcanary": "/rm3-evidence-config/evidence-config",
+    "zintegration": "/rm3-evidence-config/evidence-config"
+  }
 }
