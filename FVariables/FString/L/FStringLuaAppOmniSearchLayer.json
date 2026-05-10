@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "UserConnection.UserSearch",
-    "zcanary": "UserConnection.UserSearch",
-    "zintegration": "UserConnection.UserSearch"
-  }
+  "Type": "Unified",
+  "Value": "UserConnection.UserSearch"
 }
