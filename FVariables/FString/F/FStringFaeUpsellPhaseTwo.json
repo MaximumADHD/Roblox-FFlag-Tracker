@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "User.Communication.NonAgeCheckedUser",
-    "zcanary": "User.Communication.NonAgeCheckedUser",
-    "zintegration": "User.Communication.NonAgeCheckedUser"
-  }
+  "Type": "Unified",
+  "Value": "User.Communication.NonAgeCheckedUser"
 }
