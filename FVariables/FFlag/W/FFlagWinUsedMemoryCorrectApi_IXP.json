@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;Engine.System.MemoryOptimization.UserID;Engine.UsedMemoryCorrectAPI.Windows;1121898515;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;Engine.System.MemoryOptimization.UserID;Engine.UsedMemoryCorrectAPI.Windows;1121898515;flagbank",
+    "zcanary": "1;Engine.System.MemoryOptimization.UserID;Engine.UsedMemoryCorrectAPI.Windows;1121898515;flagbank",
+    "zintegration": "1;Engine.System.MemoryOptimization.UserID;Engine.UsedMemoryCorrectAPI.Windows;1121898515;flagbank"
+  }
 }

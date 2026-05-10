@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Social.ContactList"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Social.ContactList",
+    "zcanary": "Social.ContactList",
+    "zintegration": "Social.ContactList"
+  }
 }

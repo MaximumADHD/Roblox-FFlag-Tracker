@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;ExperienceChat.Performance;FFlagEnableLeaveGameUpsellEntrypoint;90111814;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;ExperienceChat.Performance;FFlagEnableLeaveGameUpsellEntrypoint;90111814;flagbank",
+    "zcanary": "1;ExperienceChat.Performance;FFlagEnableLeaveGameUpsellEntrypoint;90111814;flagbank",
+    "zintegration": "1;ExperienceChat.Performance;FFlagEnableLeaveGameUpsellEntrypoint;90111814;flagbank"
+  }
 }
