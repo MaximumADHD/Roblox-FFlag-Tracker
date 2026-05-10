@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;PointAndClickDefaultAutomaticExposure;2100083083;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;PointAndClickDefaultAutomaticExposure;2100083083;flagbank",
+    "zcanary": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;PointAndClickDefaultAutomaticExposure;2100083083;flagbank",
+    "zintegration": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;PointAndClickDefaultAutomaticExposure;2100083083;flagbank"
+  }
 }

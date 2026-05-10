@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "www:plus"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "www:plus",
+    "zcanary": "www:plus",
+    "zintegration": "www:plus"
+  }
 }
