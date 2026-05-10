@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno \\(TM\\) 30\\d:OpenGL.*"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno \\(TM\\) 30\\d:OpenGL.*",
+    "zcanary": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno \\(TM\\) 30\\d:OpenGL.*",
+    "zintegration": "ARM:Mali-T.*:OpenGL ES 3\\.[12] v1\\.r(?!0)(?!2[1-9])(?![3-9][0-9])[0-9]{1,2}p.*|Qualcomm:Adreno \\(TM\\) 30\\d:OpenGL.*"
+  }
 }

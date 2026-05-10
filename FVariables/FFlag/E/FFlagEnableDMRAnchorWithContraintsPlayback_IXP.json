@@ -1,14 +1,37 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
-    "iOSApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
-    "MacDesktopClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
-    "MacStudioApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
-    "PCDesktopClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
-    "PCStudioApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
-    "PlayStationClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
-    "UWPApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
-    "XboxClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank"
+    "LIVE": {
+      "AndroidApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "iOSApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "MacDesktopClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "MacStudioApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
+      "PCDesktopClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "PCStudioApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
+      "PlayStationClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "UWPApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
+      "XboxClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "iOSApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "MacDesktopClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "PCDesktopClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "PCStudioApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
+      "PlayStationClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "UWPApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
+      "XboxClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "iOSApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "MacDesktopClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "MacStudioApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
+      "PCDesktopClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "PCStudioApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
+      "PlayStationClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank",
+      "UWPApp": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation.V7;1469623946;flagbank",
+      "XboxClient": "1;DataModelChangeTracking.ClientRecording;DataModelChangeTracking.ClientRecordingPerformanceEvaluation;1663215839;flagbank"
+    }
   }
 }
