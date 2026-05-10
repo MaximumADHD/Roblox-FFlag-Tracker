@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AvatarMarketplace.Editor"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AvatarMarketplace.Editor",
+    "zcanary": "AvatarMarketplace.Editor",
+    "zintegration": "AvatarMarketplace.Editor"
+  }
 }

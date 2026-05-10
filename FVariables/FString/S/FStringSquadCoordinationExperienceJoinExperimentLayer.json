@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Party.Coordination.ExperienceJoin2"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Party.Coordination.ExperienceJoin2",
+    "zcanary": "Party.Coordination.ExperienceJoin2",
+    "zintegration": "Party.Coordination.ExperienceJoin2"
+  }
 }
