@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Plugin,Model"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Plugin,Model",
+    "zcanary": "Plugin,Model",
+    "zintegration": "Plugin,Model"
+  }
 }
