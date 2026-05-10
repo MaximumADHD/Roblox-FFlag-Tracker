@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "https?:\\/\\/\\w+\\.roblox(?:labs)?\\.com\\/games\\/(\\d+)(?:\\/.+)?\\?privateServerLinkCode=((?:\\w|-)+)"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "https?:\\/\\/\\w+\\.roblox(?:labs)?\\.com\\/games\\/(\\d+)(?:\\/.+)?\\?privateServerLinkCode=((?:\\w|-)+)",
+    "zcanary": "https?:\\/\\/\\w+\\.roblox(?:labs)?\\.com\\/games\\/(\\d+)(?:\\/.+)?\\?privateServerLinkCode=((?:\\w|-)+)",
+    "zintegration": "https?:\\/\\/\\w+\\.roblox(?:labs)?\\.com\\/games\\/(\\d+)(?:\\/.+)?\\?privateServerLinkCode=((?:\\w|-)+)"
+  }
 }

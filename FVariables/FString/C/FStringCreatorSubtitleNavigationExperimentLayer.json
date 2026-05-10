@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "PlayerApp.GameDetailsPage.Exposure"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "PlayerApp.GameDetailsPage.Exposure",
+    "zcanary": "PlayerApp.GameDetailsPage.Exposure",
+    "zintegration": "PlayerApp.GameDetailsPage.Exposure"
+  }
 }

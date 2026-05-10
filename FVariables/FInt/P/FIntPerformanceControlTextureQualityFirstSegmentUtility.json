@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": 443
+  "Type": "Channels",
+  "Value": {
+    "LIVE": 443,
+    "zcanary": 443,
+    "zintegration": 443
+  }
 }

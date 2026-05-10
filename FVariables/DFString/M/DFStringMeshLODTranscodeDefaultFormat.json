@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "fmd"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "fmd",
+    "zcanary": "fmd",
+    "zintegration": "fmd"
+  }
 }

@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "send-trusted-friend-request"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "send-trusted-friend-request",
+    "zcanary": "send-trusted-friend-request",
+    "zintegration": "send-trusted-friend-request"
+  }
 }
