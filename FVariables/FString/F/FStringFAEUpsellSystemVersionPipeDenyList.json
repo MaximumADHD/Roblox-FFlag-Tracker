@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "IOS:14.|IOS:13."
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "IOS:14.|IOS:13.",
+    "zcanary": "IOS:14.|IOS:13.",
+    "zintegration": "IOS:14.|IOS:13."
+  }
 }

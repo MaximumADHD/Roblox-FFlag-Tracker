@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Engine.Voice.Exposure.1"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Engine.Voice.Exposure.1",
+    "zcanary": "Engine.Voice.Exposure.1",
+    "zintegration": "Engine.Voice.Exposure.1"
+  }
 }
