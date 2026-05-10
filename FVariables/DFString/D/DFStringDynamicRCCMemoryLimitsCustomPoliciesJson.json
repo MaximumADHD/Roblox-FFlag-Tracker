@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "{\"type\": \"MinLimitAtCapacity\", \"playerCapacity\": 200, \"valueMB\": 13000}",
-    "zcanary": "{\"type\": \"MinLimitAtCapacity\", \"playerCapacity\": 200, \"valueMB\": 13000}",
-    "zintegration": "{\"type\": \"MinLimitAtCapacity\", \"playerCapacity\": 200, \"valueMB\": 13000}"
-  }
+  "Type": "Unified",
+  "Value": "{\"type\": \"MinLimitAtCapacity\", \"playerCapacity\": 200, \"valueMB\": 13000}"
 }

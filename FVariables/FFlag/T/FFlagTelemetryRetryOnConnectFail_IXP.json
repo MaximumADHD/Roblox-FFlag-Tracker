@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "1;Engine.Telemetry;engine_telemetry_retry_logic;830981440;flagbank",
-    "zcanary": "1;Engine.Telemetry;engine_telemetry_retry_logic;830981440;flagbank",
-    "zintegration": "1;Engine.Telemetry;engine_telemetry_retry_logic;830981440;flagbank"
-  }
+  "Type": "Unified",
+  "Value": "1;Engine.Telemetry;engine_telemetry_retry_logic;830981440;flagbank"
 }
