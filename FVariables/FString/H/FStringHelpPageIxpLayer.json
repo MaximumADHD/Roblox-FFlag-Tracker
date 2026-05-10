@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Experience.Menu.HelpPage.Exposure"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Experience.Menu.HelpPage.Exposure",
+    "zcanary": "Experience.Menu.HelpPage.Exposure",
+    "zintegration": "Experience.Menu.HelpPage.Exposure"
+  }
 }

@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;Portal.PacketQueueTime-1752104045;PacketQueueTime;353008931;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;Portal.PacketQueueTime-1752104045;PacketQueueTime;353008931;flagbank",
+    "zcanary": "1;Portal.PacketQueueTime-1752104045;PacketQueueTime;353008931;flagbank",
+    "zintegration": "1;Portal.PacketQueueTime-1752104045;PacketQueueTime;353008931;flagbank"
+  }
 }

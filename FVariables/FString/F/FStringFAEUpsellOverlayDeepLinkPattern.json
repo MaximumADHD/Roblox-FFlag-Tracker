@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "roblox.*://navigation/aegis_upsell_overlay.*"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "roblox.*://navigation/aegis_upsell_overlay.*",
+    "zcanary": "roblox.*://navigation/aegis_upsell_overlay.*",
+    "zintegration": "roblox.*://navigation/aegis_upsell_overlay.*"
+  }
 }

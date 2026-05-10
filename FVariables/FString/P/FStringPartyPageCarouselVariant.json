@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "enablePartyPageSocialCarousel"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "enablePartyPageSocialCarousel",
+    "zcanary": "enablePartyPageSocialCarousel",
+    "zintegration": "enablePartyPageSocialCarousel"
+  }
 }

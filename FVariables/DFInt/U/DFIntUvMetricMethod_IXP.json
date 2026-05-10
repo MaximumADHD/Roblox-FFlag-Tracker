@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;Engine.Rendering.TextureStreaming;Texture_Streaming_V1;1782155329;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;Engine.Rendering.TextureStreaming;Texture_Streaming_V1;1782155329;flagbank",
+    "zcanary": "1;Engine.Rendering.TextureStreaming;Texture_Streaming_V1;1782155329;flagbank",
+    "zintegration": "1;Engine.Rendering.TextureStreaming;Texture_Streaming_V1;1782155329;flagbank"
+  }
 }
