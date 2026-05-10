@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AgeVerificationStatusChange"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AgeVerificationStatusChange",
+    "zcanary": "AgeVerificationStatusChange",
+    "zintegration": "AgeVerificationStatusChange"
+  }
 }
