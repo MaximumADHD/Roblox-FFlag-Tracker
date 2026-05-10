@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding.2;877019211;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding.2;877019211;flagbank",
+    "zcanary": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding.2;877019211;flagbank",
+    "zintegration": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding.2;877019211;flagbank"
+  }
 }

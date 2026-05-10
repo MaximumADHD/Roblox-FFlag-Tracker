@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "ax.init:info ax.ixp:info ax.loadtime:info"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "ax.init:info ax.ixp:info ax.loadtime:info",
+    "zcanary": "ax.init:info ax.ixp:info ax.loadtime:info",
+    "zintegration": "ax.init:info ax.ixp:info ax.loadtime:info"
+  }
 }
