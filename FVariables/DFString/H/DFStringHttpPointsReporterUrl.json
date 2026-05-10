@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "https://client-telemetry.roblox.com"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "https://client-telemetry.roblox.com",
+    "zcanary": "https://client-telemetry.roblox.com",
+    "zintegration": "https://client-telemetry.roblox.com"
+  }
 }

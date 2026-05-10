@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "EnableNewFeatureTest"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "EnableNewFeatureTest",
+    "zcanary": "EnableNewFeatureTest",
+    "zintegration": "EnableNewFeatureTest"
+  }
 }

@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "PartySchedule"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "PartySchedule",
+    "zcanary": "PartySchedule",
+    "zintegration": "PartySchedule"
+  }
 }
