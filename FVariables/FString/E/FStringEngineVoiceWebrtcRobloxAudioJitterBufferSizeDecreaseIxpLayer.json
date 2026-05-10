@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "Engine.Voice.JitterBufferSizeDecrease",
-    "zcanary": "Engine.Voice.JitterBufferSizeDecrease",
-    "zintegration": "Engine.Voice.JitterBufferSizeDecrease"
-  }
+  "Type": "Unified",
+  "Value": "Engine.Voice.JitterBufferSizeDecrease"
 }
