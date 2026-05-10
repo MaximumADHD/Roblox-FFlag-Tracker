@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;ExperienceChat.Performance;Voice.Performance.ToggleMicOptimizations;123308960;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;ExperienceChat.Performance;Voice.Performance.ToggleMicOptimizations;123308960;flagbank",
+    "zcanary": "1;ExperienceChat.Performance;Voice.Performance.ToggleMicOptimizations;123308960;flagbank",
+    "zintegration": "1;ExperienceChat.Performance;Voice.Performance.ToggleMicOptimizations;123308960;flagbank"
+  }
 }
