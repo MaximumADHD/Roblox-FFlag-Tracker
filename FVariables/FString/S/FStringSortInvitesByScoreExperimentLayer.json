@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Growth.Notifications.GameInviteMenu"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Growth.Notifications.GameInviteMenu",
+    "zcanary": "Growth.Notifications.GameInviteMenu",
+    "zintegration": "Growth.Notifications.GameInviteMenu"
+  }
 }

@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;ExperienceChat.Performance;FFlagUnreduxLastInputTypeChangedV3;510908202;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;ExperienceChat.Performance;FFlagUnreduxLastInputTypeChangedV3;510908202;flagbank",
+    "zcanary": "1;ExperienceChat.Performance;FFlagUnreduxLastInputTypeChangedV3;510908202;flagbank",
+    "zintegration": "1;ExperienceChat.Performance;FFlagUnreduxLastInputTypeChangedV3;510908202;flagbank"
+  }
 }

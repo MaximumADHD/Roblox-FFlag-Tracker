@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Party.Coordination.UI"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Party.Coordination.UI",
+    "zcanary": "Party.Coordination.UI",
+    "zintegration": "Party.Coordination.UI"
+  }
 }

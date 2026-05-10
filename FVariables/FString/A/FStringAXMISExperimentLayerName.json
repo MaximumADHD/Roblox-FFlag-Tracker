@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AvatarExperience.UA.MarketplaceView"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AvatarExperience.UA.MarketplaceView",
+    "zcanary": "AvatarExperience.UA.MarketplaceView",
+    "zintegration": "AvatarExperience.UA.MarketplaceView"
+  }
 }
