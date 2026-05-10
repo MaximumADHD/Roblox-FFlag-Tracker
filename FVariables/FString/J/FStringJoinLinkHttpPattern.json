@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "/join/([%w_-]+).*"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "/join/([%w_-]+).*",
+    "zcanary": "/join/([%w_-]+).*",
+    "zintegration": "/join/([%w_-]+).*"
+  }
 }
