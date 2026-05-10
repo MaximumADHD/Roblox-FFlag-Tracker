@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Voice.UserAgency"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Voice.UserAgency",
+    "zcanary": "Voice.UserAgency",
+    "zintegration": "Voice.UserAgency"
+  }
 }

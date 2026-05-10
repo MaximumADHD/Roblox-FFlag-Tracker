@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;AvatarExperience.UA.ActionBarView;AvatarMarketplace.UA.AATest;664241861;dev_controlled"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;AvatarExperience.UA.ActionBarView;AvatarMarketplace.UA.AATest;664241861;dev_controlled",
+    "zcanary": "1;AvatarExperience.UA.ActionBarView;AvatarMarketplace.UA.AATest;664241861;dev_controlled",
+    "zintegration": "1;AvatarExperience.UA.ActionBarView;AvatarMarketplace.UA.AATest;664241861;dev_controlled"
+  }
 }

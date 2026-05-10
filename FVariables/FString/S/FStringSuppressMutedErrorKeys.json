@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+    "zcanary": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck",
+    "zintegration": "AdjustAccessoryView,ItemImpressionsEventMissingParameter2,ItemActionEventMissingParameter2,gamePlayIntentCheck"
+  }
 }

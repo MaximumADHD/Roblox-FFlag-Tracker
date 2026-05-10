@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "eventstream.esp.creatoranalytics.StandardFunnelEvent"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "eventstream.esp.creatoranalytics.StandardFunnelEvent",
+    "zcanary": "eventstream.esp.creatoranalytics.StandardFunnelEvent",
+    "zintegration": "eventstream.esp.creatoranalytics.StandardFunnelEvent"
+  }
 }
