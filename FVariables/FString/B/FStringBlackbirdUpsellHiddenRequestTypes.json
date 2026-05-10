@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "DeveloperSubscription,Look,AvatarCreationFee"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "DeveloperSubscription,Look,AvatarCreationFee",
+    "zcanary": "DeveloperSubscription,Look,AvatarCreationFee",
+    "zintegration": "DeveloperSubscription,Look,AvatarCreationFee"
+  }
 }

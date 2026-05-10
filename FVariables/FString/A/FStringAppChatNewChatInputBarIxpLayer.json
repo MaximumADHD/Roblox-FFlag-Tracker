@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Social.AppChat"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Social.AppChat",
+    "zcanary": "Social.AppChat",
+    "zintegration": "Social.AppChat"
+  }
 }

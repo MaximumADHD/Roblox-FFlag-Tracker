@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "EAA="
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "EAA=",
+    "zcanary": "EAA=",
+    "zintegration": "EAA="
+  }
 }
