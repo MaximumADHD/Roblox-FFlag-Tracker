@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "perfdata,PerformanceControl,SessionTracking,ClientDisconnect,experience_launch_flow,RCCInstanceTracking"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "perfdata,PerformanceControl,SessionTracking,ClientDisconnect,experience_launch_flow,RCCInstanceTracking",
+    "zcanary": "perfdata,PerformanceControl,SessionTracking,ClientDisconnect,experience_launch_flow,RCCInstanceTracking",
+    "zintegration": "perfdata,PerformanceControl,SessionTracking,ClientDisconnect,experience_launch_flow,RCCInstanceTracking"
+  }
 }

@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "Engine.Video.Stratus"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "Engine.Video.Stratus",
+    "zcanary": "Engine.Video.Stratus",
+    "zintegration": "Engine.Video.Stratus"
+  }
 }

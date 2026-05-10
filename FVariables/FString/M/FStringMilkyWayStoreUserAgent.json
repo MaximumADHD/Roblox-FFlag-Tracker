@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "MilkyWayStore"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "MilkyWayStore",
+    "zcanary": "MilkyWayStore",
+    "zintegration": "MilkyWayStore"
+  }
 }
