@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": 360
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": 360,
+    "iOSApp": 360,
+    "MacDesktopClient": 0,
+    "MacStudioApp": 360,
+    "PCDesktopClient": 360,
+    "PCStudioApp": 360,
+    "PlayStationClient": 360,
+    "UWPApp": 360,
+    "XboxClient": 360
+  }
 }
