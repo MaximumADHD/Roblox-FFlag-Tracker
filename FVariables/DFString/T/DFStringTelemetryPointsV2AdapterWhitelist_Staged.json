@@ -1,8 +1,12 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T23:52:08",
-    "zcanary": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T23:52:08",
-    "zintegration": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T23:52:08"
+    "AndroidApp": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T23:52:08",
+    "iOSApp": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T23:52:08",
+    "PCDesktopClient": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T23:52:08",
+    "PCStudioApp": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T23:52:08",
+    "PlayStationClient": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T23:52:08",
+    "UWPApp": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T23:52:08",
+    "XboxClient": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T23:52:08"
   }
 }
