@@ -33,6 +33,7 @@
   "DFLogBootcampCLI165139Log": 6,
   "DFLogTrackHttpRequest": 0,
   "DFStringCrashUploadToBacktraceMacPlayerToken_PlaceFilter": "30a794c06f5d61e51cf4b0b8103ef2cd7039c6b46bafce0cfba33518d5409010;6036870533",
+  "DFStringDeprecateLegacyTelemetryPointsDenyList_Staged": "LoadAssetDelay,ClientStreamJob,DataStoreCannotParseValueWithKey,luau-telemetry.destroyed-require,NetworkFilterSizingRemovalUnderCharacter,StudioPackagesEndpointsStatus,LoadAssetDelay,luau-telemetry.task-exclusivity,RCCCyclesPerSecond,RccMultipleDmError,RccMultipleDmError,IncorrectlyPausedReplicationStats,StudioActionsAsTools,SystemInfoProtocol,StudioActionsAsTools,UnsupportedVariant,dcdBadConvexPoints,Luau-Reflection-Type-Error,CoreGuiRenderOverflowKick,bootstrapper,BootstrapperError,PCInstall,BootstrapperDuration,PCInstallTime,BootstrapperWarning,BootstrapperWebView2RuntimeInstallation,RCCFailedToEvictPlayer,RCCThumbnailFailure,RCCExecuteScriptFailure,RCCNonJsonExecute,Telemetry;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-11T21:11:04",
   "DFStringTelemetryPointsV2AdapterWhitelist": "Studio-Luau-NewSolver",
   "FFlagAddGameSessionIdToCDNRequests": true,
   "FFlagAnimatorAndADFRefactor_PlaceFilter": "true;80280647114965",
