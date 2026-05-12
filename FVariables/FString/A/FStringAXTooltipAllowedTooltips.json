@@ -1,4 +1,38 @@
 {
-  "Type": "Unified",
-  "Value": "AXFilterButtonExpiredItemsTooltip"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "AXFilterButtonExpiredItemsTooltip",
+      "iOSApp": "AXFilterButtonExpiredItemsTooltip",
+      "MacDesktopClient": "AXFilterButtonExpiredItemsTooltip",
+      "MacStudioApp": "AXFilterButtonExpiredItemsTooltip",
+      "PCDesktopClient": "AXFilterButtonExpiredItemsTooltip",
+      "PCStudioApp": "AXFilterButtonExpiredItemsTooltip",
+      "PlayStationClient": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "UWPApp": "AXFilterButtonExpiredItemsTooltip",
+      "XboxClient": "AXFilterButtonExpiredItemsTooltip"
+    },
+    "zcanary": {
+      "AndroidApp": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "iOSApp": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "MacDesktopClient": "AXFilterButtonExpiredItemsTooltip",
+      "MacStudioApp": "AXFilterButtonExpiredItemsTooltip",
+      "PCDesktopClient": "AXFilterButtonExpiredItemsTooltip",
+      "PCStudioApp": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "PlayStationClient": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "UWPApp": "AXFilterButtonExpiredItemsTooltip",
+      "XboxClient": "AXFilterButtonExpiredItemsTooltip"
+    },
+    "zintegration": {
+      "AndroidApp": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "iOSApp": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "MacDesktopClient": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "MacStudioApp": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "PCDesktopClient": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "PCStudioApp": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "PlayStationClient": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "UWPApp": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip",
+      "XboxClient": "AXFilterButtonExpiredItemsTooltip,AXHDCategoryCatalogTooltip"
+    }
+  }
 }
