@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "Studio-Luau-NewSolver"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver",
+    "iOSApp": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver",
+    "MacDesktopClient": "Studio-Luau-NewSolver",
+    "MacStudioApp": "Studio-Luau-NewSolver",
+    "PCDesktopClient": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver",
+    "PCStudioApp": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver",
+    "PlayStationClient": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver",
+    "UWPApp": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver",
+    "XboxClient": "EngineFastLogGroupMetrics,RCCPhysicsSimulationLoadStats,RCCPhysicsUnthrottledRealTimePercStat,RCCSimulatingInterpolationCorrectionDistance,ReportRCCStat,Studio-Luau-NewSolver"
+  }
 }
