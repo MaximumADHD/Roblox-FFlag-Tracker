@@ -1039,6 +1039,7 @@
   "FFlagLuauAvoidMintingMultipleBlockedTypesForGlobals": true,
   "FFlagLuauAvoidOverloadSelectionForFunctionType": true,
   "FFlagLuauBidirectionalFailsafe": true,
+  "FFlagLuauBidirectionalInferenceBetterUnionHandling_Staged": "true;SteadyState;10;30;Revert;2026-05-12T18:39:48",
   "FFlagLuauBidirectionalInferenceCollectIndexerTypes": true,
   "FFlagLuauBidirectionalInferenceElideAssert": true,
   "FFlagLuauBuiltinTypeFunctionsUseNewOverloadResolution": true,
