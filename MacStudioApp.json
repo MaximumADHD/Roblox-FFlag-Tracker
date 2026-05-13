@@ -2035,6 +2035,7 @@
   "FIntAnimationTelemetryMemorySampleIntervalMs": 10000,
   "FIntAnnotationsPluginActionThrottleHundredthsPercent": 10000,
   "FIntAssetsUploadUseMultiPartSizeThresholdBytes": 7340032,
+  "FIntAssistantPersistenceThreadLoadLimit_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-13T22:58:14",
   "FIntAssistantPrimitiveGenMaxConcurrentJobs": 2,
   "FIntAssistantSyntaxHighlightingLimit": 1800,
   "FIntAutoSaveAfterUserInputThresholdMs": 5000,
