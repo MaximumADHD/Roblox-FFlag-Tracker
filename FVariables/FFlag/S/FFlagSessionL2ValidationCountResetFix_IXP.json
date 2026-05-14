@@ -1,4 +1,38 @@
 {
-  "Type": "Unified",
-  "Value": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank",
+      "iOSApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "MacDesktopClient": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank",
+      "MacStudioApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "PCDesktopClient": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank",
+      "PCStudioApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "PlayStationClient": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank",
+      "UWPApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "XboxClient": "1;Portal.SessionL2ValidationTelemetry2-1775839516;SessionL2ValidationTelemetry2;1678326553;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "iOSApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "MacDesktopClient": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "MacStudioApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "PCDesktopClient": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "PCStudioApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "PlayStationClient": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "UWPApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "XboxClient": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "iOSApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "MacDesktopClient": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "MacStudioApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "PCDesktopClient": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "PCStudioApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "PlayStationClient": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "UWPApp": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank",
+      "XboxClient": "1;Portal.SessionL2ValidationTelemetry3-1778776826;SessionL2ValidationTelemetry3;159845375;flagbank"
+    }
+  }
 }
