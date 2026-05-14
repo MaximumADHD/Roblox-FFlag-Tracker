@@ -1,5 +1,5 @@
 {
-  "DFFlagAttachLmsReportToGameJoin_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T18:17:31",
+  "DFFlagAttachLmsReportToGameJoin": true,
   "DFFlagCDCProductionTestEBZstdClersCoord": false,
   "DFFlagCheckEngineContextOnInstanceAccess": true,
   "DFFlagCookieStoreEnabledMac": true,
@@ -15,7 +15,6 @@
   "DFFlagHttpClientCookieProtocolMetrics": true,
   "DFFlagHttpClientCookieStoreMetrics": true,
   "DFFlagInvalidEnumValueAttemptToReflect": true,
-  "DFFlagLmsDisableReporting2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T18:18:32",
   "DFFlagMacDisableNetworkingPostWebviewDeallocation": true,
   "DFFlagRakNetEnablePoll": true,
   "DFFlagRbxTransportConnReuseFix": true,
