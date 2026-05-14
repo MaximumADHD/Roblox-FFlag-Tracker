@@ -1,6 +1,5 @@
 {
   "DFFlagCleanupTypesetterInterface5_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T18:18:51",
-  "DFFlagControllerManagerFirstPersonTimestep_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T18:04:06",
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDisableLTAnalytics": true,
   "DFFlagHangDetectionForceCrash": true,
@@ -37,6 +36,7 @@
   "FFlagConsoleInExperienceChatExperimentEnabled": true,
   "FFlagConsoleMouseLockCenter": true,
   "FFlagConsoleVoiceIXPEnabled": false,
+  "FFlagDefaultCharacterDynamicHeadMaskFix": true,
   "FFlagDisableLoginOnEmptyUserOrPass": true,
   "FFlagDisablePrefetchProtocol": false,
   "FFlagDoNotCacheCommunicationRestrictionDialog": true,
