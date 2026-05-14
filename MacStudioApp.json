@@ -123,6 +123,7 @@
   "DFIntHttpServiceMaxSseClients": 4,
   "DFIntHttpServicePluginRequestReportThrottleHundredthPercent": 10000,
   "DFIntImportWrapTextureTransferEventsThrottleHundredthsPercent": 10000,
+  "DFIntLmsDisableReportingHundredthPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T20:55:40",
   "DFIntLuauSubtypingRecursionLimit": 140,
   "DFIntLuauUnifierRecursionLimit": 140,
   "DFIntMemoryStoresUseLocalThrottlerSeconds": 30,
