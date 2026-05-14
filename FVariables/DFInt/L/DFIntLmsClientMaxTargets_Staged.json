@@ -1,8 +1,7 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T22:39:22",
-    "zcanary": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T22:39:22",
-    "zintegration": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T22:39:22"
+    "PCDesktopClient": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T22:39:22",
+    "PCStudioApp": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T22:39:22"
   }
 }
