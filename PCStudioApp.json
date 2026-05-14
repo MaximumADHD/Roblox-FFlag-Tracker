@@ -38,7 +38,7 @@
   "DFFlagFixBlankCanvasGroupOnceExceedingMemoryLimit3": true,
   "DFFlagFixGlobalQueryInternal": true,
   "DFFlagFixHastefulEdgeCase": true,
-  "DFFlagFixRootScaleWithoutRetargeting_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-14T22:07:08",
+  "DFFlagFixRootScaleWithoutRetargeting": true,
   "DFFlagFixTransparentMeshDecomps": false,
   "DFFlagGatherHastefulHullTelemetry": false,
   "DFFlagHandleAdornmentCollidingRefactor": false,
