@@ -1,6 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "AndroidApp": "1;Portal.Notifications.Push.AndroidChannels-1778619692;Notifications.Push.AndroidChannels;391601588;flagbank"
+    "LIVE": "1;Portal.Notifications.Push.AndroidChannels-1778619692;Notifications.Push.AndroidChannels;391601588;flagbank",
+    "zcanary": "1;Portal.Notifications.Push.AndroidChannels-1778619692;Notifications.Push.AndroidChannels;391601588;flagbank",
+    "zintegration": "1;Portal.Notifications.Push.AndroidChannels;Notifications.Push.AndroidChannels;391601588;flagbank"
   }
 }
