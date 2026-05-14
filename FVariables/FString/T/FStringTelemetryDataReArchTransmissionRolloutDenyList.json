@@ -1,18 +1,50 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "iOSApp": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "MacClientBootstrapper": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "MacDesktopClient": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "MacStudioApp": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "MacStudioBootstrapper": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "PCClientBootstrapper": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "PCDesktopClient": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "PCStudioApp": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "PCStudioBootstrapper": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "PlayStationClient": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
-    "UWPApp": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_experience_launch_flow,ReactPeriod",
-    "XboxClient": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent"
+    "LIVE": {
+      "AndroidApp": "MacInstaller,WindowsInstaller",
+      "iOSApp": "MacInstaller,WindowsInstaller",
+      "MacClientBootstrapper": "MacInstaller,WindowsInstaller",
+      "MacDesktopClient": "MacInstaller,WindowsInstaller",
+      "MacStudioApp": "MacInstaller,WindowsInstaller",
+      "MacStudioBootstrapper": "MacInstaller,WindowsInstaller",
+      "PCClientBootstrapper": "MacInstaller,WindowsInstaller",
+      "PCDesktopClient": "MacInstaller,WindowsInstaller",
+      "PCStudioApp": "MacInstaller,WindowsInstaller",
+      "PCStudioBootstrapper": "MacInstaller,WindowsInstaller",
+      "PlayStationClient": "MacInstaller,WindowsInstaller",
+      "UWPApp": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_experience_launch_flow,ReactPeriod",
+      "XboxClient": "MacInstaller,WindowsInstaller"
+    },
+    "zcanary": {
+      "AndroidApp": "MacInstaller,WindowsInstaller",
+      "iOSApp": "MacInstaller,WindowsInstaller",
+      "MacClientBootstrapper": "MacInstaller,WindowsInstaller",
+      "MacDesktopClient": "MacInstaller,WindowsInstaller",
+      "MacStudioApp": "MacInstaller,WindowsInstaller",
+      "MacStudioBootstrapper": "MacInstaller,WindowsInstaller",
+      "PCClientBootstrapper": "MacInstaller,WindowsInstaller",
+      "PCDesktopClient": "MacInstaller,WindowsInstaller",
+      "PCStudioApp": "MacInstaller,WindowsInstaller",
+      "PCStudioBootstrapper": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent",
+      "PlayStationClient": "MacInstaller,WindowsInstaller",
+      "UWPApp": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_experience_launch_flow,ReactPeriod",
+      "XboxClient": "MacInstaller,WindowsInstaller"
+    },
+    "zintegration": {
+      "AndroidApp": "MacInstaller,WindowsInstaller",
+      "iOSApp": "MacInstaller,WindowsInstaller",
+      "MacClientBootstrapper": "MacInstaller,WindowsInstaller",
+      "MacDesktopClient": "MacInstaller,WindowsInstaller",
+      "MacStudioApp": "MacInstaller,WindowsInstaller",
+      "MacStudioBootstrapper": "MacInstaller,WindowsInstaller",
+      "PCClientBootstrapper": "MacInstaller,WindowsInstaller",
+      "PCDesktopClient": "MacInstaller,WindowsInstaller",
+      "PCStudioApp": "MacInstaller,WindowsInstaller",
+      "PCStudioBootstrapper": "MacInstaller,WindowsInstaller",
+      "PlayStationClient": "MacInstaller,WindowsInstaller",
+      "UWPApp": "MacInstaller,WindowsInstaller,UGCValidationReportScriptTimeBlocking,AbnormalTerminateEvent,JoinGameSuccessV2POCCounter,duration_logger_v2_app_launch_flow,duration_logger_v2_experience_launch_flow,ReactPeriod",
+      "XboxClient": "MacInstaller,WindowsInstaller"
+    }
   }
 }
