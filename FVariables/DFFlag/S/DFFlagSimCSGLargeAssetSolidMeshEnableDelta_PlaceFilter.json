@@ -1,4 +1,38 @@
 {
-  "Type": "Unified",
-  "Value": "true;17276564408"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "true;17276564408",
+      "iOSApp": "true;17276564408",
+      "MacDesktopClient": "true;17276564408",
+      "MacStudioApp": "true;17276564408",
+      "PCDesktopClient": "true;17276564408",
+      "PCStudioApp": "true;17276564408",
+      "PlayStationClient": "true;17276564408",
+      "UWPApp": "true;17276564408",
+      "XboxClient": "true;17276564408"
+    },
+    "zcanary": {
+      "AndroidApp": "true;17276564408",
+      "iOSApp": "true;17276564408",
+      "MacDesktopClient": "true;17276564408",
+      "MacStudioApp": "true;17276564408",
+      "PCDesktopClient": "true;17276564408",
+      "PCStudioApp": "true;17276564408",
+      "PlayStationClient": "true;17276564408",
+      "UWPApp": "true;17276564408",
+      "XboxClient": "true;17276564408"
+    },
+    "zintegration": {
+      "AndroidApp": "true;17276564408",
+      "iOSApp": "false;106881704311130",
+      "MacDesktopClient": "false;106881704311130",
+      "MacStudioApp": "false;106881704311130",
+      "PCDesktopClient": "true;17276564408",
+      "PCStudioApp": "true;17276564408",
+      "PlayStationClient": "true;17276564408",
+      "UWPApp": "false;106881704311130",
+      "XboxClient": "true;17276564408"
+    }
+  }
 }
