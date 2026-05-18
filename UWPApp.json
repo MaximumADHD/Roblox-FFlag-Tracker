@@ -7,6 +7,8 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagBootcampCLI147189": true,
+  "FFlagLuaAppFixVideoFramerateThrottlePolicy3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1404764840;2026-05-18T16:29:41",
+  "FFlagLuaAppGameTileWideVideoThumbnail2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1404764840;2026-05-18T16:29:41",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
   "FFlagUWPCheckTTIBlockingDialog": true,
