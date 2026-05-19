@@ -456,6 +456,8 @@
   "FFlagVideoManagerReportTextureType": true,
   "FFlagVideoReportHardwareBufferMetrics": true,
   "FFlagVideoServiceAddHardwareCodecMetrics": true,
+  "FFlagVoiceChatLogConnectionSource_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1775597657;2026-05-19T22:26:47",
+  "FFlagVoiceChatLogDisconnectReason_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1775597657;2026-05-19T22:26:47",
   "FFlagWriteBodyToFile2": true,
   "FinishEarlyOnProcessDeath": "true",
   "FIntDataModelPatchEnableOTAPollingPercentage": 100,
