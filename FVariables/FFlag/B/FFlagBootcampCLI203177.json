@@ -1,17 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "MacDesktopClient": true,
-      "MacStudioApp": false
-    },
-    "zcanary": {
-      "MacDesktopClient": false,
-      "MacStudioApp": true
-    },
-    "zintegration": {
-      "MacDesktopClient": true,
-      "MacStudioApp": false
-    }
+    "MacDesktopClient": false,
+    "MacStudioApp": false
   }
 }
