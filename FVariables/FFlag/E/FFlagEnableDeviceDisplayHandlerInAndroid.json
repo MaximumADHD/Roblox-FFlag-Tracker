@@ -1,6 +1,28 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": true
+    "LIVE": {
+      "AndroidApp": true,
+      "MacStudioApp": false,
+      "PCDesktopClient": false,
+      "UWPApp": false
+    },
+    "zcanary": {
+      "AndroidApp": true,
+      "iOSApp": false,
+      "MacStudioApp": false,
+      "UWPApp": false,
+      "XboxClient": false
+    },
+    "zintegration": {
+      "AndroidApp": true,
+      "iOSApp": false,
+      "MacDesktopClient": false,
+      "MacStudioApp": false,
+      "PCStudioApp": false,
+      "PlayStationClient": false,
+      "UWPApp": false,
+      "XboxClient": false
+    }
   }
 }
