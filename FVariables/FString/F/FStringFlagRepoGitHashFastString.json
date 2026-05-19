@@ -1,4 +1,50 @@
 {
-  "Type": "Unified",
-  "Value": "d3f0b40cc5792c675ab193901782306814a641ed"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "d3f0b40cc5792c675ab193901782306814a641ed",
+      "iOSApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "MacClientBootstrapper": "d3f0b40cc5792c675ab193901782306814a641ed",
+      "MacDesktopClient": "d3f0b40cc5792c675ab193901782306814a641ed",
+      "MacStudioApp": "d3f0b40cc5792c675ab193901782306814a641ed",
+      "MacStudioBootstrapper": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PCClientBootstrapper": "d3f0b40cc5792c675ab193901782306814a641ed",
+      "PCDesktopClient": "d3f0b40cc5792c675ab193901782306814a641ed",
+      "PCStudioApp": "d3f0b40cc5792c675ab193901782306814a641ed",
+      "PCStudioBootstrapper": "d3f0b40cc5792c675ab193901782306814a641ed",
+      "PlayStationClient": "d3f0b40cc5792c675ab193901782306814a641ed",
+      "UWPApp": "d3f0b40cc5792c675ab193901782306814a641ed",
+      "XboxClient": "d3f0b40cc5792c675ab193901782306814a641ed"
+    },
+    "zcanary": {
+      "AndroidApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "iOSApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "MacClientBootstrapper": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "MacDesktopClient": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "MacStudioApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "MacStudioBootstrapper": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PCClientBootstrapper": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PCDesktopClient": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PCStudioApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PCStudioBootstrapper": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PlayStationClient": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "UWPApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "XboxClient": "8721cf33b385e91ce581961db859b9c0b540fdc9"
+    },
+    "zintegration": {
+      "AndroidApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "iOSApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "MacClientBootstrapper": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "MacDesktopClient": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "MacStudioApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "MacStudioBootstrapper": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PCClientBootstrapper": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PCDesktopClient": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PCStudioApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PCStudioBootstrapper": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "PlayStationClient": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "UWPApp": "8721cf33b385e91ce581961db859b9c0b540fdc9",
+      "XboxClient": "8721cf33b385e91ce581961db859b9c0b540fdc9"
+    }
+  }
 }
