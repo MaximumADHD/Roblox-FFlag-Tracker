@@ -4,6 +4,7 @@
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
   "DFFlagHttp2ExcludeCdnReqs": true,
+  "DFFlagHttpAcceptCdnV2Url_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-26T16:41:37",
   "DFFlagHttpHardProgressReqLimit": true,
   "DFFlagPSAddMissingLocales": true,
   "DFFlagPsSocketExhaustionLog": false,
