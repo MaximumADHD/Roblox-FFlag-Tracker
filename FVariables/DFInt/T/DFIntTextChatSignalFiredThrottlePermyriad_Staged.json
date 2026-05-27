@@ -1,19 +1,9 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "MacDesktopClient": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:02:30",
-      "MacStudioApp": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:02:30"
-    },
-    "zcanary": {
-      "MacDesktopClient": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:02:30",
-      "MacStudioApp": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:02:30"
-    },
-    "zintegration": {
-      "MacDesktopClient": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:02:30",
-      "MacStudioApp": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:02:30",
-      "PCDesktopClient": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:23:50",
-      "PCStudioApp": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:23:50"
-    }
+    "MacDesktopClient": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:02:30",
+    "MacStudioApp": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:02:30",
+    "PCDesktopClient": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:23:50",
+    "PCStudioApp": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-05-27T18:23:50"
   }
 }
