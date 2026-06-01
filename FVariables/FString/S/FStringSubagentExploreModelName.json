@@ -1,17 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "MacStudioApp": "Assistant/glm51-b200-nvfp4",
-      "PCStudioApp": "Assistant/glm51-b200-nvfp4"
-    },
-    "zcanary": {
-      "MacStudioApp": "Assistant/glm51-h200",
-      "PCStudioApp": "Assistant/glm51-b200-nvfp4"
-    },
-    "zintegration": {
-      "MacStudioApp": "Assistant/glm51-h200",
-      "PCStudioApp": "Assistant/glm51-h200"
-    }
+    "MacStudioApp": "Assistant/glm51-h200",
+    "PCStudioApp": "Assistant/glm51-h200"
   }
 }
