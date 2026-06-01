@@ -290,6 +290,8 @@
   "FFlagInvestigateZeroViewport": false,
   "FFlagIosUnlockOrientationTabletOnly_IXP": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;586227166;flagbank",
   "FFlagLegacyRatingPromptEmitEvent_IXP": "1;ConsumerPlatforms.AppRatingPrompt;ConsumerPlatforms.iOSAppRatingPromptABTestV2;944157671;flagbank",
+  "FFlagLibMpEnabledOne_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;3398673;2026-06-01T18:31:08",
+  "FFlagLibMpScriptEvent_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;908589737;2026-06-01T18:32:09",
   "FFlagLoadIconFontsiOS": true,
   "FFlagLogNetworkStatusiOS": true,
   "FFlagLuaAppBootcampIntroUABOOTCAMP126": true,
