@@ -1,7 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacStudioApp": "Assistant/glm51-h200",
-    "PCStudioApp": "Assistant/glm51-h200"
+    "LIVE": "Assistant/glm51-h200",
+    "zcanary": "Assistant/glm51-b200-nvfp4",
+    "zintegration": "Assistant/glm51-b200-nvfp4"
   }
 }
