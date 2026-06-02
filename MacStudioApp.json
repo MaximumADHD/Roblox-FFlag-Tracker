@@ -64,6 +64,7 @@
   "DFFlagPlaceUploadFailureWarning": true,
   "DFFlagPropertyRejectionCountTelemetry": true,
   "DFFlagRakNetEnablePoll": true,
+  "DFFlagRbxTransportDisableIoEventLoopPerfScope_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T19:08:41",
   "DFFlagRbxTransportReplicationNetworkEmulation3": true,
   "DFFlagRecordEngineApiMetrics_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T18:40:42",
   "DFFlagRemoveBanKicks": true,
