@@ -1,7 +1,5 @@
 {
-  "DFFlagAnimGraphFixMaskWithSpaceInLabels2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T18:04:23",
   "DFFlagAnimGraphLastFrameMarkerFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T18:08:00",
-  "DFFlagAnimGraphRandomSequenceDoNotReseedOnReset_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T18:04:47",
   "DFFlagBoneInstanceApi504": true,
   "DFFlagDataModelJobDefensiveEngineContextCheck_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T18:45:53",
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
@@ -83,7 +81,6 @@
   "FIntXboxPrefetchAuthRetries": 1,
   "FLogXboxPlatformBase": "Debug",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
-  "FStringPerformanceControlIncludedTunables_Staged": "Texture quality, IntegrityCheckedProcessor Queue size, SingleSurfaceApp memory pressure, Streaming Distance, RenderingQuality, Sound Cache, Video starting quality, Launch CrossExpVoice memory pressure, Continue CrossExpVoice memory pressure, Physics Compute Tunable;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T18:05:13",
   "FStringSduiForceImageQualityLevel": "high",
   "FStringXboxSaleAvatarPackageIds": ""
 }
