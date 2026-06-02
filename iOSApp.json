@@ -1,6 +1,7 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
   "DFFlagAnimGraphFixMaskWithSpaceInLabels2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T18:04:23",
+  "DFFlagAnimGraphLastFrameMarkerFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T18:08:00",
   "DFFlagAnimGraphRandomSequenceDoNotReseedOnReset_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T18:04:47",
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDeferredAssetPrefetchCacheTelemetry": true,
@@ -226,6 +227,7 @@
   "FFlagEnableNSENotifSettingLogging": false,
   "FFlagEnableNSEPayloadParsingFix": true,
   "FFlagEnableParallelReachabilityCheckIos": false,
+  "FFlagEnableParallelReachabilityCheckIos2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-02T18:07:41",
   "FFlagEnableParsePushNotifGuidNilChecks": true,
   "FFlagEnablePaymentSessionForIOSRobuxPurchase": true,
   "FFlagEnablePermissionProtocolForIOSPostNotification": true,
