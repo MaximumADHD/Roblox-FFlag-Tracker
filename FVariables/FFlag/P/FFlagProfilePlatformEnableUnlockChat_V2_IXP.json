@@ -1,13 +1,35 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
-    "iOSApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
-    "MacDesktopClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
-    "MacStudioApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
-    "PCDesktopClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
-    "PCStudioApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
-    "PlayStationClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
-    "XboxClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled"
+    "LIVE": {
+      "AndroidApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "iOSApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "MacDesktopClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTAv2;1846004835;flagbank",
+      "MacStudioApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "PCDesktopClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "PCStudioApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "PlayStationClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "XboxClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled"
+    },
+    "zcanary": {
+      "AndroidApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "iOSApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTAv2;1846004835;flagbank",
+      "MacDesktopClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTAv2;1846004835;flagbank",
+      "MacStudioApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "PCDesktopClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "PCStudioApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "PlayStationClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "XboxClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTAv2;1846004835;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "iOSApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTAv2;1846004835;flagbank",
+      "MacDesktopClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTAv2;1846004835;flagbank",
+      "MacStudioApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "PCDesktopClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTAv2;1846004835;flagbank",
+      "PCStudioApp": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTA;1464865334;dev_controlled",
+      "PlayStationClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTAv2;1846004835;flagbank",
+      "XboxClient": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfileDualCTAv2;1846004835;flagbank"
+    }
   }
 }
