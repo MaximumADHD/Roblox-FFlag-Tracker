@@ -7,6 +7,9 @@
   "FFlagAXHeadCategoryCombineEnabled4": true,
   "FFlagAXRemoveDividers": true,
   "FFlagBehaviorCollectionControlEnabled": true,
+  "FFlagMacInstallerNonBlockingEndTelemetry2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1276507346;2026-06-16T22:01:41",
+  "FFlagTelemetryDeprecateBlockingSend_MacInstaller_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1276507346;2026-06-16T22:01:41",
+  "FFlagTelemetryDeprecateBlockingSend_WindowsInstallerEnd2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1276507346;2026-06-16T22:01:41",
   "FIntAppChatBehaviorCollectionEnabledPercentage": 100,
   "FStringMacPlayerUnsupportedOSDeadline": "2021-10-06",
   "FStringMacProgressiveDownloadExperimentBucketSettings": "v3-10-1"
