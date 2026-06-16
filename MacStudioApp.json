@@ -890,7 +890,7 @@
   "FFlagExternalMCPUI": true,
   "FFlagExtractPackageDefinition_DisableHistoryIdMismatch": true,
   "FFlagExtractPackageDefinition_FixDehydrationTelemetry": true,
-  "FFlagFbxSdkThreadSafe_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-16T21:31:14",
+  "FFlagFbxSdkThreadSafe": true,
   "FFlagFeatureMigrateStylingV2": true,
   "FFlagFetchFullVersionHistory": true,
   "FFlagFFlagAutoSetupMissingDynamicHeadAllowed": true,
