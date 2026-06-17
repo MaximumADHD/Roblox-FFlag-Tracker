@@ -1,7 +1,6 @@
 {
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDisableLTAnalytics": true,
-  "DFFlagEnableSDFFontUsage2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-17T17:49:19",
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
   "DFFlagHttp2ExcludeCdnReqs": false,
@@ -45,6 +44,7 @@
   "FFlagDontReportKeyboardAndMouseSupportOnStart": true,
   "FFlagEDPMediaAddLocalization10ft": true,
   "FFlagEnableAddFriendsPageSearchBar": true,
+  "FFlagEnableAndroidUnlockOrientationTabletOnly_IXP": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
   "FFlagEnableAsyncInput": true,
   "FFlagEnableBigGameIconInDetailsPage": true,
   "FFlagEnableCentralOverlayForUpsellPrompt": true,
@@ -66,6 +66,7 @@
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": true,
   "FFlagGamepadNavigationDialogABTest2": true,
   "FFlagGuardTermOfUseByIsLinkAllowed": true,
+  "FFlagIosUnlockOrientationTabletOnly_IXP": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
   "FFlagLuaAppEnable10ftSignUpView": true,
   "FFlagLuaAppLaunchConnectorFix2": true,
   "FFlagLuaAppMigrateGameTileFixConsoleMetadataText": true,

@@ -1,7 +1,33 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;586227166;flagbank",
-    "iOSApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;586227166;flagbank"
+    "LIVE": {
+      "AndroidApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;586227166;flagbank",
+      "iOSApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;586227166;flagbank",
+      "MacDesktopClient": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "PlayStationClient": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;586227166;flagbank",
+      "iOSApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;586227166;flagbank",
+      "MacDesktopClient": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "MacStudioApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "PCDesktopClient": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "PCStudioApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "PlayStationClient": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "UWPApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "XboxClient": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;586227166;flagbank",
+      "iOSApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.InternalDogfooding;586227166;flagbank",
+      "MacDesktopClient": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "MacStudioApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "PCDesktopClient": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "PCStudioApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "PlayStationClient": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "UWPApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank",
+      "XboxClient": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.Test.2;1202421821;flagbank"
+    }
   }
 }
