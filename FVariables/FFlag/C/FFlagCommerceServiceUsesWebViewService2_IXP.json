@@ -1,6 +1,15 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "iOSApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.Webviews.DoubleHeaderRemoval.V4;236397151;flagbank"
+    "LIVE": {
+      "AndroidApp": "1;ConsumerPlatforms.Webviews.WebviewProtocolSingleHeader;ConsumerPlatforms.Webviews.WebviewProtocolSingleHeader.Android-3;1300407375;flagbank",
+      "iOSApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.Webviews.DoubleHeaderRemoval.V4;236397151;flagbank"
+    },
+    "zcanary": {
+      "iOSApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.Webviews.DoubleHeaderRemoval.V4;236397151;flagbank"
+    },
+    "zintegration": {
+      "iOSApp": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.Webviews.DoubleHeaderRemoval.V4;236397151;flagbank"
+    }
   }
 }
