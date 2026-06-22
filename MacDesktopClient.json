@@ -1,4 +1,5 @@
 {
+  "DFFlagAnimGraphPoolLoopedEvents": true,
   "DFFlagCDCProductionTestEBZstdClersCoord": false,
   "DFFlagCheckEngineContextOnInstanceAccess": true,
   "DFFlagCookieStoreEnabledMac": true,
@@ -51,6 +52,7 @@
   "FFlagBootcampCLI165139": true,
   "FFlagBootcampCLI166654": true,
   "FFlagCacheActiveGuiStatesForReset": false,
+  "FFlagCOLLAB5668HideTCWidget2": true,
   "FFlagCollectLogsFromCoreAudio": true,
   "FFlagCollectMoreLogsFromCoreAudio": true,
   "FFlagContentProviderMmapAssets": true,
@@ -103,7 +105,8 @@
   "FFlagRefactorPATAddDeviceCheck": true,
   "FFlagRemoveDeeplinkReceivedFromMacWrapper": true,
   "FFlagRenderEnableGlobalInstancingMetal": true,
-  "FFlagSDLFixHIDEnumHangMac_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-22T18:11:53",
+  "FFlagSDLFixHIDEnumHangMac": true,
+  "FFlagSduiInputDataMergeStrategy2": true,
   "FFlagSimAeroFixReducedMeshScaling": true,
   "FFlagSimAeroUseNewPresets": true,
   "FFlagSQLiteFullfsync": true,
