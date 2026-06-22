@@ -1,4 +1,5 @@
 {
+  "DFFlagAutomaticDRSUseFrameTime": true,
   "DFFlagCDCProductionTestEBZstdClersCoord": false,
   "DFFlagCheckEngineContextOnInstanceAccess": true,
   "DFFlagCookieStoreEnabledMac": true,
@@ -104,9 +105,11 @@
   "FFlagRefactorPATAddDeviceCheck": true,
   "FFlagRemoveDeeplinkReceivedFromMacWrapper": true,
   "FFlagRenderEnableGlobalInstancingMetal": true,
+  "FFlagSDLCoalesceGamepadAxisEventsPerFrame": true,
   "FFlagSimAeroFixReducedMeshScaling": true,
   "FFlagSimAeroUseNewPresets": true,
   "FFlagSQLiteFullfsync": true,
+  "FFlagTemporaryAvatarKickWarningDialog": true,
   "FFlagUnifiedCookieProtocolEnabledSticky": true,
   "FFlagUserInputRefactor2": false,
   "FFlagVideoEnableHevcDecode": true,
