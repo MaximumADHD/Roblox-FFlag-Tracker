@@ -1435,7 +1435,6 @@
   "FFlagRbxStorageAddNameToInitStats": true,
   "FFlagRbxStorageFCinCache": true,
   "FFlagRbxStorageTelemetryProtocol": true,
-  "FFlagRbxTransportUseMultishotRecv_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-23T19:59:39",
   "FFlagRefactorTexturePackManagement": false,
   "FFlagRefinePrimGenDesc": true,
   "FFlagRefocusFindReplaceAllOnScriptOpen": true,
@@ -2319,8 +2318,7 @@
   "FStringStudioTestRewardedVideoAdAssetUrl": "rbxassetid://77013990375904",
   "FStringStyleQueryBetaFeatureUrl": "https://create.roblox.com/docs/ui/styling/editor#style-queries",
   "FStringStylingTransitionsBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-styling-transitions/4646870",
-  "FStringSubagentExploreModelName": "Assistant/glm47-flash-search-rl",
-  "FStringSubagentExploreModelName_Staged": "Assistant/qwen36-35b-a3b-rl-2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;801440903;2026-06-23T19:58:23",
+  "FStringSubagentExploreModelName": "Assistant/qwen36-35b-a3b-rl-2",
   "FStringUGCValidationReferenceMeshIdWhitelistForIEC": 95042539578838,
   "FStringUniversalImporterBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-universal-importer-import-images-audio-video-and-3d-in-one-place/4316127",
   "FStringViewportDisplaySizeAPI2BetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-build-cross-platform-ui-with-the-viewportdisplaysize-api/3880384"
