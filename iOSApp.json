@@ -1,5 +1,6 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
+  "DFFlagApplicationReasonCodeEnumToString_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-06-30T20:34:11",
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDeferredAssetPrefetchCacheTelemetry": true,
   "DFFlagEnableGmaAppPromoAd": false,
@@ -386,6 +387,7 @@
   "FFlagRemoveSynchronizeCallsOnStartupIos2": true,
   "FFlagRenderEnableGlobalInstancingMetal": true,
   "FFlagResetLegacyRatingPromptStats": false,
+  "FFlagSduiEdpInheritGameDetailSourceSession_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-06-30T20:33:07",
   "FFlagSduiMoreFeedErrors": false,
   "FFlagSendWebViewUserAgentEnabledIOS": true,
   "FFlagShouldApplyDevSubsUpsellFix": false,
