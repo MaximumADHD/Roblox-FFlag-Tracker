@@ -50,6 +50,7 @@
   "DFFlagEnableRewardedAdsStatsLogging": true,
   "DFFlagEnableStandardizedFieldAddPlaySessionId": true,
   "DFFlagEnableWebviewOpenTelemetry": true,
+  "DFFlagFixHttpStreamingCallbackUseAfterFree": true,
   "DFFlagFreeMemoryIgnoreSwap": true,
   "DFFlagHttpCacheReportSlowWrites": false,
   "DFFlagHttpReportWhenAppSuspended": false,
