@@ -39,7 +39,7 @@
   "DFFlagFixGlobalQueryInternal": true,
   "DFFlagFixHastefulEdgeCase": true,
   "DFFlagFixMultipleMRFOneFrame": false,
-  "DFFlagFixScrollingFrameTextJitter_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-07-06T20:20:12",
+  "DFFlagFixScrollingFrameTextJitter": true,
   "DFFlagFixTransparentMeshDecomps": false,
   "DFFlagGatherHastefulHullTelemetry": false,
   "DFFlagHandleAdornmentCollidingRefactor": false,
