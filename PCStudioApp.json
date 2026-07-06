@@ -131,6 +131,7 @@
   "DFIntProceduralModelGenerationSummaryThrottleHundrethsPercent": 10000,
   "DFIntPropertyUsageEventThrottleHundredthsPercent": 2000,
   "DFIntRbxTransportDisconnectTimeoutMs": 60000,
+  "DFIntRbxTransportQuicHandshakeTimeoutMs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-07-06T22:00:07",
   "DFIntReportCloudEditJoinFailureReportPerMyriad": 10000,
   "DFIntRobloxTelemetryConnectionIndicatorSaveFailure": 10000,
   "DFIntRobloxTelemetryTeamCreateRecoveryFileFailure": 10000,
