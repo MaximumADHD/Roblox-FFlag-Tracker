@@ -1,4 +1,50 @@
 {
-  "Type": "Unified",
-  "Value": "07/06/2026 18:28:06"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "07/06/2026 18:28:06",
+      "iOSApp": "07/06/2026 18:32:09",
+      "MacClientBootstrapper": "07/06/2026 18:32:09",
+      "MacDesktopClient": "07/06/2026 18:32:09",
+      "MacStudioApp": "07/06/2026 18:32:09",
+      "MacStudioBootstrapper": "07/06/2026 18:32:09",
+      "PCClientBootstrapper": "07/06/2026 18:28:06",
+      "PCDesktopClient": "07/06/2026 18:28:06",
+      "PCStudioApp": "07/06/2026 18:28:06",
+      "PCStudioBootstrapper": "07/06/2026 18:28:06",
+      "PlayStationClient": "07/06/2026 18:32:09",
+      "UWPApp": "07/06/2026 18:28:06",
+      "XboxClient": "07/06/2026 18:28:06"
+    },
+    "zcanary": {
+      "AndroidApp": "07/06/2026 18:32:09",
+      "iOSApp": "07/06/2026 18:32:09",
+      "MacClientBootstrapper": "07/06/2026 18:32:09",
+      "MacDesktopClient": "07/06/2026 18:32:09",
+      "MacStudioApp": "07/06/2026 18:32:09",
+      "MacStudioBootstrapper": "07/06/2026 18:32:09",
+      "PCClientBootstrapper": "07/06/2026 18:32:29",
+      "PCDesktopClient": "07/06/2026 18:32:09",
+      "PCStudioApp": "07/06/2026 18:32:29",
+      "PCStudioBootstrapper": "07/06/2026 18:32:09",
+      "PlayStationClient": "07/06/2026 18:32:09",
+      "UWPApp": "07/06/2026 18:32:09",
+      "XboxClient": "07/06/2026 18:32:09"
+    },
+    "zintegration": {
+      "AndroidApp": "07/06/2026 18:32:29",
+      "iOSApp": "07/06/2026 18:32:09",
+      "MacClientBootstrapper": "07/06/2026 18:32:29",
+      "MacDesktopClient": "07/06/2026 18:32:09",
+      "MacStudioApp": "07/06/2026 18:32:29",
+      "MacStudioBootstrapper": "07/06/2026 18:32:29",
+      "PCClientBootstrapper": "07/06/2026 18:32:29",
+      "PCDesktopClient": "07/06/2026 18:32:09",
+      "PCStudioApp": "07/06/2026 18:32:29",
+      "PCStudioBootstrapper": "07/06/2026 18:32:29",
+      "PlayStationClient": "07/06/2026 18:32:09",
+      "UWPApp": "07/06/2026 18:32:09",
+      "XboxClient": "07/06/2026 18:32:29"
+    }
+  }
 }

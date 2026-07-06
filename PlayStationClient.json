@@ -18,6 +18,7 @@
   "DFIntHttpCacheCleanScheduleAfterMs": 30000,
   "DFIntHttpCacheRetryCount": 2000,
   "DFIntHttpMinimumIndividualResponseTimeoutMs": 5000,
+  "DFIntRbxTransportQuicHandshakePtoCeilingMs_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-07-06T18:32:08",
   "DFIntReportAutoSelectGuiInvokedThrottleHundrethsPercent": 100,
   "DFIntReportCacheDirSizesHundredthsPercent": 100,
   "DFIntSQLiteThrottleCorruptErrorsMax": 4,
