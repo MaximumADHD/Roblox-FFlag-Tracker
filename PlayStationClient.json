@@ -1,6 +1,8 @@
 {
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDisableLTAnalytics": true,
+  "DFFlagFixScaledRichTextBinarySearchUpperBound_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2074451282;2026-07-06T23:03:53",
+  "DFFlagFixScaledRichTextCurrentAreaOnZeroWidth_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2074451282;2026-07-06T23:03:53",
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
   "DFFlagHttp2ExcludeCdnReqs": false,
@@ -9,6 +11,7 @@
   "DFFlagPsSocketExhaustionLog": false,
   "DFFlagReportCacheDirSizes": true,
   "DFFlagReportCacheDirSizes2": true,
+  "DFFlagTextLayoutSetFontSizeDontFloorIfScaled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2074451282;2026-07-06T23:03:53",
   "DFFlagTrackDPJProgress": true,
   "DFFlagUseFtsEnrollHeader": false,
   "DFIntCurlFtsSoRcvBuf": 524288,
