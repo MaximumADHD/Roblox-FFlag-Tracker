@@ -80,6 +80,7 @@
   "FFlagEnrollDeviceIdOnAppActive": true,
   "FFlagEnrollMacIdentifierOnWebLaunch": true,
   "FFlagFireErrorRCCTimeoutSignal": true,
+  "FFlagFixSpanningTreeBulkDestroyHang_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-07T16:29:34",
   "FFlagGraphicsMetalNoDestruct": true,
   "FFlagGraphicsMetalNoShaderRelease": false,
   "FFlagGraphicsMetalShaderCookie": false,
