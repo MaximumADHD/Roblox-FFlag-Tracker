@@ -1185,7 +1185,7 @@
   "FFlagLuauCodegenMarkDeadRegisters": false,
   "FFlagLuauCodegenSetBlockEntryState2": false,
   "FFlagLuauCodeGenSimplifyImport": false,
-  "FFlagLuauCollapseDirectBoundCycles_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-07T20:43:11",
+  "FFlagLuauCollapseDirectBoundCycles": true,
   "FFlagLuauComparisonToNilsIsAlwaysOk2": true,
   "FFlagLuauConcatDoesntAlwaysReturnString": true,
   "FFlagLuauContainsAnyGenericDoesntTraverseIntoExtern": true,
