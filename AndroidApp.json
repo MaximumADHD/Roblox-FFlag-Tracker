@@ -484,6 +484,7 @@
   "FFlagVideoManagerReportTextureType": true,
   "FFlagVideoReportHardwareBufferMetrics": true,
   "FFlagVideoServiceAddHardwareCodecMetrics": true,
+  "FFlagVoiceWebrtcFixSdpObserverThreadSafety_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-08T20:07:58",
   "FFlagWebViewHasHideHeader2_IXP": "1;ConsumerPlatforms.Webviews.WebviewProtocolSingleHeader;ConsumerPlatforms.Webviews.WebviewProtocolSingleHeader.Android-4;1300407375;flagbank",
   "FFlagWriteBodyToFile2": true,
   "FinishEarlyOnProcessDeath": "true",
