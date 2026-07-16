@@ -5,6 +5,7 @@
   "DFFlagHangDetectionReport": true,
   "DFFlagHttp2ExcludeCdnReqs": false,
   "DFFlagHttpHardProgressReqLimit": true,
+  "DFFlagLibMpFxLimitRst_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;220285401;2026-07-16T22:42:38",
   "DFFlagPSAddMissingLocales": true,
   "DFFlagPsSocketExhaustionLog": false,
   "DFFlagReportCacheDirSizes": true,
