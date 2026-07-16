@@ -1,4 +1,11 @@
 {
-  "Type": "Unified",
-  "Value": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-16T19:59:07"
+  "Type": "Platforms",
+  "Value": {
+    "MacClientBootstrapper": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-16T19:59:07",
+    "MacStudioBootstrapper": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-16T19:59:07",
+    "PCClientBootstrapper": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-16T19:59:07",
+    "PCDesktopClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-16T20:10:12",
+    "PCStudioApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-16T20:10:12",
+    "PCStudioBootstrapper": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-16T19:59:07"
+  }
 }
