@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "ExpChatFeatureValueChanged"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "ExpChatFeatureValueChanged,PlatformLeaderboardPush,PlatformLeaderboardTabOpened,PlatformLeaderboardTabClosed",
+    "iOSApp": "ExpChatFeatureValueChanged,PlatformLeaderboardPush,PlatformLeaderboardTabOpened,PlatformLeaderboardTabClosed",
+    "MacDesktopClient": "ExpChatFeatureValueChanged,PlatformLeaderboardPush,PlatformLeaderboardTabOpened,PlatformLeaderboardTabClosed",
+    "MacStudioApp": "ExpChatFeatureValueChanged",
+    "PCDesktopClient": "ExpChatFeatureValueChanged,PlatformLeaderboardPush,PlatformLeaderboardTabOpened,PlatformLeaderboardTabClosed",
+    "PCStudioApp": "ExpChatFeatureValueChanged",
+    "PlayStationClient": "ExpChatFeatureValueChanged,PlatformLeaderboardPush,PlatformLeaderboardTabOpened,PlatformLeaderboardTabClosed",
+    "UWPApp": "ExpChatFeatureValueChanged,PlatformLeaderboardPush,PlatformLeaderboardTabOpened,PlatformLeaderboardTabClosed",
+    "XboxClient": "ExpChatFeatureValueChanged,PlatformLeaderboardPush,PlatformLeaderboardTabOpened,PlatformLeaderboardTabClosed"
+  }
 }
