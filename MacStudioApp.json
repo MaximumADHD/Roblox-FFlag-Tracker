@@ -1234,7 +1234,7 @@
   "FFlagLuauDisablePrimitiveInferenceInLargeTables": true,
   "FFlagLuauDoNotAddUpvalueTypesToLocalType": true,
   "FFlagLuauDoNotBlockOnStuckTypeFunctions": true,
-  "FFlagLuauDoNotOverwriteAstDefs_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-20T16:10:24",
+  "FFlagLuauDoNotOverwriteAstDefs": true,
   "FFlagLuauDoNotPrototypeTableIndex": true,
   "FFlagLuauDontBindOptionalGenericToNil": true,
   "FFlagLuauDontDynamicallyCreateRedundantSubtypeConstraints": true,
