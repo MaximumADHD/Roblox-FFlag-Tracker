@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;Safety.Identity.FAEHandOff.V1;Accounts.AccessAndControls.FAEWebDeprecation;106132758;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;Safety.Identity.FAEHandOff.V1;Accounts.AccessAndControls.FAEWebDeprecation;106132758;flagbank",
+    "zcanary": "1;Safety.Identity.FAEHandOff.V1;Accounts.AccessAndControls.FAEWebDeprecation-1784659522760;106132758;flagbank",
+    "zintegration": "1;Safety.Identity.FAEHandOff.V1;Accounts.AccessAndControls.FAEWebDeprecation-1784659522760;106132758;flagbank"
+  }
 }
