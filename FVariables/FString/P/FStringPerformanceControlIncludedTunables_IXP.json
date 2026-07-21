@@ -1,11 +1,30 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
-    "MacDesktopClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
-    "PCDesktopClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
-    "PlayStationClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
-    "UWPApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
-    "XboxClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank"
+    "LIVE": {
+      "AndroidApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "MacDesktopClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "PCDesktopClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "PlayStationClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "UWPApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "XboxClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "iOSApp": "1;Portal.tm2-harmony-ios-1783703819;tm2-harmony-ios;1777490030;flagbank",
+      "MacDesktopClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "PCDesktopClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "PlayStationClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "UWPApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "XboxClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "MacDesktopClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "PCDesktopClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "PlayStationClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "UWPApp": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
+      "XboxClient": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank"
+    }
   }
 }
