@@ -1206,7 +1206,7 @@
   "FFlagLuauAvoidGenericsLeakingDuringFunctionCallCheck": true,
   "FFlagLuauAvoidMintingMultipleBlockedTypesForGlobals": true,
   "FFlagLuauAvoidOverloadSelectionForFunctionType": true,
-  "FFlagLuauAvoidTrivialPhis_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-21T20:01:34",
+  "FFlagLuauAvoidTrivialPhis": true,
   "FFlagLuauBidirectionalInferenceBetterUnionHandling": true,
   "FFlagLuauBidirectionalInferenceElideAssert": true,
   "FFlagLuauBidirectionalInferenceSimplifyTables": true,
