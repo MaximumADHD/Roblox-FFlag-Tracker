@@ -2266,6 +2266,7 @@
   "FIntTaskSchedulerMaxNumOfArbiters": 1000,
   "FIntTeamCreatePresenceIndicatorRolloutHundredthPercent": 10000,
   "FIntTextureGenerationServiceRePollDelaySeconds": 45,
+  "FIntTextureTranscodeCleanupHundredthPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-21T20:15:01",
   "FIntThisBetaFeatureIsACanaryBetaFeatureRolloutPercent": 100,
   "FIntThumbnailAssetDataLoaderMaxRetries": 10,
   "FIntToolboxCreatorInventoryMaxPageSize": 100,
