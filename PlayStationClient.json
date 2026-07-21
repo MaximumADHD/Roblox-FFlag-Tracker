@@ -1,4 +1,5 @@
 {
+  "DFFlagDataStoreScaleStartupThrottlerCap_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1172161861;2026-07-21T21:09:13",
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDisableLTAnalytics": true,
   "DFFlagHangDetectionForceCrash": true,
@@ -74,6 +75,7 @@
   "FFlagFriendCarouselHas10ftPolicies": true,
   "FFlagFriendsCarouselPlayerContextualMenuEntrypoint": true,
   "FFlagFriendsPageAlwaysOpenPPV_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-21T20:26:44",
+  "FFlagFRMEnableBeamMetrics_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-21T20:06:49",
   "FFlagGamepadNavigationDialogABTest2": true,
   "FFlagGuardTermOfUseByIsLinkAllowed": true,
   "FFlagLuaAppEnable10ftSignUpView": true,
@@ -126,6 +128,7 @@
   "FIntmi_option_purge_delay_IXP": "1;Portal.MiOptionPurgeDelayPS-1758050881;MiOptionPurgeDelayPS;673294907;flagbank",
   "FIntSmallCollectionItemMinItemCount": 8,
   "FIntSQLiteDisableSHM": 1,
+  "FLogComponentManager_Staged": "Warning;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-21T20:09:02",
   "FLogPaymentsProtocol": "Warning",
   "FLogPlayStationAgeRestrictionManager": "Info",
   "FStringLuaAppEphemeralCounterPrefix": "PlayStation-",
