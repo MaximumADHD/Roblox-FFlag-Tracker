@@ -1219,7 +1219,7 @@
   "FFlagLuauCheckForInWithSubtyping3": true,
   "FFlagLuauCheckIfNegatedNormalIsNullptr": true,
   "FFlagLuauCodegenMarkDeadRegisters": false,
-  "FFlagLuauCodegenRexWidth_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1231754911;2026-07-22T17:27:19",
+  "FFlagLuauCodegenRexWidth": true,
   "FFlagLuauCodegenSetBlockEntryState2": false,
   "FFlagLuauCodeGenSimplifyImport": false,
   "FFlagLuauCollapseDirectBoundCycles": true,
