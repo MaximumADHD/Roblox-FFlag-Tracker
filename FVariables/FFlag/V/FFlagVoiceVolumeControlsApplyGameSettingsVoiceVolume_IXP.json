@@ -1,11 +1,29 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
-    "iOSApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
-    "MacDesktopClient": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
-    "MacStudioApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
-    "PCDesktopClient": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
-    "PCStudioApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled"
+    "LIVE": {
+      "AndroidApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
+      "iOSApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "MacDesktopClient": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
+      "MacStudioApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
+      "PCDesktopClient": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled",
+      "PCStudioApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled"
+    },
+    "zcanary": {
+      "AndroidApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "iOSApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "MacDesktopClient": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "MacStudioApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "PCDesktopClient": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "PCStudioApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider;907837782;dev_controlled"
+    },
+    "zintegration": {
+      "AndroidApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "iOSApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "MacDesktopClient": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "MacStudioApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "PCDesktopClient": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled",
+      "PCStudioApp": "1;Voice.VolumeControls;VoiceVolumeControlsGlobalSlider_07.22.2026;907837782;dev_controlled"
+    }
   }
 }
