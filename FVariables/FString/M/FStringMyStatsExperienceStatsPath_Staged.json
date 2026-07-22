@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "/creator-agents-service/v1/acp;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-21T22:31:45"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "/creator-agents-service/v1/acp;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-21T22:31:45",
+    "zcanary": "/creator-agents-service/v1/acp;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-21T22:31:45",
+    "zintegration": "/creator-agents-service/v1/acp;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-07-21T22:31:45"
+  }
 }
