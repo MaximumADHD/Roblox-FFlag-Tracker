@@ -1,10 +1,26 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": 5000,
-    "MacDesktopClient": 10000,
-    "MacStudioApp": 10000,
-    "PCDesktopClient": 10000,
-    "PCStudioApp": 10000
+    "LIVE": {
+      "AndroidApp": 5000,
+      "MacDesktopClient": 10000,
+      "MacStudioApp": 10000,
+      "PCDesktopClient": 10000,
+      "PCStudioApp": 10000
+    },
+    "zcanary": {
+      "AndroidApp": 5000,
+      "MacDesktopClient": 10000,
+      "MacStudioApp": 10000,
+      "PCDesktopClient": 10000,
+      "PCStudioApp": 10000
+    },
+    "zintegration": {
+      "AndroidApp": 7500,
+      "MacDesktopClient": 10000,
+      "MacStudioApp": 10000,
+      "PCDesktopClient": 10000,
+      "PCStudioApp": 10000
+    }
   }
 }
