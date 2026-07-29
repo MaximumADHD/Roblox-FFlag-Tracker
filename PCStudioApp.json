@@ -1,4 +1,5 @@
 {
+  "DFFlagAddHeatmapBackendClientTelemetry": true,
   "DFFlagAddUserIdInServerHeaderForAwardedDateEndpoints": true,
   "DFFlagAnalyticsDeferredEventIngestEmptyQueueEveryInterval": true,
   "DFFlagAnimationSAEmoteViaInputAction": true,
@@ -959,6 +960,7 @@
   "FFlagFixAmrNewAsset": true,
   "FFlagFixAttenuationCurveEditorNilInputCrash": true,
   "FFlagFixAuthTokenManagerReleaseLockCrash": true,
+  "FFlagFixBillboardTextBoundsOnZeroSize_Staged": "true;SteadyState;10;30;Revert;true;1706035232;2026-07-29T19:37:52",
   "FFlagFixCancellableDialogResizing": true,
   "FFlagFixChildProcessManagerTaskRunnerCrash": true,
   "FFlagFixClearGhostText": true,
