@@ -1308,7 +1308,7 @@
   "FFlagLuauNormalizerUnionTyvarsTakeMaxSize": true,
   "FFlagLuauOccursCheckForAllBindings": true,
   "FFlagLuauOccursCheckForRefinement": true,
-  "FFlagLuauOptimizeExportTable_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-05T21:47:56",
+  "FFlagLuauOptimizeExportTable": true,
   "FFlagLuauOptimizeFalsyAndTruthyIntersect": true,
   "FFlagLuauOverloadGetsInstantiated2": true,
   "FFlagLuauPcallCallbackCanReturnZeroValues": true,
