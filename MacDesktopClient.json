@@ -33,6 +33,8 @@
   "DFFlagUseRigidConstraintForAccessories4": true,
   "DFIntAPDecompressChunkSize": 32768,
   "DFIntAPMinBytesToMMapUncompressedAssetRegular": 10485760,
+  "DFIntAvatarEditorServiceItemDetailsBatchingMaxTimeInQueueMs": 15000,
+  "DFIntGetBundleDetailsBatchingMaxTimeInQueueMs": 15000,
   "DFIntInvalidEnumValueAttemptToReflectReportHundredthsPercentage": 100,
   "DFIntMacVmStatsBufferOversizeMinMacOSMajor": 27,
   "DFIntMainThreadMinIdleTimeUs": 0,
