@@ -1,13 +1,7 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "MacClientBootstrapper": false,
-    "MacDesktopClient": false,
-    "MacStudioApp": false,
-    "MacStudioBootstrapper": false,
-    "PCClientBootstrapper": false,
-    "PCDesktopClient": false,
-    "PCStudioApp": false,
-    "PCStudioBootstrapper": false
+    "LIVE": false,
+    "zcanary": false
   }
 }
