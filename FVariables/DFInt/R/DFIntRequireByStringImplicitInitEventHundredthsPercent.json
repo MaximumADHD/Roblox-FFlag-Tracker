@@ -1,14 +1,15 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": 0,
-    "iOSApp": 0,
-    "MacDesktopClient": 10000,
-    "MacStudioApp": 10000,
-    "PCDesktopClient": 10000,
-    "PCStudioApp": 10000,
-    "PlayStationClient": 0,
-    "UWPApp": 0,
-    "XboxClient": 0
+    "LIVE": {
+      "MacDesktopClient": 10000,
+      "MacStudioApp": 10000,
+      "PCDesktopClient": 10000,
+      "PlayStationClient": 0,
+      "UWPApp": 0
+    },
+    "zcanary": {
+      "MacDesktopClient": 10000
+    }
   }
 }
