@@ -1,8 +1,9 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "1;Engine.Rendering.Watermarking;Engine.Rendering.Watermarking.Alpha60NoStudioWithFixes;1530542112;flagbank",
-    "zcanary": "1;Engine.Rendering.Watermarking;Engine.Rendering.Watermarking.Alpha60NoStudioWithFixes;1530542112;flagbank",
-    "zintegration": "1;Engine.Rendering.Watermarking;Engine.Rendering.Watermarking.Alpha60NoStudioWithFixes;1530542112;flagbank"
+    "AndroidApp": "1;Engine.Rendering.Watermarking;Engine.Rendering.Watermarking.Alpha60NoStudioWithFixes;1530542112;flagbank",
+    "iOSApp": "1;Engine.Rendering.Watermarking;Engine.Rendering.Watermarking.Alpha60NoStudioWithFixes;1530542112;flagbank",
+    "MacDesktopClient": "1;Engine.Rendering.Watermarking;Engine.Rendering.Watermarking.Alpha60NoStudioWithFixes;1530542112;flagbank",
+    "PCDesktopClient": "1;Engine.Rendering.Watermarking;Engine.Rendering.Watermarking.Alpha60NoStudioWithFixes;1530542112;flagbank"
   }
 }
