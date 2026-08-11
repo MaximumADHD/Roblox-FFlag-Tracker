@@ -1,17 +1,7 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": true,
-      "iOSApp": true
-    },
-    "zcanary": {
-      "AndroidApp": true,
-      "iOSApp": false
-    },
-    "zintegration": {
-      "AndroidApp": true,
-      "iOSApp": false
-    }
+    "AndroidApp": true,
+    "iOSApp": false
   }
 }
