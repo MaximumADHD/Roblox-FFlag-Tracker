@@ -108,6 +108,7 @@
   "DFIntContentProviderReportBlockedRequestsRate": 500,
   "DFIntConvexDecompBadMeshReportingHundredthsPercentage": 10000,
   "DFIntCreateSurfaceAppearanceLoggingHundredthsPercentage": 200,
+  "DFIntEngineApiMetricsThrottle_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;754694837;2026-08-13T17:55:00",
   "DFIntExtractPackageDefinition_DehydrationTelemetryHundredthsPercent": 1000,
   "DFIntGenerationServiceEventsThrottleHundredthsPercent": 1000,
   "DFIntGeometryBadHullReportingHundredthsPercentage": 10000,
