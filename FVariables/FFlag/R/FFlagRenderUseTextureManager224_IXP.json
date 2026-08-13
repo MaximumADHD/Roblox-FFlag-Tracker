@@ -1,7 +1,34 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacStudioApp": "1;Portal.Creator.Studio.TextureStreaming.V2-1770239353;Creator.Studio.TextureStreaming.V2;1472611725;flagbank",
-    "PCStudioApp": "1;Portal.Creator.Studio.TextureStreaming.V2-1770239353;Creator.Studio.TextureStreaming.V2;1472611725;flagbank"
+    "LIVE": {
+      "AndroidApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "iOSApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "MacDesktopClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "MacStudioApp": "1;Portal.Creator.Studio.TextureStreaming.V2-1770239353;Creator.Studio.TextureStreaming.V2;1472611725;flagbank",
+      "PCStudioApp": "1;Portal.Creator.Studio.TextureStreaming.V2-1770239353;Creator.Studio.TextureStreaming.V2;1472611725;flagbank",
+      "PlayStationClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "XboxClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "iOSApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "MacDesktopClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "MacStudioApp": "1;Portal.Creator.Studio.TextureStreaming.V2-1770239353;Creator.Studio.TextureStreaming.V2;1472611725;flagbank",
+      "PCDesktopClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "PCStudioApp": "1;Portal.Creator.Studio.TextureStreaming.V2-1770239353;Creator.Studio.TextureStreaming.V2;1472611725;flagbank",
+      "PlayStationClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "XboxClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "iOSApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "MacDesktopClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "MacStudioApp": "1;Portal.Creator.Studio.TextureStreaming.V2-1770239353;Creator.Studio.TextureStreaming.V2;1472611725;flagbank",
+      "PCDesktopClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "PCStudioApp": "1;Portal.Creator.Studio.TextureStreaming.V2-1770239353;Creator.Studio.TextureStreaming.V2;1472611725;flagbank",
+      "PlayStationClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "XboxClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank"
+    }
   }
 }

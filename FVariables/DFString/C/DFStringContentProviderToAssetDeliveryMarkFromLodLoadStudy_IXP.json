@@ -1,6 +1,29 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "PCDesktopClient": "1;Portal.ZAPCompressionWinIxp-1762819040;ZAPCompressionWinIxp;1812507501;flagbank"
+    "LIVE": {
+      "AndroidApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "iOSApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "MacDesktopClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "PCDesktopClient": "1;Portal.ZAPCompressionWinIxp-1762819040;ZAPCompressionWinIxp;1812507501;flagbank",
+      "PlayStationClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "XboxClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "iOSApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "MacDesktopClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "PCDesktopClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "PlayStationClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "XboxClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "iOSApp": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "MacDesktopClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "PCDesktopClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "PlayStationClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank",
+      "XboxClient": "1;Portal.tm1-vs-tm2-1786652950;tm1-vs-tm2;21311344;flagbank"
+    }
   }
 }
