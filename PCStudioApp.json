@@ -438,6 +438,7 @@
   "FFlagAssistantMultipleExternalMCPServers": true,
   "FFlagAssistantNewOpenAIAdapter": true,
   "FFlagAssistantOmitSystemMessage": true,
+  "FFlagAssistantPersistOnlyForDirtySession_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-14T19:12:30",
   "FFlagAssistantPerUserSettings": true,
   "FFlagAssistantPlanMode2": true,
   "FFlagAssistantQuestionAnswerTool": true,
