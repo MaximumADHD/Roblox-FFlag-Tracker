@@ -1,7 +1,17 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacDesktopClient": "true;189707",
-    "PCDesktopClient": "true;189707"
+    "LIVE": {
+      "MacDesktopClient": "true;189707;17625359962;2753915549",
+      "PCDesktopClient": "true;189707"
+    },
+    "zcanary": {
+      "MacDesktopClient": "true;189707;17625359962;2753915549",
+      "PCDesktopClient": "true;189707;17625359962;2753915549"
+    },
+    "zintegration": {
+      "MacDesktopClient": "true;189707;17625359962;2753915549",
+      "PCDesktopClient": "true;189707;17625359962;2753915549"
+    }
   }
 }
