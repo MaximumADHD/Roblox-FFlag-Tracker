@@ -6,6 +6,7 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagFixVideoCaptureScissorTransform_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-18T21:31:18",
+  "FFlagPerformanceControlTunableScopeEnableDMCheck_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-18T22:59:46",
   "FFlagThumbnailCapturePlayerGui_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-18T21:30:48",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
