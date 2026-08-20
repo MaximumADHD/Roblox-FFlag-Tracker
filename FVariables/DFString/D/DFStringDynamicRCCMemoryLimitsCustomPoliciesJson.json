@@ -1,4 +1,6 @@
 {
-  "Type": "Unified",
-  "Value": "{\"type\": \"MinLimitAtCapacity\", \"playerCapacity\": 200, \"valueMB\": 13000}"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "{\"type\": \"MinLimitAtCapacity\", \"playerCapacity\": 200, \"valueMB\": 13000}"
+  }
 }
