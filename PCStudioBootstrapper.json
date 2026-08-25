@@ -4,5 +4,6 @@
   "FFlagWindowsInstallerEnableDpiAwareness": true,
   "FFlagWindowsMonitorAnalytics": true,
   "FFlagWindowsStudioFirstLaunchArgument2": true,
-  "FIntBootstrapper64BitStudioPercentage": 100
+  "FIntBootstrapper64BitStudioPercentage": 100,
+  "FIntMomentsReactionDebounceMs_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-25T18:17:05"
 }
