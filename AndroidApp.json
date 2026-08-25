@@ -467,7 +467,7 @@
   "FFlagUseAndroidThreadsafeCheckoutSessionId2": false,
   "FFlagUseAssetReadLogger": true,
   "FFlagUseCoilForImageLoading": true,
-  "FFlagUseConnectivityV2HttpRecoveryBridge_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-25T20:00:57",
+  "FFlagUseConnectivityV2HttpRecoveryBridge": true,
   "FFlagUseExplicitStorePackageForIntents": true,
   "FFlagUseGsonForEventUpload": true,
   "FFlagUseLargerHeaderTextOnMultipageSignup": true,
