@@ -507,7 +507,7 @@
   "FIntmi_option_eager_commit": 0,
   "FIntmi_option_page_commit_on_demand": 1,
   "FIntmi_option_purge_delay": 10,
-  "FIntMomentsReactionDebounceMs_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-25T18:17:05",
+  "FIntMomentsReactionDebounceMs": 500,
   "FIntNotificationCodeAliveSamplingPercent": 10,
   "FIntOcclusionWorkerThreadCount": 2,
   "FIntPartyPlayerInactivityTimeoutInSeconds": 300,
