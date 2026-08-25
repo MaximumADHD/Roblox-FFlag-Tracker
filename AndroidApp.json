@@ -485,6 +485,7 @@
   "FIntEnableCacheDirSizeTelemetryHundredthPercent": 10,
   "FIntEnableFIB3VulkanHundredthPercent": 10000,
   "FIntFRMConstantFrameTimeTargetMsStatic": 33,
+  "FIntFRMConstantFrameTimeTargetMsStatic_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-25T18:01:08",
   "FIntHapticBufferSamplesPerBuffer": 100,
   "FIntHapticBufferUpdateTimerMS": 1000,
   "FIntLuaAppEdpVideoAvailableRamThresholdMb_IXP": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.EDP.MediaGalleryVideoPreview.Android.ReduceFilters.V2;1724195202;dev_controlled",
