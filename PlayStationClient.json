@@ -1,5 +1,5 @@
 {
-  "DFFlagConnectionClosedUserIdDiagnostics_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-08-25T21:13:06",
+  "DFFlagConnectionClosedValidRxTimestamp": true,
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDebugDisableRbxTransportDummyClient": true,
   "DFFlagDisableLTAnalytics": true,
@@ -7,10 +7,8 @@
   "DFFlagHangDetectionReport": true,
   "DFFlagHttp2ExcludeCdnReqs": false,
   "DFFlagHttpHardProgressReqLimit": true,
-  "DFFlagPlayerReflectThirdPartyTextChatRestrictionStatus_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-08-25T21:15:13",
   "DFFlagPSAddMissingLocales": true,
   "DFFlagPsSocketExhaustionLog": false,
-  "DFFlagRbxTransportCloseInvalidStream_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-08-25T21:11:26",
   "DFFlagReportCacheDirSizes": true,
   "DFFlagReportCacheDirSizes2": true,
   "DFFlagTrackDPJProgress": true,
