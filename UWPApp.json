@@ -8,6 +8,7 @@
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagAppChatDisclosureUpdateEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1753862255;2026-08-26T17:35:22",
   "FFlagAppChatIngestConversationMessages_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1753862255;2026-08-26T17:35:22",
+  "FFlagAXEnableTimedOptionsServerScript": true,
   "FFlagCreateConnectionsHub_v6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;274118388;2026-08-26T19:07:30",
   "FFlagExpChatEnableFriendsTabRC1_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1753862255;2026-08-26T17:35:22",
   "FFlagExpChatLogTabClicked_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1753862255;2026-08-26T17:35:22",
