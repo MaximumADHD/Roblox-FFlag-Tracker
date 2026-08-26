@@ -1,29 +1,11 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "AndroidApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v3;2111980308;dev_controlled",
-      "iOSApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v3;2111980308;dev_controlled",
-      "MacDesktopClient": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v3;903927134;dev_controlled",
-      "MacStudioApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit;908851562;dev_controlled",
-      "PCDesktopClient": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v3;903927134;dev_controlled",
-      "PCStudioApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit;908851562;dev_controlled"
-    },
-    "zcanary": {
-      "AndroidApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v3;2111980308;dev_controlled",
-      "iOSApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v3;2111980308;dev_controlled",
-      "MacDesktopClient": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v3;903927134;dev_controlled",
-      "MacStudioApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v4;347018928;dev_controlled",
-      "PCDesktopClient": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v3;903927134;dev_controlled",
-      "PCStudioApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit;908851562;dev_controlled"
-    },
-    "zintegration": {
-      "AndroidApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v3;2111980308;dev_controlled",
-      "iOSApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v3;2111980308;dev_controlled",
-      "MacDesktopClient": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v3;903927134;dev_controlled",
-      "MacStudioApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit;908851562;dev_controlled",
-      "PCDesktopClient": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v3;903927134;dev_controlled",
-      "PCStudioApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit;908851562;dev_controlled"
-    }
+    "AndroidApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v3;2111980308;dev_controlled",
+    "iOSApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v3;2111980308;dev_controlled",
+    "MacDesktopClient": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v3;903927134;dev_controlled",
+    "MacStudioApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v4;347018928;dev_controlled",
+    "PCDesktopClient": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v3;903927134;dev_controlled",
+    "PCStudioApp": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Desktop.v4;347018928;dev_controlled"
   }
 }
