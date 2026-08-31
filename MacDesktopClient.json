@@ -40,6 +40,7 @@
   "DFIntMainThreadMinIdleTimeUs": 0,
   "DFIntMemoryPageFaultsTelemetryEnabledHundredthPercent": 5000,
   "DFIntParallelForThreadStackSize": 262144,
+  "DFIntRUCalculation_ReportHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-08-31T18:34:19",
   "DFIntServerReplicatorSessionSummaryStatsThrottle": 10,
   "DFIntTextSafetyAnalyticsSenderClientToHttpScale": 100000,
   "DFIntTextSafetyAnalyticsSenderMaxEntriesPerRemoteEvent": 5,
