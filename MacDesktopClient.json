@@ -47,6 +47,7 @@
   "DFStringCrashUploadToBacktraceMacPlayerToken_PlaceFilter": "30a794c06f5d61e51cf4b0b8103ef2cd7039c6b46bafce0cfba33518d5409010;6036870533",
   "FFlagAddGameSessionIdToCDNRequests": false,
   "FFlagAnimatorAndADFRefactor_PlaceFilter": "true;80280647114965",
+  "FFlagAnimGraphUI_FixNoodleLoadRender_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-01T23:16:27",
   "FFlagAPCompression3": false,
   "FFlagAppleMainThreadBlockingFix5": false,
   "FFlagAssetProviderScheduleRbxStorageOnFibers3": true,
@@ -151,5 +152,6 @@
   "FStringFeature_CookieStoreMacStickyEnabled": "564;100",
   "FStringFeature_DisableOldCookieManagementSticky": "569;100",
   "FStringFeature_UnifiedCookieProtocolEnabledSticky": "569;100",
-  "FStringNetStackDummyClientEnabledMajorVersions": ""
+  "FStringNetStackDummyClientEnabledMajorVersions": "",
+  "FStringProfileTradeItemsIxpLayer": "Social.ProfilePeekView.ContextualMenu"
 }
