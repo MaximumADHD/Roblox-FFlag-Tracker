@@ -1,10 +1,8 @@
 {
-  "Type": "Platforms",
+  "Type": "Channels",
   "Value": {
-    "iOSApp": 500,
-    "MacClientBootstrapper": 500,
-    "MacDesktopClient": 500,
-    "PCStudioApp": 500,
-    "PCStudioBootstrapper": 500
+    "LIVE": 500,
+    "zcanary": 500,
+    "zintegration": 500
   }
 }
