@@ -12,6 +12,7 @@
   "DFIntHangDetectionInferredTimeoutStartMs": 0,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
   "DFIntHttpCacheRetryCount": 5000,
+  "DFIntPerfDataAdaptiveTelemetryV2ThrottleHundredthsPercent_Staged": "7000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;28251392;2026-09-01T17:44:35",
   "DFIntXboxCrashUploadsThrottleHundrethsPercent": 10000,
   "DFIntXboxDeeplinkAnalyticsThrottleHundrethsPercent": 10000,
   "DFLogHttpCache": 6,
