@@ -61,6 +61,7 @@
   "DFIntPerformanceControlInferenceInterval": 3000,
   "DFIntPerformanceControlRunInferenceHundrethsPercent": 20,
   "DFIntPowerTraceHashThrottleRateHundredthsPercent": 100,
+  "DFIntRbxTransportQuicHandshakeTimeoutMs_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1479467786;2026-09-02T22:14:44",
   "DFIntSessionReporterUserQuitLoadTimeout": 60,
   "DFIntVideoCaptureBlockOnLowMemThresholdMB": 460,
   "DFIntVideoCaptureLowResOnLowMemThresholdMB": 1000,
