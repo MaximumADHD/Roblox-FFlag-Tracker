@@ -6,6 +6,7 @@
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagMoveAssetProviderToBackground_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-03T18:48:49",
+  "FFlagProfileInspectAndBuyRefreshBalanceAfterPurchase_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;977951163;2026-09-03T20:16:40",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
   "FFlagUWPCheckTTIBlockingDialog": true,
