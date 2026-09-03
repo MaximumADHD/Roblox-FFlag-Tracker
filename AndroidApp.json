@@ -106,6 +106,7 @@
   "DFIntLeaveExperienceFlowTelemetryThrottle": 500,
   "DFIntLowMemoryAnalyticsThrottleHundredthsPercent": 50,
   "DFIntMinimumNumberMechanismsForMT": 20,
+  "DFIntPerfDataAdaptiveTelemetryV2ThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;28251392;2026-09-03T16:58:03",
   "DFIntPerformanceControlBatteryMetricsReportingPercentage": 10,
   "DFIntPerformanceControlBatteryMetricsReportingPeriodSeconds": 300,
   "DFIntPerformanceControlCrashMetricAlgorithmType": 4,
