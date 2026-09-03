@@ -1046,7 +1046,7 @@
   "FFlagFixDataModelQIconProviderPixmapCrashAttempt1": false,
   "FFlagFixDataModelQIconProviderPixmapCrashAttempt2": true,
   "FFlagFixDeductedWorkflowTelemetryTiming": true,
-  "FFlagFixDiffAndCommitRaceCondition_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-03T20:25:59",
+  "FFlagFixDiffAndCommitRaceCondition": true,
   "FFlagFixDirectionalCurveEditorNilInput": true,
   "FFlagFixDockCommandBarAfterResize": true,
   "FFlagFixDraggerModesQSettingsBugAndToggleActionCrash": true,
