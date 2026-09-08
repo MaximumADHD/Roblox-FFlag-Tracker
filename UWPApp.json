@@ -8,6 +8,7 @@
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagExpChatFixInputBarOrphanBorderRC1_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-08T21:20:48",
   "FFlagExpChatFriendsTabRequireDefaultChannelsRC1_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-08T21:20:06",
+  "FFlagFixTouchEmulatorDuplicateBegin": true,
   "FFlagSupportSmoothScaleRichText5_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;235378594;2026-09-08T21:58:38",
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
