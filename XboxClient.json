@@ -1,5 +1,6 @@
 {
   "DFFlagDebugDisableRbxTransportDummyClient": true,
+  "DFFlagEnablePostUploadFormat2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-09-08T19:21:24",
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagRbxStorageDontQueryForNonPermanentCategorySizes": true,
@@ -84,7 +85,6 @@
   "FFlagSystemErrorMessageLocalize": true,
   "FFlagTenFootUiSupportSortHeaderTooltip2": true,
   "FFlagTM2EnvUseCompressedDesktop": true,
-  "FFlagUIBloxAddFoundationNavigationTabIcon2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-08T17:19:30",
   "FFlagUpdateAppShellBalance": true,
   "FFlagUseCoreScriptsRootProviderForUpsellModal": true,
   "FFlagUseExternalBrowserForAgeGuidelines10ft": true,
