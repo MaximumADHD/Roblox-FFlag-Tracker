@@ -2272,6 +2272,8 @@
   "FIntTPPreviewLimit": 8,
   "FIntTranscoderTextureDimensionMax": 4096,
   "FIntUGCValidateBodyPartTranslationMaxDistanceHundredths": 100,
+  "FIntUGCValidateBodyPartTranslationMaxDistanceHundredths_Staged": "150;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;590584578;2026-09-09T17:16:00",
+  "FIntUGCValidateBoneTranslationMaxDistanceHundredths_Staged": "150;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;590584578;2026-09-09T17:16:00",
   "FIntUGCValidateFacsDataOperationalThreshold": 105,
   "FIntUGCValidateLeftEyeLowerBoundV": 57959,
   "FIntUGCValidateLeftEyeUpperBoundU": 345410,
