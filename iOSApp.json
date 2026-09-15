@@ -1,5 +1,6 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
+  "DFFlagCLI206370": true,
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDeferredAssetPrefetchCacheTelemetry": true,
   "DFFlagEnableHttpNetworkChangeRecovery": true,
@@ -357,9 +358,6 @@
   "FFlagLuaEnableLandingPageTTIMeasurements": true,
   "FFlagLuaEnableLoginAndSignupDifferentiatedStatusValues": true,
   "FFlagLuaEnableShowUpsellMethod2": true,
-  "FFlagLuauCompileContinueEagerClose_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;522527616;2026-09-15T21:56:55",
-  "FFlagLuauCompileExpandLimit_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;522527616;2026-09-15T21:56:55",
-  "FFlagLuauCompileExpandShortLimit_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;522527616;2026-09-15T21:56:55",
   "FFlagLuaUsePhoneNumberTextTypeForPhoneUpsellV2": true,
   "FFlagLuaVerifiedSignupExperiment2": true,
   "FFlagMacDisableVP9HWOpenGl": true,
