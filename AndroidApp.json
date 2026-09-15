@@ -64,6 +64,7 @@
   "DFFlagRotUseSimpleTimer": true,
   "DFFlagSendAppStorageCorruptionTelemetry": true,
   "DFFlagSendOpenFileCountInPerfData": true,
+  "DFFlagSkipTypeCheckIfTooLong_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-09-15T20:56:50",
   "DFFlagStreamingMemoryBudgetOverride_IXP": "1;HarmonyExposure;HarmonyExposure.StreamingDistanceCausalExperiment;57372664;dev_controlled",
   "DFFlagTrackDPJProgress": true,
   "DFFlagUserInputServiceDeviceMotionAnalytics2": false,
