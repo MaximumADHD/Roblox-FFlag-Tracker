@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.V6;831733136;dev_controlled"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.V6;831733136;dev_controlled",
+    "iOSApp": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.V6;831733136;dev_controlled",
+    "MacDesktopClient": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.V6;831733136;dev_controlled",
+    "MacStudioApp": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.V6;831733136;dev_controlled",
+    "PCDesktopClient": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.V6;831733136;dev_controlled",
+    "PCStudioApp": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.V6;831733136;dev_controlled",
+    "PlayStationClient": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Console;1983663550;dev_controlled",
+    "UWPApp": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Mobile.V6;831733136;dev_controlled",
+    "XboxClient": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.SDUI.Console;1983663550;dev_controlled"
+  }
 }
