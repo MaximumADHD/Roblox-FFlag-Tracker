@@ -63,6 +63,8 @@
   "DFIntSessionReporterUserQuitLoadTimeout": 60,
   "DFIntVideoCaptureBlockOnLowMemThresholdMB": 460,
   "DFIntVideoCaptureLowResOnLowMemThresholdMB": 1000,
+  "DFIntVoiceRtcStatsEventIngestThrottleHundredthsPercent_IXP": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v5;720413442;dev_controlled",
+  "DFIntVoiceRtcStatsSplitEventIngestThrottleHundredthsPercent_IXP": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v5;720413442;dev_controlled",
   "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
   "DFStringIosDeprecationMinUpgrade": 14,
   "DFStringRewardedAdFlowStateToLogPerfData": "SessionEligible,AdAvailabilityCalled,AdNotAvailable,AdAvailable,AdPlayed,AdCompleted",

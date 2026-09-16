@@ -122,6 +122,8 @@
   "DFIntSystemFontCheckHundredthsPercent": 100,
   "DFIntTotalDiskDataSizeThrottleHundredthsPercent": 10000,
   "DFIntVideoCaptureBlockOnLowMemThresholdMB": 200,
+  "DFIntVoiceRtcStatsEventIngestThrottleHundredthsPercent_IXP": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v5;720413442;dev_controlled",
+  "DFIntVoiceRtcStatsSplitEventIngestThrottleHundredthsPercent_IXP": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v5;720413442;dev_controlled",
   "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
   "DFStringOverrideGoogleAdUnitId": "",
   "DFStringOverrideGoogleAdUnitId_PlaceFilter": "/23289220996/0cpm_in_house_only_test;4924922222;126884695634066",
