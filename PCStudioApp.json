@@ -65,6 +65,7 @@
   "DFFlagRenderingRetryInvalidPermissionErrorCode": true,
   "DFFlagRenderingRetryInvalidPermissionTelemetry": true,
   "DFFlagReportWebStreamClientCreationEvent": true,
+  "DFFlagResendOnAliveForAll_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-09-17T19:49:54",
   "DFFlagRuntimeContentSplitStorage": true,
   "DFFlagSandboxedInstanceModeProperty": true,
   "DFFlagSegmentMeshUploadPublishedMesh": true,
@@ -2186,7 +2187,7 @@
   "FFlagWarnOnMixedCornerRadiusStyling": true,
   "FFlagWebBrowserFixFileSelect": true,
   "FFlagWebBrowserFixFocusHandler": true,
-  "FFlagWebBrowserMultiPreload_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;864790449;2026-09-17T17:48:53",
+  "FFlagWebBrowserMultiPreload": true,
   "FFlagWhitelistItemConfigurationForRCC": true,
   "FFlagWhitelistPerfDocsForStudio": true,
   "FIntACE3DImporterBetaFeatureRolloutPercent": 100,
@@ -2351,6 +2352,6 @@
   "FStringUGCValidationReferenceMeshIdWhitelistForIEC": 95042539578838,
   "FStringUniversalImporterBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-universal-importer-import-images-audio-video-and-3d-in-one-place/4316127",
   "FStringViewportDisplaySizeAPI2BetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-build-cross-platform-ui-with-the-viewportdisplaysize-api/3880384",
-  "FStringWebBrowserMultiPreloadLegacyPaths_Staged": "/store/models,/studio;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;864790449;2026-09-17T17:48:53",
-  "FStringWebBrowserMultiPreloadPaths_Staged": "/store/models,/studio;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;864790449;2026-09-17T17:48:53"
+  "FStringWebBrowserMultiPreloadLegacyPaths": "/store/models,/studio",
+  "FStringWebBrowserMultiPreloadPaths": "/store/models,/studio"
 }
