@@ -1,13 +1,35 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
-    "iOSApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
-    "MacDesktopClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
-    "MacStudioApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
-    "PCDesktopClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
-    "PCStudioApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
-    "PlayStationClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
-    "XboxClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled"
+    "LIVE": {
+      "AndroidApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "iOSApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "MacDesktopClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "MacStudioApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "PCDesktopClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "PCStudioApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "PlayStationClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "XboxClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled"
+    },
+    "zcanary": {
+      "AndroidApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "iOSApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "MacDesktopClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "MacStudioApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "PCDesktopClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;1702863806;dev_controlled",
+      "PCStudioApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "PlayStationClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "XboxClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;1702863806;dev_controlled"
+    },
+    "zintegration": {
+      "AndroidApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "iOSApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "MacDesktopClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;965717788;dev_controlled",
+      "MacStudioApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;1702863806;dev_controlled",
+      "PCDesktopClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;1702863806;dev_controlled",
+      "PCStudioApp": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;1702863806;dev_controlled",
+      "PlayStationClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;1702863806;dev_controlled",
+      "XboxClient": "1;Social.ProfilePeekView.ContextualMenu;Marketplace.Trades.ProfileTradeItems;1702863806;dev_controlled"
+    }
   }
 }
