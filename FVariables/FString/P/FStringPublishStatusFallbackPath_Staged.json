@@ -1,8 +1,7 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "dashboard/creations/experiences/{universeId}/configure;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-17T22:40:21",
-    "zcanary": "dashboard/creations/experiences/{universeId}/configure;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-17T22:40:21",
-    "zintegration": "dashboard/creations/experiences/{universeId}/configure;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-17T22:40:21"
+    "MacStudioApp": "dashboard/creations/experiences/{universeId}/configure;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-17T22:40:21",
+    "PCStudioApp": "dashboard/creations/experiences/{universeId}/configure;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-17T22:40:21"
   }
 }
