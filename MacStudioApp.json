@@ -1260,7 +1260,7 @@
   "FFlagLuauAddConditionalContextForTernary": true,
   "FFlagLuauAllowMixedTables": true,
   "FFlagLuauAlsoInstantiateInferredArguments": false,
-  "FFlagLuauAutocompleteDotMethodConversion_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-09-23T22:36:40",
+  "FFlagLuauAutocompleteDotMethodConversion": true,
   "FFlagLuauAutocompleteSingletonsInIndexer": true,
   "FFlagLuauAvoidExcessiveTypeCopying": true,
   "FFlagLuauAvoidMintingMultipleBlockedTypesForGlobals": true,
