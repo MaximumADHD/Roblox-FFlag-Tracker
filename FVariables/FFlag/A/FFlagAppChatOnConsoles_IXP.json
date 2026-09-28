@@ -1,7 +1,15 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "PlayStationClient": "1;ConsumerPlatforms.UnifyConsoleUA.PlayStation;ConsumerApps.Consoles.UnifyConsoleUA.AppChat.PlayStation;284100600;flagbank",
-    "XboxClient": "1;ConsumerPlatforms.UnifyConsoleUA.Xbox;ConsumerApps.Consoles.UnifyConsoleUA.AppChat.Xbox;297443786;flagbank"
+    "LIVE": {
+      "PlayStationClient": "1;ConsumerPlatforms.UnifyConsoleUA.PlayStation;ConsumerApps.Consoles.UnifyConsoleUA.AppChat.PlayStation;284100600;flagbank"
+    },
+    "zcanary": {
+      "XboxClient": "1;ConsumerPlatforms.UnifyConsoleUA.Xbox;ConsumerApps.Consoles.UnifyConsoleUA.AppChat.Xbox;297443786;flagbank"
+    },
+    "zintegration": {
+      "PlayStationClient": "1;ConsumerPlatforms.UnifyConsoleUA.PlayStation;ConsumerApps.Consoles.UnifyConsoleUA.AppChat.PlayStation;284100600;flagbank",
+      "XboxClient": "1;ConsumerPlatforms.UnifyConsoleUA.Xbox;ConsumerApps.Consoles.UnifyConsoleUA.AppChat.Xbox;297443786;flagbank"
+    }
   }
 }
