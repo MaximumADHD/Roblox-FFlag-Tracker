@@ -9,6 +9,8 @@
   "DFFlagTCTextureCompressionDesktop": true,
   "DFFlagTrackDPJProgress": true,
   "DFFlagUITextureCompressionDesktop": true,
+  "DFIntDMRecorderDataPingCheckPeriodSec": 10,
+  "DFIntDMRecorderMaxConsecutiveHighPingChecks": 3,
   "DFIntFileCacheStatsReloadIntervalSeconds": 600,
   "DFIntHangDetectionInferredTimeoutStartMs": 0,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
