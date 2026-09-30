@@ -1,7 +1,7 @@
 {
   "Type": "Platforms",
   "Value": {
-    "MacStudioApp": "docs-search: true, scene-analysis: true, device-simulator: true, perf-profiling: true, create-skill: true, unit-test: true, convert-to-streaming: false, process-receipt-misuse: false, instrument-analytics: false, configs-experimentation: false",
-    "PCStudioApp": "docs-search: true, scene-analysis: true, device-simulator: true, perf-profiling: true, create-skill: true, unit-test: true, convert-to-streaming: false, process-receipt-misuse: false, instrument-analytics: false, configs-experimentation: false"
+    "MacStudioApp": "docs-search: true, scene-analysis: true, device-simulator: true, perf-profiling: true, create-skill: true, unit-test: true, convert-to-streaming: false, process-receipt-misuse: false, instrument-analytics: false, configs-experimentation: false, luau-heap-profiling: false",
+    "PCStudioApp": "docs-search: true, scene-analysis: true, device-simulator: true, perf-profiling: true, create-skill: true, unit-test: true, convert-to-streaming: false, process-receipt-misuse: false, instrument-analytics: false, configs-experimentation: false, luau-heap-profiling: false"
   }
 }
