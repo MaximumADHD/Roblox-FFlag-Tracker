@@ -1,16 +1,6 @@
 {
-  "Type": "ChannelsAndPlatforms",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": {
-      "MacDesktopClient": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-01T16:03:37",
-      "PCDesktopClient": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-01T15:57:21"
-    },
-    "zcanary": {
-      "PCDesktopClient": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-01T15:57:21"
-    },
-    "zintegration": {
-      "MacDesktopClient": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-01T16:03:37",
-      "PCDesktopClient": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-01T15:57:21"
-    }
+    "PCDesktopClient": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-01T15:57:21"
   }
 }
