@@ -65,6 +65,7 @@
   "DFIntSessionReporterUserQuitLoadTimeout": 60,
   "DFIntVideoCaptureBlockOnLowMemThresholdMB": 460,
   "DFIntVideoCaptureLowResOnLowMemThresholdMB": 1000,
+  "DFIntVideoCaptureSnapshotMaxFrameTimeSecond_Staged": "3000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-01T23:25:07",
   "DFIntVoiceRtcStatsEventIngestThrottleHundredthsPercent_IXP": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v6;164436482;dev_controlled",
   "DFIntVoiceRtcStatsSplitEventIngestThrottleHundredthsPercent_IXP": "1;Engine.Voice.Exposure.2;Voice.RtcStatsSplit.Mobile.v6;164436482;dev_controlled",
   "DFStringIosDeprecationBodyPhase2LocalizationKey": "IosDeprecationBodyPhase2Fallback",
