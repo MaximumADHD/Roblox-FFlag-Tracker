@@ -1,5 +1,6 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
+  "DFFlagBuildRigSkipAccessoryParts_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-05T22:16:12",
   "DFFlagCrashUploadToSentryIOSEnabled": true,
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDeferredAssetPrefetchCacheTelemetry": true,
@@ -78,6 +79,7 @@
   "FFlagAppChatEnableDoubleOptInRC2": false,
   "FFlagAppChatEnableGroupOSA2": true,
   "FFlagAppChatGlobalSwipeTracking": true,
+  "FFlagAppChatMomentShareCardPermissionContextFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-05T22:16:38",
   "FFlagAppIaHomeSubTabUnderlineFix": true,
   "FFlagAppIaStatusBar3": true,
   "FFlagApplyLaunchContextForNewAccountSwitches": true,
@@ -375,7 +377,6 @@
   "FFlagMobilePopularItemBadgingExperimentEnabled": false,
   "FFlagMomentsFixDeleteToastCopy": true,
   "FFlagMomentsHydratePublishedFeedItem": true,
-  "FFlagMomentsVideoPermissionContextFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-05T22:14:00",
   "FFlagMoveAccountSelectorClosingAfterOperation": true,
   "FFlagMovePrerender_IXP": "1;Portal.FFlagMovePrerenderRollback;FFlagMovePrerenderRollbackV3;1951875788;flagbank",
   "FFlagMoveThermalStateLogging": true,
