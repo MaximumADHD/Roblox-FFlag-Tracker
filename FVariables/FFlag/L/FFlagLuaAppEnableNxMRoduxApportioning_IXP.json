@@ -1,4 +1,38 @@
 {
-  "Type": "Unified",
-  "Value": "1;Ads.UI;Ads.HomeAds.MaxReachNxMFlagOnly.V2-WithTelemetryVariants;799635606;flagbank"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "1;Ads.UI;Ads.HomeAds.MaxReachNxMFlagOnly.V2-WithTelemetryVariants;799635606;flagbank",
+      "iOSApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "MacDesktopClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "MacStudioApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "PCDesktopClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "PCStudioApp": "1;Ads.UI;Ads.HomeAds.MaxReachNxMFlagOnly.V2-WithTelemetryVariants;799635606;flagbank",
+      "PlayStationClient": "1;Ads.UI;Ads.HomeAds.MaxReachNxMFlagOnly.V2-WithTelemetryVariants;799635606;flagbank",
+      "UWPApp": "1;Ads.UI;Ads.HomeAds.MaxReachNxMFlagOnly.V2-WithTelemetryVariants;799635606;flagbank",
+      "XboxClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "iOSApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "MacDesktopClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "MacStudioApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "PCDesktopClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "PCStudioApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "PlayStationClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "UWPApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "XboxClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "iOSApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "MacDesktopClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "MacStudioApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "PCDesktopClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "PCStudioApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "PlayStationClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "UWPApp": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank",
+      "XboxClient": "1;Ads.UI2;Ads.HomeAds.MaxReachNxMFlagOnly.V5;799635606;flagbank"
+    }
+  }
 }
