@@ -501,6 +501,7 @@
   "FFlagVulkanLazilyAllocatedTextureSupport": true,
   "FFlagWebViewHasHideHeader2": true,
   "FFlagWriteBodyToFile2": true,
+  "FIntAssetsUploadUseMultiPartSizeThresholdBytes": 20971520,
   "FIntBackgroundOtaPollingInactivityDays_Staged": "8;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-06T18:43:26",
   "FIntBackgroundOtaPollingIntervalMinutes": 180,
   "FIntDataModelPatchEnableOTAPollingPercentage": 100,
