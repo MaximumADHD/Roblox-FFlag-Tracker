@@ -337,7 +337,7 @@
   "FFlagFixAndroidPaymentsProtocolPurchaseFinishedNpe": true,
   "FFlagFixAndroidWebDialogPaymentSessionId": true,
   "FFlagFixCLI125315_IXP": "1;Portal.DeviceModelBiasAA-1752081940;DeviceModelBiasAA;2141074016;flagbank",
-  "FFlagFixNavigationInsetsOnHiddenTabBar_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-06T21:28:58",
+  "FFlagFixNavigationInsetsOnHiddenTabBar": true,
   "FFlagFixNotCallingCallbackAfterBlockingDMDestroy": true,
   "FFlagFixTextMismatchAndOverlap": true,
   "FFlagFixUAFinROT": true,
