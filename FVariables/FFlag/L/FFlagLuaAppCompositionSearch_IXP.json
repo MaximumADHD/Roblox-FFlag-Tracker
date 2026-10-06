@@ -1,14 +1,28 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "AndroidApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
-    "iOSApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
-    "MacDesktopClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
-    "MacStudioApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
-    "PCDesktopClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
-    "PCStudioApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
-    "PlayStationClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration-v3-OtaPlatforms;2011652142;dev_controlled",
-    "UWPApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration-v3-OtaPlatforms;2011652142;dev_controlled",
-    "XboxClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration-v3-OtaPlatforms;2011652142;dev_controlled"
+    "LIVE": {
+      "AndroidApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
+      "iOSApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
+      "MacDesktopClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
+      "MacStudioApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
+      "PCDesktopClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
+      "PCStudioApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
+      "PlayStationClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration-v3-OtaPlatforms;2011652142;dev_controlled",
+      "UWPApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration-v3-OtaPlatforms;2011652142;dev_controlled",
+      "XboxClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration-v3-OtaPlatforms;2011652142;dev_controlled"
+    },
+    "zcanary": {
+      "iOSApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
+      "MacDesktopClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
+      "PCDesktopClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
+      "PCStudioApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled",
+      "PlayStationClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration-v3-OtaPlatforms;2011652142;dev_controlled",
+      "UWPApp": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration-v3-OtaPlatforms;2011652142;dev_controlled",
+      "XboxClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration-v3-OtaPlatforms;2011652142;dev_controlled"
+    },
+    "zintegration": {
+      "PCDesktopClient": "1;PlayerApp.SearchResultsPage.PowerSearch;P13N.SearchResultsPage.SduiMigration.LearningsPowerSearch;1502454892;dev_controlled"
+    }
   }
 }
