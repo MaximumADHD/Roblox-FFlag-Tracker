@@ -1,7 +1,36 @@
 {
-  "Type": "Platforms",
+  "Type": "ChannelsAndPlatforms",
   "Value": {
-    "MacStudioApp": "dashboard/creations/experiences/{universeId}/configure",
-    "PCStudioApp": "dashboard/creations/experiences/{universeId}/configure"
+    "LIVE": {
+      "AndroidApp": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "MacDesktopClient": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "MacStudioApp": "dashboard/creations/experiences/{universeId}/configure",
+      "PCDesktopClient": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "PCStudioApp": "dashboard/creations/experiences/{universeId}/configure",
+      "PlayStationClient": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "XboxClient": "dashboard/creations/experiences/{universeId}/manage-audience"
+    },
+    "zcanary": {
+      "AndroidApp": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "iOSApp": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "MacDesktopClient": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "MacStudioApp": "dashboard/creations/experiences/{universeId}/configure",
+      "PCDesktopClient": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "PCStudioApp": "dashboard/creations/experiences/{universeId}/configure",
+      "PlayStationClient": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "UWPApp": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "XboxClient": "dashboard/creations/experiences/{universeId}/manage-audience"
+    },
+    "zintegration": {
+      "AndroidApp": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "iOSApp": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "MacDesktopClient": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "MacStudioApp": "dashboard/creations/experiences/{universeId}/configure",
+      "PCDesktopClient": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "PCStudioApp": "dashboard/creations/experiences/{universeId}/configure",
+      "PlayStationClient": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "UWPApp": "dashboard/creations/experiences/{universeId}/manage-audience",
+      "XboxClient": "dashboard/creations/experiences/{universeId}/manage-audience"
+    }
   }
 }
