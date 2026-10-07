@@ -176,6 +176,7 @@
   "EventStreamBatchSize": 10,
   "EventUploadEnableRetryAttemptCount": true,
   "FeatureDeliveryLoggingAndroidThrottlingHundredthPercentage": 10000,
+  "FFlagActivityFeedMigrateUseDialog_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-07T22:37:21",
   "FFlagAddL2SessionTagAssetReadLogger": true,
   "FFlagAddPowerSaverStats": true,
   "FFlagAddReadabilityCheckCJK": true,
