@@ -1375,7 +1375,7 @@
   "FFlagMessageDispatcherDefaultStopSource": true,
   "FFlagMigrateActivityHistoryToPublishSM": true,
   "FFlagMigrateBetaFeaturesToEaaS2": true,
-  "FFlagMigrateComponentManagerToRuntimeInjector10_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1447938051;2026-10-08T19:21:55",
+  "FFlagMigrateComponentManagerToRuntimeInjector10": true,
   "FFlagMigratePluginMetadataToEaaS": true,
   "FFlagMigrateStylingSavePublishToPublishSM": true,
   "FFlagMigrateTerrainEditorTelemetryToV2": true,
