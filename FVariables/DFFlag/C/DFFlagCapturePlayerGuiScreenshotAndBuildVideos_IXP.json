@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "1;Engine.Video.Capture;Engine.Video.Capture.PlayerGui.V2;444447017;flagbank"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "1;Engine.Video.Capture;Engine.Video.Capture.PlayerGui.V2;444447017;flagbank",
+    "zcanary": "1;Engine.Video.Capture;Engine.Video.Capture.PlayerGui.V2;444447017;flagbank",
+    "zintegration": "1;Engine.Video.Capture;Engine.Video.Capture.PlayerGui.V2;444447017;flagbank"
+  }
 }
