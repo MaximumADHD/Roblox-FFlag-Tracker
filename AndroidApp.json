@@ -120,6 +120,7 @@
   "DFIntRbxStorageAvailableSpaceErrorMaxCount": 1,
   "DFIntRegionDeltaBeforeCalculatingPerRegionStats": 25,
   "DFIntRequiredMemoryInMebibytesForDeviceCapture": 2862,
+  "DFIntScriptModificationTrackingEventThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-08T22:11:19",
   "DFIntSessionReporterGameRunningMemoryInterval": 1000,
   "DFIntStreamingMemoryBudgetPercent_IXP": "1;HarmonyExposure;HarmonyExposure.StreamingDistanceCausalExperiment.V2;57372664;flagbank",
   "DFIntSystemFontCheckHundredthsPercent": 100,
