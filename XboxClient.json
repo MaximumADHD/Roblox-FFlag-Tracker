@@ -78,6 +78,7 @@
   "FFlagLuaAppSduiOpenExternalLinkAction_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T20:01:17",
   "FFlagLuaAppSignUpPageRefactor": true,
   "FFlagLuaAppUpdateGameSortGridRowHeight10ft2": true,
+  "FFlagMomentsOptimisticProfilePending_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T20:36:44",
   "FFlagNativeProductFallbackToPlatformService": true,
   "FFlagNewStrengthInNumbersLua": true,
   "FFlagNewUpsellModalExperimentForPlatform": true,
@@ -100,6 +101,7 @@
   "FFlagUseExternalBrowserForAgeGuidelines10ft": true,
   "FFlagUsePurchasePromptLocalization": true,
   "FFlagUseXboxPaymentsProtocolCommonFunctions": false,
+  "FFlagVirtualCursorModularization5_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T18:33:58",
   "FFlagXboxLastKnownStateTrackingEnabled": false,
   "FFlagXboxReleaseFocusOnTextEnter": false,
   "FFlagXboxUsePrivacySettingsRequest": true,
@@ -113,6 +115,7 @@
   "FIntXboxPrefetchAuthRetries": 1,
   "FLogXboxPlatformBase": "Debug",
   "FStringLuaAppEphemeralCounterPrefix": "Xbox-",
+  "FStringMomentsCommentsIxpLayer_Staged": "Moments.Comments;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T20:36:10",
   "FStringRenderTextureBudgetByRam": "5120,768,16384,1536",
   "FStringSduiForceImageQualityLevel": "high",
   "FStringXboxSaleAvatarPackageIds": ""
