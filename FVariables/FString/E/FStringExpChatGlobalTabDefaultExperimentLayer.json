@@ -1,8 +1,4 @@
 {
-  "Type": "Channels",
-  "Value": {
-    "LIVE": "User.Communication.JoinGame.HasChatAccess.UserId",
-    "zcanary": "User.Communication.JoinGame.HasChatAccess.UserId",
-    "zintegration": "User.Communication.JoinGame.HasChatAccess.UserId"
-  }
+  "Type": "Unified",
+  "Value": "User.Communication.JoinGame.HasChatAccess.UserId"
 }
