@@ -1,4 +1,8 @@
 {
-  "Type": "Unified",
-  "Value": "User.Communication.JoinGame.HasChatAccess.UserId;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T23:23:48"
+  "Type": "Channels",
+  "Value": {
+    "LIVE": "User.Communication.JoinGame.HasChatAccess.UserId;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T23:23:48",
+    "zcanary": "User.Communication.JoinGame.HasChatAccess.UserId;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T23:23:48",
+    "zintegration": "User.Communication.JoinGame.HasChatAccess.UserId;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-08T23:23:48"
+  }
 }
