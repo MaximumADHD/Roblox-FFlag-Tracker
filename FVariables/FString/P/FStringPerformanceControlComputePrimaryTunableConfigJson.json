@@ -1,4 +1,4 @@
 {
   "Type": "Unified",
-  "Value": "{\"Physics Compute Tunable\":{\"priority\":100,\"stepsPerTurn\":1,\"waitFramesAfterStep\":60}}"
+  "Value": "{\"Physics Compute Tunable\":{\"priority\":100,\"stepsPerTurn\":1,\"waitFramesAfterStep\":60},\"StreamingCompute\":{\"priority\":99,\"stepsPerTurn\":1,\"waitFramesAfterStep\":15}}"
 }
