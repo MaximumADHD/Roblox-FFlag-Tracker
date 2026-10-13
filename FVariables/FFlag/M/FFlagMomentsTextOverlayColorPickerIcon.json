@@ -1,8 +1,10 @@
 {
   "Type": "Platforms",
   "Value": {
-    "iOSApp": true,
-    "MacDesktopClient": true,
-    "PCDesktopClient": true
+    "iOSApp": false,
+    "MacClientBootstrapper": false,
+    "MacDesktopClient": false,
+    "PCClientBootstrapper": false,
+    "PCDesktopClient": false
   }
 }
