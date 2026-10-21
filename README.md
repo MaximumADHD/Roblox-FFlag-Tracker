@@ -1,6 +1,6 @@
 # Roblox FFlag Tracker
 
-This repository is an offshoot of the [Roblox Client Tracker](https://github.com/CloneTrooper1019/Roblox-Client-Tracker), with the specific goal of tracking Roblox's application settings roughly in real-time.
+This repository is an offshoot of the [Roblox Client Tracker](https://github.com/CloneTrooper1019/Roblox-Client-Tracker), with the specific goal of tracking Roblox's application settings in approximate real-time.
 
 ## Terminology
 
@@ -9,106 +9,46 @@ The `F` in `FFlag` stands for `Fast`, and `Flag` represents a boolean in Roblox'
 In addition to `Flags`, there are other variable types supported.<br/>
 Here is a list of every type:
 
-<table>
-	<tr>
-		<th>Label</th>
-		<th>Type</th>
-	</tr>
-	<tr>
-		<td>Flag</td>
-		<td>bool</td>
-	</tr>
-	<tr>
-		<td>Int</td>
-		<td>int</td>
-	</tr>
-	<tr>
-		<td>String</td>
-		<td>string</td>
-	</tr>
-	<tr>
-		<td>Log</td>
-		<td>byte</td>
-	</tr>
-</table>
+| Label | Type |
+|-|-|
+| Flag | `bool` |
+| Int | `i64` |
+| String | `string` |
+| Log | `u8` |
 
 There are also behavioral classifications:
 
-<table>
-	<tr>
-		<th>Prefix</th>
-		<th>Label</th>
-		<th>Description</th>
-	</tr>
-	<tr>
-		<td>F</td>
-		<td>Fast</td>
-		<td>A regular fast-variable that is initialized once<br/>and does not change until a new session begins.</td>
-	</tr>
-	<tr>
-		<td>DF</td>
-		<td>Dynamic Fast</td>
-		<td>A fast-variable that can change at run-time, and<br/>automatically updates every 5 minutes.</td>
-	</tr>
-	<tr>
-		<td>SF</td>
-		<td>Synchronized Fast</span></td>
-		<td>A fast-variable that is loaded by the server and<br/>sent to the client.</td>
-	</tr>
-</table>
+| Prefix | Meaning | Description |
+|-|-|-|
+| `F` | Fast | An immutable fast variable that is loaded upon starting a session. |
+| `DF` | Dynamic Fast | A mutable fast variable that is able to change to different values at runtime. |
+| `SF` | Synchronized Fast | An immutable fast variable that is stored on the server and forces all connected clients to use its value. |
 
 ## Apps & Platforms
 
 The files in this repository each represent individual products of Roblox's client.<br/>These files correspond to the following products:
 
-<table>
-	<tr>
-		<th>App/Platform</th>
-		<th>File</th>
-	</tr>
-	<tr>
-		<td>Client (Windows)</td>
-		<td>PCDesktopClient.json</td>
-	</tr>
-	<tr>
-		<td>Client (Mac)</td>
-		<td>MacDesktopClient.json</td>
-	</tr>
-	<tr>
-		<td>Roblox Studio</td>
-		<td>StudioApp.json</td>
-	</tr>
-	<tr>
-		<td>iOS</td>
-		<td>iOSApp.json</td>
-	</tr>
-	<tr>
-		<td>Android</td>
-		<td>AndroidApp.json</td>
-	</tr>
-	<tr>
-		<td>Xbox One</td>
-		<td>XboxClient.json</td>
-	</tr>
-	<tr>
-		<td>Client Installer (Windows)</td>
-		<td>PCClientBootstrapper.json</td>
-	</tr>
-	<tr>
-		<td>Client Installer (Mac)</td>
-		<td>MacClientBootstrapper.json</td>
-	</tr>
-	<tr>
-		<td>Studio Installer (Windows)</td>
-		<td>PCStudioBootstrapper.json</td>
-	</tr>
-	<tr>
-		<td>Studio Installer (Mac)</td>
-		<td>MacStudioBootstrapper.json</td>
-	</tr>
-</table>
+| App/Platform | Identifier |
+|-|-|
+| Client (Windows) | PCDesktopClient |
+| Client (Mac) | MacDesktopClient |
+| Studio (Windows) | PCStudioApp |
+| Studio (Mac) | MacStudioApp |
+| iOS | iOSApp |
+| Android | AndroidApp |
+| Xbox | XboxClient |
+| Playstation | PlayStationClient |
+| Client Installer (Windows) | PCClientBootstrapper |
+| Client Installer (Mac) | MacClientBootstrapper |
+| Studio Installer (Windows) | PCStudioBootstrapper |
+| Studio Installer (Mac) | MacStudioBootstrapper |
 
-**PC** is currently inferred as the baseline platform. As such, all `#####Bootstrapper.json` files derive against `PCClientBootstrapper.json`, and non-bootstrap related files derive against `PCDesktopClient.json`.
+You can fetch the live JSON file from Roblox at these urls:
+* `https://clientsettingscdn.roblox.com/v2/settings/application/{Identifier}`
+* `https://clientsettingscdn.roblox.com/v2/settings/application/{Identifier}/bucket/{Bucket}`
+  * (Bucket can be `zcanary`, `zintegration`, `zlive`, `zbeta`, or any other known internal Roblox channel)
+
+**PC** is currently inferred to be the baseline platform. As such, all `{OS}Bootstrapper.json` files derive against `PCClientBootstrapper.json`, and non-bootstrap related files derive against `PCDesktopClient.json`.
 
 ## Metadata
 
