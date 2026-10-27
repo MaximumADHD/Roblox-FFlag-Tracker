@@ -1,8 +1,13 @@
 {
-  "Type": "Channels",
+  "Type": "Platforms",
   "Value": {
-    "LIVE": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled",
-    "zcanary": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled",
-    "zintegration": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled"
+    "AndroidApp": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled",
+    "iOSApp": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled",
+    "MacDesktopClient": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled",
+    "MacStudioApp": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled",
+    "PCDesktopClient": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled",
+    "PCStudioApp": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled",
+    "PlayStationClient": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled",
+    "XboxClient": "1;UniversalApp.UnifyShortcutBar;ConsumerPlatforms.UnifyShortcutbar;1871903244;dev_controlled"
   }
 }
