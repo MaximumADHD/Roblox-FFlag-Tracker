@@ -1271,7 +1271,7 @@
   "FFlagLuauCheckIfNegatedNormalIsNullptr": true,
   "FFlagLuauCloneTypeFunctionFromForeignArena": true,
   "FFlagLuauCodegenMarkDeadRegisters": false,
-  "FFlagLuauCodegenMarkUsed_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1166056791;2026-10-27T18:05:37",
+  "FFlagLuauCodegenMarkUsed": true,
   "FFlagLuauCodegenSetBlockEntryState2": false,
   "FFlagLuauCollapseDirectBoundCycles": true,
   "FFlagLuauComparisonToNilsIsAlwaysOk2": true,
