@@ -1464,6 +1464,7 @@
   "FFlagMigrateActivityHistoryToPublishSM": true,
   "FFlagMigrateBetaFeaturesToEaaS2": true,
   "FFlagMigrateComponentManagerToRuntimeInjector10": true,
+  "FFlagMigrateComponentManagerToRuntimeInjector10_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T03:05:49",
   "FFlagMigratePluginMetadataToEaaS": true,
   "FFlagMigrateStylingSavePublishToPublishSM": true,
   "FFlagMigrateTerrainEditorTelemetryToV2": true,
