@@ -19,6 +19,7 @@
   "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
   "DFFlagAddProfilerScopesForPerformanceControlStreaming_IXP": "1;HarmonyExposure;Harmony.IXPFlags.ManualExposureTest;434264036;dev_controlled",
   "DFFlagAndroidGpuDriverValidation": true,
+  "DFFlagAndroidLowMemoryAsyncMarshal_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-29T15:57:51",
   "DFFlagAutomaticDRSUseFrameTime_IXP": "1;Portal.DpiBasedDRS-1782167624;DpiBasedDRS;1446699175;flagbank",
   "DFFlagAutomaticDRS_IXP": "1;Portal.DpiBasedDRS-1782167624;DpiBasedDRS;1446699175;flagbank",
   "DFFlagBlockRewardedVideoForSdkIsolationExperiment": false,
