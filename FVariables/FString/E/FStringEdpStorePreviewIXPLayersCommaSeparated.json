@@ -1,8 +1,14 @@
 {
   "Type": "Platforms",
   "Value": {
+    "AndroidApp": "Economy.DeveloperMonetization.EdpStorePreview,Economy.DeveloperMonetization.UnifiedGameItemRanking,Economy.DeveloperMonetization.EdpVirtualProductsRanking",
     "iOSApp": "Economy.DeveloperMonetization.EdpStorePreview,Economy.DeveloperMonetization.UnifiedGameItemRanking,Economy.DeveloperMonetization.InExperienceVirtualProductsRanking",
     "MacDesktopClient": "Economy.DeveloperMonetization.EdpStorePreview,Economy.DeveloperMonetization.UnifiedGameItemRanking,Economy.DeveloperMonetization.InExperienceVirtualProductsRanking",
-    "PCDesktopClient": "Economy.DeveloperMonetization.EdpStorePreview,Economy.DeveloperMonetization.UnifiedGameItemRanking,Economy.DeveloperMonetization.InExperienceVirtualProductsRanking"
+    "MacStudioApp": "Economy.DeveloperMonetization.EdpStorePreview,Economy.DeveloperMonetization.UnifiedGameItemRanking,Economy.DeveloperMonetization.EdpVirtualProductsRanking",
+    "PCDesktopClient": "Economy.DeveloperMonetization.EdpStorePreview,Economy.DeveloperMonetization.UnifiedGameItemRanking,Economy.DeveloperMonetization.InExperienceVirtualProductsRanking",
+    "PCStudioApp": "Economy.DeveloperMonetization.EdpStorePreview,Economy.DeveloperMonetization.UnifiedGameItemRanking,Economy.DeveloperMonetization.EdpVirtualProductsRanking",
+    "PlayStationClient": "Economy.DeveloperMonetization.EdpStorePreview,Economy.DeveloperMonetization.UnifiedGameItemRanking,Economy.DeveloperMonetization.EdpVirtualProductsRanking",
+    "UWPApp": "Economy.DeveloperMonetization.EdpStorePreview,Economy.DeveloperMonetization.UnifiedGameItemRanking,Economy.DeveloperMonetization.EdpVirtualProductsRanking",
+    "XboxClient": "Economy.DeveloperMonetization.EdpStorePreview,Economy.DeveloperMonetization.UnifiedGameItemRanking,Economy.DeveloperMonetization.EdpVirtualProductsRanking"
   }
 }
