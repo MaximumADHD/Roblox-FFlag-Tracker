@@ -1,4 +1,14 @@
 {
-  "Type": "Unified",
-  "Value": "1;Engine.Video.VideoPlayback;Engine.Video.WatchPage1080p.V1;1954161813;dev_controlled"
+  "Type": "Platforms",
+  "Value": {
+    "AndroidApp": "1;Engine.Video.VideoPlayback;Engine.Video.WatchPage1080p.V1;1954161813;dev_controlled",
+    "iOSApp": "1;Engine.Video.VideoPlayback;Engine.Video.WatchPage1080p.V1;1954161813;dev_controlled",
+    "MacDesktopClient": "1;Engine.Video.VideoPlayback;Engine.Video.WatchPage1080p.DesktopAndConsole.V1;203171738;dev_controlled",
+    "MacStudioApp": "1;Engine.Video.VideoPlayback;Engine.Video.WatchPage1080p.DesktopAndConsole.V1;203171738;dev_controlled",
+    "PCDesktopClient": "1;Engine.Video.VideoPlayback;Engine.Video.WatchPage1080p.DesktopAndConsole.V1;203171738;dev_controlled",
+    "PCStudioApp": "1;Engine.Video.VideoPlayback;Engine.Video.WatchPage1080p.DesktopAndConsole.V1;203171738;dev_controlled",
+    "PlayStationClient": "1;Engine.Video.VideoPlayback;Engine.Video.WatchPage1080p.DesktopAndConsole.V1;203171738;dev_controlled",
+    "UWPApp": "1;Engine.Video.VideoPlayback;Engine.Video.WatchPage1080p.V1;1954161813;dev_controlled",
+    "XboxClient": "1;Engine.Video.VideoPlayback;Engine.Video.WatchPage1080p.DesktopAndConsole.V1;203171738;dev_controlled"
+  }
 }
