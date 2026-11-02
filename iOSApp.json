@@ -44,6 +44,7 @@
   "DFIntAssetWorkflowTelemetryEventThrottleDeferredIxpPerMillionth": 1000,
   "DFIntBundlePrefetchDelayHundredthPercentage": 10,
   "DFIntBundlePrefetchDelayIxpHundredthPercentage": 1000,
+  "DFIntConnectionClosedMatchmakingPointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-02T23:41:00",
   "DFIntConnectionClosedNoResponsePointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-02T23:36:00",
   "DFIntConnectionClosedReplicationPointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-02T23:39:25",
   "DFIntCrashUploadToSentryIOSPercentage": 5,
