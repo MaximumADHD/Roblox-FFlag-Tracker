@@ -1,4 +1,38 @@
 {
-  "Type": "Unified",
-  "Value": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "iOSApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "MacDesktopClient": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "MacStudioApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "PCDesktopClient": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "PCStudioApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "PlayStationClient": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "UWPApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "XboxClient": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08"
+    },
+    "zcanary": {
+      "AndroidApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T22:20:35",
+      "iOSApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "MacDesktopClient": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "MacStudioApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "PCDesktopClient": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "PCStudioApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "PlayStationClient": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "UWPApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "XboxClient": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08"
+    },
+    "zintegration": {
+      "AndroidApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T22:20:35",
+      "iOSApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "MacDesktopClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T22:20:35",
+      "MacStudioApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "PCDesktopClient": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "PCStudioApp": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08",
+      "PlayStationClient": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T22:20:35",
+      "UWPApp": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T22:20:35",
+      "XboxClient": "true;SteadyState;10;30;Revert;2026-11-02T21:46:08"
+    }
+  }
 }
