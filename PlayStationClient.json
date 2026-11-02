@@ -2,7 +2,6 @@
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDebugDisableRbxTransportDummyClient": true,
   "DFFlagDisableLTAnalytics": true,
-  "DFFlagFinallyRefreshStatus_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1441792979;2026-11-02T22:24:33",
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagHangDetectionReport": true,
   "DFFlagHttp2ExcludeCdnReqs": false,
@@ -19,6 +18,7 @@
   "DFIntHttpCacheCleanScheduleAfterMs": 30000,
   "DFIntHttpCacheRetryCount": 2000,
   "DFIntHttpMinimumIndividualResponseTimeoutMs": 5000,
+  "DFIntLcDeformerPropertySetTelemetryDebounceMilliseconds_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;812820210;2026-11-02T23:26:06",
   "DFIntReportCacheDirSizesHundredthsPercent": 100,
   "DFIntReportGamepadKeycodeUsageEventThrottleHundrethsPercent": 500,
   "DFIntSQLiteThrottleCorruptErrorsMax": 4,
@@ -72,6 +72,7 @@
   "FFlagFriendsPageAlwaysOpenPPV_IXP": "1;Social.Profile;Social.Profile.ProfileOnConsoleV2;1456022330;dev_controlled",
   "FFlagGamepadNavigationDialogABTest2": true,
   "FFlagGuardTermOfUseByIsLinkAllowed": true,
+  "FFlagLcDeformerPropertySetTelemetry4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1451003806;2026-11-02T23:26:54",
   "FFlagLuaAppEdpConsoleMediaGalleryVideoMute_IXP": "1;PlayerApp.Homepage.Serving.Evidence;Discovery.GamePreviewVideo.Console;1858692112;flagbank",
   "FFlagLuaAppEdpConsoleMediaGalleryVideoPlayIcon_IXP": "1;PlayerApp.Homepage.Serving.Evidence;Discovery.GamePreviewVideo.Console;1858692112;flagbank",
   "FFlagLuaAppEdpConsoleMediaGalleryVideo_IXP": "1;PlayerApp.Homepage.Serving.Evidence;Discovery.GamePreviewVideo.Console;1858692112;flagbank",
@@ -128,5 +129,6 @@
   "FLogPaymentsProtocol": "Warning",
   "FLogPlayStationAgeRestrictionManager": "Info",
   "FStringLuaAppEphemeralCounterPrefix": "PlayStation-",
+  "FStringPerformanceControlIncludedTunables_IXP": "1;HarmonyExposure;HarmonyExposure.RemoveTunablesHoldOut;956515770;flagbank",
   "FStringSduiForceImageQualityLevel": "high"
 }
