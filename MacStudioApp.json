@@ -1415,7 +1415,7 @@
   "FFlagLuauNoOrderingTypeFunctions": true,
   "FFlagLuauNonStrictFetchScopeOnce": true,
   "FFlagLuauNonStrictModeUseErrorSupressingTag": true,
-  "FFlagLuauNonreentrantLookupTableProp_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-03T17:10:53",
+  "FFlagLuauNonreentrantLookupTableProp": true,
   "FFlagLuauNormalizationLimitTyvarUnionSize": true,
   "FFlagLuauNormalizationPreservesAny": true,
   "FFlagLuauNormalizationReorderFreeTypeIntersect": true,
