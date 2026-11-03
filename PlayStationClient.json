@@ -1,5 +1,4 @@
 {
-  "DFFlagConnectionClosedPerReasonClassEvents_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-02T23:37:52",
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDebugDisableRbxTransportDummyClient": true,
   "DFFlagDisableLTAnalytics": true,
@@ -13,9 +12,6 @@
   "DFFlagReportCacheDirSizes2": true,
   "DFFlagTrackDPJProgress": true,
   "DFFlagUseFtsEnrollHeader": false,
-  "DFIntConnectionClosedMatchmakingPointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-02T23:41:00",
-  "DFIntConnectionClosedNoResponsePointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-02T23:36:00",
-  "DFIntConnectionClosedReplicationPointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-02T23:39:25",
   "DFIntCurlFtsSoRcvBuf": 524288,
   "DFIntCurlFtsSoSndBuf": 131072,
   "DFIntHangDetectionInferredTimeoutStartMs": 0,
@@ -112,6 +108,7 @@
   "FFlagRenderMeshEvictUnusedEnable": false,
   "FFlagShapeFitAndersonAcceleration_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-02T23:25:34",
   "FFlagShowStartupMessageOnUnhide": true,
+  "FFlagTeamCreateViewerJoin_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-03T00:51:38",
   "FFlagTenFootUiSupportSortHeaderTooltip2": true,
   "FFlagUseCoreScriptsRootProviderForUpsellModal": true,
   "FFlagUseExternalBrowserForAgeGuidelines10ft": true,
