@@ -1,10 +1,10 @@
 {
-  "DFFlagHttpSslDistrust102026_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-04T21:51:17",
   "DFFlagPauseSurfaceControllerBeforeSwappingDataModel2": true,
   "DFFlagRobloxTelemetryEnableSenderCallback2": true,
   "DFFlagRobloxTelemetryEnableSenderCallback4": true,
   "DFFlagRobloxTelemetryEnableSenderCallback5": true,
   "DFIntConnectionClosedPlaceLaunchPointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-04T22:14:19",
+  "DFIntConnectionClosedSecurityPointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-04T22:57:55",
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
   "FFlagFRMDrawModerateQLProfile_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;440983306;2026-11-04T21:54:06",
@@ -13,7 +13,6 @@
   "FFlagUWPCheckTTIBlockingDialog": true,
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
-  "FFlagVideoCaptureUseNewService6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-04T22:53:07",
   "FIntUwpDeprecationDate": 1763672400,
   "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
 }
