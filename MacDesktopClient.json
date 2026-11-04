@@ -9,6 +9,7 @@
   "DFFlagCheckEngineContextOnInstanceAccess": true,
   "DFFlagCookieStoreEnabledMac": true,
   "DFFlagCrashUploadToSentryMacEnabled": true,
+  "DFFlagCrashUploadToSentryMacEnabled_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-04T20:35:46",
   "DFFlagDebugEnableOctreeNodeValidation": true,
   "DFFlagDebugUpdateClientChannelB": true,
   "DFFlagDecodeAgeCheckedAsInt": true,
