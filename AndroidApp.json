@@ -527,6 +527,7 @@
   "FFlagVideoCaptureBlockOnLowMemDevices2": true,
   "FFlagVideoCaptureSelfTest": true,
   "FFlagVideoCaptureSelfTestDontPersistTempFailures": true,
+  "FFlagVideoCaptureUseNewService6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-04T22:53:07",
   "FFlagVideoEnableHevcDecode": true,
   "FFlagVideoFixEncryptedAlignment": true,
   "FFlagVideoManagerReportTextureType": true,
