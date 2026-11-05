@@ -447,6 +447,7 @@
   "FFlagPreEmptivelyDestroyLuaAppFor32Bit": true,
   "FFlagPreEmptivelyDestroyLuaAppFor32Bit_IXP": "1;App.DestroyLuaAppV2Layer;App.DestroyLuaAppV2-Run2-TaskSchedulerMultiplexing;637851016;flagbank",
   "FFlagPreEmptivelyDestroyLuaAppForAll_IXP": "1;App.DestroyLuaAppV2Layer;App.DestroyLuaAppV2-Run2-TaskSchedulerMultiplexing;637851016;flagbank",
+  "FFlagPromptsHandlerFetchOncePerSession_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-05T22:49:15",
   "FFlagRbxStorageCleanPermCache": false,
   "FFlagRbxStorageFCinCache": true,
   "FFlagRbxStorageFileCachePerm2": false,
