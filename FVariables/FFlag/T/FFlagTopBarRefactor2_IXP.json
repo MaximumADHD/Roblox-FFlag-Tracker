@@ -1,4 +1,38 @@
 {
-  "Type": "Unified",
-  "Value": "1;Experience.Menu.Console;Experience.Menu.TopBar.RefactorPhase2;344848757;flagbank"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "1;Experience.Menu.Console;Experience.Menu.TopBar.RefactorPhase2;344848757;flagbank",
+      "iOSApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "MacDesktopClient": "1;Experience.Menu.Console;Experience.Menu.TopBar.RefactorPhase2;344848757;flagbank",
+      "MacStudioApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "PCDesktopClient": "1;Experience.Menu.Console;Experience.Menu.TopBar.RefactorPhase2;344848757;flagbank",
+      "PCStudioApp": "1;Experience.Menu.Console;Experience.Menu.TopBar.RefactorPhase2;344848757;flagbank",
+      "PlayStationClient": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "UWPApp": "1;Experience.Menu.Console;Experience.Menu.TopBar.RefactorPhase2;344848757;flagbank",
+      "XboxClient": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank"
+    },
+    "zcanary": {
+      "AndroidApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "iOSApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "MacDesktopClient": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "MacStudioApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "PCDesktopClient": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "PCStudioApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "PlayStationClient": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "UWPApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "XboxClient": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank"
+    },
+    "zintegration": {
+      "AndroidApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "iOSApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "MacDesktopClient": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "MacStudioApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "PCDesktopClient": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "PCStudioApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "PlayStationClient": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "UWPApp": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank",
+      "XboxClient": "1;Experience.Menu;Experience.Menu.TopBar.CodeModernization-v2;958608453;flagbank"
+    }
+  }
 }
