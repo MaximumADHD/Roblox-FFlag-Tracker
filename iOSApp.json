@@ -355,6 +355,7 @@
   "FFlagGetOriginalWebviewUserAgentIOS": true,
   "FFlagHttpBlockWhenAppSuspendedIOS": true,
   "FFlagHttpCacheEntryUseMmap": true,
+  "FFlagIAMSortActions": true,
   "FFlagIAPExperienceEnableMultiDisplayUpsellV3": true,
   "FFlagIAPExperienceUseUpsellBadgeHelper": true,
   "FFlagIncreaseMarketplaceContentHeight_IXP": "1;AvatarExperience.UA.AllViews.Secondary;AvatarExperience.MeTab.BottomNav;500348820;dev_controlled",
@@ -602,6 +603,5 @@
   "FStringRoactChatFetchedOlderConversationCounter": "RoactChatFetchedOlderConversationiOS",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
   "FStringSignalRRelativePath": "notifications",
-  "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS",
-  "FStringTextureTranscodeRollout_Staged": "100,[(8,ktx2),(7rdo,ktx2)],[(7rdo,ktx2)];SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-05T00:34:20"
+  "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS"
 }
