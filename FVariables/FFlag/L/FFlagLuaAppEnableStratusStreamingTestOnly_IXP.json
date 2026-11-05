@@ -1,6 +1,10 @@
 {
   "Type": "Platforms",
   "Value": {
-    "AndroidApp": "1;Engine.Video.Stratus;Engine.Video.Stratus.AmazonFire2GB.V4;1494811216;dev_controlled"
+    "AndroidApp": "1;engine.CloudClient;Engine.CloudClient.OfflineCheck.v1;99957326;flagbank",
+    "MacDesktopClient": "1;engine.CloudClient;Engine.CloudClient.OfflineCheck.v1;99957326;flagbank",
+    "MacStudioApp": "1;engine.CloudClient;Engine.CloudClient.OfflineCheck.v1;99957326;flagbank",
+    "PCDesktopClient": "1;engine.CloudClient;Engine.CloudClient.OfflineCheck.v1;99957326;flagbank",
+    "PCStudioApp": "1;engine.CloudClient;Engine.CloudClient.OfflineCheck.v1;99957326;flagbank"
   }
 }
