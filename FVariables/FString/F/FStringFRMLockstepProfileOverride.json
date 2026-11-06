@@ -1,7 +1,7 @@
 {
   "Type": "Platforms",
   "Value": {
-    "AndroidApp": "{\"StepHill\":{\"0-21\":2}, \"MaxStepHill\":{\"0-21\":16}}",
-    "iOSApp": "{\"StepHill\":{\"0-21\":2}, \"MaxStepHill\":{\"0-21\":16}}"
+    "AndroidApp": "{\"Distance\":{\"1\":500,\"2\":800,\"3\":1200,\"13\":2200,\"14\":3000,\"15\":4000,\"16\":6000,\"17\":10000,\"4-12\":1600,\"18-21\":100000},\"StepHill\":{\"0-21\":2},\"MaxStepHill\":{\"0-21\":16},\"CloudSamples\":{\"1-10\":0},\"BloomCutoff\":6,\"CullPixelsMainViewLow\":8.0,\"CloudsReprojectionCutoff\":15,\"CloudsSingleTapCompositeCutoff\":15}",
+    "iOSApp": "{\"Distance\":{\"1\":500,\"2\":800,\"3\":1200,\"13\":2200,\"14\":3000,\"15\":4000,\"16\":6000,\"17\":10000,\"4-12\":1600,\"18-21\":100000},\"StepHill\":{\"0-21\":2},\"MaxStepHill\":{\"0-21\":16},\"CloudSamples\":{\"1-10\":0},\"BloomCutoff\":6,\"CullPixelsMainViewLow\":8.0,\"CloudsReprojectionCutoff\":15,\"CloudsSingleTapCompositeCutoff\":15}"
   }
 }
