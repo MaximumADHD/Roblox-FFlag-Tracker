@@ -4,6 +4,8 @@
   "DFFlagRobloxTelemetryEnableSenderCallback2": true,
   "DFFlagRobloxTelemetryEnableSenderCallback4": true,
   "DFFlagRobloxTelemetryEnableSenderCallback5": true,
+  "DFIntConnectionClosedIoPointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-09T23:18:26",
+  "DFIntConnectionClosedNonePointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-09T23:20:03",
   "DFIntHttpCacheCleanCheckAfterKB_Staged": "524288;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;68453374;2026-11-09T22:57:52",
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
@@ -12,6 +14,5 @@
   "FFlagUpdateFmodVorbisDecoder": true,
   "FFlagUwpAlwaysLinkToSlashDownload": false,
   "FIntUwpDeprecationDate": 1763672400,
-  "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5",
-  "FStringToolboxPublishDraftAssetTypesCSV_Staged": "Audio,Video,Mode,Decal,MeshPart;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-09T23:17:33"
+  "FStringRecaptchaPublicKey": "6LfGiSYTAAAAAPc4LIL1uV1J-4tHIu7CQ-M4baE5"
 }

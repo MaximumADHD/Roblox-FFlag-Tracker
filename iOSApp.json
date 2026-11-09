@@ -42,8 +42,11 @@
   "DFFlagUserInputServiceDeviceMotionAnalytics2": false,
   "DFIntAssetReadLoggingThrottleHundredthsPercent": 100,
   "DFIntAssetWorkflowTelemetryEventThrottleDeferredIxpPerMillionth": 1000,
+  "DFIntAutomaticAssetCaptureSenderClientToHttpScale_Staged": "100000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-09T23:24:59",
   "DFIntBundlePrefetchDelayHundredthPercentage": 10,
   "DFIntBundlePrefetchDelayIxpHundredthPercentage": 1000,
+  "DFIntConnectionClosedIoPointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-09T23:18:26",
+  "DFIntConnectionClosedNonePointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-09T23:20:03",
   "DFIntCrashUploadToSentryIOSPercentage": 5,
   "DFIntCriticalThermalStatusThreshold": 3,
   "DFIntDataModelPatchPollingIntervalMilliSeconds": 3600000,
@@ -606,6 +609,5 @@
   "FStringRoactChatFetchedOlderConversationCounter": "RoactChatFetchedOlderConversationiOS",
   "FStringShareLinkErrorDialogJoinButtonClick": "ShareLinkErrorDialogJoinButtonClickiOS",
   "FStringSignalRRelativePath": "notifications",
-  "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS",
-  "FStringToolboxPublishDraftAssetTypesCSV_Staged": "Audio,Video,Mode,Decal,MeshPart;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-09T23:17:33"
+  "FStringSocialTabUserLoadedPageCounter": "SocialTabUserLoadedPageiOS"
 }
