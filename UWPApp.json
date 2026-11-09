@@ -7,8 +7,6 @@
   "DFIntConnectionClosedQuicPointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-09T22:05:36",
   "DFIntUwpPurchaseAnalyticsThrottleHundrethsPercent": 10000,
   "DFStringSkipFieldOverwriteWhitelist": "device,osversion,64bit",
-  "FFlagAudioSpeechToTextEnableStreaming_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-09T22:36:43",
-  "FFlagLuauCodegenX64ConflictCheck2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;943395859;2026-11-09T20:36:29",
   "FFlagRbxTransportPeerClockTlsSeed_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-09T20:49:37",
   "FFlagRbxTransportPhysicsClock_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-09T20:48:35",
   "FFlagUWPCheckTTIBlockingDialog": true,
