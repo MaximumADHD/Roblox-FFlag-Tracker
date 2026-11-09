@@ -1,5 +1,4 @@
 {
-  "DFFlagDataModelPatcherFixBackupPaths_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-09T17:41:55",
   "DFFlagDebugDisableRbxTransportDummyClient": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
@@ -9,6 +8,7 @@
   "DFFlagTCTextureCompressionDesktop": true,
   "DFFlagTrackDPJProgress": true,
   "DFFlagUITextureCompressionDesktop": true,
+  "DFIntConnectionClosedSystemPointsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-09T18:49:39",
   "DFIntFileCacheStatsReloadIntervalSeconds": 600,
   "DFIntHangDetectionInferredTimeoutStartMs": 0,
   "DFIntHangDetectionJobV2TimeoutMs": 600000000,
