@@ -43,6 +43,7 @@
   "DFIntAssetWorkflowTelemetryEventThrottleDeferredIxpPerMillionth": 1000,
   "DFIntBundlePrefetchDelayHundredthPercentage": 10,
   "DFIntBundlePrefetchDelayIxpHundredthPercentage": 1000,
+  "DFIntClientReplicatorSessionSummaryStatsThrottle_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-10T22:53:09",
   "DFIntCrashUploadToSentryIOSPercentage": 5,
   "DFIntCriticalThermalStatusThreshold": 3,
   "DFIntDataModelPatchPollingIntervalMilliSeconds": 3600000,
