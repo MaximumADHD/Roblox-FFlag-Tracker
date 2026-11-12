@@ -1417,6 +1417,7 @@
   "FFlagLuauDontIncludeVarargWithAnnotation": true,
   "FFlagLuauDontUseInnermostScope": true,
   "FFlagLuauEagerGeneralization4": true,
+  "FFlagLuauEarlyExitUnifierInstantiation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-12T17:44:32",
   "FFlagLuauEnqueueUnionsOfDistributedTypeFunctions": true,
   "FFlagLuauExplicitSkipBoundTypes": true,
   "FFlagLuauExportTypecheckTypepacks": false,
