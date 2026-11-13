@@ -131,7 +131,7 @@
   "FFlagRbxStorageCleanPermCache": false,
   "FFlagRbxStorageFCinCache": true,
   "FFlagRbxStorageTelemetryProtocol": true,
-  "FFlagRbxTransportQuicPrefixAddressDecisions_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-12T23:40:47",
+  "FFlagRbxTransportQuicPrefixAddressDecisions": true,
   "FFlagRefactorPATAddDeviceCheck": true,
   "FFlagRemoveDeeplinkReceivedFromMacWrapper": true,
   "FFlagRemoveDeletedAppFromDock": true,
