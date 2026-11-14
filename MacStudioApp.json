@@ -2518,6 +2518,7 @@
   "FIntAutoSaveAfterUserInputThresholdMs": 5000,
   "FIntAutoSaveFailSafeThresholdMs": 420000,
   "FIntAutoSaveTimeoutIntervalMs": 30000,
+  "FIntBackgroundProcessingMinInterval_Staged": "31536000;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-14T02:56:22",
   "FIntCAP1209EventIngestThrottle": 10000,
   "FIntCollab6803Limit": 128,
   "FIntCollab7848SettlingMaxFsQueueSize": 4000,
