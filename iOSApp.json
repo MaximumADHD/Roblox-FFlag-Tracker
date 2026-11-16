@@ -1,7 +1,6 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
   "DFFlagCollectSessionScreenBrightness": true,
-  "DFFlagConnectionClosedServerIpDiagnostics_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-16T19:16:48",
   "DFFlagCrashUploadToSentryIOSEnabled": false,
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDeferredAssetPrefetchCacheTelemetry": true,
@@ -418,7 +417,7 @@
   "FFlagMinimalSignupAuthEnabled1": true,
   "FFlagMobilePopularItemBadgingExperimentEnabled": false,
   "FFlagMomentsFixFeedForDeviceSafeInsets_IXP": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.PreRollout.1;570037731;flagbank",
-  "FFlagMomentsOverflowButtonAnalytics_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-16T18:15:53",
+  "FFlagMomentsOverflowButtonAnalytics": true,
   "FFlagMoveAccountSelectorClosingAfterOperation": true,
   "FFlagMovePrerender_IXP": "1;Portal.FFlagMovePrerenderRollback;FFlagMovePrerenderRollbackV3;1951875788;flagbank",
   "FFlagMoveThermalStateLogging": true,
