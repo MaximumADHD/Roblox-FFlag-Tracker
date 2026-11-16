@@ -1,4 +1,5 @@
 {
+  "DFFlagAANullRolloutTest_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-16T18:18:25",
   "DFFlagDebugDisableRbxTransportDummyClient": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
   "DFFlagHangDetectionForceCrash": true,
@@ -65,6 +66,7 @@
   "FFlagFriendsPageAlwaysOpenPPV_IXP": "1;Social.Profile;Social.Profile.ProfileOnConsoleV2;1456022330;dev_controlled",
   "FFlagGamepadNavigationDialogABTest2": true,
   "FFlagGuardTermOfUseByIsLinkAllowed": true,
+  "FFlagHeapProfilerShutdownFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-16T18:20:11",
   "FFlagLogLandingPagePlatformAccountSwitch": true,
   "FFlagLuaAppAddUniverseIdToEngagementEvents2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-16T18:06:39",
   "FFlagLuaAppEdpConsoleMediaGalleryVideoMute_IXP": "1;PlayerApp.Homepage.Serving.Evidence;Discovery.GamePreviewVideo.Console;1858692112;flagbank",

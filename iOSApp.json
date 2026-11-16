@@ -1,4 +1,5 @@
 {
+  "DFFlagAANullRolloutTest_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-16T18:18:25",
   "DFFlagAddCountryCodeMetrics": true,
   "DFFlagAssetProviderPrewarmReduceTelemetryCost_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1383212354;2026-11-16T17:48:55",
   "DFFlagCollectSessionScreenBrightness": true,
@@ -361,6 +362,7 @@
   "FFlagFramerateCapIOSOptions": true,
   "FFlagFriendRequestNicknamesUIBugFixes": true,
   "FFlagGetOriginalWebviewUserAgentIOS": true,
+  "FFlagHeapProfilerShutdownFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-16T18:20:11",
   "FFlagHttpBlockWhenAppSuspendedIOS": true,
   "FFlagHttpCacheEntryUseMmap": true,
   "FFlagIAPExperienceEnableMultiDisplayUpsellV3": true,
@@ -416,6 +418,7 @@
   "FFlagMinimalSignupAuthEnabled1": true,
   "FFlagMobilePopularItemBadgingExperimentEnabled": false,
   "FFlagMomentsFixFeedForDeviceSafeInsets_IXP": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.TabletOrientationUnlock.PreRollout.1;570037731;flagbank",
+  "FFlagMomentsOverflowButtonAnalytics_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-16T18:15:53",
   "FFlagMoveAccountSelectorClosingAfterOperation": true,
   "FFlagMovePrerender_IXP": "1;Portal.FFlagMovePrerenderRollback;FFlagMovePrerenderRollbackV3;1951875788;flagbank",
   "FFlagMoveThermalStateLogging": true,
