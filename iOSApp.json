@@ -1,5 +1,6 @@
 {
   "DFFlagAddCountryCodeMetrics": true,
+  "DFFlagCLI231811_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-17T23:02:01",
   "DFFlagCollectSessionScreenBrightness": true,
   "DFFlagCrashUploadToSentryIOSEnabled": false,
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
@@ -475,7 +476,6 @@
   "FFlagResetLegacyRatingPromptStats": false,
   "FFlagResumeDelayedThreadsReuseQueue": true,
   "FFlagSQLiteCheckpointFullfsync": true,
-  "FFlagSduiEdpRenderStarted_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-17T22:55:43",
   "FFlagSduiPinShortcutAction_IXP": "1;ConsumerPlatforms.IosPinnedShortcuts;ConsumerPlatforms.IosPinnedShortcut2026H2;1048818891;flagbank",
   "FFlagSduiPlayWithRewardRefactor2": true,
   "FFlagSduiRequestPushNotificationPermissionActionHandler": true,
