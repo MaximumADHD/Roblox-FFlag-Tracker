@@ -1,7 +1,6 @@
 {
   "DFFlagDebugDisableRbxTransportDummyClient": true,
   "DFFlagFixMissingLocaleIdOnMacStartup": true,
-  "DFFlagGetLatestVersionUriAsyncUseAssetsApi_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-17T20:03:50",
   "DFFlagHangDetectionForceCrash": true,
   "DFFlagRbxStorageDontQueryForNonPermanentCategorySizes": true,
   "DFFlagRbxStorageSkipFileCacheNumItems": false,
@@ -96,6 +95,7 @@
   "FFlagTM2EnvUseCompressedDesktop": true,
   "FFlagTenFootUiSupportSortHeaderTooltip2": true,
   "FFlagUCUASettingsPageLogExposure_IXP": "1;UniversalApp.SettingsPage;ConsumerPlatforms.Consoles.UnifySettingsPage-1793305202275-1793739339857;551818223;dev_controlled",
+  "FFlagUIBackdropOcclusionCulling_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-17T21:04:26",
   "FFlagUnifyConsoleSettingsPage9_IXP": "1;UniversalApp.SettingsPage;ConsumerPlatforms.Consoles.UnifySettingsPage-1793305202275-1793739339857;551818223;dev_controlled",
   "FFlagUpdateAppShellBalance": true,
   "FFlagUseCoreScriptsRootProviderForUpsellModal": true,
