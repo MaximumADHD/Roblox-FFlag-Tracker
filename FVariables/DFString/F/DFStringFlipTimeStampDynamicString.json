@@ -1,4 +1,50 @@
 {
-  "Type": "Unified",
-  "Value": "2026-11-17T21:55:41.415Z"
+  "Type": "ChannelsAndPlatforms",
+  "Value": {
+    "LIVE": {
+      "AndroidApp": "2026-11-17T22:11:26.649Z",
+      "iOSApp": "2026-11-17T22:11:26.649Z",
+      "MacClientBootstrapper": "2026-11-17T22:10:13.724Z",
+      "MacDesktopClient": "2026-11-17T22:11:26.649Z",
+      "MacStudioApp": "2026-11-17T22:10:13.724Z",
+      "MacStudioBootstrapper": "2026-11-17T22:11:26.649Z",
+      "PCClientBootstrapper": "2026-11-17T22:11:26.649Z",
+      "PCDesktopClient": "2026-11-17T22:10:13.724Z",
+      "PCStudioApp": "2026-11-17T22:10:13.724Z",
+      "PCStudioBootstrapper": "2026-11-17T22:11:26.649Z",
+      "PlayStationClient": "2026-11-17T22:11:26.649Z",
+      "UWPApp": "2026-11-17T22:10:13.724Z",
+      "XboxClient": "2026-11-17T22:11:26.649Z"
+    },
+    "zcanary": {
+      "AndroidApp": "2026-11-17T22:11:26.649Z",
+      "iOSApp": "2026-11-17T22:11:26.649Z",
+      "MacClientBootstrapper": "2026-11-17T22:11:26.649Z",
+      "MacDesktopClient": "2026-11-17T22:11:26.649Z",
+      "MacStudioApp": "2026-11-17T22:11:26.649Z",
+      "MacStudioBootstrapper": "2026-11-17T22:11:26.649Z",
+      "PCClientBootstrapper": "2026-11-17T22:11:26.649Z",
+      "PCDesktopClient": "2026-11-17T22:11:26.649Z",
+      "PCStudioApp": "2026-11-17T22:11:26.649Z",
+      "PCStudioBootstrapper": "2026-11-17T22:11:26.649Z",
+      "PlayStationClient": "2026-11-17T22:11:26.649Z",
+      "UWPApp": "2026-11-17T22:11:26.649Z",
+      "XboxClient": "2026-11-17T22:11:26.649Z"
+    },
+    "zintegration": {
+      "AndroidApp": "2026-11-17T22:11:26.649Z",
+      "iOSApp": "2026-11-17T22:11:26.649Z",
+      "MacClientBootstrapper": "2026-11-17T22:11:26.649Z",
+      "MacDesktopClient": "2026-11-17T22:11:26.649Z",
+      "MacStudioApp": "2026-11-17T22:11:26.649Z",
+      "MacStudioBootstrapper": "2026-11-17T22:11:26.649Z",
+      "PCClientBootstrapper": "2026-11-17T22:11:26.649Z",
+      "PCDesktopClient": "2026-11-17T22:11:26.649Z",
+      "PCStudioApp": "2026-11-17T22:11:26.649Z",
+      "PCStudioBootstrapper": "2026-11-17T22:11:26.649Z",
+      "PlayStationClient": "2026-11-17T22:11:26.649Z",
+      "UWPApp": "2026-11-17T22:11:26.649Z",
+      "XboxClient": "2026-11-17T22:11:26.649Z"
+    }
+  }
 }
