@@ -1,5 +1,4 @@
 {
-  "DFFlagCLI183138Pre_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-18T22:11:35",
   "DFFlagDebugContentProviderSkipPreloadFromTextureManager_PlaceFilter": "true;16277809958",
   "DFFlagDebugDisableRbxTransportDummyClient": true,
   "DFFlagDisableLTAnalytics": true,
@@ -135,5 +134,6 @@
   "FLogPlayStationAgeRestrictionManager": "Info",
   "FStringAutomaticDRSPlaceDenyList": "3351674303,71775212858107,99421106727783,126851911577827",
   "FStringLuaAppEphemeralCounterPrefix": "PlayStation-",
-  "FStringSduiForceImageQualityLevel": "high"
+  "FStringSduiForceImageQualityLevel": "high",
+  "FStringTextureTranscodeRollout_Staged": "[(8,ktx2)];SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-18T22:12:32"
 }
