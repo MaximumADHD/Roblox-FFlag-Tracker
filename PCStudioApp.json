@@ -1815,7 +1815,7 @@
   "FFlagSimCSGV3DisablePerOperationSupersetReporting": true,
   "FFlagSimCsgAllowNegatePrimaryPart": true,
   "FFlagSimMoveBindToSimulationAfterAnimations2": true,
-  "FFlagSimPrimalPreserveSleepBoundaryState_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-19T19:44:23",
+  "FFlagSimPrimalPreserveSleepBoundaryState": true,
   "FFlagSimulateCrashOnPlaceOpenFailure": false,
   "FFlagSkipFoucsOutForMulticursorInTest": true,
   "FFlagSkipMismatchedDiffProperties": true,
