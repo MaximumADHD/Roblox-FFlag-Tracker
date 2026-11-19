@@ -550,6 +550,7 @@
   "FIntAppsFlyerLaunchReporting": 100,
   "FIntBackgroundProcessingMinInterval": 31536000,
   "FIntBuyRobuxSduiImpressionDebounceMs": 1000,
+  "FIntBuyRobuxSduiImpressionDebounceMs_Staged": "250;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-19T18:27:18",
   "FIntDataModelPatchEnableOTAPollingPercentage": 100,
   "FIntDelayBeforeNextPushRegistrationCallInSec": 5,
   "FIntEnableAuth2SVLogin": 100,
